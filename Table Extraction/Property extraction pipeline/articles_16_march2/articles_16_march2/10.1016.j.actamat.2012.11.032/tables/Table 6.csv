@@ -1,0 +1,6 @@
+Alloy,"T   L   NE    , degC","T   S   NE    , degC",Phase fraction,Phase fraction,Phase fraction
+Alloy,"T   L   NE    , degC","T   S   NE    , degC",A2-1,A2-2,C15
+NbTiVZr,1760,1207,0.999,0.001,0
+NbTiV2Zr,1717,1207,0.995,0.005,0
+CrNbTiZr,1572,1391,0.912,0,0.088
+CrNbTiVZr,1607,1103,0.95,0.005,0.045

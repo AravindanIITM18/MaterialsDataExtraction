@@ -1,0 +1,431 @@
+Instructions:
+1. The context section contains definitions of various properties of materials commonly found in the literature of materials science. The table section contains a table caption and a table. Your task is to identify the properties from the context section that are described in the table. If no property from the context section is described in the table, reply with a '-'. 
+2. If one more properties from the context section is present in the table return a table in CSV format that contains the alloy composition, processing condition(if available in the table), testing condition(if available in the table) the property present in table(as written in the context section), property value and units as present in the table provided.
+3. Note that the table may contain the same property as in the context but with a different naming convention. Use the context to understand the property and decide if any property from the context is described in the table. If some property is mentioned with a heading that you are unsure of from the context provided, do not extract that property. Extract only those properties available in the context.
+3. Refer to the examples and follow the above instructions strictly.
+
+Context:
+
+1. Ultimate Tensile Strength (UTS):
+Definition: UTS is the maximum stress a material can withstand before breaking, measured during a tensile test. The test can be done under tension or compression, unless mentioned explicitly assume that the test is done under tension. Report the property as Ultimate Tensile Strength(Tension) if done under tension else report Ultimate Tensile Strength(Compression). Testing conditions mentioned are usually the strain rates and temperature.
+Units: Pascals (Pa), megapascals (MPa), or pounds per square inch (psi).
+Comparison: UTS is always higher than yield strength since it represents the material's maximum capacity to resist tension before fracture.
+Variations: Often called tensile strength or breaking strength.
+
+2. Yield Strength:
+Definition: Yield strength is the stress at which a material begins to deform plastically. The test can be done under tension or compression, unless mentioned explicitly assume that the test is done under tension. Report the property as Yield Strength(Tension) if done under tension else report Yield Strength(Compression). Testing conditions mentioned are usually the strain rates and temperature.
+Units: Pascals (Pa), megapascals (MPa), or pounds per square inch (psi).
+Comparison: Yield strength is always less than UTS, as plastic deformation starts at lower stress levels.
+Variations: Also referred to as yield stress, elastic limit stress, or stress at the elastic limit.
+
+3. Ductility:
+Definition: Ductility is the material's ability to undergo significant plastic deformation before rupture.
+Units: Dimensionless or percentage values, such as percent elongation (%EL) or percent reduction in area (%RA).
+Comparison: Higher ductility indicates a material can deform more without breaking. Brittle materials have very low ductility.
+Variations: Sometimes called fracture strain or elongation at break.
+
+4. Hardness:
+Definition: Hardness is a material’s resistance to deformation or penetration by an indenter under an applied load.
+Units: Scientifically measured in units of GPa but no universal unit, often expressed using specific test scales like Vickers (HV), Rockwell (HRC), Brinell (BH), or Mohs hardness.
+Comparison: Harder materials resist localized deformation better but may lack ductility.
+Variations:
+Microhardness: Measured using small loads to assess localized properties (e.g., Vickers or Knoop microhardness).
+Nano-hardness: Assessed using nano-indentation techniques, useful for thin films and coatings.
+
+5. Wear Resistance:
+Definition: Wear resistance is a material's ability to resist surface damage or material loss due to mechanical action such as friction, abrasion, or erosion.
+Units: No standard unit; it is often described qualitatively or measured by volume loss (e.g., mm³) during wear tests. There may be other units of measurement for this property, be sure to look for the units correctly.
+Comparison: Materials with high hardness often exhibit better wear resistance, though this also depends on other factors like toughness and lubrication.
+Variations:
+Abrasion resistance: Focused on resistance to scratching or scuffing.
+Erosion resistance: Focused on material loss due to particles or fluids impacting the surface.
+
+6. There are a lot of properties with clear definitions. In addition to the 5 properties mentioned above, if you are sure that one of the following properties is present, extract them in the prescribed format: Density, Melting point, Boiling point, Shear modulus, Young's modulus(elastic modulus), Poisson's ratio.
+
+7. Properties for a material cannot always be described through a number alone. For example, the Young's modulus of a material can vary with temperature and this is usually mentioned in the table details; be sure to extract this and report it as a testing condition. 
+
+8. Some properties like refractive index, Poisson's ratio do not have units, report units as "-".
+
+9. Since material systems may have hundreds of property to describe the system, the most frequently occuring ones and listed in the above sections. However, if a table contains units, value and details of any other property mention it as "Others(<insert property name>)" in the Property column and report it with value and unit in the same format as other properties.
+
+Examples:
+Go through these example prompts:
+Example 1:
+Table Caption: "Table 4. Shear Modulus(GPa) measured at various temperatures for 3 alloys."
+Table Data:
+Temperature (K),FeNiCoCr,FeNi,Ni
+77,-,68,84
+203,-,66,80
+293,84,62,76
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeNiCoCr,-,293,Shear Modulus,84,GPa
+FeNi,-,77,Shear Modulus,68,GPa
+FeNi,-,203,Shear Modulus,66,GPa
+FeNi,-,293,Shear Modulus,62,GPa
+Ni,-,77,Shear Modulus,84,GPa
+Ni,-,203,Shear Modulus,80,GPa
+Ni,-,293,Shear Modulus,76,GPa
+
+Example 2:
+Table Caption: "Table 4. Hardness of Al0.5CoCrCuFeNi alloys in four different states."
+Table Data:
+State,Hardness (HV)
+As-cast,208±2
+As-forged,350±3
+As-homogenized-FC,265±4
+As-homogenized-WQ,154±4
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,As-cast,-,Hardness,208±2,HV
+Al0.5CoCrCuFeNi,As-forged,-,Hardness,350±3,HV
+Al0.5CoCrCuFeNi,As-homogenized-FC,-,Hardness,265±4,HV
+Al0.5CoCrCuFeNi,As-homogenized-WQ,-,Hardness,154±4,HV
+
+Example 3:
+Table Caption: "Table 3. Summary of results on friction properties of alloys tested"
+Table Data:
+Alloy peak coefficient of friction (µp)
+Al0.5CoCrCuFeNi,0.65 ± 0.04
+Al1.0CoCrCuFeNi,0.65 ± 0.03
+Al2.0CoCrCuFeNi,0.70 ± 0.02
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,-,-,Others(coefficient of friction),0.65 ± 0.04,-
+Al1.0CoCrCuFeNi,-,-,Others(coefficient of friction),0.65 ± 0.03,-
+Al2.0CoCrCuFeNi,-,-,Others(coefficient of friction),0.70 ± 0.02,-
+
+Table:
+Table Caption: "SEM-EDS and APT compositions, and elemental distribution analyses of as-cast and homogenization-treated refractory NbTaTiV HEAs. Chemical composition (in atomic percent, at. %) of constitutive regions in as-cast and homogenized alloys, determined using the energy-dispersive spectroscopy (EDS) and atom-probe tomography (APT), respectively. The binomial distribution of the analyzed data in comparison to the binomial distribution of the theoretical data is provided by the parameters of 
+
+
+
+kh
+
+
+2
+
+
+
+ and m for each element."
+Table Data:
+                              Materials Parameters                 Parameters.1                 Parameters.2 Parameters.3
+                              Materials          -                  EDS results                  APT results  APT results
+                                 Alloys   Elements Average of atom fraction (%) Average of atom fraction (%)            m
+As-castNbTaTiV (Bright contrast region)         Nb                         28.6                       27.265       0.0564
+As-castNbTaTiV (Bright contrast region)         Ta                         33.7                       27.381       0.1029
+As-castNbTaTiV (Bright contrast region)         Ti                         19.8                       21.862       0.0779
+As-castNbTaTiV (Bright contrast region)          V                         17.9                       22.150       0.1014
+  As-castNbTaTiV (Dark contrast region)         Nb                         18.9                       20.997       0.0422
+  As-castNbTaTiV (Dark contrast region)         Ta                          9.0                       11.669       0.0390
+  As-castNbTaTiV (Dark contrast region)         Ti                         36.3                       33.149       0.0586
+  As-castNbTaTiV (Dark contrast region)          V                         35.8                       32.164       0.0664
+                     HomogenizedNbTaTiV         Nb                         23.8                       24.944       0.0375
+                     HomogenizedNbTaTiV         Ta                         25.5                       23.627       0.1328
+                     HomogenizedNbTaTiV         Ti                         24.9                       25.076       0.0820
+                     HomogenizedNbTaTiV          V                         25.8                       24.959       0.0379
+
+Table Footer: "nan"
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Output: 
+-
+Instructions:
+1. The context section contains definitions of various properties of materials commonly found in the literature of materials science. The table section contains a table caption and a table. Your task is to identify the properties from the context section that are described in the table. If no property from the context section is described in the table, reply with a '-'. 
+2. If one more properties from the context section is present in the table return a table in CSV format that contains the alloy composition, processing condition(if available in the table), testing condition(if available in the table) the property present in table(as written in the context section), property value and units as present in the table provided.
+3. Note that the table may contain the same property as in the context but with a different naming convention. Use the context to understand the property and decide if any property from the context is described in the table. If some property is mentioned with a heading that you are unsure of from the context provided, do not extract that property. Extract only those properties available in the context.
+3. Refer to the examples and follow the above instructions strictly.
+
+Context:
+
+1. Ultimate Tensile Strength (UTS):
+Definition: UTS is the maximum stress a material can withstand before breaking, measured during a tensile test. The test can be done under tension or compression, unless mentioned explicitly assume that the test is done under tension. Report the property as Ultimate Tensile Strength(Tension) if done under tension else report Ultimate Tensile Strength(Compression). Testing conditions mentioned are usually the strain rates and temperature.
+Units: Pascals (Pa), megapascals (MPa), or pounds per square inch (psi).
+Comparison: UTS is always higher than yield strength since it represents the material's maximum capacity to resist tension before fracture.
+Variations: Often called tensile strength or breaking strength.
+
+2. Yield Strength:
+Definition: Yield strength is the stress at which a material begins to deform plastically. The test can be done under tension or compression, unless mentioned explicitly assume that the test is done under tension. Report the property as Yield Strength(Tension) if done under tension else report Yield Strength(Compression). Testing conditions mentioned are usually the strain rates and temperature.
+Units: Pascals (Pa), megapascals (MPa), or pounds per square inch (psi).
+Comparison: Yield strength is always less than UTS, as plastic deformation starts at lower stress levels.
+Variations: Also referred to as yield stress, elastic limit stress, or stress at the elastic limit.
+
+3. Ductility:
+Definition: Ductility is the material's ability to undergo significant plastic deformation before rupture.
+Units: Dimensionless or percentage values, such as percent elongation (%EL) or percent reduction in area (%RA).
+Comparison: Higher ductility indicates a material can deform more without breaking. Brittle materials have very low ductility.
+Variations: Sometimes called fracture strain or elongation at break.
+
+4. Hardness:
+Definition: Hardness is a material’s resistance to deformation or penetration by an indenter under an applied load.
+Units: Scientifically measured in units of GPa but no universal unit, often expressed using specific test scales like Vickers (HV), Rockwell (HRC), Brinell (BH), or Mohs hardness.
+Comparison: Harder materials resist localized deformation better but may lack ductility.
+Variations:
+Microhardness: Measured using small loads to assess localized properties (e.g., Vickers or Knoop microhardness).
+Nano-hardness: Assessed using nano-indentation techniques, useful for thin films and coatings.
+
+5. Wear Resistance:
+Definition: Wear resistance is a material's ability to resist surface damage or material loss due to mechanical action such as friction, abrasion, or erosion.
+Units: No standard unit; it is often described qualitatively or measured by volume loss (e.g., mm³) during wear tests. There may be other units of measurement for this property, be sure to look for the units correctly.
+Comparison: Materials with high hardness often exhibit better wear resistance, though this also depends on other factors like toughness and lubrication.
+Variations:
+Abrasion resistance: Focused on resistance to scratching or scuffing.
+Erosion resistance: Focused on material loss due to particles or fluids impacting the surface.
+
+6. There are a lot of properties with clear definitions. In addition to the 5 properties mentioned above, if you are sure that one of the following properties is present, extract them in the prescribed format: Density, Melting point, Boiling point, Shear modulus, Young's modulus(elastic modulus), Poisson's ratio.
+
+7. Properties for a material cannot always be described through a number alone. For example, the Young's modulus of a material can vary with temperature and this is usually mentioned in the table details; be sure to extract this and report it as a testing condition. 
+
+8. Some properties like refractive index, Poisson's ratio do not have units, report units as "-".
+
+9. Since material systems may have hundreds of property to describe the system, the most frequently occuring ones and listed in the above sections. However, if a table contains units, value and details of any other property mention it as "Others(<insert property name>)" in the Property column and report it with value and unit in the same format as other properties.
+
+Examples:
+Go through these example prompts:
+Example 1:
+Table Caption: "Table 4. Shear Modulus(GPa) measured at various temperatures for 3 alloys."
+Table Data:
+Temperature (K),FeNiCoCr,FeNi,Ni
+77,-,68,84
+203,-,66,80
+293,84,62,76
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeNiCoCr,-,293,Shear Modulus,84,GPa
+FeNi,-,77,Shear Modulus,68,GPa
+FeNi,-,203,Shear Modulus,66,GPa
+FeNi,-,293,Shear Modulus,62,GPa
+Ni,-,77,Shear Modulus,84,GPa
+Ni,-,203,Shear Modulus,80,GPa
+Ni,-,293,Shear Modulus,76,GPa
+
+Example 2:
+Table Caption: "Table 4. Hardness of Al0.5CoCrCuFeNi alloys in four different states."
+Table Data:
+State,Hardness (HV)
+As-cast,208±2
+As-forged,350±3
+As-homogenized-FC,265±4
+As-homogenized-WQ,154±4
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,As-cast,-,Hardness,208±2,HV
+Al0.5CoCrCuFeNi,As-forged,-,Hardness,350±3,HV
+Al0.5CoCrCuFeNi,As-homogenized-FC,-,Hardness,265±4,HV
+Al0.5CoCrCuFeNi,As-homogenized-WQ,-,Hardness,154±4,HV
+
+Example 3:
+Table Caption: "Table 3. Summary of results on friction properties of alloys tested"
+Table Data:
+Alloy peak coefficient of friction (µp)
+Al0.5CoCrCuFeNi,0.65 ± 0.04
+Al1.0CoCrCuFeNi,0.65 ± 0.03
+Al2.0CoCrCuFeNi,0.70 ± 0.02
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,-,-,Others(coefficient of friction),0.65 ± 0.04,-
+Al1.0CoCrCuFeNi,-,-,Others(coefficient of friction),0.65 ± 0.03,-
+Al2.0CoCrCuFeNi,-,-,Others(coefficient of friction),0.70 ± 0.02,-
+
+Table:
+Table Caption: "The theoretical parameters (A
+
+3
+
+) of the six binary systems. A calculated volume before and after alloying for six binary systems, variation of volume, DV, and average of the volume difference, DVij, in the supercell."
+Table Data:
+              Parameters Materials Materials.1 Materials.2 Materials.3 Materials.4 Materials.5
+              Parameters  Nb50Ta50    Nb50Ti50     Nb50V50    Ta50Ti50     Ta50V50     Ti50V50
+Volume (Before alloying)    294.17      284.45      256.31      284.34      255.03      244.89
+ Volume (After alloying)    294.08      284.72      254.32      285.04      254.64      245.28
+                      DV    0.0900    - 0.2700      1.9900     -0.7000      0.3900     -0.3900
+                    DVij    0.0113     -0.0338      0.2488     -0.0875      0.0488     -0.0488
+
+Table Footer: "nan"
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Output: 
+-
+Instructions:
+1. The context section contains definitions of various properties of materials commonly found in the literature of materials science. The table section contains a table caption and a table. Your task is to identify the properties from the context section that are described in the table. If no property from the context section is described in the table, reply with a '-'. 
+2. If one more properties from the context section is present in the table return a table in CSV format that contains the alloy composition, processing condition(if available in the table), testing condition(if available in the table) the property present in table(as written in the context section), property value and units as present in the table provided.
+3. Note that the table may contain the same property as in the context but with a different naming convention. Use the context to understand the property and decide if any property from the context is described in the table. If some property is mentioned with a heading that you are unsure of from the context provided, do not extract that property. Extract only those properties available in the context.
+3. Refer to the examples and follow the above instructions strictly.
+
+Context:
+
+1. Ultimate Tensile Strength (UTS):
+Definition: UTS is the maximum stress a material can withstand before breaking, measured during a tensile test. The test can be done under tension or compression, unless mentioned explicitly assume that the test is done under tension. Report the property as Ultimate Tensile Strength(Tension) if done under tension else report Ultimate Tensile Strength(Compression). Testing conditions mentioned are usually the strain rates and temperature.
+Units: Pascals (Pa), megapascals (MPa), or pounds per square inch (psi).
+Comparison: UTS is always higher than yield strength since it represents the material's maximum capacity to resist tension before fracture.
+Variations: Often called tensile strength or breaking strength.
+
+2. Yield Strength:
+Definition: Yield strength is the stress at which a material begins to deform plastically. The test can be done under tension or compression, unless mentioned explicitly assume that the test is done under tension. Report the property as Yield Strength(Tension) if done under tension else report Yield Strength(Compression). Testing conditions mentioned are usually the strain rates and temperature.
+Units: Pascals (Pa), megapascals (MPa), or pounds per square inch (psi).
+Comparison: Yield strength is always less than UTS, as plastic deformation starts at lower stress levels.
+Variations: Also referred to as yield stress, elastic limit stress, or stress at the elastic limit.
+
+3. Ductility:
+Definition: Ductility is the material's ability to undergo significant plastic deformation before rupture.
+Units: Dimensionless or percentage values, such as percent elongation (%EL) or percent reduction in area (%RA).
+Comparison: Higher ductility indicates a material can deform more without breaking. Brittle materials have very low ductility.
+Variations: Sometimes called fracture strain or elongation at break.
+
+4. Hardness:
+Definition: Hardness is a material’s resistance to deformation or penetration by an indenter under an applied load.
+Units: Scientifically measured in units of GPa but no universal unit, often expressed using specific test scales like Vickers (HV), Rockwell (HRC), Brinell (BH), or Mohs hardness.
+Comparison: Harder materials resist localized deformation better but may lack ductility.
+Variations:
+Microhardness: Measured using small loads to assess localized properties (e.g., Vickers or Knoop microhardness).
+Nano-hardness: Assessed using nano-indentation techniques, useful for thin films and coatings.
+
+5. Wear Resistance:
+Definition: Wear resistance is a material's ability to resist surface damage or material loss due to mechanical action such as friction, abrasion, or erosion.
+Units: No standard unit; it is often described qualitatively or measured by volume loss (e.g., mm³) during wear tests. There may be other units of measurement for this property, be sure to look for the units correctly.
+Comparison: Materials with high hardness often exhibit better wear resistance, though this also depends on other factors like toughness and lubrication.
+Variations:
+Abrasion resistance: Focused on resistance to scratching or scuffing.
+Erosion resistance: Focused on material loss due to particles or fluids impacting the surface.
+
+6. There are a lot of properties with clear definitions. In addition to the 5 properties mentioned above, if you are sure that one of the following properties is present, extract them in the prescribed format: Density, Melting point, Boiling point, Shear modulus, Young's modulus(elastic modulus), Poisson's ratio.
+
+7. Properties for a material cannot always be described through a number alone. For example, the Young's modulus of a material can vary with temperature and this is usually mentioned in the table details; be sure to extract this and report it as a testing condition. 
+
+8. Some properties like refractive index, Poisson's ratio do not have units, report units as "-".
+
+9. Since material systems may have hundreds of property to describe the system, the most frequently occuring ones and listed in the above sections. However, if a table contains units, value and details of any other property mention it as "Others(<insert property name>)" in the Property column and report it with value and unit in the same format as other properties.
+
+Examples:
+Go through these example prompts:
+Example 1:
+Table Caption: "Table 4. Shear Modulus(GPa) measured at various temperatures for 3 alloys."
+Table Data:
+Temperature (K),FeNiCoCr,FeNi,Ni
+77,-,68,84
+203,-,66,80
+293,84,62,76
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeNiCoCr,-,293,Shear Modulus,84,GPa
+FeNi,-,77,Shear Modulus,68,GPa
+FeNi,-,203,Shear Modulus,66,GPa
+FeNi,-,293,Shear Modulus,62,GPa
+Ni,-,77,Shear Modulus,84,GPa
+Ni,-,203,Shear Modulus,80,GPa
+Ni,-,293,Shear Modulus,76,GPa
+
+Example 2:
+Table Caption: "Table 4. Hardness of Al0.5CoCrCuFeNi alloys in four different states."
+Table Data:
+State,Hardness (HV)
+As-cast,208±2
+As-forged,350±3
+As-homogenized-FC,265±4
+As-homogenized-WQ,154±4
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,As-cast,-,Hardness,208±2,HV
+Al0.5CoCrCuFeNi,As-forged,-,Hardness,350±3,HV
+Al0.5CoCrCuFeNi,As-homogenized-FC,-,Hardness,265±4,HV
+Al0.5CoCrCuFeNi,As-homogenized-WQ,-,Hardness,154±4,HV
+
+Example 3:
+Table Caption: "Table 3. Summary of results on friction properties of alloys tested"
+Table Data:
+Alloy peak coefficient of friction (µp)
+Al0.5CoCrCuFeNi,0.65 ± 0.04
+Al1.0CoCrCuFeNi,0.65 ± 0.03
+Al2.0CoCrCuFeNi,0.70 ± 0.02
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,-,-,Others(coefficient of friction),0.65 ± 0.04,-
+Al1.0CoCrCuFeNi,-,-,Others(coefficient of friction),0.65 ± 0.03,-
+Al2.0CoCrCuFeNi,-,-,Others(coefficient of friction),0.70 ± 0.02,-
+
+Table:
+Table Caption: "Theoretical calculations and experimental results of lattice distortions. Effective lattice constant 
+
+
+(
+
+
+
+d
+
+
+i
+
+
+e
+f
+f
+
+
+
+)
+
+
+ of each element, lattice constant (
+
+
+d
+-
+
+
+), and lattice-distortion parameter (
+
+
+
+
+m
+-
+
+
+
+D
+
+
+
+) of theoretically-calculated results in comparison to the experimental data. Note that the experimental results are calculated, based on the chemical composition, which is obtained from the APT measurements and lattice constants that are obtained through neutron diffraction."
+Table Data:
+         Parameters    Elements Elements.1 Elements.2 Elements.3 Elements.4
+         Parameters   Condition         Nb         Ta         Ti          V
+ Atomic Volume (A3)           -      18.36      18.40      17.23      13.43
+Atomic Fraction (%) Calculation      0.250      0.250      0.250      0.250
+Atomic Fraction (%)  Experiment      0.249      0.236      0.251      0.250
+ d   i   eff    (A) Calculation     2.8613     2.8597     2.8611     2.6263
+ d   i   eff    (A)  Experiment     2.8558     2.8578     2.8563     2.6194
+         d -    (A) Calculation     2.8021     2.8021     2.8021     2.8021
+         d -    (A)  Experiment     2.7988     2.7988     2.7988     2.7988
+    m -    D    (A) Calculation     0.2344     0.2344     0.2344     0.2344
+    m -    D    (A)  Experiment     0.2373     0.2373     0.2373     0.2373
+
+Table Footer: "nan"
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Output: 
+-
+DOI: 10.1016.j.actamat.2018.08.053
+Total time taken: 4.57 seconds
+Total prompts: 3
+Total input tokens: 27841
+Total output tokens: 3
+Total tokens: 27844
+C:\Users\Meera\Desktop\Table Extraction\r2_dois\10.1016.j.actamat.2018.09.057
+Processing DOI folder: 10.1016.j.actamat.2018.09.057

@@ -1,0 +1,5 @@
+Designation,E corr    (mVSHE),i corr    (mA/cm2),E pp    (mVSHE),i cri    (mA/cm2),i pass    (mA/cm2),E sp    (mVSHE),E b    (mVSHE),DE    (mV)
+Mo0,-92,30,-41,46,9,-,1089,1130
+Mo0.1,-71,78,-23,45,9,-,1089,1112
+Mo0.5,-64,72,-20,41,11,-,1089,1109
+Mo0.8,-70,69,-20,44,22,971,1089,1109

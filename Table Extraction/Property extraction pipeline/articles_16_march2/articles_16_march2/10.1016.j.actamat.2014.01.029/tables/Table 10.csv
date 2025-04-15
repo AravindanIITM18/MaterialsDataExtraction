@@ -1,0 +1,15 @@
+T =1273K,Fraction,Al or Cr,Hf or Mo,Nb,Ta,Ti,Zr
+AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr
+bcc1,1.00,20,10,20,10,20,20
+,,,,,,,
+Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr
+bcc1,0.63,9.4,15.1,15.4,13.9,21.8,24.3
+bcc2,0.37,5.2,5.5,28.3,30.9,17.3,12.9
+hcp,0.01,22.4,63.1,0.1,0.1,4.8,9.5
+,,,,,,,
+CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr
+bcc1,0.80,8.4,12.5,25.0,12.5,24.8,16.8
+Laves,0.20,66.5,0.0,0.0,0.0,0.6,33.0
+,,,,,,,
+HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr
+bcc1,1,,20.0,20.0,20.0,20.0,20.0

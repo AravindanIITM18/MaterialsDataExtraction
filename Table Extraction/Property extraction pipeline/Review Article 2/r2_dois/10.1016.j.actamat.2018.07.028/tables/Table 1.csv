@@ -1,0 +1,7 @@
+Case,Slip {111}<110>,Slip {111}<110>,Slip {111}<110>,Slip {111}<110>,Twinning {111}<112>,Twinning {111}<112>,Twinning {111}<112>,Twinning {111}<112>,Self and Coplanar Latent Hardening,Non-coplanar Slip Latent Hardening,Non-coplanar Twin Latent Hardening
+Case,t0,t1,th0,th1,t0,t1,th0,th1,Self and Coplanar Latent Hardening,Non-coplanar Slip Latent Hardening,Non-coplanar Twin Latent Hardening
+Case 1: Only Slip,185,320,645,70,-,-,-,-,1,1.5,-
+Case 2: Slip/Twin = 1.0/1.0,185,400,760,140,270,500,950,110,1,1,1
+Case 3: Slip/Twin = 1.5/5.0,185,320,645,47,270,400,660,10,1,1.5,5
+Case 4: Slip/Twin = 3.0/5.0,185,230,485,0,270,250,500,15,1,3,5
+Case 5: Slip/Twin = 5.0/5.0,185,145,355,0,270,160,370,0,1,5,5

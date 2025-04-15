@@ -1,0 +1,501 @@
+
+Table Table 1:
+Input Table:
+Alloys,Before PCI tests,Before PCI tests.1,After PCI tests,After PCI tests.1,e (%)
+Alloys,a (A),c (A),a (A),c (A),e (%)
+Ti0.5,4.960,8.030,4.992,8.131,2.57
+Ti1.0,4.958,8.046,4.982,8.152,2.30
+Ti1.5,4.983,8.106,5.019,8.229,2.99
+Ti2.0,5.006,8.155,5.086,8.340,5.56
+Ti2.5,5.083,8.220,5.171,8.418,5.99
+nan,nan,nan,nan,nan,nan
+V0.4,4.958,8.095,5.006,8.137,2.47
+V0.7,4.970,8.113,4.982,8.127,0.66
+V1.0,4.958,8.046,4.982,8.152,2.30
+V1.3,4.958,8.095,4.994,8.169,2.39
+V1.6,4.970,8.135,5.006,8.290,3.40
+V2.0,4.958,8.095,4.982,8.203,2.31
+V2.3,4.958,8.095,5.043,8.163,4.32
+V2.6,4.970,8.135,5.043,8.240,4.29
+V3.0,4.970,8.113,5.043,8.240,4.57
+nan,nan,nan,nan,nan,nan
+Zr0.4,4.866,7.915,4.866,7.936,0.27
+Zr0.7,4.866,7.936,4.935,7.989,3.51
+Zr1.0,4.958,8.046,4.982,8.152,2.30
+Zr1.3,4.994,8.169,5.273,8.597,17.32
+Zr1.6,5.031,8.222,5.342,9.030,23.83
+Zr2.0,5.056,8.258,5.383,8.753,20.16
+Zr2.3,5.067,8.302,5.411,8.853,21.62
+Zr2.6,5.117,8.319,5.469,8.937,22.70
+Zr3.0,5.117,8.763,5.469,8.906,16.10
+
+Retrieved Properties: Elastic Moduli, Tafel Slopes, Elasticity, Zener Ratio, A2 Phase Amount, Energy Release Efficiency
+Final Output:
+-
+
+Table Table 2:
+Input Table:
+x in Ti x,0.5,1,1.5,2,2.5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+DH cal,-11.28,-30.59,-38.86,-40.51,-27.88,nan,nan,nan,nan
+(H/atom)max,0.17,0.65,0.83,0.87,0.75,nan,nan,nan,nan
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+y in V y,0.4,0.7,1.0,1.3,1.6,2.0,2.3,2.6,3.0
+DH cal,-33.15,-33.31,-30.75,-32.61,-31.87,-31.47,-31.63,-32.44,-31.4
+(H/atom)max,0.9,0.92,0.86,0.92,0.9,0.91,0.92,0.95,0.93
+nan,nan,nan,nan,nan,nan,nan,nan,nan,nan
+z in Zr z,0.4,0.7,1.0,1.3,1.6,2.0,2.3,2.6,3.0
+DH cal,-0.48,-9.29,-30.75,-38.07,-44.19,-49.12,-53.96,-54.99,-52.71
+(H/atom)max,0.02,0.29,0.86,0.99,1.06,1.11,1.17,1.15,1.06
+
+Retrieved Properties: Coercivity, Hydrogen Desorption Capacity, Mixing Enthalpy, H Pick-up, Hydrogen Absorption Capacity
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Ti0.5,-,-,Mixing Enthalpy,-11.28,kJ/mol
+Ti1,-,-,Mixing Enthalpy,-30.59,kJ/mol
+Ti1.5,-,-,Mixing Enthalpy,-38.86,kJ/mol
+Ti2,-,-,Mixing Enthalpy,-40.51,kJ/mol
+Ti2.5,-,-,Mixing Enthalpy,-27.88,kJ/mol
+V0.4,-,-,Mixing Enthalpy,-33.15,kJ/mol
+V0.7,-,-,Mixing Enthalpy,-33.31,kJ/mol
+V1.0,-,-,Mixing Enthalpy,-30.75,kJ/mol
+V1.3,-,-,Mixing Enthalpy,-32.61,kJ/mol
+V1.6,-,-,Mixing Enthalpy,-31.87,kJ/mol
+V2.0,-,-,Mixing Enthalpy,-31.47,kJ/mol
+V2.3,-,-,Mixing Enthalpy,-31.63,kJ/mol
+V2.6,-,-,Mixing Enthalpy,-32.44,kJ/mol
+V3.0,-,-,Mixing Enthalpy,-31.4,kJ/mol
+Zr0.4,-,-,Mixing Enthalpy,-0.48,kJ/mol
+Zr0.7,-,-,Mixing Enthalpy,-9.29,kJ/mol
+Zr1.0,-,-,Mixing Enthalpy,-30.75,kJ/mol
+Zr1.3,-,-,Mixing Enthalpy,-38.07,kJ/mol
+Zr1.6,-,-,Mixing Enthalpy,-44.19,kJ/mol
+Zr2.0,-,-,Mixing Enthalpy,-49.12,kJ/mol
+Zr2.3,-,-,Mixing Enthalpy,-53.96,kJ/mol
+Zr2.6,-,-,Mixing Enthalpy,-54.99,kJ/mol
+Zr3.0,-,-,Mixing Enthalpy,-52.71,kJ/mol
+Ti0.5,-,-,Hydrogen Absorption Capacity,0.17,H/atom
+Ti1,-,-,Hydrogen Absorption Capacity,0.65,H/atom
+Ti1.5,-,-,Hydrogen Absorption Capacity,0.83,H/atom
+Ti2,-,-,Hydrogen Absorption Capacity,0.87,H/atom
+Ti2.5,-,-,Hydrogen Absorption Capacity,0.75,H/atom
+V0.4,-,-,Hydrogen Absorption Capacity,0.9,H/atom
+V0.7,-,-,Hydrogen Absorption Capacity,0.92,H/atom
+V1.0,-,-,Hydrogen Absorption Capacity,0.86,H/atom
+V1.3,-,-,Hydrogen Absorption Capacity,0.92,H/atom
+V1.6,-,-,Hydrogen Absorption Capacity,0.9,H/atom
+V2.0,-,-,Hydrogen Absorption Capacity,0.91,H/atom
+V2.3,-,-,Hydrogen Absorption Capacity,0.92,H/atom
+V2.6,-,-,Hydrogen Absorption Capacity,0.95,H/atom
+V3.0,-,-,Hydrogen Absorption Capacity,0.93,H/atom
+Zr0.4,-,-,Hydrogen Absorption Capacity,0.02,H/atom
+Zr0.7,-,-,Hydrogen Absorption Capacity,0.29,H/atom
+Zr1.0,-,-,Hydrogen Absorption Capacity,0.86,H/atom
+Zr1.3,-,-,Hydrogen Absorption Capacity,0.99,H/atom
+Zr1.6,-,-,Hydrogen Absorption Capacity,1.06,H/atom
+Zr2.0,-,-,Hydrogen Absorption Capacity,1.11,H/atom
+Zr2.3,-,-,Hydrogen Absorption Capacity,1.17,H/atom
+Zr2.6,-,-,Hydrogen Absorption Capacity,1.15,H/atom
+Zr3.0,-,-,Hydrogen Absorption Capacity,1.06,H/atom
+
+Table Table 3:
+Input Table:
+Alloy System,Hydride formula,"(H/M)max, wt%","(H/M)max, H/atom","(H/M)cal, H/atom","DH cal, kJ/mol","T, degC",Ref.
+Mg2Ni,Mg2Ni0.75Cu0.25H2.92,2.69,0.97,1.67,-26.74,200.0,[22]
+Mg2Ni,Mg2Ni0.6Cu0.4H2.44,2.23,0.81,1.67,-21.87,200.0,[22]
+Mg2Ni,Mg2NiH2.25,2.1,0.75,1.67,-21.32,200.0,[22]
+Mg2Ni,Mg2Ni0.75V0.25H3.69,2.07,0.73,1.67,-23.09,200.0,[22]
+Mg2Ni,Mg2Ni0.75Cu0.25H3.80,3.5,1.27,1.67,-34.79,227.0,[23]
+Mg2Ni,Mg2Ni0.75V0.25H3.17,3.0,1.06,1.75,-31.97,250.0,[23]
+Mg2Ni,Mg2Ni0.75Cr0.25H3.29,3.11,1.1,1.75,-30.99,248.0,[23]
+Mg2Ni,Mg2Ni0.75Co0.25H3.45,3.21,1.15,1.67,-32.69,279.0,[23]
+Mg2Ni,Mg2Ni0.75Fe0.25H3.10,2.91,1.03,1.67,-28.94,253.0,[23]
+Mg2Ni,Mg2NiH4.00,3.6,1.33,1.67,-37.9,253.0,[23]
+Mg2Ni,Mg2CuH3.08,2.7,1.03,1.67,-25.25,239.0,[23]
+Mg2Ni,Mg1.9Ti0.1NiH3.62,3.3,1.21,1.67,-35.51,300.0,[24]
+Mg2Ni,Mg2Ni0.75V0.25H3.69,3.5,1.23,1.75,-37.21,300.0,[22]
+Mg2Ni,Mg2Ni0.75Cu0.25H4.16,3.83,1.39,1.67,-38.09,300.0,[22]
+Mg2Ni,Mg2Ni0.6Cu0.4H3.98,3.64,1.33,1.67,-35.68,300.0,[22]
+Mg2Ni,Mg2NiH4.00,3.6,1.33,1.67,-37.9,300.0,[24]
+nan,nan,nan,nan,nan,nan,nan,nan
+LaNi5,LaNi5H6.00,1.39,1.0,1.17,-23.89,20.0,[23]
+LaNi5,LaNi5H6.70,1.55,1.12,1.17,-26.67,20.0,[25]
+LaNi5,MmNi2.5Co2.5H5.20,1.2,0.87,1.17,-17.85,20.0,[23]
+LaNi5,MmNi4.5Al0.5H4.80,1.15,0.8,1.33,-17.49,20.0,[23]
+LaNi5,MmNi4.5Cr0.25Mn0.25H6.90,1.6,1.15,1.21,-27.86,20.0,[23]
+LaNi5,MmNi4.5Cr0.45Mn0.05H6.80,1.58,1.13,1.24,-26.96,20.0,[23]
+LaNi5,MmNi4.5Cr0.46Mn0.04H6.30,1.47,1.05,1.24,-24.96,20.0,[23]
+LaNi5,MmNi4.5Cr0.5H6.30,1.47,1.05,1.25,-24.03,20.0,[23]
+LaNi5,MmNi4.5Mn0.5H6.60,1.53,1.1,1.17,-27.26,20.0,[23]
+LaNi5,MmNi4.5Si0.5H3.80,0.91,0.63,1.42,-11.48,20.0,[23]
+LaNi5,MmNi5H6.30,1.45,1.05,1.17,-24.77,20.0,[23]
+LaNi5,LaNi4.6Al0.4H4.70,1.15,0.78,1.3,-17.58,30.0,[23]
+LaNi5,LaNi4.6Si0.4H3.50,0.83,0.58,1.37,-11.26,30.0,[23]
+LaNi5,MmNi4.5Al0.25Co0.25H5.10,1.2,0.85,1.25,-19.03,30.0,[23]
+LaNi5,MmNi4.5Al0.25Cr0.25H5.08,1.2,0.85,1.29,-19.28,30.0,[23]
+LaNi5,MmNi4.5Al0.25Cu0.25H5.54,1.3,0.92,1.25,-20.0,30.0,[23]
+LaNi5,MmNi4.5Al0.25Mn0.25H5.51,1.3,0.92,1.25,-21.33,30.0,[23]
+LaNi5,MmNi4.5Al0.25Si0.25H4.59,1.1,0.77,1.38,-15.25,30.0,[23]
+LaNi5,MmNi4.5Al0.45Ti0.05H5.30,1.27,0.88,1.33,-20.06,30.0,[23]
+LaNi5,MmNi4.5Al0.4Zr0.1H5.00,1.18,0.83,1.32,-20.05,30.0,[23]
+LaNi5,MmNi4.5Al0.5H5.00,1.17,0.83,1.33,-18.22,30.0,[23]
+LaNi5,MmNi4.5Fe0.45Zr0.05H6.05,1.4,1.01,1.18,-24.6,30.0,[23]
+LaNi5,MmNi4.5Fe0.5Zr0.05H6.11,1.4,1.01,1.17,-24.34,30.0,[23]
+LaNi5,MmNi4.7Al0.3H5.93,1.4,0.99,1.27,-22.24,30.0,[23]
+LaNi5,MmNi4.7Al0.3Ti0.05H5.60,1.31,0.93,1.27,-21.31,30.0,[23]
+LaNi5,MmNi4.7Al0.3Zr0.1H5.00,1.16,0.82,1.28,-19.69,30.0,[25]
+nan,nan,nan,nan,nan,nan,nan,nan
+FeTi,FeTiH1.90,1.83,0.95,1.5,-34.42,80.0,[23]
+FeTi,TiFe0.8Mn0.2H1.90,1.83,0.95,1.5,-35.74,80.0,[25]
+FeTi,TiFe0.8Mn0.2H1.95,1.88,0.98,1.5,-36.68,80.0,[23]
+FeTi,TiFe0.8Mn0.2Al0.05H1.35,1.29,0.66,1.54,-23.88,80.0,[23]
+FeTi,TiFe0.8Mn0.2Zr0.05H2.15,2.04,1.05,1.51,-41.22,80.0,[23]
+FeTi,TiFe0.8Mn0.18Al0.02Zr0.05H2.03,1.89,0.99,1.53,-38.45,80.0,[23]
+FeTi,TiFe0.8Mn0.18Al0.05Zr0.02H1.99,1.88,0.97,1.55,-35.95,80.0,[23]
+FeTi,TiFe0.8Mn0.2V0.05H1.89,1.78,0.92,1.51,-34.68,80.0,[23]
+nan,nan,nan,nan,nan,nan,nan,nan
+TiCo,TiCoH1.50,1.4,0.75,1.5,-27.17,120.0,[23]
+TiCo,TiCo0.5Mn0.5H1.36,1.3,0.68,1.5,-27.48,120.0,[23]
+TiCo,TiCo0.5Mn0.5V0.05H1.40,1.3,0.68,1.51,-27.35,120.0,[23]
+TiCo,TiCo0.5Mn0.5Zr0.05H1.53,1.4,0.75,1.46,-32.19,120.0,[23]
+TiCo,TiCo0.5Fe0.5H1.26,1.2,0.61,1.46,-22.82,120.0,[23]
+TiCo,TiCo0.5Fe0.5V0.05H1.40,1.3,0.68,1.51,-24.58,120.0,[23]
+TiCo,TiCo0.5Fe0.5Zr0.05H1.43,1.3,0.7,1.51,-26.28,120.0,[23]
+nan,nan,nan,nan,nan,nan,nan,nan
+ZrB2,ZrV2H5.30,2.74,1.77,2.0,-82.46,25.0,[26]
+ZrB2,Zr(Fe0.1V0.9)2H4.40,2.28,1.47,1.93,-66.95,25.0,[26]
+ZrB2,Zr(Fe0.25V0.75)2H3.70,2.17,1.23,1.83,-54.36,25.0,[26]
+ZrB2,Zr(Fe0.5V0.5)2H3.20,1.62,1.07,1.67,-43.69,25.0,[26]
+ZrB2,Zr(Fe0.75V0.25)2H3.20,1.6,1.07,1.5,-39.62,25.0,[26]
+ZrB2,Zr(Fe0.8V0.2)2H2.90,1.44,0.97,1.47,-35.07,25.0,[26]
+ZrB2,Zr(Fe0.9V0.1)2H1.60,0.79,0.53,1.4,-18.36,25.0,[26]
+ZrB2,ZrFe2H0.12,0.06,0.04,1.33,-1.3,25.0,[26]
+ZrB2,ZrCr2H3.80,1.95,1.27,2.0,-41.47,25.0,[26]
+ZrB2,Zr(Fe0.25Cr0.75)2H3.40,1.72,1.13,1.83,-37.04,25.0,[26]
+ZrB2,Zr(Fe0.5Cr0.5)2H3.40,1.71,1.13,1.67,-36.95,25.0,[26]
+ZrB2,Zr(Fe0.6Cr0.4)2H2.95,1.48,0.98,1.6,-32.03,25.0,[26]
+ZrB2,Zr(Fe0.75Cr0.25)2H2.85,1.42,0.95,1.5,-30.89,25.0,[26]
+ZrB2,Zr(Fe0.8Cr0.2)2H2.60,1.29,0.87,1.47,-28.16,25.0,[26]
+ZrB2,Zr(Fe0.9Cr0.1)2H0.22,0.11,0.07,1.4,-2.38,25.0,[26]
+ZrB2,ZrMn2H3.60,1.79,1.2,1.33,-53.91,25.0,[26]
+ZrB2,Zr(Fe0.2Mn0.8)2H3.30,1.64,1.1,1.33,-46.67,25.0,[26]
+ZrB2,Zr(Fe0.4Mn0.6)2H3.20,1.59,1.07,1.33,-42.04,25.0,[26]
+ZrB2,Zr(Fe0.5Mn0.5)2H2.90,1.44,0.97,1.33,-37.38,25.0,[26]
+ZrB2,Zr(Fe0.6Mn0.4)2H2.00,0.99,0.67,1.33,-24.38,25.0,[26]
+ZrB2,Zr(Fe0.75Mn0.25)2H0.45,0.22,0.15,1.33,-5.33,25.0,[26]
+ZrB2,Zr(Fe0.8Mn0.2)2H0.20,0.01,0.07,1.33,-2.33,25.0,[26]
+ZrB2,Zr(Fe0.9Mn0.1)2H0.20,0.01,0.07,1.33,-2.24,25.0,[26]
+ZrB2,ZrV2H5.30,2.74,1.77,2.0,-82.46,25.0,[26]
+ZrB2,Zr(Co0.125V0.875)2H4.40,2.26,1.47,1.92,-66.64,25.0,[26]
+ZrB2,Zr(Co0.25V0.75)2H4.20,2.13,1.4,1.83,-61.71,25.0,[26]
+ZrB2,Zr(Co0.5V0.5)2H3.70,1.54,1.23,1.67,-56.71,25.0,[26]
+ZrB2,Zr(Co0.75V0.25)2H2.80,1.37,0.93,1.5,-34.68,25.0,[26]
+ZrB2,Zr(Co0.8V0.2)2H2.10,1.02,0.7,1.47,-25.4,25.0,[26]
+ZrB2,Zr(Co0.9V0.1)2H0.41,0.2,0.14,1.4,-4.71,25.0,[26]
+ZrB2,ZrCo2H0.30,0.14,0.1,1.33,-3.24,25.0,[26]
+ZrB2,ZrCr2H3.80,1.95,1.27,2.0,-41.47,25.0,[26]
+ZrB2,Zr(Co0.25Cr0.75)2H3.25,1.64,1.08,1.83,-35.4,25.0,[26]
+ZrB2,Zr(Co0.5Cr0.5)2H3.20,1.58,1.07,1.67,-34.79,25.0,[26]
+ZrB2,Zr(Co0.75Cr0.25)2H1.60,0.79,0.53,1.5,-17.34,25.0,[26]
+ZrB2,Zr(Co0.8Cr0.2)2H0.30,0.16,0.1,1.47,-3.25,25.0,[26]
+ZrB2,Zr(Co0.9Cr0.1)2H0.30,0.14,0.1,1.4,-3.24,25.0,[26]
+ZrB2,ZrCo2H0.30,0.14,0.1,1.33,-3.24,25.0,[26]
+ZrB2,ZrMn2H3.60,1.79,1.2,1.33,-53.92,25.0,[26]
+ZrB2,Zr(Co0.25Mn0.75)2H3.40,1.67,1.13,1.33,-47.37,25.0,[26]
+ZrB2,Zr(Co0.4Mn0.6)2H3.10,1.53,1.03,1.33,-41.25,25.0,[26]
+ZrB2,Zr(Co0.5Mn0.5)2H3.10,1.51,1.03,1.33,-39.95,25.0,[26]
+ZrB2,Zr(Co0.55Mn0.45)2H2.20,1.07,0.73,1.33,-27.89,25.0,[26]
+ZrB2,Zr(Co0.6Mn0.4)2H2.70,1.06,0.9,1.33,-33.67,25.0,[26]
+ZrB2,Zr(Co0.7Mn0.3)2H0.70,0.34,0.23,1.33,-8.44,25.0,[26]
+ZrB2,Zr(Co0.8Mn0.2)2H0.85,0.41,0.28,1.33,-9.89,25.0,[26]
+ZrB2,Zr(Co0.9Mn0.1)2H0.53,0.25,0.18,1.33,-5.94,25.0,[26]
+nan,nan,nan,nan,nan,nan,nan,nan
+Zrx,CoFeMnTiVZr0.4H0.09,0.03,0.02,1.44,-0.48,25.0,-
+Zrx,CoFeMnTiVZr0.7H1.63,0.49,0.29,1.47,-9.29,25.0,-
+Zrx,CoFeMnTiVZrH5.14,1.43,0.86,1.5,-30.75,25.0,-
+Zrx,CoFeMnTiVZr1.3H6.21,1.63,0.99,1.52,-38.07,25.0,-
+Zrx,CoFeMnTiVZr1.6H7.09,1.71,1.06,1.52,-44.19,25.0,-
+Zrx,CoFeMnTiVZr2H7.80,1.73,1.11,1.57,-49.12,25.0,-
+Zrx,CoFeMnTiVZr2.3H8.56,1.79,1.17,1.59,-53.96,25.0,-
+Zrx,CoFeMnTiVZ2.6H8.75,1.73,1.15,1.61,-54.99,25.0,-
+Zrx,CoFeMnTiVZr3H8.46,1.56,1.06,1.63,-52.71,25.0,-
+nan,nan,nan,nan,nan,nan,nan,nan
+Vx,CoFeMnTiV0.4ZrH4.87,1.48,0.9,1.44,-33.15,25.0,-
+Vx,CoFeMnTiV0.7ZrH5.24,1.52,0.92,1.47,-33.31,25.0,-
+Vx,CoFeMnTiV1ZrH5.14,1.43,0.86,1.5,-30.75,25.0,-
+Vx,CoFeMnTiV1.3ZrH5.81,1.55,0.92,1.52,-32.61,25.0,-
+Vx,CoFeMnTiV1.6ZrH6.01,1.54,0.9,1.52,-31.87,25.0,-
+Vx,CoFeMnTiV2ZrH6.37,1.55,0.91,1.57,-31.47,25.0,-
+Vx,CoFeMnTiV2.3ZrH6.73,1.58,0.92,1.59,-31.63,25.0,-
+Vx,CoFeMnTiV2.6ZrH7.24,1.64,0.95,1.61,-32.44,25.0,-
+Vx,CoFeMnTiV3ZrH7.48,1.62,0.93,1.63,-31.4,25.0,-
+nan,nan,nan,nan,nan,nan,nan,nan
+Tix,CoFeMnTi0.5VZrH2.01,0.6,0.37,1.45,-11.28,nan,-
+Tix,CoFeMnTi1VZrH5.14,1.43,0.85,1.5,-30.59,nan,-
+Tix,CoFeMnTi1.5VZrH6.83,1.78,1.05,1.54,-38.86,nan,-
+Tix,CoFeMnTi2VZrH7.33,1.8,1.05,1.57,-40.51,nan,-
+Tix,CoFeMnTi2.5VZrH5.17,1.2,0.68,1.6,-27.88,nan,-
+nan,nan,nan,nan,nan,nan,nan,nan
+BCC,V0.85Ti0.10Fe0.05H1.60,3.14,1.6,1.95,-50.34,30.0,[27]
+BCC,(Ti0.16Zr0.05Cr0.22V0.57)0.95Fe0.05H1.16,2.2,1.16,1.95,-34.83,25.0,[28]
+BCC,V30Ti35Cr25Fe10H182.27,3.6,1.82,1.9,-61.33,25.0,[29]
+
+Retrieved Properties: Coercivity, Standard Enthalpy, Mixing Enthalpy, Hydride Formation Enthalpy, Hydrogen Absorption Capacity, Formation Enthalpy, Electronegativity, Vacancy Formation Enthalpy, Atomic Size, Atomic Radius
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Mg2Ni,-,Temperature(in degC): 200,Hydrogen Absorption Capacity,2.69,wt%
+Mg2Ni,-,Temperature(in degC): 200,Hydrogen Absorption Capacity,2.23,wt%
+Mg2Ni,-,Temperature(in degC): 200,Hydrogen Absorption Capacity,2.1,wt%
+Mg2Ni,-,Temperature(in degC): 200,Hydrogen Absorption Capacity,2.07,wt%
+Mg2Ni,-,Temperature(in degC): 227,Hydrogen Absorption Capacity,3.5,wt%
+Mg2Ni,-,Temperature(in degC): 250,Hydrogen Absorption Capacity,3.0,wt%
+Mg2Ni,-,Temperature(in degC): 248,Hydrogen Absorption Capacity,3.11,wt%
+Mg2Ni,-,Temperature(in degC): 279,Hydrogen Absorption Capacity,3.21,wt%
+Mg2Ni,-,Temperature(in degC): 253,Hydrogen Absorption Capacity,2.91,wt%
+Mg2Ni,-,Temperature(in degC): 253,Hydrogen Absorption Capacity,3.6,wt%
+Mg2Ni,-,Temperature(in degC): 239,Hydrogen Absorption Capacity,2.7,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.3,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.5,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.83,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.64,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.6,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.39,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.55,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.2,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.15,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.6,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.58,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.47,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.47,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.53,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,0.91,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.45,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.15,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,0.83,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.2,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.2,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.3,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.3,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.1,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.27,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.18,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.17,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.4,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.31,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.16,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.83,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.83,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.88,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.29,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,2.04,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.89,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.88,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.78,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.4,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.3,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.3,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.4,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.2,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.3,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.3,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.74,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.28,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.17,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.62,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.6,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.44,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.79,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.06,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.95,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.72,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.71,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.48,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.42,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.29,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.11,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.79,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.64,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.59,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.44,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.99,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.22,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.01,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.01,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.74,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.26,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.13,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.54,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.37,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.2,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.14,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.95,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.64,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.58,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.79,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.16,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.14,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.14,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.79,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.67,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.53,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.51,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.07,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.06,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.34,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.41,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.25,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.03,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.49,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.43,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.63,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.71,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.73,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.79,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.73,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.56,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.48,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.52,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.43,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.55,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.54,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.55,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.58,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.64,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.62,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,0.6,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,1.43,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,1.78,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,1.8,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,1.2,wt%
+BCC,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,3.14,wt%
+BCC,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.2,wt%
+BCC,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,3.6,wt%
+Mg2Ni,-,Temperature(in degC): 200,Hydride Formation Enthalpy,-26.74,kJ/mol
+Mg2Ni,-,Temperature(in degC): 200,Hydride Formation Enthalpy,-21.87,kJ/mol
+Mg2Ni,-,Temperature(in degC): 200,Hydride Formation Enthalpy,-21.32,kJ/mol
+Mg2Ni,-,Temperature(in degC): 200,Hydride Formation Enthalpy,-23.09,kJ/mol
+Mg2Ni,-,Temperature(in degC): 227,Hydride Formation Enthalpy,-34.79,kJ/mol
+Mg2Ni,-,Temperature(in degC): 250,Hydride Formation Enthalpy,-31.97,kJ/mol
+Mg2Ni,-,Temperature(in degC): 248,Hydride Formation Enthalpy,-30.99,kJ/mol
+Mg2Ni,-,Temperature(in degC): 279,Hydride Formation Enthalpy,-32.69,kJ/mol
+Mg2Ni,-,Temperature(in degC): 253,Hydride Formation Enthalpy,-28.94,kJ/mol
+Mg2Ni,-,Temperature(in degC): 253,Hydride Formation Enthalpy,-37.9,kJ/mol
+Mg2Ni,-,Temperature(in degC): 239,Hydride Formation Enthalpy,-25.25,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-35.51,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-37.21,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-38.09,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-35.68,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-37.9,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-23.89,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-26.67,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-17.85,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-17.49,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-27.86,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-26.96,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-24.96,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-24.03,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-27.26,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-11.48,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-24.77,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-17.58,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-11.26,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-19.03,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-19.28,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-20.0,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-21.33,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-15.25,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-20.06,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-20.05,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-18.22,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-24.6,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-24.34,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-22.24,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-21.31,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-19.69,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-34.42,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-35.74,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-36.68,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-23.88,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-41.22,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-38.45,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-35.95,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-34.68,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-27.17,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-27.48,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-27.35,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-32.19,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-22.82,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-24.58,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-26.28,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-82.46,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-66.95,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-54.36,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-43.69,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-39.62,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-35.07,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-18.36,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-1.3,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-41.47,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-37.04,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-36.95,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-32.03,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-30.89,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-28.16,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-2.38,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-53.91,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-46.67,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-42.04,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-37.38,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-24.38,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-5.33,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-2.33,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-2.24,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-82.46,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-66.64,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-61.71,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-56.71,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-34.68,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-25.4,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-4.71,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-3.24,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-41.47,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-35.4,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-34.79,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-17.34,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-3.25,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-3.24,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-3.24,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-53.92,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-47.37,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-41.25,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-39.95,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-27.89,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-33.67,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-8.44,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-9.89,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-5.94,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-0.48,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-9.29,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-30.75,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-38.07,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-44.19,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-49.12,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-53.96,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-54.99,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-52.71,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-33.15,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-33.31,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-30.75,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-32.61,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-31.87,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-31.47,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-31.63,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-32.44,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-31.4,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-11.28,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-30.59,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-38.86,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-40.51,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-27.88,kJ/mol
+BCC,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-50.34,kJ/mol
+BCC,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-34.83,kJ/mol
+BCC,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-61.33,kJ/mol

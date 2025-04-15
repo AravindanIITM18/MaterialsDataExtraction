@@ -1,0 +1,17 @@
+Component,Symbol,Miller indices,"Euler angles (ph1, Ph, ph2)",Fiber
+Brass (B),Image 2,{110}<112>,"(55, 90, 45)","a, b"
+Goss (G),Image 3,{110}<100>,"(90, 90, 45)","a, t"
+Goss/Brass (G/B),Image 4,{110}<115>,"(74, 90, 45)",a
+Rotated Goss (RtG),Image 5,{110}<110>,"(0, 90, 45)",a
+A,Image 6,{110}<111>,"(35, 90, 45)",a
+P,Image 7,{011}<211>,"(30, 90, 45)",a
+Cube (C),Image 8,{001}<100>,"(45, 0, 45)",/
+E,Image 9,{111}<110>,"(0/60, 55, 45)",g
+F,Image 10,{111}<112>,"(30/90, 55, 45)",g
+Copper (Cu),Image 11,{112}<111>,"(90, 35, 45)","b, t"
+CopperTwin (CuT),Image 12,{552}<115>,"(90, 74, 45)",t
+S,Image 13,{123}<634>,"(59, 37, 63)",b
+a-fiber,<110> parallel to ND,<110> parallel to ND,<110> parallel to ND,<110> parallel to ND
+b-fiber,<110> tilted 60deg from ND towards RD,<110> tilted 60deg from ND towards RD,<110> tilted 60deg from ND towards RD,<110> tilted 60deg from ND towards RD
+g-fiber,<111> parallel ND,<111> parallel ND,<111> parallel ND,<111> parallel ND
+t-fiber,<110> parallel TD,<110> parallel TD,<110> parallel TD,<110> parallel TD

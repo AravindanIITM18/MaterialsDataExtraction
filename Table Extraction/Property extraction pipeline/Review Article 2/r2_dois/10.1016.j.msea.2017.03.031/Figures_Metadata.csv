@@ -1,0 +1,11 @@
+Figure ID,Figure Path,Figure Label,Figure Caption
+f0005,articles_test/10.1016.j.msea.2017.03.031/figures/gr1.jpg,Fig. 1,"Microstructures of CoCrFeNiMn alloy in different states. (a) as-cast, (b) recrystallized at 900°C for 1h after cold rolled with 40% reduction in thickness and (c) the corresponding XRD patterns."
+f0010,articles_test/10.1016.j.msea.2017.03.031/figures/gr2.jpg,Fig. 2,"(a) Engineering stress-strain curves of CoCrFeNiMn alloy, and temperature dependences of (b) ultimate strength, yield strength and plastic strain and (c) strain hardening exponent (ε̇=3×10−4s−1)."
+f0015,articles_test/10.1016.j.msea.2017.03.031/figures/gr3.jpg,Fig. 3,"Fractographs after tested at different temperatures. (a) RT, (b) 400, (c) 500 and (d) 600°C (ε̇=3×10−4s−1)."
+f0020,articles_test/10.1016.j.msea.2017.03.031/figures/gr4.jpg,Fig. 4,"(a) The partially enlarged segments of stress-strain curves inFig. 2a, (b) and (c) full and partial segments of stress-strain curves obtained at different strain rates at 500°C."
+f0025,articles_test/10.1016.j.msea.2017.03.031/figures/gr5.jpg,Fig. 5,Variations of average serration amplitude at different (a) temperatures and (b) strain rates.
+f0030,articles_test/10.1016.j.msea.2017.03.031/figures/gr6.jpg,Fig. 6,"Dislocation configurations at RT after subjected to deformation up to strains of (a) and (b) 1%, (c) and (d) 20% (ε̇=3×10−4s−1)."
+f0035,articles_test/10.1016.j.msea.2017.03.031/figures/gr7.jpg,Fig. 7,"Dislocation configurations at 400°C after subjected to deformation up to strains of (a) and (b) 1%, (c) and (d) 20% (ε̇=3×10−4s−1)."
+f0040,articles_test/10.1016.j.msea.2017.03.031/figures/gr8.jpg,Fig. 8,"Dislocation configurations at 600°C after subjected to deformation up to strains of (a), (b) and (c) 1%, (d) and (e) 20% (ε̇=3×10−4s−1)."
+f0045,articles_test/10.1016.j.msea.2017.03.031/figures/gr9.jpg,Fig. 9,(a) Temperature and (b) strain rate dependence of critical strain.
+f0050,articles_test/10.1016.j.msea.2017.03.031/figures/gr10.jpg,Fig. 10,"Plots of (a)ln(ε̇)vsln(εc)for estimating the value of(m+β), (b)ln(εc)vs1/Tand (c)ln(εc(m+β)/T)vs1/Tfor determining the activation energies of serrated flow using different solute-dislocation interaction models."

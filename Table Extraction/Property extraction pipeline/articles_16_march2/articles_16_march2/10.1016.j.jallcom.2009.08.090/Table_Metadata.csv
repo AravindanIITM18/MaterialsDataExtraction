@@ -1,0 +1,13 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2009.08.090/tables/Table 1.csv,Table 1,"EDS analyses (at%) for C-x.
+a
+.","{'a': 'Volume fractions in duplex region are shown. ""Designed"" means the designed compositions. The volume fractions of FCC and BCC phases in the transition region calculated by hardness information shown in Fig. 3 and by Eq. (1).', 'b': 'Shows the FCC-BCC transition region.'}"
+tbl2,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2009.08.090/tables/Table 2.csv,Table 2,Lattice constants and hardness of C-x.,{'a': 'Shows the FCC-BCC transition region.'}
+tbl3,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2009.08.090/tables/Table 3.csv,Table 3,"EDS analyses (at%) for H-x.
+a
+.","{'a': 'Note: N, D, and W denote needle-, droplet-, and wall-shaped, respectively. The volume fractions of FCC and BCC phases in the transition region calculated by hardness information shown in Fig. 6 and by Eq. (1).', 'b': 'Duplex structure is shown, where volume fractions for FCC and BCC are shown in parentheses.'}"
+tbl4,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2009.08.090/tables/Table 4.csv,Table 4,Lattice constants and hardness of H-x.,"{'a': 'N/A means ""not available"".', 'b': 'Shows the FCC-BCC transition region.'}"
+tbl5,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2009.08.090/tables/Table 5.csv,Table 5,"Lattice constants, hardness and hardening ratio for D-x.","{'a': 'N/A means ""not available"". Gray area shows the transition region.', 'b': 'Shows the FCC-BCC transition region.'}"
+tbl6,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2009.08.090/tables/Table 6.csv,Table 6,"EDS analyses (at%) for D-x.
+a
+.","{'a': 'Volume fractions of phases are shown in the parentheses. N, D, and W denote needle-, droplet-, and wall-shaped phases, respectively.', 'b': 'Shows the FCC-BCC transition region.'}"

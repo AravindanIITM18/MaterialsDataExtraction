@@ -1,0 +1,18 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Co25Ni25Fe25Al7.5Cu17.5,SPS,-,Yield Strength(Tension),1795,MPa
+Co25Ni25Fe25Al7.5Cu17.5,Casting,-,Ultimate Tensile Strength(Tension),1936,MPa
+Co25Ni25Fe25Al7.5Cu17.5,Casting,-,Ductility,>44.2,%EL
+Co20Ni20Fe20Cr20Cu20,Casting,-,Yield Strength(Tension),230,MPa
+Co20Ni20Fe20Cr20Cu20,Casting,-,Ductility,>50.2,%EL
+Co18.2Ni18.2Fe18.2Cr18.2Ti9.0Cu18.2,Casting,-,Yield Strength(Tension),700,MPa
+Co18.2Ni18.2Fe18.2Cr18.2Ti9.0Cu18.2,Casting,-,Ultimate Tensile Strength(Tension),1650,MPa
+Co18.2Ni18.2Fe18.2Cr18.2Al9.0Cu18.2,Casting,-,Yield Strength(Tension),460,MPa
+Co18.2Ni18.2Fe18.2Cr18.2Al9.0Cu18.2,Casting,-,Ductility,>51.5,%EL
+Co25Ni25Fe25Cr25,Casting,-,Yield Strength(Tension),136,MPa
+Co25Ni25Fe25Cr25,Casting,-,Ultimate Tensile Strength(Tension),871,MPa
+Co23.25Ni23.25Fe23.25Cr23.25Mo7.00,Casting,-,Yield Strength(Tension),305,MPa
+Co23.25Ni23.25Fe23.25Cr23.25Mo7.00,Casting,-,Ultimate Tensile Strength(Tension),1269,MPa
+Co23.25Ni23.25Fe23.25Cr23.25Ti7.00,Casting,-,Yield Strength(Tension),648,MPa
+Co23.25Ni23.25Fe23.25Cr23.25Ti7.00,Casting,-,Ultimate Tensile Strength(Tension),1529,MPa
+Co29.41Ni29.41Fe29.42Al5.88Si5.88,Casting,-,Yield Strength(Tension),342,MPa
+Co29.41Ni29.41Fe29.42Al5.88Si5.88,Casting,-,Ductility,>50,%EL

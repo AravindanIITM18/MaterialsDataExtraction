@@ -1,0 +1,35 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeCoCrNi,-,77,Yield Strength(Tension),480,MPa
+FeCoCrNi,-,77,Ultimate Tensile Strength(Tension),1725,MPa
+FeCoCrNi,-,77,Ductility,55,%
+FeCoCrNi,-,293,Yield Strength(Tension),260,MPa
+FeCoCrNi,-,293,Ultimate Tensile Strength(Tension),980,MPa
+FeCoCrNi,-,293,Ductility,45,%
+FeCoCrNiMo0.23,-,77,Yield Strength(Tension),602,MPa
+FeCoCrNiMo0.23,-,77,Ultimate Tensile Strength(Tension),1863,MPa
+FeCoCrNiMo0.23,-,77,Ductility,51,%
+FeCoCrNiMo0.23,-,293,Yield Strength(Tension),360,MPa
+FeCoCrNiMo0.23,-,293,Ultimate Tensile Strength(Tension),1238,MPa
+FeCoCrNiMo0.23,-,293,Ductility,48,%
+CrCoNi [23],-,77,Yield Strength(Tension),560,MPa
+CrCoNi [23],-,77,Ultimate Tensile Strength(Tension),1625,MPa
+CrCoNi [23],-,77,Ductility,44,%
+CrCoNi [23],-,293,Yield Strength(Tension),360,MPa
+CrCoNi [23],-,293,Ultimate Tensile Strength(Tension),750,MPa
+CrCoNi [23],-,293,Ductility,30,%
+CrMnFeCoNi [6],-,77,Yield Strength(Tension),460,MPa
+CrMnFeCoNi [6],-,77,Ultimate Tensile Strength(Tension),1060,MPa
+CrMnFeCoNi [6],-,77,Ductility,60,%
+CrMnFeCoNi [6],-,293,Yield Strength(Tension),265,MPa
+CrMnFeCoNi [6],-,293,Ultimate Tensile Strength(Tension),600,MPa
+CrMnFeCoNi [6],-,293,Ductility,45,%
+FeCoCrNi HEA,-,77,Young's modulus,146.3,GPa
+FeCoCrNi HEA,-,77,Young's modulus,97.0,GPa
+FeCoCrNi HEA,-,77,Young's modulus,191.6,GPa
+FeCoCrNi HEA,-,77,Young's modulus,214.0,GPa
+FeCoCrNi HEA,-,77,Young's modulus,229,GPa
+FeCoCrNi HEA,-,293,Young's modulus,136.6,GPa
+FeCoCrNi HEA,-,293,Young's modulus,98.0,GPa
+FeCoCrNi HEA,-,293,Young's modulus,175.0,GPa
+FeCoCrNi HEA,-,293,Young's modulus,237.2,GPa
+FeCoCrNi HEA,-,293,Young's modulus,190,GPa

@@ -1,0 +1,38 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al2(NiCoFeCr)14 (M1111),-, -,Yield Strength(Tension),614,MPa
+Al2(NiCoFeCr)14 (M1111),-, -,Ultimate Tensile Strength(Tension),930,MPa
+Al2(NiCoFeCr)14 (M1111),-, -,Ductility,15.6,%EL
+Al2(Ni4Co4Fe3Cr3)14 (M4433),-, -,Yield Strength(Tension),387,MPa
+Al2(Ni4Co4Fe3Cr3)14 (M4433),-, -,Ultimate Tensile Strength(Tension),>728,MPa
+Al2(Ni4Co4Fe3Cr3)14 (M4433),-, -,Ductility,>33.0,%EL
+Al2(NiCoFe2Cr)14 (M1121),-, -,Yield Strength(Tension),1085,MPa
+Al2(NiCoFe2Cr)14 (M1121),-, -,Ultimate Tensile Strength(Tension),1245,MPa
+Al2(NiCoFe2Cr)14 (M1121),-, -,Ductility,8.2,%EL
+Al2(NiCoFeCr2)14 (M1112),-, -,Yield Strength(Tension),1718,MPa
+Al3(NiCoFeCr)14 (Al3M14),-, -,Yield Strength(Tension),1399,MPa
+M1121 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(Taylor factor),2.73,- 
+M1121 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(shear modulus),83,GPa
+M1121 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(Burger's vector),0.2478,nm
+M1121 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(Poisson ratio),0.30,- 
+M1121 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(lattice misfit),-0.38,- 
+M1121 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(volume fraction),0.400,- 
+M1121 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(average size of precipitates),70,nm 
+M1121 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(optimal size of precipitates),60,nm 
+,,,,,
+M1112 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(Taylor factor),2.73,- 
+M1112 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(shear modulus),83,GPa
+M1112 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(Burger's vector),0.2473,nm
+M1112 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(Poisson ratio),0.30,- 
+M1112 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(lattice misfit),0.45,- 
+M1112 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(volume fraction),0.550,- 
+M1112 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(average size of precipitates),100,nm 
+M1112 (Al12.5Ni17.5Co17.5Fe35Cr17.5 at. %),-, -,Others(optimal size of precipitates),88,nm 
+,,,,,
+(FeCoNiCr)94Ti2Al4 (at. %),-, -,Others(Taylor factor),3.06,- 
+(FeCoNiCr)94Ti2Al4 (at. %),-, -,Others(shear modulus),81,GPa
+(FeCoNiCr)94Ti2Al4 (at. %),-, -,Others(Burger's vector),0.2550,nm
+(FeCoNiCr)94Ti2Al4 (at. %),-, -,Others(Poisson ratio),0.33,- 
+(FeCoNiCr)94Ti2Al4 (at. %),-, -,Others(lattice misfit),0.26,- 
+(FeCoNiCr)94Ti2Al4 (at. %),-, -,Others(volume fraction),0.233,- 
+(FeCoNiCr)94Ti2Al4 (at. %),-, -,Others(average size of precipitates),25,nm 
+(FeCoNiCr)94Ti2Al4 (at. %),-, -,Others(optimal size of precipitates),66,nm

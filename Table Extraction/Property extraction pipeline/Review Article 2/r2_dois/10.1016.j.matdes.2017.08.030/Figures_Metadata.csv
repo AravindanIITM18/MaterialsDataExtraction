@@ -1,0 +1,9 @@
+Figure ID,Figure Path,Figure Label,Figure Caption
+f0005,articles_test/10.1016.j.matdes.2017.08.030/figures/gr1.jpg,Fig. 1,"(a) XRD patterns of CoCrFeNiZrxEHEAs, (b) lattice parameters of FCC solid solution and Laves phase."
+f0010,articles_test/10.1016.j.matdes.2017.08.030/figures/gr2.jpg,Fig. 2,"SEM images of (a) CoCrFeNiZr0.1, (b) CoCrFeNiZr0.2, (c) CoCrFeNiZr0.3, (d) CoCrFeNiZr0.4, (e) and (f) CoCrFeNiZr0.5EHEAs."
+f0015,articles_test/10.1016.j.matdes.2017.08.030/figures/gr3.jpg,Fig. 3,"TEM images of typical eutectic microstructures of (a) CoCrFeNiZr0.1, (b) CoCrFeNiZr0.2, (c) CoCrFeNiZr0.3, (d) CoCrFeNiZr0.4, (e) and (f) CoCrFeNiZr0.5EHEAs, and (g) SAED patterns of ‘A’ in panel (f)."
+f0020,articles_test/10.1016.j.matdes.2017.08.030/figures/gr4.jpg,Fig. 4,Hardness of CoCrFeNiZrxEHEAs.
+f0025,articles_test/10.1016.j.matdes.2017.08.030/figures/gr5.jpg,Fig. 5,Load–displacement curves of FCC solid solution and eutectic structures.
+f0030,articles_test/10.1016.j.matdes.2017.08.030/figures/gr6.jpg,Fig. 6,(a) Stress–strain curves and (b)UTS and elongation to failure of CoCrFeNiZrxEHEAs.
+f0035,articles_test/10.1016.j.matdes.2017.08.030/figures/gr7.jpg,Fig. 7,(a) Stress–strain curves and (b)UTS and elongation to failure of the CoCrFeNiZr0.4EHEA at different temperatures.
+f0040,articles_test/10.1016.j.matdes.2017.08.030/figures/gr8.jpg,Fig. 8,"Fracture surfaces of (a) CoCrFeNiZr0.1(RT), (b) CoCrFeNiZr0.2(RT), (c) CoCrFeNiZr0.3(RT), (d) CoCrFeNiZr0.4(RT), (e) CoCrFeNiZr0.4(923K), and (f) CoCrFeNiZr0.4(1023K) EHEAs."

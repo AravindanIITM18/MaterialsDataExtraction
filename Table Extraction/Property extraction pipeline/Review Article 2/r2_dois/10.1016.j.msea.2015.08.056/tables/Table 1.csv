@@ -1,0 +1,10 @@
+Alloys,Milling time (h),Crystalline size (nm),Crystalline size (nm),Lattice strain (%),Lattice strain (%)
+Alloys,Milling time (h),BCC,FCC,BCC,FCC
+Al0.75FeNiCoCr,30,13,10,0.66,0.87
+,50,10,7,0.90,1.28
+,,,,,
+Al0.75FeNiCr,45,14,11,0.57,0.88
+,50,13,10,0.68,0.93
+,,,,,
+Al0.75FeNiCoCrTi0.25,30,13,10,0.67,0.90
+,50,11,9,0.82,0.99

@@ -1,0 +1,52 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msec.2016.12.057\tables\Table 1.csv,Table 1,Chemical composition (at.%) examined by EDX for different regions in arc-melted TiZrNbTaMo HEA.,
+t0010,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msec.2016.12.057\tables\Table 2.csv,Table 2,Several parameters and properties of TiZrNbTaMo HEA and its constituent elements.,{'a': 'Note: lattice parameter of bcc structure at room temperature.'}
+t0015,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msec.2016.12.057\tables\Table 3.csv,Table 3,"Comparison of calculated values using rule of mixtures with experimentally measured data for elastic moduli, microhardness and lattice parameter, as well as predicted Poisson's ratio (n) for global dendritic and interdendritic regions in the TiZrNbTaMo HEA.",
+t0020,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msec.2016.12.057\tables\Table 4.csv,Table 4,Electrochemical properties measured in PBS solution at 37degC for TiZrNbTaMo HEA and several orthopedic alloys.,"{'NA': 'Note: E\ncorr\n=corrosion potential, i\npass\n=passive current density, E\npit\n=pitting potential.'}"
+t0025,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msec.2016.12.057\tables\Table 5.csv,Table 5,"Relative atomic size difference, d
+
+aij
+, and modulus difference, 
+d
+
+
+
+G'ij
+
+ (in bold type), of alloying element pairs, as well as the calculated values of these misfits (d
+
+ai
+, d
+
+G'i
+) for Ti15Zr10Nb20Ta31Mo24 bcc1 phase.",
+t0030,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msec.2016.12.057\tables\Table 6.csv,Table 6,"Relative atomic size difference, d
+
+aij
+, and modulus difference, 
+d
+
+
+
+G'ij
+
+ (in bold type), of alloying element pairs, as well as the calculated values of these misfits (d
+
+ai
+, d
+
+G'i
+) for Ti24Zr43Nb12Ta8Mo13 bcc2 phase.",
+t0035,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msec.2016.12.057\tables\Table 7.csv,Table 7,"Components of calculated strength (s
+y
+
+C
+) and deviation of s
+y
+
+C
+ from experimental strength (s
+y
+
+E
+) for the present TiZrNbTaMo and Senkov's TaNbHfZrTi HEA.",

@@ -1,0 +1,6 @@
+,Yield strength/YS (MPa),Ultimate tensile strength/UTS (MPa),Elongation to failure/ef (%)
+As-received,620,1050,17
+90% Cold-rolled (CR),1625,1800,6
+90% CR+Annealed at 800degC,1108,1200,12
+90% CR+Annealed at 1000degC,844,1175,23
+90% CR+Annealed at 1200degC,648,1075,27

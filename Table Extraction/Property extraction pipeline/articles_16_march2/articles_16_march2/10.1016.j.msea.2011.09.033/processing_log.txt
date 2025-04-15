@@ -1,0 +1,119 @@
+
+Table Table 1:
+Input Table:
+Composition,Nb,Cr,Mo,Ta,Ti,Zr
+At.%,21.84,18.39,10.04,11.86,19.4,18.48
+Wt.%,23.3,10.98,11.06,24.64,10.67,19.36
+
+Retrieved Properties: Wear Resistance, Strength-to-Weight Ratio, H Pick-up, Mass Activity, Vacancy Concentration, Wetting
+Final Output:
+-
+
+Table Table 2:
+Input Table:
+Constituent,Phase,Nb,Cr,Mo,Ta,Ti,Zr
+4mm2 area,BCC1+BCC2+FCC,22.2,18.35,10.15,11.73,19.3,18.27
+Primary bright particles,BCC1,26.8,13.22,14.3,16.8,19.07,9.82
+Matrix between the primary particles,BCC2,18.68,3.09,0.64,3.83,33.16,40.6
+Dark particles inside the matrix,FCC (Laves),12.07,40.74,6.35,6.99,10.78,23.09
+Transition layer,BCC1,26.96,6.74,9.92,14.14,28.08,14.16
+
+Retrieved Properties: MOR Activity, Crystal Structure, Elastic Moduli, Crystallinity, Figure of Merit, Friction, Zener Ratio, ZT Value, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbCrMo0.5Ta0.5TiZr,-,4mm2 area,Chemical Composition,Nb: 22.2; Cr: 18.35; Mo: 10.15; Ta: 11.73; Ti: 19.3; Zr: 18.27,at%
+NbCrMo0.5Ta0.5TiZr,-,Primary bright particles,Chemical Composition,Nb: 26.8; Cr: 13.22; Mo: 14.3; Ta: 16.8; Ti: 19.07; Zr: 9.82,at%
+NbCrMo0.5Ta0.5TiZr,-,Matrix between the primary particles,Chemical Composition,Nb: 18.68; Cr: 3.09; Mo: 0.64; Ta: 3.83; Ti: 33.16; Zr: 40.6,at%
+NbCrMo0.5Ta0.5TiZr,-,Dark particles inside the matrix,Chemical Composition,Nb: 12.07; Cr: 40.74; Mo: 6.35; Ta: 6.99; Ti: 10.78; Zr: 23.09,at%
+NbCrMo0.5Ta0.5TiZr,-,Transition layer,Chemical Composition,Nb: 26.96; Cr: 6.74; Mo: 9.92; Ta: 14.14; Ti: 28.08; Zr: 14.16,at%
+
+Table Table 3:
+Input Table:
+Unnamed: 0,Metal,Metal.1,Metal.2,Metal.3,Metal.4,Metal.5,Metal.6,Metal.7,Metal.8,Metal.9
+nan,Nb,Cr,Mo,Ta,Ti,Zr,BCC1 Calc,BCC2 Calc,BCC1 HIP,BCC2 HIP
+a (pm),330.1,288.4,315.0,330.3,327.6,358.2,324.7,339.3,324.8,341.0
+
+Retrieved Properties: Lattice Parameter, Lattice Strain, Lattice Constants
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Nb,-,-,Lattice Parameter,330.1,pm
+Cr,-,-,Lattice Parameter,288.4,pm
+Mo,-,-,Lattice Parameter,315.0,pm
+Ta,-,-,Lattice Parameter,330.3,pm
+Ti,-,-,Lattice Parameter,327.6,pm
+Zr,-,-,Lattice Parameter,358.2,pm
+BCC1 Calc,-,-,Lattice Parameter,324.7,pm
+BCC2 Calc,-,-,Lattice Parameter,339.3,pm
+BCC1 HIP,-,-,Lattice Parameter,324.8,pm
+BCC2 HIP,-,-,Lattice Parameter,341.0,pm
+
+Table Table 4:
+Input Table:
+Unnamed: 0,Metal,Metal.1,Metal.2,Metal.3,Metal.4,Metal.5,Metal.6,Metal.7,Metal.8
+nan,Nb,Cr,Mo,Ta,Ti,Zr,Alloy (Calc),Alloy Cast (Exp),Alloy HIP (Exp)
+r (g/cm3),8.57,7.14,10.28,16.65,4.51,6.51,8.23,8.02,8.23
+
+Retrieved Properties: Density, Mass Density, Relative Density
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbCrMo0.5Ta0.5TiZr,-,-,Density,8.23,g/cm³
+NbCrMo0.5Ta0.5TiZr,-,-,Density,8.02,g/cm³
+NbCrMo0.5Ta0.5TiZr,-,-,Density,8.23,g/cm³
+
+Table Table 5:
+Input Table:
+Unnamed: 0,Metal,Metal.1,Metal.2,Metal.3,Metal.4,Metal.5,Metal.6,Metal.7
+nan,Nb,Cr,Mo,Ta,Ti,Zr,Alloy (Calc),Alloy (Exp)
+H  v  (MPa),1320,1060,1530,873,970,903,1097,5288
+
+Retrieved Properties: Indentation Properties, Hardness
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbCrMo0.5Ta0.5TiZr,-,Room Temperature,Hardness,1097,MPa
+NbCrMo0.5Ta0.5TiZr,-,Room Temperature,Hardness,5288,MPa
+
+Table Table 6:
+Input Table:
+Unnamed: 0,T (K),T (K).1,T (K).2,T (K).3
+nan,296.0,1073.0,1273,1473
+s 0.2 (MPa),1595.0,983.0,546,170
+s p (MPa),2046.0,1100.0,630,190
+e f (%),5.0,5.5,No fracture,No fracture
+
+Retrieved Properties: Stress, Compression, Yield Strength, Fracture, Compressive Strength, Strain
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 296 ;Strain rate(in s-1): 10-3,Compressive Strength,1595.0,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1073 ;Strain rate(in s-1): 10-3,Compressive Strength,983.0,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1273 ;Strain rate(in s-1): 10-3,Compressive Strength,546,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1473 ;Strain rate(in s-1): 10-3,Compressive Strength,170,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 296 ;Strain rate(in s-1): 10-3,Yield Strength,2046.0,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1073 ;Strain rate(in s-1): 10-3,Yield Strength,1100.0,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1273 ;Strain rate(in s-1): 10-3,Yield Strength,630,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1473 ;Strain rate(in s-1): 10-3,Yield Strength,190,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 296 ;Strain rate(in s-1): 10-3,Fracture Strain,5.0,% 
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1073 ;Strain rate(in s-1): 10-3,Fracture Strain,5.5,% 
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1273 ;Strain rate(in s-1): 10-3,Fracture Strain,No fracture,- 
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1473 ;Strain rate(in s-1): 10-3,Fracture Strain,No fracture,- 
+
+Table Table 7:
+Input Table:
+Constituent,Phase,Nb,Cr,Mo,Ta,Ti,Zr
+6.0mm2 area,BCC1+BCC2+FCC,22.2,18.39,10.07,11.78,19.36,18.2
+Primary bright particles,BCC1+FCC,26.93,13.29,13.76,16.06,19.38,10.57
+Bright region inside primary particles,BCC1,27.62,11.53,13.97,16.29,20.06,10.53
+Dark precipitates inside primary particles,FCC (Laves),17.91,30.3,11.19,11.19,13.3,16.12
+Dark matrix between primary particles,BCC2,20.35,2.54,1.23,4.57,31.41,39.9
+Dark particles inside the matrix,FCC (Laves),11.9,41.06,6.74,7.11,10.48,22.71
+Bright particles inside the tails,BCC1,27.59,6.8,8.27,12.9,28.01,16.44
+
+Retrieved Properties: Entropy, Fatigue, Pitting Potential
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: 6.0mm2 area; Phase: BCC1+BCC2+FCC,Chemical Composition,Nb: 22.2; Cr: 18.39; Mo: 10.07; Ta: 11.78; Ti: 19.36; Zr: 18.2,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Primary bright particles; Phase: BCC1+FCC,Chemical Composition,Nb: 26.93; Cr: 13.29; Mo: 13.76; Ta: 16.06; Ti: 19.38; Zr: 10.57,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Bright region inside primary particles; Phase: BCC1,Chemical Composition,Nb: 27.62; Cr: 11.53; Mo: 13.97; Ta: 16.29; Ti: 20.06; Zr: 10.53,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Dark precipitates inside primary particles; Phase: FCC (Laves),Chemical Composition,Nb: 17.91; Cr: 30.3; Mo: 11.19; Ta: 11.19; Ti: 13.3; Zr: 16.12,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Dark matrix between primary particles; Phase: BCC2,Chemical Composition,Nb: 20.35; Cr: 2.54; Mo: 1.23; Ta: 4.57; Ti: 31.41; Zr: 39.9,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Dark particles inside the matrix; Phase: FCC (Laves),Chemical Composition,Nb: 11.9; Cr: 41.06; Mo: 6.74; Ta: 7.11; Ti: 10.48; Zr: 22.71,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Bright particles inside the tails; Phase: BCC1,Chemical Composition,Nb: 27.59; Cr: 6.8; Mo: 8.27; Ta: 12.9; Ti: 28.01; Zr: 16.44,at%

@@ -1,0 +1,7 @@
+Element,Co,Cr,Fe,Ni,Mn,V
+"Atomic radius, pm",125,128,126,124,127,134
+"Shear Modulus, GPa",75,115,82,76,81,47
+Pauling Electronegativity,1.88,1.66,1.83,1.91,1.55,1.63
+VEC,9,6,8,10,7,5
+"Tm , K",1768,2180,1811,1728,1519,2183
+Crystal structure,"FCC (T >422degC), Hexagonal (T <422degC)",BCC,"BCC (T >1394degC), FCC (911degC< T <1394degC), BCC (T <911degC)",FCC,"BCC (T >1138degC), FCC (1087degC< T <1139degC), Complex Cubic (T <1138degC)",BCC

@@ -1,0 +1,9 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2008.04.011/tables/Table 1.csv,Table 1,"Chemical composition (wt%) of the Al
+x
+CrFe1.5MnNi0.5 alloys",
+tbl2,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2008.04.011/tables/Table 2.csv,Table 2,"Electrochemical parameters of the Al
+x
+CrFe1.5MnNi0.5 alloys and the 304 stainless steel in 0.5M H2SO4 solution",
+tbl3,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2008.04.011/tables/Table 3.csv,Table 3,Electrochemical parameters of the CrFe1.5MnNi0.5 and Al0.3CrFe1.5MnNi0.5 alloys in 0.5M H2SO4 with different concentrations (0-0.5M) of NaCl solutions,{'a': 'Passive region observed was so small that it can be neglected.'}
+tbl4,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2008.04.011/tables/Table 4.csv,Table 4,"Equivalent circuit elements values for EIS data corresponding to Al0CrFe1.5MnNi0.5 (Al0), Al0.3CrFe1.5MnNi0.5 (Al0.3), Al0.5CrFe1.5MnNi0.5 (Al0.5) alloys and 304 stainless steel (304s) in 0.5M H2SO4 solution",

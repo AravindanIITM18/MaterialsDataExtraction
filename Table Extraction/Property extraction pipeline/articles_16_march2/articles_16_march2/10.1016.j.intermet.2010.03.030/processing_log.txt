@@ -1,0 +1,97 @@
+
+Table Table 1:
+Input Table:
+Unnamed: 0,Unnamed: 1,Cu (%),Co (%),Cr (%),Fe (%),Ni (%),Unnamed: 7,Unnamed: 8,Cu (%).1,Co (%).1,Cr (%).1,Fe (%).1,Ni (%).1
+as-cast,ID,68,7,8,7,10,650 degC,ID,72,6,6,6,9
+as-cast,DR,10,22,24,22,22,650 degC,DR,13,21,24,22,19
+350 degC,ID,71,6,6,6,11,800 degC,ID,72,6,5,6,9
+350 degC,DR,10,23,23,23,21,800 degC,DR,15,19,27,20,20
+500 degC,ID,70,7,6,7,11,950 degC,ID,73,6,5,6,9
+500 degC,DR,9,25,22,23,20,950 degC,DR,8,23,22,23,22
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Cu0.5CoCrFeNi,as-cast; ID,-,Chemical Composition,Cu: 68; Co: 7; Cr: 8; Fe: 7; Ni: 10,at%
+Cu0.5CoCrFeNi,as-cast; DR,-,Chemical Composition,Cu: 10; Co: 22; Cr: 24; Fe: 22; Ni: 22,at%
+Cu0.5CoCrFeNi,350 degC; ID,-,Chemical Composition,Cu: 71; Co: 6; Cr: 6; Fe: 6; Ni: 11,at%
+Cu0.5CoCrFeNi,350 degC; DR,-,Chemical Composition,Cu: 10; Co: 23; Cr: 23; Fe: 23; Ni: 21,at%
+Cu0.5CoCrFeNi,500 degC; ID,-,Chemical Composition,Cu: 70; Co: 7; Cr: 6; Fe: 7; Ni: 11,at%
+Cu0.5CoCrFeNi,500 degC; DR,-,Chemical Composition,Cu: 9; Co: 25; Cr: 22; Fe: 23; Ni: 20,at%
+Cu0.5CoCrFeNi,650 degC; ID,-,Chemical Composition,Cu: 72; Co: 6; Cr: 6; Fe: 6; Ni: 9,at%
+Cu0.5CoCrFeNi,650 degC; DR,-,Chemical Composition,Cu: 13; Co: 21; Cr: 24; Fe: 22; Ni: 19,at%
+Cu0.5CoCrFeNi,800 degC; ID,-,Chemical Composition,Cu: 72; Co: 6; Cr: 5; Fe: 6; Ni: 9,at%
+Cu0.5CoCrFeNi,800 degC; DR,-,Chemical Composition,Cu: 15; Co: 19; Cr: 27; Fe: 20; Ni: 20,at%
+Cu0.5CoCrFeNi,950 degC; ID,-,Chemical Composition,Cu: 73; Co: 6; Cr: 5; Fe: 6; Ni: 9,at%
+Cu0.5CoCrFeNi,950 degC; DR,-,Chemical Composition,Cu: 8; Co: 23; Cr: 22; Fe: 23; Ni: 22,at%
+
+Table Table 2:
+Input Table:
+Unnamed: 0,Unnamed: 1,Cu (%),Co (%),Cr (%),Fe (%),Ni (%)
+1100 degC,ID,62,9,10,8,8
+1100 degC,DR,28,23,24,20,8
+1100 degC,CP,4,20,35,27,3
+1250 degC,ID,66,9,10,9,6
+1250 degC,DR,23,24,24,21,8
+1250 degC,CP,5,6,82,5,2
+1350 degC,ID,67,9,10,8,5
+1350 degC,DR,22,23,23,22,9
+1350 degC,CP,5,6,80,5,4
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Cu0.5CoCrFeNi,ID,Aging temperature: 1100 degC,Chemical Composition,Cu: 62; Co: 9; Cr: 10; Fe: 8; Ni: 8,at%
+Cu0.5CoCrFeNi,DR,Aging temperature: 1100 degC,Chemical Composition,Cu: 28; Co: 23; Cr: 24; Fe: 20; Ni: 8,at%
+Cu0.5CoCrFeNi,CP,Aging temperature: 1100 degC,Chemical Composition,Cu: 4; Co: 20; Cr: 35; Fe: 27; Ni: 3,at%
+Cu0.5CoCrFeNi,ID,Aging temperature: 1250 degC,Chemical Composition,Cu: 66; Co: 9; Cr: 10; Fe: 9; Ni: 6,at%
+Cu0.5CoCrFeNi,DR,Aging temperature: 1250 degC,Chemical Composition,Cu: 23; Co: 24; Cr: 24; Fe: 21; Ni: 8,at%
+Cu0.5CoCrFeNi,CP,Aging temperature: 1250 degC,Chemical Composition,Cu: 5; Co: 6; Cr: 82; Fe: 5; Ni: 2,at%
+Cu0.5CoCrFeNi,ID,Aging temperature: 1350 degC,Chemical Composition,Cu: 67; Co: 9; Cr: 10; Fe: 8; Ni: 5,at%
+Cu0.5CoCrFeNi,DR,Aging temperature: 1350 degC,Chemical Composition,Cu: 22; Co: 23; Cr: 23; Fe: 22; Ni: 9,at%
+Cu0.5CoCrFeNi,CP,Aging temperature: 1350 degC,Chemical Composition,Cu: 5; Co: 6; Cr: 80; Fe: 5; Ni: 4,at%
+
+Table Table 3:
+Input Table:
+Unnamed: 0,E corr (VSCE),i corr (A cm-2),E pit (VSCE)
+304 L,-0.2,1.29 x 10-9,0.35
+As-cast,-0.28,2.03 x 10-9,0.07
+350 degC,-0.51,3.91 x 10-8,0.06
+500 degC,-0.42,1.17 x 10-7,0.06
+650 degC,-0.49,2.11 x 10-8,0.02
+800 degC,-0.29,1.71 x 10-8,0.01
+950 degC,-0.43,1.10 x 10-7,0.03
+1100 degC,-0.4,1.41 x 10-7,0.05
+1250 degC,-0.27,5.13 x 10-9,0.04
+1350 degC,-0.41,4.58 x 10-8,0.05
+
+Retrieved Properties: Pitting Potential, Pitting Resistance, Elastic Moduli, Breakdown Potential, Critical Current Density for Passivation, Elasticity, Corrosion Resistance, Corrosion Potential, Corrosion Current Density
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Cu0.5CoCrFeNi,As-cast,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.28,VSCE
+Cu0.5CoCrFeNi,As-cast,3.5% NaCl solution at 25 degC,Corrosion Current Density,2.03 x 10-9,A cm-2
+Cu0.5CoCrFeNi,As-cast,3.5% NaCl solution at 25 degC,Pitting Potential,0.07,VSCE
+Cu0.5CoCrFeNi,350 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.51,VSCE
+Cu0.5CoCrFeNi,350 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,3.91 x 10-8,A cm-2
+Cu0.5CoCrFeNi,350 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.06,VSCE
+Cu0.5CoCrFeNi,500 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.42,VSCE
+Cu0.5CoCrFeNi,500 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,1.17 x 10-7,A cm-2
+Cu0.5CoCrFeNi,500 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.06,VSCE
+Cu0.5CoCrFeNi,650 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.49,VSCE
+Cu0.5CoCrFeNi,650 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,2.11 x 10-8,A cm-2
+Cu0.5CoCrFeNi,650 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.02,VSCE
+Cu0.5CoCrFeNi,800 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.29,VSCE
+Cu0.5CoCrFeNi,800 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,1.71 x 10-8,A cm-2
+Cu0.5CoCrFeNi,800 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.01,VSCE
+Cu0.5CoCrFeNi,950 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.43,VSCE
+Cu0.5CoCrFeNi,950 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,1.10 x 10-7,A cm-2
+Cu0.5CoCrFeNi,950 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.03,VSCE
+Cu0.5CoCrFeNi,1100 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.4,VSCE
+Cu0.5CoCrFeNi,1100 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,1.41 x 10-7,A cm-2
+Cu0.5CoCrFeNi,1100 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.05,VSCE
+Cu0.5CoCrFeNi,1250 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.27,VSCE
+Cu0.5CoCrFeNi,1250 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,5.13 x 10-9,A cm-2
+Cu0.5CoCrFeNi,1250 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.04,VSCE
+Cu0.5CoCrFeNi,1350 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.41,VSCE
+Cu0.5CoCrFeNi,1350 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,4.58 x 10-8,A cm-2
+Cu0.5CoCrFeNi,1350 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.05,VSCE

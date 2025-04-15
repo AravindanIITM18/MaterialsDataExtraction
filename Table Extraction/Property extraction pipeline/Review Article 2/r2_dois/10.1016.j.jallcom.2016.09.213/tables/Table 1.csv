@@ -1,0 +1,6 @@
+Alloy,Alloy,Volume fractions (%),Volume fractions (%),Volume fractions (%),Volume fractions (%),Volume fractions (%),Volume fractions (%)
+Alloy,Alloy,x = 0.2,x = 0.4,x = 0.5,x = 0.6,x = 0.8,x = 0.9
+I x,FCC,100,87,68,33,0,0
+I x,BCC,0,13,32,67,100,100
+R x,FCC,100,100,64,0,0,0
+R x,BCC,0,0,36,100,100,100

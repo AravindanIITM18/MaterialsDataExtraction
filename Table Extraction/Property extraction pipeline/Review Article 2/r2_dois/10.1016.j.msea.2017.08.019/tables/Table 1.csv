@@ -1,0 +1,9 @@
+Phase,"Lattice parameter, nm","Lattice parameter, nm","Lattice parameter, nm"
+B2,Zr5Al3-type phase,C14 (hcp) Laves phase of ZrAlV-type,
+B2,Zr5Al3-type phase,C14 (hcp) Laves phase of ZrAlV-type,Alloy
+AlNbTiV,a = 0.3190 +- 0.0005,-,-
+AlNbTiVZr0.1,a = 0.3196 +- 0.0002,"a = 0.8015 +- 0.0005, c = 0.5122 +- 0.0002",-
+AlNbTiVZr0.25,a = 0.3203 +- 0.0003,"a = 0.7996 +- 0.0002, c = 0.5374 +- 0.0004",-
+AlNbTiVZr0.5,a = 0.3218 +- 0.0003,"a = 0.8021 +- 0.0003, c = 0.5411 +- 0.0002","a = 0.5338 +- 0.0004, c = 0.8727 +- 0.0003"
+AlNbTiVZr,a = 0.3250 +- 0.0012,"a = 0.8029 +- 0.0002, c = 0.5403 +- 0.0002","a = 0.5332 +- 0.0003, c = 0.8741 +- 0.0002"
+AlNbTiVZr1.5,a = 0.3300 +- 0.0014,"a = 0.7992 +- 0.0002, c = 0.5399 +- 0.0002","a = 0.5326 +- 0.0003, c = 0.8726 +- 0.0002"

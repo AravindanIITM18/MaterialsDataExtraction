@@ -1,0 +1,41 @@
+
+Table Table 1:
+Input Table:
+Alloy,Al,Co,Cr,Cu,Fe,Ni
+AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi
+Nominal,20,20,20,20,-,20
+Dendrite,21,21,25,11,-,22
+Interdendrite,13,8,6,58,-,15
+nan,nan,nan,nan,nan,nan,nan
+AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi
+Nominal,17,17,17,17,17,17
+Dendrite,17,17,21,11,18,16
+Interdendrite,12,5,3,63,5,12
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlCoCrCuNi,-,Nominal,Chemical Composition,Al: 20; Co: 20; Cr: 20; Cu: 20; Ni: 20,at%
+AlCoCrCuNi,-,Dendrite,Chemical Composition,Al: 21; Co: 21; Cr: 25; Cu: 11; Ni: 22,at%
+AlCoCrCuNi,-,Interdendrite,Chemical Composition,Al: 13; Co: 8; Cr: 6; Cu: 58; Ni: 15,at%
+AlCoCrCuFeNi,-,Nominal,Chemical Composition,Al: 17; Co: 17; Cr: 17; Cu: 17; Fe: 17; Ni: 17,at%
+AlCoCrCuFeNi,-,Dendrite,Chemical Composition,Al: 17; Co: 17; Cr: 21; Cu: 11; Fe: 18; Ni: 16,at%
+AlCoCrCuFeNi,-,Interdendrite,Chemical Composition,Al: 12; Co: 5; Cr: 3; Cu: 63; Fe: 5; Ni: 12,at%
+
+Table Table 2:
+Input Table:
+Alloys,Microstructure,Hardness (HV)
+AlCoCrCuNi,Cu-rich FCC+SD BCC,419+-6
+AlCoCrCuFeNi,Cu-rich FCC+SD BCC,416+-19
+Golden layer of AgAlCoCrCuNi,Ag+Cu-rich FCC,104+-3
+Silver layer of AgAlCoCrCuNi,BCC+Ag+Cu-rich FCC,451+-9
+AlAuCoCrCuNi,FCC+AuCu,276+-8
+
+Retrieved Properties: Microstructure, Surface Structure, Grain Structure, Hardness
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlCoCrCuNi,-,-,Hardness,419+-6,HV
+AlCoCrCuFeNi,-,-,Hardness,416+-19,HV
+AgAlCoCrCuNi,-,-,Hardness,104+-3,HV
+AgAlCoCrCuNi,-,-,Hardness,451+-9,HV
+AlAuCoCrCuNi,-,-,Hardness,276+-8,HV

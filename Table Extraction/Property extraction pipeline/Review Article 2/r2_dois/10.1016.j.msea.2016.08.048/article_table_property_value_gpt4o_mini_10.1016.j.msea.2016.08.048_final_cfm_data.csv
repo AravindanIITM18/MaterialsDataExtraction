@@ -1,0 +1,16 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+EHEA,As-received,-,Yield Strength(Tension),620,MPa
+EHEA,As-received,-,Ultimate Tensile Strength(Tension),1050,MPa
+EHEA,90% Cold-rolled (CR),-,Yield Strength(Tension),1625,MPa
+EHEA,90% Cold-rolled (CR),-,Ultimate Tensile Strength(Tension),1800,MPa
+EHEA,90% CR+Annealed at 800degC,-,Yield Strength(Tension),1108,MPa
+EHEA,90% CR+Annealed at 800degC,-,Ultimate Tensile Strength(Tension),1200,MPa
+EHEA,90% CR+Annealed at 1000degC,-,Yield Strength(Tension),844,MPa
+EHEA,90% CR+Annealed at 1000degC,-,Ultimate Tensile Strength(Tension),1175,MPa
+EHEA,90% CR+Annealed at 1200degC,-,Yield Strength(Tension),648,MPa
+EHEA,90% CR+Annealed at 1200degC,-,Ultimate Tensile Strength(Tension),1075,MPa
+EHEA,As-received,-,Ductility,17,%EL
+EHEA,90% Cold-rolled (CR),-,Ductility,6,%EL
+EHEA,90% CR+Annealed at 800degC,-,Ductility,12,%EL
+EHEA,90% CR+Annealed at 1000degC,-,Ductility,23,%EL
+EHEA,90% CR+Annealed at 1200degC,-,Ductility,27,%EL

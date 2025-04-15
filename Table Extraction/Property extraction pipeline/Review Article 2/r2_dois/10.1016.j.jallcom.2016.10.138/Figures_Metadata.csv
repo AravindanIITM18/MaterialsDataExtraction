@@ -1,0 +1,13 @@
+Figure ID,Figure Path,Figure Label,Figure Caption
+fig1,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr1.jpg,Fig. 1,XRD spectrum of as-deposited and aged AlCoCrFeNi samples.
+fig2,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr2.jpg,Fig. 2,"Back-scattered images of AlCoCrFeNi specimens obtained at the cross-section perpendicular to the build direction with various heat treatment conditions: (a), (b), (c), (d), (e) for as-deposited, aged at 600 °C-168 h, 800 °C-168 h, 1000 °C-168 h and 1200 °C-168 h respectively. (f), (g), (h), (i), (j) are higher magnification corresponding to (a), (b), (c), (d), (e)."
+fig3,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr3.jpg,Fig. 3,EBSD phase map of 600 °C aged specimen obtained at the cross-section perpendicular to the build direction.
+fig4,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr4.jpg,Fig. 4,Bright Field TEM image of 600 °C aged specimen obtained at the cross-section perpendicular to the build direction and diffraction pattern taken from matrix and precipitate. The electron beam incidence direction of each phase is parallel to 〈100〉.
+fig5,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr5.jpg,Fig. 5,"Three dimensional reconstruction of Al, Co, Cr, Fe and Ni atom positions in AlCoCrFeNi aged at 600 °C for 168 h."
+fig6,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr6.jpg,Fig. 6,EDS map of AlCoCrFeNi aged at 800 °C for 168 h.
+fig7,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr7.jpg,Fig. 7,EDS map of AlCoCrFeNi aged at 1000 °C for 168 h.
+fig8,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr8.jpg,Fig. 8,EDS map of AlCoCrFeNi aged at 1200 °C for 168 h.
+fig9,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr9.jpg,Fig. 9,Compression true stress-strain curve of AlCoCrFeNi aged at various temperatures for 168 h.
+fig10,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr10.jpg,Fig. 10,"SEM images of the fracture surfaces of AlCoCrFeNi aged at 600 °C (a and b), 800 °C (c and d), 1000 °C (e and f) and 1200 °C (g and h) after compression test."
+fig11,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr11.jpg,Fig. 11,"Polarization diagrams for AlCoCrFeNi aged at 800 °C, 1000 °C and 1200 °C in 0.6 M NaCl solution at room temperature."
+fig12,articles_test/10.1016.j.jallcom.2016.10.138/figures/gr12.jpg,Fig. 12,"SEM images of the corroded surfaces of AlCoCrFeNi aged at 800 °C (a), 1000 °C (b) and 1200 °C (c) after polarization test."

@@ -1,0 +1,10 @@
+,Alloys,Process,s  y  (MPa),s  max  (MPa),e  f  (%),Hardness(Hv),Refs.
+#1,Co25Ni25Fe25Al7.5Cu17.5,SPS,1795,1936,10.6,454,This work
+#2,Co25Ni25Fe25Al7.5Cu17.5,Casting,192,-,>44.2,129,This work
+#3,Co20 Ni20Fe20Cr20Cu20,Casting,230,-,>50.2,286,"[10,13]"
+#4,Co18.2Ni18.2Fe18.2Cr18.2Ti9.0Cu18.2,Casting,700,1650,21.6,-,[10]
+#5,Co18.2Ni18.2Fe18.2Cr18.2Al9.0Cu18.2,Casting,460,-,>51.5,208,"[11,15]"
+#6,Co25Ni25Fe25Cr25,Casting,136,871,75,-,"[17,18]"
+#7,Co23.25Ni23.25Fe23.25Cr23.25Mo7.00,Casting,305,1269,58,-,[17]
+#8,Co23.25Ni23.25Fe23.25Cr23.25Ti7.00,Casting,648,1529,60,-,[18]
+#9,Co29.41Ni29.41Fe29.42Al5.88Si5.88,Casting,342,-,>50,-,[19]

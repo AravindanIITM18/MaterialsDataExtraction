@@ -1,0 +1,91 @@
+
+Table Table 1:
+Input Table:
+Unnamed: 0,Alloys (wt.%),Alloys (wt.%).1,Alloys (wt.%).2,Alloys (wt.%).3,Alloys (wt.%).4
+nan,Fe,Cr,Ni,Co,Cu
+FeCoNiCr,24.58,25.12,25.92,24.90,-
+FeCoNiCrCu0.5,20.47,16.48,25.48,23.99,13.49
+FeCoNiCrCu,18.78,16.25,21.78,21.50,21.69
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeCoNiCr,-,-,Composition,Fe: 24.58; Cr: 25.12; Ni: 25.92; Co: 24.90; Cu: 0,- 
+FeCoNiCrCu0.5,-,-,Composition,Fe: 20.47; Cr: 16.48; Ni: 25.48; Co: 23.99; Cu: 13.49,- 
+FeCoNiCrCu,-,-,Composition,Fe: 18.78; Cr: 16.25; Ni: 21.78; Co: 21.50; Cu: 21.69,- 
+
+Table Table 2:
+Input Table:
+Unnamed: 0,FeCoNiCrCu0.5 (at.%),FeCoNiCrCu0.5 (at.%).1,FeCoNiCrCu (at.%),FeCoNiCrCu (at.%).1
+nan,Interdendrite,Dendrite,Interdendrite,Dendrite
+Cu,82.18,11.68,86.68,9.56
+Fe,0.90,21.80,3.46,23.58
+Co,1.08,24.45,2.67,24.67
+Ni,11.60,22.73,5.41,21.34
+Cr,4.24,19.34,1.78,21.08
+
+Retrieved Properties: Discharge Potential, Cell Voltage, Electrical Conductivity, Ionic Conductivity, Intermetallics
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeCoNiCrCu0.5,as-cast,Interdendrite,Chemical Composition,Cu: 82.18; Fe: 0.90; Co: 1.08; Ni: 11.60; Cr: 4.24,at%
+FeCoNiCrCu0.5,as-cast,Dendrite,Chemical Composition,Cu: 11.68; Fe: 21.80; Co: 24.45; Ni: 22.73; Cr: 19.34,at%
+FeCoNiCrCu,as-cast,Interdendrite,Chemical Composition,Cu: 86.68; Fe: 3.46; Co: 2.67; Ni: 5.41; Cr: 1.78,at%
+FeCoNiCrCu,as-cast,Dendrite,Chemical Composition,Cu: 9.56; Fe: 23.58; Co: 24.67; Ni: 21.34; Cr: 21.08,at%
+
+Table Table 3:
+Input Table:
+Unnamed: 0,DH chem (kJmol-1)
+CuFe,13
+CuCo,10
+CuNi,4
+CoNi,0
+CuCr,-1
+FeCo,-1
+FeCr,-1
+FeNi,-2
+CoCr,-4
+NiCr,-7
+
+Retrieved Properties: Composition, Dehydrogenation Enthalpy, Electrochemical Properties
+Final Output:
+-
+
+Table Table 4:
+Input Table:
+Unnamed: 0,FeCoNiCr,FeCoNiCrCu0.5,FeCoNiCrCu
+Immersion test,7.62x10-4,8.89x10-3,1.14x10-2
+Polarization curve,3.31x10-4,7.46x10-3,1.37x10-2
+
+Retrieved Properties: Corrosion Potential, Corrosion Rate, Corrosion Resistance
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeCoNiCr,-,Immersion test,Corrosion Rate,7.62x10-4,mm/year
+FeCoNiCrCu0.5,-,Immersion test,Corrosion Rate,8.89x10-3,mm/year
+FeCoNiCrCu,-,Immersion test,Corrosion Rate,1.14x10-2,mm/year
+FeCoNiCr,-,Polarization curve,Corrosion Rate,3.31x10-4,mm/year
+FeCoNiCrCu0.5,-,Polarization curve,Corrosion Rate,7.46x10-3,mm/year
+FeCoNiCrCu,-,Polarization curve,Corrosion Rate,1.37x10-2,mm/year
+
+Table Table 5:
+Input Table:
+Unnamed: 0,E corr    (VSCE),E pit    (VSCE),i corr    (Acm-2)
+FeCoNiCr,-0.26,0.31,3.15x10-8
+FeCoNiCrCu0.5,-0.29,0.09,7.23x10-7
+FeCoNiCrCu,-0.33,0.08,1.32x10-6
+304L,-0.25,0.23,6.01x10-7
+
+Retrieved Properties: Coercivity, Pitting Potential, Pitting Resistance, Breakdown Potential, Critical Current Density for Passivation, Surface Area, Valence Electron Concentration, Corrosion Resistance, Corrosion Potential, Corrosion Current Density
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeCoNiCr,-,-,Corrosion Potential,-0.26,V
+FeCoNiCr,-,-,Pitting Potential,0.31,V
+FeCoNiCr,-,-,Corrosion Current Density,3.15x10-8,Acm-2
+FeCoNiCrCu0.5,-,-,Corrosion Potential,-0.29,V
+FeCoNiCrCu0.5,-,-,Pitting Potential,0.09,V
+FeCoNiCrCu0.5,-,-,Corrosion Current Density,7.23x10-7,Acm-2
+FeCoNiCrCu,-,-,Corrosion Potential,-0.33,V
+FeCoNiCrCu,-,-,Pitting Potential,0.08,V
+FeCoNiCrCu,-,-,Corrosion Current Density,1.32x10-6,Acm-2
+304L,-,-,Corrosion Potential,-0.25,V
+304L,-,-,Pitting Potential,0.23,V
+304L,-,-,Corrosion Current Density,6.01x10-7,Acm-2

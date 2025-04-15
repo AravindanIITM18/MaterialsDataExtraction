@@ -1,0 +1,1954 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0043164805005144</prism:url><dc:identifier>doi:10.1016/j.wear.2005.12.008</dc:identifier><eid>1-s2.0-S0043164805005144</eid><prism:doi>10.1016/j.wear.2005.12.008</prism:doi><pii>S0043-1648(05)00514-4</pii><dc:title>Adhesive wear behavior of Al
+                  x
+               CoCrCuFeNi high-entropy alloys as a function of aluminum content </dc:title><prism:publicationName>Wear</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00431648</prism:issn><prism:volume>261</prism:volume><prism:issueIdentifier>5-6</prism:issueIdentifier><prism:startingPage>513</prism:startingPage><prism:endingPage>519</prism:endingPage><prism:pageRange>513-519</prism:pageRange><prism:number>5-6</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2006-09-20</prism:coverDate><prism:coverDisplayDate>20 September 2006</prism:coverDisplayDate><prism:copyright>Copyright © 2005 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Wu, Jien-Min</dc:creator><dc:creator>Lin, Su-Jien</dc:creator><dc:creator>Yeh, Jien-Wei</dc:creator><dc:creator>Chen, Swe-Kai</dc:creator><dc:creator>Huang, Yuan-Sheng</dc:creator><dc:creator>Chen, Hung-Cheng</dc:creator><dc:description>
+                  The Al
+                        x
+                     CoCrCuFeNi alloys with different aluminum contents prepared by arc melting were investigated on their adhesive wear behaviors. With increasing aluminum content, both the volume fraction of BCC phase and the hardness value increase, and thus the wear coefficient decreases. Moreover, the wear mechanism changes from delamination wear to oxidative wear. For low aluminum content, x
+                     =0.5, the microstructure is of simple ductile FCC phase and the worn surface is deeply grooved and undergoes a periodic delamination which produces big debris. For medium aluminum content, x
+                     =1.0, the microstructure is a mixture of FCC and BCC phases, and the worn surface is deeply grooved in FCC region but smooth in BCC region. Delamination wear is still dominant although oxidative wear occurs in the smooth region. For high aluminum content, x
+                     =2.0, the microstructure is of BCC phase and the worn surface is smooth and yields fine debris with high oxygen content. The high aluminum content gives a large improvement in wear resistance. This improvement is attributed to its high hardness, which not only resists plastic deformation and delamination, but also brings about the oxidative wear in which oxide film could assist the wear resistance.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>High-entropy alloy</dcterms:subject><dcterms:subject>Adhesive wear</dcterms:subject><dcterms:subject>Wear coefficient</dcterms:subject><dcterms:subject>Friction</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0043164805005144" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0043164805005144" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="114" height="39" size="545">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="325" height="258" size="22150">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="118" height="94" size="2565">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="365" height="245" size="22037">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="84" size="2358">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="729" height="516" size="182442">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="88" size="4713">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="336" height="254" size="17178">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="124" height="94" size="2420">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="735" height="783" size="257288">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="87" height="93" size="3274">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="199" height="132" size="2136">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr2.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="83" size="1239">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="338" height="237" size="3732">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="87" size="1071">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="334" height="819" size="20712">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr8.gif?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="38" height="93" size="841">https://api.elsevier.com/content/object/eid/1-s2.0-S0043164805005144-gr8.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>33747792785</scopus-id><scopus-eid>2-s2.0-33747792785</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/33747792785" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271461</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291787</xocs:ssid>
+         <xocs:ssid type="subj">291864</xocs:ssid>
+         <xocs:ssid type="subj">291893</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Wear</xocs:srctitle>
+      <xocs:normalized-srctitle>WEAR</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20060119">2006-01-19</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20060119">2006-01-19</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-14T02:20:28</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0043164805005144</xocs:eid>
+      <xocs:pii-formatted>S0043-1648(05)00514-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0043164805005144</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.wear.2005.12.008</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0043164806X06270</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T03:01:08.841216-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20060920</xocs:date-search-begin>
+      <xocs:year-nav>2006</xocs:year-nav>
+      <xocs:indexeddate epoch="1137628800">2006-01-19T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0043-1648</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00431648</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>261</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>261</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>5</xocs:iss-first>
+      <xocs:iss-last>6</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>5</xocs:issue>
+         <xocs:issue>6</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 261, Issues 5–6</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>8</xocs:sort-order>
+      <xocs:first-fp>513</xocs:first-fp>
+      <xocs:last-lp>519</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>513</xocs:first-page>
+         <xocs:last-page>519</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20060920</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>20 September 2006</xocs:cover-date-text>
+      <xocs:cover-date-start>2006-09-20</xocs:cover-date-start>
+      <xocs:cover-date-year>2006</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2005 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ADHESIVEWEARBEHAVIORALXCOCRCUFENIHIGHENTROPYALLOYSAFUNCTIONALUMINUMCONTENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental details</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Microstructure and hardness of as-cast Al<ce:inf loc="post">
+                     <ce:italic>x</ce:italic>
+                  </ce:inf>CoCrCuFeNi alloys</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Adhesive wear behavior</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Wear coefficient</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Worn surface and debris</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Coefficient of friction</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-last-lp>303</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>RANGANATHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1404</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1406</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>74</xocs:ref-first-fp>
+            <xocs:ref-last-lp>78</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>HSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1465</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1469</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>TONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>881</xocs:ref-first-fp>
+            <xocs:ref-last-lp>893</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>TONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1263</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1271</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>BLAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>FRICTIONWEARTRANSITIONSMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>SUH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>TRIBOPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>BLAU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>537</xocs:ref-first-fp>
+            <xocs:ref-last-lp>544</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>RIGNEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-last-lp>370</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>KUHLMANNWILSDORF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>FUNDAMENTALSFRICTIONWEARMATERIALS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>DISLOCATIONCONCEPTSINFRICTIONWEAR</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>SUH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>FUNDAMENTALSFRICTIONWEARMATERIALS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>UPDATEDELAMINATIONTHEORYWEAR</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>FARHAT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>401</xocs:ref-first-fp>
+            <xocs:ref-last-lp>408</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>HIRTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DISLOCATIONSINSOLIDS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>APPLICATIONDISLOCATIONCONCEPTSINFRICTIONWEAR</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>REEDHILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHYSICALMETALLURGYPRINCIPLES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>COURTNEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MECHANICALBEHAVIORMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>DIETER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MECHANICALMETALLURGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>DIETER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MECHANICALMETALLURGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>KHRUSCHOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-last-lp>88</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>11</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WUX2006X513</xocs:refkey3>
+         <xocs:refkey4lp>WUX2006X513X519</xocs:refkey4lp>
+         <xocs:refkey4ai>WUX2006X513XJ</xocs:refkey4ai>
+         <xocs:refkey5>WUX2006X513X519XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0043-1648(05)00514-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0043164805005144</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0043164805005144</xocs:eid>
+         <xocs:doi>10.1016/j.wear.2005.12.008</xocs:doi>
+         <xocs:cid>271461</xocs:cid>
+         <xocs:timestamp>2010-12-25T04:36:55.381276-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2006-09-20</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/MAIN/application/pdf/e2886e76c3fafc32db5e1f0a423a9985/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/MAIN/application/pdf/e2886e76c3fafc32db5e1f0a423a9985/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>707447</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0043164805005144-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/PREVIEW/image/png/8c22fe4f0340185c59c0986e5fcfb598/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/PREVIEW/image/png/8c22fe4f0340185c59c0986e5fcfb598/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>67845</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/STRIPIN/image/gif/b2b8bca77460479355cc20b95da27f12/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/STRIPIN/image/gif/b2b8bca77460479355cc20b95da27f12/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>545</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>114</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr4/DOWNSAMPLED/image/jpeg/a7c25be8ed02884a1982d05083156528/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr4/DOWNSAMPLED/image/jpeg/a7c25be8ed02884a1982d05083156528/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22150</xocs:filesize>
+               <xocs:pixel-height>258</xocs:pixel-height>
+               <xocs:pixel-width>325</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr4/THUMBNAIL/image/gif/f2ad8a59d2d7057a7130c18c5c67491d/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr4/THUMBNAIL/image/gif/f2ad8a59d2d7057a7130c18c5c67491d/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2565</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>118</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr5/DOWNSAMPLED/image/jpeg/4103b46599d428c0b8ca8028a2dfbf6f/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr5/DOWNSAMPLED/image/jpeg/4103b46599d428c0b8ca8028a2dfbf6f/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22037</xocs:filesize>
+               <xocs:pixel-height>245</xocs:pixel-height>
+               <xocs:pixel-width>365</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr5/THUMBNAIL/image/gif/7b16e7fb210fa54d33c19e52ba214c2c/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr5/THUMBNAIL/image/gif/7b16e7fb210fa54d33c19e52ba214c2c/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2358</xocs:filesize>
+               <xocs:pixel-height>84</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr3/DOWNSAMPLED/image/jpeg/011d7aee179104359872b0f4f7ca88f1/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr3/DOWNSAMPLED/image/jpeg/011d7aee179104359872b0f4f7ca88f1/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>182442</xocs:filesize>
+               <xocs:pixel-height>516</xocs:pixel-height>
+               <xocs:pixel-width>729</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr3/THUMBNAIL/image/gif/0660d37b58255b2f77ae6062111962df/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr3/THUMBNAIL/image/gif/0660d37b58255b2f77ae6062111962df/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4713</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr6/DOWNSAMPLED/image/jpeg/b2346ce086ddfad3a4a06e42daaa2073/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr6/DOWNSAMPLED/image/jpeg/b2346ce086ddfad3a4a06e42daaa2073/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17178</xocs:filesize>
+               <xocs:pixel-height>254</xocs:pixel-height>
+               <xocs:pixel-width>336</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr6/THUMBNAIL/image/gif/89407863721e35dbafbde8d919e44bfb/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr6/THUMBNAIL/image/gif/89407863721e35dbafbde8d919e44bfb/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2420</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>124</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr7/DOWNSAMPLED/image/jpeg/dcf91ef1dbb2a3bb98e7410c4f8118b6/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr7/DOWNSAMPLED/image/jpeg/dcf91ef1dbb2a3bb98e7410c4f8118b6/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>257288</xocs:filesize>
+               <xocs:pixel-height>783</xocs:pixel-height>
+               <xocs:pixel-width>735</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr7/THUMBNAIL/image/gif/a71a1b7f0c1514f2e45e898d6d8f248a/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr7/THUMBNAIL/image/gif/a71a1b7f0c1514f2e45e898d6d8f248a/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3274</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>87</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr2/DOWNSAMPLED/image/gif/6eacc37a85580a0e666150168f01a711/gr2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr2/DOWNSAMPLED/image/gif/6eacc37a85580a0e666150168f01a711/gr2.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2136</xocs:filesize>
+               <xocs:pixel-height>132</xocs:pixel-height>
+               <xocs:pixel-width>199</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr2/THUMBNAIL/image/gif/a77494473b0537fd7951feb6129c56fe/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr2/THUMBNAIL/image/gif/a77494473b0537fd7951feb6129c56fe/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1239</xocs:filesize>
+               <xocs:pixel-height>83</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr1/DOWNSAMPLED/image/gif/abe596ce78889b2a19fff38344b3891c/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr1/DOWNSAMPLED/image/gif/abe596ce78889b2a19fff38344b3891c/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3732</xocs:filesize>
+               <xocs:pixel-height>237</xocs:pixel-height>
+               <xocs:pixel-width>338</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr1/THUMBNAIL/image/gif/895b4489e82a0bda54f6c084a5e95126/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr1/THUMBNAIL/image/gif/895b4489e82a0bda54f6c084a5e95126/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1071</xocs:filesize>
+               <xocs:pixel-height>87</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr8/DOWNSAMPLED/image/gif/3c644074a1372910486455125670d4ea/gr8.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr8/DOWNSAMPLED/image/gif/3c644074a1372910486455125670d4ea/gr8.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>20712</xocs:filesize>
+               <xocs:pixel-height>819</xocs:pixel-height>
+               <xocs:pixel-width>334</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0043164805005144-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043164805005144/gr8/THUMBNAIL/image/gif/a094b8d5fa45024e477ec6510d1b69b0/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043164805005144/gr8/THUMBNAIL/image/gif/a094b8d5fa45024e477ec6510d1b69b0/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>841</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>38</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>WEA</jid>
+            <aid>97896</aid>
+            <ce:pii>S0043-1648(05)00514-4</ce:pii>
+            <ce:doi>10.1016/j.wear.2005.12.008</ce:doi>
+            <ce:copyright type="full-transfer" year="2005">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Schematic diagram showing a typical coefficient of friction as a function of sliding distance. The friction curve increases rapidly to a peak value (<ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">p</ce:inf>) followed by a gradual decrease to a steady-state value (<ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">ss</ce:inf>).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Schematic drawing of wear test.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">SEM microstructures of as-cast Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys with different aluminum contents (<ce:italic>x</ce:italic>-value): (a) 0.5; (b) 1.0; (c) 1.0; (d) 2.0 (DR: dendrite, ID: inter-dendrite, SD: spinodal decomposition).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">XRD analyses of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys with different aluminum contents.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Vickers hardness and wear coefficient of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys with different aluminum contents.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Wear coefficient vs. hardness of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">SEM microstructures of worn surface and wear debris of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys with different aluminum contents (<ce:italic>x</ce:italic>-value): (a) 0.5, worn surface; (b) 0.5, debris; (c) 1.0, worn surface; (d) 1.0, debris; (e) 2.0, worn surface; (f) 2.0, debris.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Coefficient of friction vs. sliding distance curves, obtained using a normal load of 29.4<ce:hsp sp="0.25"/>N and a sliding speed of 0.5<ce:hsp sp="0.25"/>m/s under unlubricated sliding condition, for: (a) Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi; (b) Al<ce:inf loc="post">1.0</ce:inf>CoCrCuFeNi; (c) Al<ce:inf loc="post">2.0</ce:inf>CoCrCuFeNi.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Chemical compositions of cast Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys in atomic percentage</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>x</italic>-Value</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Al</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Co</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Cr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Cu</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Ni</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col7" align="left">0.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Nominal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>DR (BCC)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">21.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">23.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">22.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>ID (Cu-rich)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">59.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col7" align="left">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col7" align="left">1.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Nominal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>DR (BCC)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">25.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">19.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>ID (FCC<hsp sp="0.25"/>+<hsp sp="0.25"/>BCC)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.9</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>ID (Cu-rich)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">56.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.3</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col7" align="left">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col7" align="left">2.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Nominal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">28.56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>DR (BCC)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">31.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.9</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>ID (Cu-rich)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">68.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.1</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">DR, dendrite; ID, inter-dendrite.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Chemical compositions of worn surface and wear debris of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys in atomic percentage</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <colspec colname="col8"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>x</italic>-Value</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Al</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Co</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Cr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Cu</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Ni</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">O</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col8" align="left">0.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Nominal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Worn surface</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Wear debris</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col8" align="left">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col8" align="left">1.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Nominal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Worn surface</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.8</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Wear debris</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col8" align="left">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col8" align="left">2.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Nominal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">28.56</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Worn surface-A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">25.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Worn surface-B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">19.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">39.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Wear debris</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">56.8</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Summary of results on friction properties of alloys tested</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Alloy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>μ</italic>
+                           <inf loc="post">p</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>μ</italic>
+                           <inf loc="post">s</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Δ<italic>μ</italic>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Al<inf loc="post">0.5</inf>CoCrCuFeNi</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.65<hsp sp="0.25"/>±<hsp sp="0.25"/>0.04</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.50<hsp sp="0.25"/>±<hsp sp="0.25"/>0.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.15<hsp sp="0.25"/>±<hsp sp="0.25"/>0.07</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Al<inf loc="post">1.0</inf>CoCrCuFeNi</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.65<hsp sp="0.25"/>±<hsp sp="0.25"/>0.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.48<hsp sp="0.25"/>±<hsp sp="0.25"/>0.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.17<hsp sp="0.25"/>±<hsp sp="0.25"/>0.06</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Al<inf loc="post">2.0</inf>CoCrCuFeNi</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.70<hsp sp="0.25"/>±<hsp sp="0.25"/>0.02</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.32<hsp sp="0.25"/>±<hsp sp="0.25"/>0.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.30<hsp sp="0.25"/>±<hsp sp="0.25"/>0.03</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para view="all">
+                     <ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">p</ce:inf>, peak coefficient of friction; <ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">ss</ce:inf>, the steady state coefficient of friction; Δ<ce:italic>μ</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                     <ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">p</ce:inf>
+                     <ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>
+                     <ce:italic>μ</ce:italic>
+                     <ce:inf loc="post">ss</ce:inf>.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Adhesive wear behavior of Al<ce:inf loc="post">
+                  <ce:italic>x</ce:italic>
+               </ce:inf>CoCrCuFeNi high-entropy alloys as a function of aluminum content</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Jien-Min</ce:given-name>
+                  <ce:surname>Wu</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Su-Jien</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jien-Wei</ce:given-name>
+                  <ce:surname>Yeh</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Swe-Kai</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Yuan-Sheng</ce:given-name>
+                  <ce:surname>Huang</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Hung-Cheng</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref refid="aff4">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Materials Science and Engineering, National Tsing Hua University, Hsinchu 300, Taiwan</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Materials Science Center, National Tsing Hua University, Hsinchu 300, Taiwan</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Department of Mechanical and Electronic Engineering, Shaoguan University, Shaoguan City, Guangdong 512005, China</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff4">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Materials Research Laboratory, Industrial Technology Research Institute, Chutung 310, Taiwan</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +886 3 5719558; fax: +886 3 5722366.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="7" month="6" year="2005"/>
+            <ce:date-revised day="31" month="10" year="2005"/>
+            <ce:date-accepted day="12" month="12" year="2005"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys with different aluminum contents prepared by arc melting were investigated on their adhesive wear behaviors. With increasing aluminum content, both the volume fraction of BCC phase and the hardness value increase, and thus the wear coefficient decreases. Moreover, the wear mechanism changes from delamination wear to oxidative wear. For low aluminum content, <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5, the microstructure is of simple ductile FCC phase and the worn surface is deeply grooved and undergoes a periodic delamination which produces big debris. For medium aluminum content, <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.0, the microstructure is a mixture of FCC and BCC phases, and the worn surface is deeply grooved in FCC region but smooth in BCC region. Delamination wear is still dominant although oxidative wear occurs in the smooth region. For high aluminum content, <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.0, the microstructure is of BCC phase and the worn surface is smooth and yields fine debris with high oxygen content. The high aluminum content gives a large improvement in wear resistance. This improvement is attributed to its high hardness, which not only resists plastic deformation and delamination, but also brings about the oxidative wear in which oxide film could assist the wear resistance.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>High-entropy alloy</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Adhesive wear</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Wear coefficient</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Friction</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">In recent years, an entirely new alloy field, high-entropy alloys with multiple principal elements in equimolar or near-equimolar ratios, has been explored by Jien-Wei Yeh et al. <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. High-entropy alloys may contain at least five principal elements with the concentration of each element being between 35 and 5<ce:hsp sp="0.25"/>at.%. Solid solutions with multi-principal elements will tend to be more stable at elevated temperatures because of their large mixing entropies <ce:cross-ref refid="bib1">[1]</ce:cross-ref>. The previous studies <ce:cross-refs refid="bib1 bib2 bib3 bib4 bib5 bib6">[1–6]</ce:cross-refs> have shown that high-entropy alloys might possess simple crystal structures, ease of nanoprecipitation, and promising properties in high hardness and superior resistance to temper softening, wear, oxidation and corrosion. Among these, Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys have a gradual change from FCC phases to BCC phases, and hardness increase from 120 to 650<ce:hsp sp="0.25"/>HV with increasing aluminum content. They are promising for the applications in structural and tool industries <ce:cross-refs refid="bib5 bib6">[5,6]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">The wear performance of the alloys based on one principal element has been investigated widely. One of the most common forms of the coefficient of friction curves in adhesive wear test is characterized by an initial rise in the coefficient of friction, up to a peak value, followed by gradual decline to a steady-state value <ce:cross-refs refid="bib7 bib8 bib9 bib10 bib11 bib12 bib13">[7–13]</ce:cross-refs>. <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="fig1"/> shows a schematic diagram of this typical coefficient of friction versus sliding distance curve <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. The factors influencing the friction curve of metallic materials include hardness, plastic deformation, work-hardening and evolution of crystallographic texture all of which can take place during the wear process <ce:cross-refs refid="bib13 bib14">[13,14]</ce:cross-refs>. Due to the importance of wear behavior of high-entropy alloys for their industrial applications, the adhesive wear behavior of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys is investigated in this paper.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental details</ce:section-title>
+                  <ce:para view="all">The Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi high-entropy alloys with different aluminum contents (<ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0–2.0 in molar ratio) were prepared in this study by arc melting and casting method. The method followed the same procedure as described in reference <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. The alloy specimens were polished and etched with <ce:italic>aqua regia</ce:italic> (HNO<ce:inf loc="post">3</ce:inf>:HCl<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1:3) for observation under an optical microscope and scanning electron microscope (SEM, JEOL JSM-5410). The chemical compositions of different phases were analyzed by SEM energy dispersive spectrometry (EDS). Hardness measurements were conducted using a Vickers hardness tester (Matsuzawa Seiki MV-1) under a load of 49<ce:hsp sp="0.25"/>N and at a loading speed of 70<ce:hsp sp="0.25"/>μm/s for 20<ce:hsp sp="0.25"/>s. Scattering errors were within 3%. The adhesive wear behavior of the alloys was investigated by pin-on-disk sliding using a self-made wear testing machine under dry sliding conditions as shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/>. Pins of 8<ce:hsp sp="0.25"/>mm diameter and 25<ce:hsp sp="0.25"/>mm height were worn for a pre-determined distance against a 75<ce:hsp sp="0.25"/>cm diameter disk made of SKH-51 steel with a hardness of 890<ce:hsp sp="0.25"/>HV, at a distance of 20<ce:hsp sp="0.25"/>mm from center, sliding speed of 0.5<ce:hsp sp="0.25"/>m/s and normal load of 29.4<ce:hsp sp="0.25"/>N. The sliding distance for low and medium aluminum contents, i.e. <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5 and 1.0, was 5400<ce:hsp sp="0.25"/>m due to their high wear loss, whereas that for high aluminum content, i.e. <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.0, was 64,800<ce:hsp sp="0.25"/>m due to its excellent wear resistance. Both pins and counterface were polished to 0.25<ce:hsp sp="0.25"/>μm finish before each test. Wear debris and worn surfaces were characterized using SEM and EDS. An X-ray diffractometer (XRD, Rigaku ME510-FM2, Tokyo, Japan) was used for the phase identification with the 2<ce:italic>θ</ce:italic> scan ranging from 20° to 100° at a speed of 1°<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>. The typical radiation condition was 30<ce:hsp sp="0.25"/>kV and 20<ce:hsp sp="0.25"/>mA with a copper target. Wear coefficient is defined as follows:<ce:display>
+                        <ce:formula>
+                           <mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msub>
+                                    <mml:mi>W</mml:mi>
+                                    <mml:mtext>r</mml:mtext>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="normal">Δ</mml:mi>
+                                       <mml:mi>V</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>F</mml:mi>
+                                       <mml:msubsup>
+                                          <mml:mo>∫</mml:mo>
+                                          <mml:mn>0</mml:mn>
+                                          <mml:mrow>
+                                             <mml:msub>
+                                                <mml:mi>L</mml:mi>
+                                                <mml:mtext>p</mml:mtext>
+                                             </mml:msub>
+                                          </mml:mrow>
+                                       </mml:msubsup>
+                                       <mml:mrow>
+                                          <mml:mi>μ</mml:mi>
+                                          <mml:msub>
+                                             <mml:mi>d</mml:mi>
+                                             <mml:mtext>L</mml:mtext>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where <ce:italic>W</ce:italic>
+                     <ce:inf loc="post">r</ce:inf> is the wear coefficient, Δ<ce:italic>V</ce:italic> the volumetric loss of the specimen (pin) after sliding for a distance <ce:italic>L</ce:italic>
+                     <ce:inf loc="post">p</ce:inf> and obtained by dividing the weight loss of the specimen after sliding by its density, <ce:italic>μ</ce:italic> the coefficient of friction, <ce:italic>L</ce:italic> the sliding distance and <ce:italic>F</ce:italic> is the load.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Microstructure and hardness of as-cast Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrCuFeNi alloys</ce:section-title>
+                     <ce:para view="all">In order to compare with the microstructure of the worn surface after adhesive wear test, the microstructure of as-cast Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrCuFeNi alloys was investigated first. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> gives the typical microstructures of the alloys with different aluminum contents. Typical cast dendrite and interdendrite structures (defined as DR and ID in the figures, respectively) are observed in the alloys. The chemical compositions of the alloys analyzed by EDS are summarized in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>. Copper segregation is obviously seen in the interdendrite region. <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/> shows the XRD analysis of crystal structure. It reveals that they consist of simple phases, FCC and BCC in the as-cast state. Thus for low aluminum content (<ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5), both the dendrite and Cu-rich interdendrite are of one simple FCC phase. As the aluminum content increases to <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.0, the dendrite region is of BCC phase and featured by the modulated structures of spinodal decomposition (defined as SD), while most region of the interdendrite is composed of FCC and BCC phases, and small region is the Cu-rich FCC phase. For high aluminum content (<ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.0), the BCC dendrite is of spinodal structure and the small interdendrite is the Cu-rich FCC phase. It is clear that with the aluminum content increase, the volume fraction of BCC phase increases while the amount of interdendrite decreases. All these observations are in accordance with the microstructure analysis of Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrCuFeNi alloys reported by Tong et al. <ce:cross-ref refid="bib5">[5]</ce:cross-ref> in which aluminum content varied from 0 to 3.0.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/> shows the hardness variation with aluminum content. The hardness value rises as the aluminum content increases. In comparison with the microstructural evolution indicated in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, it can be seen that the hardness value rise is coincident with the large increase in the volume fraction of BCC phase. This obviously implies that the BCC phase is much stronger than FCC phase by about three folds. This can be explained with three viewpoints. The first is that slip along the closest packing planes {1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>0} in BCC structure is more difficult than that along those {1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>1} in FCC structure as {1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>0} planes are less dense and more irregular and thus possess a smaller interplanar spacing and higher lattice friction for dislocation motion than {1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>1} planes in the atomic scale <ce:cross-refs refid="bib15 bib16 bib17">[15–17]</ce:cross-refs>. The second is due to the incorporation of stronger binding elements like Al and high melting point elements like Cr in BCC phase to increase the Young's modulus and the slip resistance <ce:cross-refs refid="bib16 bib17">[16,17]</ce:cross-refs>. The third is the spinodal decomposition of BCC phase by which a nano-spaced spinodal structure may also provide a nano-composite strengthening effect <ce:cross-ref refid="bib18">[18]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Adhesive wear behavior</ce:section-title>
+                     <ce:section view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title>Wear coefficient</ce:section-title>
+                        <ce:para view="all">The wear coefficient is used as a parameter to evaluate the adhesive wear resistance. Smaller wear coefficient means higher wear resistance since it requires more energy to remove the same volume. The effect of aluminum content on the wear coefficient of Al<ce:inf loc="post">
+                              <ce:italic>x</ce:italic>
+                           </ce:inf>CoCrCuFeNi alloys is shown in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>. The wear coefficient decreases as the aluminum content increases. The wear coefficient of high aluminum content is about one seventh of that of low aluminum content. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                           <ce:float-anchor refid="fig6"/> shows the correlation between wear coefficient and hardness. It can be seen that the wear coefficient of Al<ce:inf loc="post">
+                              <ce:italic>x</ce:italic>
+                           </ce:inf>CoCrCuFeNi alloys is sensitively related to their hardness in transition from FCC phase to BCC phase. This result is in agreement with Khruschov's conclusion, that is, the wear resistance of materials is in general proportional to their Vickers’ hardness <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. As discussed earlier, BCC phase is much stronger than FCC phase. It is reasonable that wear resistance becomes better with increasing amount of BCC phase. However, more detailed investigation as follows is required to understand the full mechanism.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>3.2.2</ce:label>
+                        <ce:section-title>Worn surface and debris</ce:section-title>
+                        <ce:para view="all">
+                           <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                           <ce:float-anchor refid="fig7"/> shows the morphologies of the worn surface after test and the debris produced during this test. Obvious differences in wear surface morphology are seen as a function of aluminum content. With increasing aluminum content, surface roughness and the degree of deformation decrease. For <ce:italic>x</ce:italic>
+                           <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5, the worn surface is grooved and significant ductile deformation along the groove is seen. Moreover, a few lateral cracks exist in the worn surface. Compared with the debris of the Al<ce:inf loc="post">1.0</ce:inf>CoCrCuFeNi and Al<ce:inf loc="post">2.0</ce:inf>CoCrCuFeNi alloys, Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi alloy debris is the biggest, around 150–300<ce:hsp sp="0.25"/>μm, and has a disk-like shape. This indicates the adhesive wear mechanism of Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi is predominantly of delamination wear, by which the worn surface undergoes a periodic delamination fracture <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. This is reasonable since delamination wear is a typical mechanism for ductile metals and Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi alloy is composed of ductile FCC phases. The chemical composition of both the worn surface and wear debris are shown in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+                           <ce:float-anchor refid="tbl2"/>. It can be seen that they all contain significant amount of oxygen indicating oxidation occurs on the worn surface heated by friction and deformation.</ce:para>
+                        <ce:para view="all">For Al<ce:inf loc="post">1.0</ce:inf>CoCrCuFeNi alloy, the surface is locally grooved, but is smooth in other regions. A few lateral cracks are also observed in the worn surface. The debris size is around 80–200<ce:hsp sp="0.25"/>μm, smaller than that of Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi alloy. The oxygen contents worn surface and debris are all higher than that of Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi alloy as shown in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>. This indicates that the wear type of Al<ce:inf loc="post">1.0</ce:inf>CoCrCuFeNi alloy is still predominantly of delamination wear although oxidative wear become pronounced. This is due to the fact that there is a significant portion of soft and ductile FCC phase.</ce:para>
+                        <ce:para view="all">In comparison with the alloys with low and medium aluminum content (<ce:italic>x</ce:italic>
+                           <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5 and 1.0), an increase in aluminum content to 2.0 results in a smoother worn surface, <ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>e, with fewer shallow abrasive grooves. Wear debris is particle-like and finer, around 10<ce:hsp sp="0.25"/>μm in size. The percentage of oxygen on the worn surface of Al<ce:inf loc="post">2.0</ce:inf>CoCrCuFeNi alloy is lower than that of both Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi and Al<ce:inf loc="post">1.0</ce:inf>CoCrCuFeNi, nevertheless, the oxygen concentration of wear debris is much more than that of both the Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi and Al<ce:inf loc="post">1.0</ce:inf>CoCrCuFeNi alloys. All these indicate that the wear mechanism is predominantly of oxidative wear. This is reasonable since the strong resistance of hard BCC phase to plastic deformation and delamination might keep the oxide layer to withstand the abrasion. Based on this, the large improvement of wear resistance in the alloy of high aluminum content is contributed by the oxide film in addition to the hardness which resists plastic deformation and delamination.</ce:para>
+                     </ce:section>
+                     <ce:section view="all">
+                        <ce:label>3.2.3</ce:label>
+                        <ce:section-title>Coefficient of friction</ce:section-title>
+                        <ce:para view="all">
+                           <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+                           <ce:float-anchor refid="fig8"/> shows the friction coefficient for the Al<ce:inf loc="post">
+                              <ce:italic>x</ce:italic>
+                           </ce:inf>CoCrCuFeNi alloys with different aluminum contents. The coefficient of friction curves are typically characterized by two friction regimes as reported in literature <ce:cross-refs refid="bib7 bib8 bib9 bib10 bib11 bib12 bib13">[7–13]</ce:cross-refs>. Initially, the coefficient of friction increases rapidly until reaching a peak value <ce:italic>μ</ce:italic>
+                           <ce:inf loc="post">p</ce:inf>. Then a gradual decrease is followed to a steady-state value <ce:italic>μ</ce:italic>
+                           <ce:inf loc="post">ss</ce:inf>. It is obvious that their ranges of friction coefficient are different as listed in <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+                           <ce:float-anchor refid="tbl3"/>. Both the friction curves of Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi and Al<ce:inf loc="post">1.0</ce:inf>CoCrCuFeNi alloys show a peak coefficient of friction of around 0.65 and the steady value around 0.48 whereas Al<ce:inf loc="post">2.0</ce:inf>CoCrCuFeNi alloy show the range between 0.70 and 0.32. The larger peak coefficient of friction of Al<ce:inf loc="post">2.0</ce:inf>CoCrCuFeNi alloy is attributable to the fact that Al<ce:inf loc="post">2.0</ce:inf>CoCrCuFeNi alloy with high hardness (560<ce:hsp sp="0.25"/>HV) can scratch the disk made of SKH-51 steel with a hardness of 890<ce:hsp sp="0.25"/>HV. The smallest attainable friction coefficient is due to the wear mechanism is of oxidation wear in contrast to the delamination wear. <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref> also shows that Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi and Al<ce:inf loc="post">1.0</ce:inf>CoCrCuFeNi alloys exhibit relatively large fluctuation whereas Al<ce:inf loc="post">2.0</ce:inf>CoCrCuFeNi alloy does a small fluctuation. The large fluctuation of the friction coefficient is thought to be caused by two reasons. The first is the periodic localized fracture of surface layer <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. The second is the periodic accumulation and elimination of debris on the worn surface. The coefficient of friction increases as the large-sized debris accumulates on the worn surface while it decreases as the debris depart from the worn surface. As for the small fluctuation of Al<ce:inf loc="post">2.0</ce:inf>CoCrCuFeNi alloy, it is due to its wear mechanism is of oxidative wear which results in small debris as mentioned in last section.</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">With increasing the aluminum content in the Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrCuFeNi alloys, both the volume fraction of strong BCC phase and the hardness value increase, nevertheless, the wear coefficient decreases and the wear mechanism changes from delamination wear to oxidative wear. For low aluminum content, <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5, the microstructure is of simple ductile FCC phase and the worn surface is deeply grooved and undergoes a periodic delamination which produces big debris. For medium aluminum content, <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.0, the microstructure is a mixture of FCC and BCC phases, and the worn surface is deeply grooved in FCC region but smooth in BCC region. Delamination wear is still dominant although oxidative wear occurs in the smooth region. For high aluminum content, <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.0, the microstructure is of BCC phase and the worn surface is smooth and yields fine debris with high oxygen content. The high aluminum content gives a large improvement in wear resistance. This improvement is attributed to its high hardness, which not only resists plastic deformation and delamination, but also brings about the oxidative wear in which oxide film could assist the wear resistance.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">The authors gratefully acknowledge the financial supports for this research by the National Science Council of Taiwan under grant no. NSC-91-2120-E-007-007 and the Ministry of Economic Affairs of Taiwan under grant no. 92-CE-17-A-08-S1-0003.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanostructured high-entropy alloys with multiple principal elements: novel alloy design concepts and outcomes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                              <sb:last-page>303</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ranganathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alloyed pleasures: multimetallic cocktails</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1404</sb:first-page>
+                              <sb:last-page>1406</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multi-principal-element alloys with improved oxidation and wear resistance for thermal spray coating</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>74</sb:first-page>
+                              <sb:last-page>78</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wear resistance and high-temperature compression strength of FCC CuCoNiCrAl<ce:inf loc="post">0.5</ce:inf>Fe alloy with boron addition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1465</sb:first-page>
+                              <sb:last-page>1469</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure characterization of Al<ce:inf loc="post">x</ce:inf>CoCrCuFeNi high-entropy alloy system with multiprincipal elements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>881</sb:first-page>
+                              <sb:last-page>893</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical performance of the Al<ce:inf loc="post">x</ce:inf>CoCrCuFeNi high-entropy alloy system with multiprincipal elements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1263</sb:first-page>
+                              <sb:last-page>1271</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Blau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Friction and Wear Transitions of Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1989</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Noyes Publishing</sb:name>
+                                 <sb:location>New Jersey</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Suh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tribophysics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1986</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Prentice-Hall</sb:name>
+                                 <sb:location>New Jersey</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Blau</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Model for run-in and other transitions in sliding friction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Tribol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>537</sb:first-page>
+                              <sb:last-page>544</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Rigney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Hirth</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Plastic deformation and sliding friction of metals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                              <sb:last-page>370</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Kuhlmann-Wilsdorf</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dislocation concepts in friction and wear</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>D.A.</ce:given-name>
+                                    <ce:surname>Rigney</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Fundamentals of Friction and Wear of Materials</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>ASM</sb:name>
+                                 <sb:location>Metals Park, Ohio</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Suh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Update on the delamination theory of wear</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>D.A.</ce:given-name>
+                                    <ce:surname>Rigney</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Fundamentals of Friction and Wear of Materials</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>ASM</sb:name>
+                                 <sb:location>Metals Park, Ohio</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.N.</ce:given-name>
+                                 <ce:surname>Farhat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Contribution of crystallographic texturing to the sliding friction behaviour of FCC and HCP metals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>250</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>401</sb:first-page>
+                              <sb:last-page>408</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Hirth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Rigney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The application of dislocation concepts in friction and wear</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:editors>
+                                    <sb:editor>
+                                       <ce:given-name>F.R.</ce:given-name>
+                                       <ce:surname>Nabarro</ce:surname>
+                                    </sb:editor>
+                                 </sb:editors>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Dislocations in Solids</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>vol. 6</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North-Holland</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>10</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Reed-Hill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Abbaschian</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Physical Metallurgy Principles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>third ed.</sb:edition>
+                              <sb:date>1994</sb:date>
+                              <sb:publisher>
+                                 <sb:name>PWS-KENT Publishing Company</sb:name>
+                                 <sb:location>Boston</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>pp. 140–146</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Courtney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical Behavior of Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1990</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>pp. 173–184</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Dieter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical Metallurgy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>SI Meric ed.</sb:edition>
+                              <sb:date>1988</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill Book Company</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>pp. 117–121</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Dieter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical Metallurgy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>SI Meric ed.</sb:edition>
+                              <sb:date>1988</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill Book Company</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>pp. 208–212</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Khruschov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Principles of abrasive wear</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1974</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                              <sb:last-page>88</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.Q.</ce:given-name>
+                                 <ce:surname>Lei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tribo-metallographic behavior of high carbon steels in dry sliding. I. Wear mechanisms and their transition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wear</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>231</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>11</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,15 @@
+Figure ID,Figure Path,Figure Label,Figure Caption
+f0005,articles_test/10.1016.j.msea.2017.02.043/figures/gr1.jpg,Fig. 1,(a) Stress-strain curves and (b) normalized strain hardening curves of the equiatomic alloys.
+f0010,articles_test/10.1016.j.msea.2017.02.043/figures/gr2.jpg,Fig. 2,Optical microstructures of (a) as-annealed and (b) deformed HEAs.
+f0015,articles_test/10.1016.j.msea.2017.02.043/figures/gr3.jpg,Fig. 3,"Grain orientation maps obtained by the tensile-interrupted EBSD at (a) 0%, (b) 6.7% and (c) 20% engineering strain."
+f0020,articles_test/10.1016.j.msea.2017.02.043/figures/gr4.jpg,Fig. 4,"IPFs along the tensile axis direction at (a) as-annealed, (b) 6.7%, (c) 20% and (d) 55% engineering strain."
+f0025,articles_test/10.1016.j.msea.2017.02.043/figures/gr5.jpg,Fig. 5,Deformation twinning observed by the tensile-interrupted EBSD.
+f0030,articles_test/10.1016.j.msea.2017.02.043/figures/gr6.jpg,Fig. 6,"Grain orientation and deformation progresses of a selected grain shown inFig. 5b at (a) as-annealed, (b) 6.7%, (c) 20% and (d) 55% engineering strain."
+f0035,articles_test/10.1016.j.msea.2017.02.043/figures/gr7.jpg,Fig. 7,Initial IPF and deformed IPF of the grains showing deformation twinning inFig. 5.
+f0040,articles_test/10.1016.j.msea.2017.02.043/figures/gr8.jpg,Fig. 8,Grain orientation maps obtained in the deformed (a)-(b) LEA and (c)-(d) MEA. (b) and (d) were measured at a higher magnification.
+f0045,articles_test/10.1016.j.msea.2017.02.043/figures/gr9.jpg,Fig. 9,"GND distribution maps obtained by the tensile-interrupted EBSD at (a) 6.7%, (b) 20% engineering strain, and (c) details of the selected region at 6.7% engineering strain with a SEM image. Color scale indicates GND density in 1012line/m2. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+f0050,articles_test/10.1016.j.msea.2017.02.043/figures/gr10.jpg,Fig. 10,"Effective strain distribution measured by the DIC method at (a) the beginning of plastic deformation and (b) 10% macroscopic strain. Corresponding shear angle distribution at (c) the beginning of plastic deformation and (d) 10% macroscopic strain. Initial grain boundaries obtained by the EBSD are shown in black lines, and deformed grain boundaries are manually elongated."
+f0055,articles_test/10.1016.j.msea.2017.02.043/figures/gr11.jpg,Fig. 11,"SEM image of deformed surface with the corresponding EBSD orientation map of grains initially parallel to (a) <111>//TA, (b) <110>//TA and (c) <100>//TA."
+f0060,articles_test/10.1016.j.msea.2017.02.043/figures/gr12.jpg,Fig. 12,TEM DF images of (a) matrix and (b) twin. (c) the corresponding [110] zone axis SAED pattern.
+f0065,articles_test/10.1016.j.msea.2017.02.043/figures/gr13.jpg,Fig. 13,"HRTEM image of (a) nano-twin bundles with the SAED pattern which diffraction spots elongated with traces of steak, (b) the nano-twin with SFs parallel to TBs, and (c) abundant SFs and SF cross structure."
+f0070,articles_test/10.1016.j.msea.2017.02.043/figures/gr14.jpg,Fig. 14,STEM images of (a) <110>//TA grain and (b) <100>//TA grain.

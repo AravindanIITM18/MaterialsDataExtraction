@@ -1,0 +1,5 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit, Testing condition, Property
+Zr-Hf-rich,As-cast,,,280.5 +- 11.9,HV,800 degC,Hardness
+Zr-Hf-rich,HPT processed,,,367.2 +- 2.4,HV,800 degC,Hardness
+Nb-Ta-rich,As-cast,,,267.7 +- 13.6,HV,800 degC,Hardness
+Nb-Ta-rich,HPT processed,,,478.6 +- 3.4,HV,800 degC,Hardness

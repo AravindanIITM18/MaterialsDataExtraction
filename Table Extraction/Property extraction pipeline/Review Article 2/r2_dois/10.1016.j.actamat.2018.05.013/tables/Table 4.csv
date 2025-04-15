@@ -1,0 +1,9 @@
+Sources,Equations,Temp.,t  t w    (MPa),s  tw  (MPa)
+Narita and Takamura [55],t  t w   =    g  i s f     2  b p,77 K,45,135
+Narita and Takamura [55],t  t w   =    g  i s f     2  b p,293 K,110,337
+"Venable [54,61]",t  t w   =   b  g  i s f      b p   ( n b -  b p  ),77 K,37-63,113-193
+"Venable [54,61]",t  t w   =   b  g  i s f      b p   ( n b -  b p  ),293 K,91-155,278-474
+Byun [62],t  t w   =   2  g  i s f      b p,77 K,178,545
+Byun [62],t  t w   =   2  g  i s f      b p,293 K,442,1353
+Steinmetz et al. [63],t  t w   =    g  i s f     3  b p    +   3 G  b p     L 0,77 K,216,661
+Steinmetz et al. [63],t  t w   =    g  i s f     3  b p    +   3 G  b p     L 0,293 K,261,799

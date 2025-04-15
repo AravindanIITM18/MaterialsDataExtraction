@@ -1,0 +1,4 @@
+Condition,s0.2 (MPa),sp (MPa),ef (%),E (GPa)
+As-cold-rolled,1202,1295,4.7,93.3
+Cold-rolled + annealed at 800 degC/2 h,1303,1334,1.9,100
+Cold-rolled + annealed at 1000 degC/2 h,1145,1262,9.7,99.2

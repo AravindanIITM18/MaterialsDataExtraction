@@ -1,0 +1,19 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlCoCrFeNi,-,273,Yield Strength(Compression),1384,MPa
+AlCoCrFeNi,-,273,Ultimate Tensile Strength(Compression),1912,MPa
+AlCoCrFeNi,-,273,Ductility,16.7,%  
+AlCoCrFeNi,-,773,Yield Strength(Compression),1263,MPa
+AlCoCrFeNi,-,773,Ultimate Tensile Strength(Compression),1702,MPa
+AlCoCrFeNi,-,773,Ductility,19.9,%  
+AlCoCrFeNi,-,873,Yield Strength(Compression),1075,MPa
+AlCoCrFeNi,-,873,Ultimate Tensile Strength(Compression),1317,MPa
+AlCoCrFeNi,-,873,Ductility,29.3,%  
+AlCoCrFeNi,-,973,Yield Strength(Compression),450,MPa
+AlCoCrFeNi,-,973,Ultimate Tensile Strength(Compression),622,MPa
+AlCoCrFeNi,-,973,Ductility,>50,%  
+AlCoCrFeNi,-,1073,Yield Strength(Compression),417,MPa
+AlCoCrFeNi,-,1073,Ultimate Tensile Strength(Compression),480,MPa
+AlCoCrFeNi,-,1073,Ductility,>50,%  
+AlCoCrFeNi,-,1173,Yield Strength(Compression),201,MPa
+AlCoCrFeNi,-,1173,Ultimate Tensile Strength(Compression),302,MPa
+AlCoCrFeNi,-,1173,Ductility,>50,%

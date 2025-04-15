@@ -1,0 +1,13 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.75NiFeCrCo,-,-,Yield Strength(Tension),1938,MPa
+Al0.75NiFeCrCo,-,-,Ultimate Tensile Strength(Tension),2221,MPa
+Al0.75NiFeCrCo,-,-,Ductility,7.6,%EL
+Al0.75NiFeCr,-,-,Yield Strength(Tension),1741,MPa
+Al0.75NiFeCr,-,-,Ultimate Tensile Strength(Tension),2184,MPa
+Al0.75NiFeCr,-,-,Ductility,7.4,%EL
+Al0.75NiFeCrCoTi0.25,-,-,Yield Strength(Tension),1926,MPa
+Al0.75NiFeCrCoTi0.25,-,-,Ultimate Tensile Strength(Tension),2376,MPa
+Al0.75NiFeCrCoTi0.25,-,-,Ductility,6.8,%EL
+Al0.75NiFeCrCo,-,-,Hardness,577,Hv
+Al0.75NiFeCr,-,-,Hardness,556,Hv
+Al0.75NiFeCrCoTi0.25,-,-,Hardness,609,Hv

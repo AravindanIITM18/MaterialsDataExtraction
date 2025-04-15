@@ -1,0 +1,5 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Nb20Ni20Ti20Co20Zr20,As-cast,-,Hardness,527.3+-6.9,HV
+Nb20Ni20Ti20Co20Zr20.1,Annealed,-,Hardness,489.2+-25.3,HV
+Nb16.7Ni16.7Ti16.7Co16.7Zr16.7Hf16.7,As-cast,-,Hardness,515.5+-11.2,HV
+Nb16.7Ni16.7Ti16.7Co16.7Zr16.7Hf16.7.1,Annealed,-,Hardness,520.1+-2.0,HV

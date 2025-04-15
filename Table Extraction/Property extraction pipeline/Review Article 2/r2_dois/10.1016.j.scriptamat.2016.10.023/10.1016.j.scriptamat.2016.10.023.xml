@@ -1,0 +1,1925 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1359646216305188</prism:url><dc:identifier>doi:10.1016/j.scriptamat.2016.10.023</dc:identifier><eid>1-s2.0-S1359646216305188</eid><prism:doi>10.1016/j.scriptamat.2016.10.023</prism:doi><pii>S1359-6462(16)30518-8</pii><dc:title>Tension/compression asymmetry in additive manufactured face centered cubic high entropy alloy </dc:title><prism:publicationName>Scripta Materialia</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13596462</prism:issn><prism:volume>129</prism:volume><prism:startingPage>30</prism:startingPage><prism:endingPage>34</prism:endingPage><prism:pageRange>30-34</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-03-01</prism:coverDate><prism:coverDisplayDate>1 March 2017</prism:coverDisplayDate><prism:copyright>© 2016 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Acta Materialia Inc. Published by Elsevier Ltd.</prism:publisher><dc:creator>Joseph, Jithin</dc:creator><dc:creator>Stanford, Nicole</dc:creator><dc:creator>Hodgson, Peter</dc:creator><dc:creator>Fabijanic, Daniel Mark</dc:creator><dc:description>
+                  The high entropy alloy, Al0.3CoCrFeNi, has been fabricated by direct laser fabrication and its deformation behaviour studied. This alloy exhibited significant tension/compression asymmetry in its work hardening rate and ductility. The exceptionally high work hardening in compression has been attributed to profuse mechanical twinning which has been exacerbated by a strong texture in the as-cast material. The tensile deformed material did not exhibit any mechanical twinning, deformed exclusively by slip, and therefore showed minimal work hardening and poor ductility. The critical resolved shear stress for twinning of the alloy was found to be approximately 240MPa.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>High entropy alloy</dcterms:subject><dcterms:subject>Twinning</dcterms:subject><dcterms:subject>Work hardening</dcterms:subject><dcterms:subject>Critical resolved shear stress for twinning</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1359646216305188" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1359646216305188" rel="scidir"/></coredata><objects><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="102" size="16416">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="144" height="164" size="18470">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="127" size="18667">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="155" size="38826">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="70" height="162" size="12065">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="429" height="200" size="33398">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="506" height="576" size="75634">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="513" height="298" size="46158">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="624" height="443" size="161249">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="357" height="826" size="93696">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1900" height="886" size="310345">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2242" height="2550" size="500820">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2274" height="1323" size="327055">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2765" height="1962" size="1444512">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1584" height="3667" size="698112">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646216305188-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84992603213</scopus-id><scopus-eid>2-s2.0-84992603213</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84992603213" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271906</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291778</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Scripta Materialia</xocs:srctitle>
+      <xocs:normalized-srctitle>SCRIPTAMATERIALIA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20161027">2016-10-27</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20161027">2016-10-27</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20161027">2016-10-27</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20161027">2016-10-27</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-12-30T08:56:55</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1359646216305188</xocs:eid>
+      <xocs:pii-formatted>S1359-6462(16)30518-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1359646216305188</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.scriptamat.2016.10.023</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1359646216X00164</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20171230">2017-12-30T09:06:06.176141Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170301</xocs:date-search-begin>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1477564560">2016-10-27T10:36:00.460994Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid primabst pubtype ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1359-6462</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13596462</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>129</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>129</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 129</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>9</xocs:sort-order>
+      <xocs:first-fp>30</xocs:first-fp>
+      <xocs:last-lp>34</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>30</xocs:first-page>
+         <xocs:last-page>34</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20170301</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 March 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-03-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>TENSIONCOMPRESSIONASYMMETRYINADDITIVEMANUFACTUREDFACECENTEREDCUBICHIGHENTROPYALLOY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JOSEPH</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-last-lp>303</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>OTTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2628</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2638</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>93</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1254</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1259</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>GALI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>74</xocs:ref-first-fp>
+            <xocs:ref-last-lp>78</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>SHUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-last-lp>174</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>598</xocs:ref-first-fp>
+            <xocs:ref-last-lp>602</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>24</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>105</xocs:ref-first-fp>
+            <xocs:ref-last-lp>113</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>STEPANOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-last-lp>185</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>YASUDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>80</xocs:ref-first-fp>
+            <xocs:ref-last-lp>83</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>JOSEPH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>184</xocs:ref-first-fp>
+            <xocs:ref-last-lp>193</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4823</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4829</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>129</xocs:ref-first-fp>
+            <xocs:ref-last-lp>134</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>OTTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5743</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5755</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>KEAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>135</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>GUPTA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-last-lp>55</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>BELADI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7787</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7799</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>DENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>124</xocs:ref-first-fp>
+            <xocs:ref-last-lp>133</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>GLUDOVATZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1153</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1158</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>GUTIERREZURRUTIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3552</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3560</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>KARAMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1345</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1359</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>CHRISTIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>157</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>GILSEVILLANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>135</xocs:ref-first-fp>
+            <xocs:ref-last-lp>138</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>HUTCHINSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-last-lp>302</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>629</xocs:ref-first-fp>
+            <xocs:ref-last-lp>631</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>SALEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>66</xocs:ref-first-fp>
+            <xocs:ref-last-lp>75</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>NIENDORF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>875</xocs:ref-first-fp>
+            <xocs:ref-last-lp>878</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JOSEPHX2017X30</xocs:refkey3>
+         <xocs:refkey4lp>JOSEPHX2017X30X34</xocs:refkey4lp>
+         <xocs:refkey4ai>JOSEPHX2017X30XJ</xocs:refkey4ai>
+         <xocs:refkey5>JOSEPHX2017X30X34XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-10-27T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1359-6462(16)30518-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1359646216305188</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1359646216305188</xocs:eid>
+         <xocs:doi>10.1016/j.scriptamat.2016.10.023</xocs:doi>
+         <xocs:cid>271906</xocs:cid>
+         <xocs:timestamp>2017-12-30T09:06:06.176141Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-03-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/MAIN/application/pdf/11d1eb4714e76b435037f73da05fbf02/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/MAIN/application/pdf/11d1eb4714e76b435037f73da05fbf02/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1226176</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1359646216305188-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/PREVIEW/image/png/a6bae3fc7b6af091995b6f3c3c24b996/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/PREVIEW/image/png/a6bae3fc7b6af091995b6f3c3c24b996/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>63301</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/fx1/THUMBNAIL/image/gif/142374c5c3bdbf7ffb230e61a3e2bbb9/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/fx1/THUMBNAIL/image/gif/142374c5c3bdbf7ffb230e61a3e2bbb9/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16416</xocs:filesize>
+               <xocs:pixel-height>102</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr1/THUMBNAIL/image/gif/41559f34159817c42eed03ecad1ad68b/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr1/THUMBNAIL/image/gif/41559f34159817c42eed03ecad1ad68b/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18470</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>144</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr2/THUMBNAIL/image/gif/314c95211ba23c009f3fa6f1ae4265da/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr2/THUMBNAIL/image/gif/314c95211ba23c009f3fa6f1ae4265da/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>18667</xocs:filesize>
+               <xocs:pixel-height>127</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr3/THUMBNAIL/image/gif/9e826856a37fd8bcdd942dc629038f00/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr3/THUMBNAIL/image/gif/9e826856a37fd8bcdd942dc629038f00/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>38826</xocs:filesize>
+               <xocs:pixel-height>155</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr4/THUMBNAIL/image/gif/42db7713869cba6ed8950aa1682775d1/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr4/THUMBNAIL/image/gif/42db7713869cba6ed8950aa1682775d1/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12065</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>70</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/fx1/DOWNSAMPLED/image/jpeg/3ad6c8b4961de364de619a1eaa9a65cc/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/fx1/DOWNSAMPLED/image/jpeg/3ad6c8b4961de364de619a1eaa9a65cc/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33398</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>429</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr1/DOWNSAMPLED/image/jpeg/3a2258ab57abef3cb6e865fd897aea98/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr1/DOWNSAMPLED/image/jpeg/3a2258ab57abef3cb6e865fd897aea98/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>75634</xocs:filesize>
+               <xocs:pixel-height>576</xocs:pixel-height>
+               <xocs:pixel-width>506</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr2/DOWNSAMPLED/image/jpeg/59af4d56347db6e17c902321c466968d/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr2/DOWNSAMPLED/image/jpeg/59af4d56347db6e17c902321c466968d/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46158</xocs:filesize>
+               <xocs:pixel-height>298</xocs:pixel-height>
+               <xocs:pixel-width>513</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr3/DOWNSAMPLED/image/jpeg/8c122a081f6a3e28658348b159ce38bc/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr3/DOWNSAMPLED/image/jpeg/8c122a081f6a3e28658348b159ce38bc/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>161249</xocs:filesize>
+               <xocs:pixel-height>443</xocs:pixel-height>
+               <xocs:pixel-width>624</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr4/DOWNSAMPLED/image/jpeg/869ff1e5c122d08a86a7e93b9177a5a0/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr4/DOWNSAMPLED/image/jpeg/869ff1e5c122d08a86a7e93b9177a5a0/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>93696</xocs:filesize>
+               <xocs:pixel-height>826</xocs:pixel-height>
+               <xocs:pixel-width>357</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/fx1/HIGHRES/image/jpeg/0132821e63da364d0a00eae90dd27e3d/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/fx1/HIGHRES/image/jpeg/0132821e63da364d0a00eae90dd27e3d/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>310345</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>1900</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr1/HIGHRES/image/jpeg/b284f94beaee0bd321a9c370fffb0c88/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr1/HIGHRES/image/jpeg/b284f94beaee0bd321a9c370fffb0c88/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>500820</xocs:filesize>
+               <xocs:pixel-height>2550</xocs:pixel-height>
+               <xocs:pixel-width>2242</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr2/HIGHRES/image/jpeg/9364e162405fbd0e4fa0352a956f79d1/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr2/HIGHRES/image/jpeg/9364e162405fbd0e4fa0352a956f79d1/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>327055</xocs:filesize>
+               <xocs:pixel-height>1323</xocs:pixel-height>
+               <xocs:pixel-width>2274</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr3/HIGHRES/image/jpeg/85a8dc158a030208669304e9c7144d3f/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr3/HIGHRES/image/jpeg/85a8dc158a030208669304e9c7144d3f/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1444512</xocs:filesize>
+               <xocs:pixel-height>1962</xocs:pixel-height>
+               <xocs:pixel-width>2765</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646216305188-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646216305188/gr4/HIGHRES/image/jpeg/1365cf4fc97dcac818ff79d69293c621/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1359646216305188/gr4/HIGHRES/image/jpeg/1365cf4fc97dcac818ff79d69293c621/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>698112</xocs:filesize>
+               <xocs:pixel-height>3667</xocs:pixel-height>
+               <xocs:pixel-width>1584</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>SMM</jid>
+            <aid>11335</aid>
+            <ce:pii>S1359-6462(16)30518-8</ce:pii>
+            <ce:doi>10.1016/j.scriptamat.2016.10.023</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">(a) XRD spectra of as-deposited Al<ce:inf loc="post">0.3</ce:inf>CoCrFeNi alloy with microstructure longitudinal to direction of deposition (SD) and cross section (CS); (b) Initial orientation of as-deposited alloy using EBSD-IPF map with schematic representation of tensile and compressive specimens with respect to loading directions and (c) (100) pole figure.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S1359646216305188/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">(a) True stress-strain curve under tensile and compressive loading, (b) macrostructure of compression deformed specimen to a true strain of 1.0 and (c) SEM microstructure of the grain boundary crack in the tensile deformed specimen (at a true strain of 0.38, with macrostructure of the tensile specimen in the inset) of Al<ce:inf loc="post">0.3</ce:inf>CoCrFeNi alloy.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S1359646216305188/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">EBSD map (grey scale band contrast) of DLF Al<ce:inf loc="post">0.3</ce:inf> alloy samples deformed to various strain levels in compression ((a) 0.20, (b) 0.35, (c) 0.50, (d) 0.75 and (e) 1.0) and tension ((f) 0.38), and boundaries within 5° of the twin orientation have been highlighted in yellow.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S1359646216305188/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">(a) Volume fraction of mechanical twins in the deformed structure of Al<ce:inf loc="post">0.3</ce:inf> alloy at various applied stress levels, and transmission electron micrographs of as-deposited Al<ce:inf loc="post">0.3</ce:inf> alloy showing (b) deformation twins in a sample compressed to a strain of 1.0 and (c) deformed structure tested in tension to true failure strain of 0.38.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S1359646216305188/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">Bulk chemical composition of direct laser fabricated Al<ce:inf loc="post">0.3</ce:inf>CoCrFeNi alloy determined by glow-discharge optical emission spectroscopy.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Table 1</ce:alt-text>
+               <tgroup cols="6" rowsep="0" colsep="0">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <thead>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" colname="col1">Alloy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col6" rowsep="1">Atomic % (±<hsp sp="0.10"/>0.5)</entry>
+                     </row>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">Co</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">Cr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">Ni</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">Al</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" role="rowhead">Al<inf loc="post">0.3</inf>CoCrFeNi</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2">23.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3">22.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4">23.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5">23.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6">7.1</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dh0005">
+               <ce:textfn id="tn0005">Regular Article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0005">Tension/compression asymmetry in additive manufactured face centered cubic high entropy alloy</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S1359646216305188-fed734d022ed7f9e35876ea3ca24bdb0">
+                  <ce:given-name>Jithin</ce:given-name>
+                  <ce:surname>Joseph</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S1359646216305188-c9f1fffd2ca22d204d2a3742ace74a94">
+                  <ce:given-name>Nicole</ce:given-name>
+                  <ce:surname>Stanford</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S1359646216305188-3b5764dd89791bfcd30cb350161fc823">
+                  <ce:given-name>Peter</ce:given-name>
+                  <ce:surname>Hodgson</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S1359646216305188-8c4ee25f61a5856c110296859191c489">
+                  <ce:given-name>Daniel Mark</ce:given-name>
+                  <ce:surname>Fabijanic</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0010">Institute for Frontier Materials, Deakin University, Waurn Ponds, 3216, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute for Frontier Materials</sa:organization>
+                     <sa:organization>Deakin University</sa:organization>
+                     <sa:address-line>Waurn Ponds</sa:address-line>
+                     <sa:postal-code>3216</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0015">Department of Materials Science and Engineering, Monash University, Clayton, 3800, Australia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Materials Science and Engineering</sa:organization>
+                     <sa:organization>Monash University</sa:organization>
+                     <sa:city>Clayton</sa:city>
+                     <sa:postal-code>3800</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author at: Institute for Frontier Materials, 75 Pigdons Road, Deakin University, Waurn Ponds Campus, Victoria 3216, Australia.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Institute for Frontier Materials</sa:organization>
+                     <sa:organization>Deakin University</sa:organization>
+                     <sa:address-line>75 Pigdons Road</sa:address-line>
+                     <sa:address-line>Waurn Ponds Campus</sa:address-line>
+                     <sa:state>Victoria</sa:state>
+                     <sa:postal-code>3216</sa:postal-code>
+                     <sa:country>Australia</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="16" month="8" year="2016"/>
+            <ce:date-revised day="19" month="10" year="2016"/>
+            <ce:date-accepted day="19" month="10" year="2016"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0030" view="all">The high entropy alloy, Al<ce:inf loc="post">0.3</ce:inf>CoCrFeNi, has been fabricated by direct laser fabrication and its deformation behaviour studied. This alloy exhibited significant tension/compression asymmetry in its work hardening rate and ductility. The exceptionally high work hardening in compression has been attributed to profuse mechanical twinning which has been exacerbated by a strong texture in the as-cast material. The tensile deformed material did not exhibit any mechanical twinning, deformed exclusively by slip, and therefore showed minimal work hardening and poor ductility. The critical resolved shear stress for twinning of the alloy was found to be approximately 240<ce:hsp sp="0.25"/>MPa.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="ab0010" class="graphical" xml:lang="en" view="all">
+               <ce:section-title id="st0010">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0035" view="all">
+                     <ce:display>
+                        <ce:figure id="f0025">
+                           <ce:alt-text role="short" id="al0030">Image 1</ce:alt-text>
+                           <ce:link id="lk0025" locator="fx1" xlink:type="simple" xlink:href="pii:S1359646216305188/fx1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">High entropy alloy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Twinning</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Work hardening</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Critical resolved shear stress for twinning</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0005" view="all">High entropy alloys (HEAs) are a relatively new metal alloy system containing five or more principal alloying elements having a concentration between 5<ce:hsp sp="0.25"/>at.% and 35<ce:hsp sp="0.25"/>at.% <ce:cross-ref id="cf0030" refid="bb0005">[1]</ce:cross-ref>. Certain HEAs have been found to form a disordered solid solution structure due to high configurational entropy of mixing. The crystal structure of HEAs can be FCC, BCC, HCP or a combination of these, depending on the concentration of each component element <ce:cross-ref id="cf0035" refid="bb0010">[2]</ce:cross-ref> and this alloy class is reported to possess promising physical and mechanical properties <ce:cross-ref id="cf0040" refid="bb0015">[3]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0010" view="all">Despite considerable research in to HEAs in the past decade there has been little focus on the deformation behaviour in both tensile and compressive loading. The vast majority of literature report mechanical properties of HEAs in one deformation path (predominately compressive), and only one study was found to contain both tensile and compressive behaviour of a HEA <ce:cross-ref id="cf0045" refid="bb0020">[4]</ce:cross-ref>. This alloy (FCC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>BCC dual phase Al<ce:inf loc="post">0.5</ce:inf>CoCrCuFeNi HEA) exhibited a compressive yield strength of 460<ce:hsp sp="0.25"/>MPa and a strain to failure of 0.52; in contrast the yield strength dropped to 360<ce:hsp sp="0.25"/>MPa, and the elongation to failure dropped by more than half in tension. This paper was the first to reveal that there may be some asymmetry in the deformation behaviour of HEAs. Additional evidence of asymmetry can be found in the literature by comparing the reported tensile and compressive properties of similar alloys by different authors. For example, the medium entropy alloy CoCrFeNi with FCC structure has a tensile yield strength of 200<ce:hsp sp="0.25"/>MPa and ductility of 0.35 in tension <ce:cross-ref id="cf0050" refid="bb0025">[5]</ce:cross-ref>, but in compression has been reported to have a yield strength of only 135<ce:hsp sp="0.25"/>MPa and strain to failure in excess of 0.75 <ce:cross-ref id="cf0055" refid="bb0030">[6]</ce:cross-ref>. A similar discrepancy in the tensile and compressive properties has been reported in other FCC HEAs such as Al<ce:inf loc="post">0.1</ce:inf>CoCrFeNi <ce:cross-refs id="cf0060" refid="bb0035 bb0040">[7,8]</ce:cross-refs> and CoCrFeMnNi <ce:cross-refs id="cf0065" refid="bb0045 bb0050">[9,10]</ce:cross-refs>. It is not clear if these differences are due to minor variations in the microstructure between the different studies, or if there is a genuine tension/compression asymmetry for this alloy class. We therefore chose here to study the deformation behaviour of the high entropy alloy Al<ce:inf loc="post">0.3</ce:inf>CoCrFeNi with particular emphasis on differences in its tensile and compressive deformation behaviour. This alloy has a FCC structure and has been noted for its excellent mechanical properties over a wide range of temperatures <ce:cross-ref id="cf0070" refid="bb0055">[11]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0015" view="all">Columns (x:y:z – 15:15:100<ce:hsp sp="0.25"/>mm) of the alloy were manufactured by direct laser fabrication (DLF) using a Trumpf Truelaser Cell 7040 using the same deposition parameters provided elsewhere <ce:cross-ref id="cf0075" refid="bb0060">[12]</ce:cross-ref>. The composition of the alloy determined by glow discharge optical emission spectroscopy is given in <ce:cross-ref id="cf0080" refid="t0005">Table 1</ce:cross-ref>
+                  <ce:float-anchor refid="t0005"/>. Specimens for mechanical testing were prepared by electro-discharge machining, with the mechanical load direction parallel to the build direction, <ce:cross-ref id="cf0085" refid="f0005">Fig. 1</ce:cross-ref>(a)<ce:float-anchor refid="f0005"/>. Cylindrical specimens for compression testing had a diameter of 8<ce:hsp sp="0.25"/>mm and a height of 12<ce:hsp sp="0.25"/>mm, and the tensile specimen had a gauge width, gauge length and gauge thickness of 4<ce:hsp sp="0.25"/>mm, 16<ce:hsp sp="0.25"/>mm and 2<ce:hsp sp="0.25"/>mm respectively. Tensile testing was performed using an Instron 100<ce:hsp sp="0.25"/>kN machine and compression testing using a Servotest Thermo Mechanical Test Simulator (TMTS-500<ce:hsp sp="0.25"/>kN). Both orientations were tested at an initial strain rate of 10<ce:sup loc="post">−<ce:hsp sp="0.10"/>3</ce:sup>
+                  <ce:hsp sp="0.25"/>s<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> and a minimum of three tests were performed in each condition. Microstructural analysis of specimens deformed to different levels of strain was carried out to examine the deformation behaviour with the aid of transmission electron microscopy (TEM) using a Joel 2100F and electron backscatter diffraction (EBSD) in a scanning electron microscope (SEM) Zeiss Supra 55 VP.</ce:para>
+               <ce:para id="p0020" view="all">The DLF Al<ce:inf loc="post">0.3</ce:inf>CoCrFeNi alloy exhibited XRD spectra consistent with a FCC phase (<ce:cross-ref id="cf0090" refid="f0005">Fig. 1</ce:cross-ref>(a)). The grain structure was examined parallel and transverse to the build direction, and representative microstructures are shown in <ce:cross-ref id="cf0095" refid="f0005">Fig. 1</ce:cross-ref>(a). The grain structure is characteristically large and columnar, having an average size of 250<ce:hsp sp="0.25"/>μm in the transverse direction and 1250<ce:hsp sp="0.25"/>μm in the longitudinal direction. Also shown in <ce:cross-ref id="cf0100" refid="f0005">Fig. 1</ce:cross-ref> is the crystallographic texture in the build direction, which shows a strong 〈001〉 alignment as evident from the EBSD inverse pole figure map (<ce:cross-ref id="cf0105" refid="f0005">Fig. 1</ce:cross-ref>(b)), (100) pole figure (<ce:cross-ref id="cf0110" refid="f0005">Fig. 1</ce:cross-ref>(c)) and strong (200) diffraction peak in the XRD spectra (<ce:cross-ref id="cf0115" refid="f0005">Fig. 1</ce:cross-ref>(a)). This may be attributed to the epitaxial growth of the alloy along the direction of deposition, owing to the rapid cooling rate and steep thermal gradient in the melt pool during laser fabrication as suggested for Ni-base superalloy Rene 41 <ce:cross-ref id="cf0120" refid="bb0065">[13]</ce:cross-ref>. As described in <ce:cross-ref id="cf0125" refid="bb0060">[12]</ce:cross-ref>, DLF Al<ce:inf loc="post">0.3</ce:inf>CoCrFeNi alloy contains a small quantity of very fine (approximately 250<ce:hsp sp="0.25"/>nm) Ni- and Al-rich particles at grain boundaries.</ce:para>
+               <ce:para id="p0025" view="all">Significant differences in mechanical behaviour are illustrated in the flow curves from tension and compression testing (<ce:cross-ref id="cf0130" refid="f0010">Fig. 2</ce:cross-ref>
+                  <ce:float-anchor refid="f0010"/>). Although the alloy showed a yield strength of 194<ce:hsp sp="0.25"/>MPa in tension and compression, the work hardening behaviour after yielding was markedly different in the different loading directions. In compression, the alloy exhibited a substantial and sustained work hardening behaviour without failure for the duration of the test (the test was stopped at true strain of 1.0, <ce:cross-ref id="cf0135" refid="f0010">Fig. 2</ce:cross-ref>(b)). In tension however, the alloy showed limited work hardening and failed at a true strain of 0.38. Tensile failure occurred by the propagation of cracks along the grain boundaries parallel to the tensile axis, <ce:cross-ref id="cf0140" refid="f0010">Fig. 2</ce:cross-ref>(c). This grain boundary cracking resulted in a significant drop in the flow stress. The observed weakness of the grain boundary regions in tension may be due to grain boundary precipitates that develop in this alloy, identified to be enriched in nickel and aluminium with an average size of 250<ce:hsp sp="0.25"/>nm from our previous study <ce:cross-ref id="cf0145" refid="bb0060">[12]</ce:cross-ref>. A similar observation was previously made in the literature, where low melting point eutectics formed along columnar grain boundaries and inter-dendritic regions of laser fabricated Rene88DT superalloy, and resulted in the premature failure of the alloy <ce:cross-ref id="cf0150" refid="bb0070">[14]</ce:cross-ref>. Flow serrations were evident in the tensile data (inset of <ce:cross-ref id="cf0155" refid="f0010">Fig. 2</ce:cross-ref>a). This may be due to progressive cracking along the grain boundaries during testing. Alternatively, the serration may be due to dynamic strain ageing, which has been observed in several HEAs in certain deformation conditions of temperature and strain rate <ce:cross-refs id="cf0160" refid="bb0055 bb0075 bb0080">[11,15,16]</ce:cross-refs>. Dynamic strain ageing was previously observed in single crystal Al<ce:inf loc="post">0.3</ce:inf>CoCrFeNi at temperatures &gt;<ce:hsp sp="0.10"/>873<ce:hsp sp="0.25"/>K and this was correlated with the interaction of solutes, especially aluminium with dislocations <ce:cross-ref id="cf0165" refid="bb0055">[11]</ce:cross-ref>. This is consistent with the accepted notion that solute pinning leads to the development of the plastic instabilities responsible for flow serrations <ce:cross-ref id="cf0170" refid="bb0085">[17]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0030" view="all">The deformed microstructure was examined with EBSD, and this revealed the presence of deformation twins in some of the compressed specimens (<ce:cross-ref id="cf0175" refid="f0015">Fig. 3</ce:cross-ref>
+                  <ce:float-anchor refid="f0015"/>). The measurements shown in <ce:cross-ref id="cf0180" refid="f0020">Fig. 4</ce:cross-ref>(a)<ce:float-anchor refid="f0020"/> were measured using EBSD, and since the step size used for the EBSD analysis was 0.05<ce:hsp sp="0.25"/>μm, it is likely that many of the finer twins were not resolved by EBSD and that the actual volume fraction of twins may be significantly higher than that indicated in <ce:cross-ref id="cf0185" refid="f0015">Fig. 3</ce:cross-ref>. Higher magnification examination in the TEM, <ce:cross-ref id="cf0190" refid="f0020">Fig. 4</ce:cross-ref>(b), showed the twins after compressive loading to be very fine, &lt;<ce:hsp sp="0.10"/>50<ce:hsp sp="0.25"/>nm thick in many cases, and this is consistent with the literature on twinning induced plasticity steel <ce:cross-ref id="cf0195" refid="bb0090">[18]</ce:cross-ref> and HEAs with a FCC crystal structure <ce:cross-refs id="cf0200" refid="bb0035 bb0095 bb0100">[7,19,20]</ce:cross-refs>. EBSD was used to confirm that the twins were the Σ3 twin typically observed in TWIP <ce:cross-ref id="cf0205" refid="bb0105">[21]</ce:cross-ref> and Hadfield steel <ce:cross-ref id="cf0210" refid="bb0110">[22]</ce:cross-ref>, <ce:cross-ref id="cf0215" refid="f0015">Fig. 3</ce:cross-ref>. No evidence of twinning was observed after tensile loading (<ce:cross-ref id="cf0220" refid="f0015">Fig. 3</ce:cross-ref>(f)) or at low strains in compression (<ce:cross-ref id="cf0225" refid="f0015">Fig. 3</ce:cross-ref>(a)). However, after a critical strain level the volume fraction of twins was found to increase with increasing compressive strain, <ce:cross-ref id="cf0230" refid="f0015">Fig. 3</ce:cross-ref>(b–e). Since there was no indication of twinning in tensile deformed specimens (<ce:cross-ref id="cf0235" refid="f0015">Fig. 3</ce:cross-ref>(f)) these samples deformed in tension must, therefore, deform exclusively by slip (<ce:cross-ref id="cf0240" refid="f0020">Fig. 4</ce:cross-ref>(c)). If we compare the microstructure of two specimens deformed to the same strain of 0.35, one in tension (<ce:cross-ref id="cf0245" refid="f0015">Fig. 3</ce:cross-ref>(f)) and one in compression (<ce:cross-ref id="cf0250" refid="f0015">Fig. 3</ce:cross-ref>(b)) it is confirmed that the alloy develops deformation twins in compression but not in tension.</ce:para>
+               <ce:para id="p0035" view="all">The deformation twinning obeys a critical resolved shear stress (CRSS<ce:inf loc="post">twinning</ce:inf>
+                  <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>σ<ce:inf loc="post">initiation</ce:inf>
+                  <ce:hsp sp="0.25"/>∗<ce:hsp sp="0.25"/>Schmid factor) law similar to the Schmid law for crystallographic slip <ce:cross-refs id="cf0255" refid="bb0115 bb0120">[23,24]</ce:cross-refs>. The absence of twinning in the as-deposited tensile samples and the samples tested to a compressive true strain of 0.2, indicates that in those cases the minimum stress required to initiate twinning was not reached. However, upon reaching the critical stress value, mechanical twins are able to form in compressed specimens. Extrapolation of <ce:cross-ref id="cf0260" refid="f0020">Fig. 4</ce:cross-ref>(a) to the x-axis provides a measure of the minimum stress required to activate twinning in these specimens of 500<ce:hsp sp="0.25"/>MPa. Given the high Schmid factor (0.48, evaluated with the aid of HKL Channel 5 Software) for twinning in these samples, the CRSS<ce:inf loc="post">twinning</ce:inf> for twinning was found to be 240<ce:hsp sp="0.25"/>MPa. This value explains the lack of twinning in tension, the required stress for twinning was never reached in tensile specimens before failure. It also correlates with a previously reported study on single crystal Al<ce:inf loc="post">0.3</ce:inf>CoCrFeNi where no twinning was observed <ce:cross-ref id="cf0265" refid="bb0055">[11]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0040" view="all">From the microstructural and flow stress analysis, it is clear that this HEA behaves differently in tension and compression. In the present case, the loading axis of the compressive and tensile samples were parallel to the direction of deposition which had a strong alignment with the 〈001〉 fibre texture, <ce:cross-ref id="cf0270" refid="f0005">Fig. 1</ce:cross-ref>(b). The effect of deformation twinning on work hardening is well studied in the TWIP steel literature. It has been established <ce:cross-refs id="cf0275" refid="bb0125 bb0130 bb0135">[25–27]</ce:cross-refs> that the progressive formation of fine mechanical twinning increases the flow stress due to two different effects: grain size refinement resulting from the twins creating high angle boundaries within the parent grains, and the increase in the global dislocation density in the system. These two effects provide TWIP steels with uniquely high work hardening rates, and the same is true in the present case in compressive loading. Unlike slip, twinning is polar in nature. It can only accommodate shape change in certain directions. It therefore seems likely that the 〈001〉 directions are well oriented for twinning in compression, but poorly oriented for twinning in tension. Research into the FCC mechanical twins in TWIP steels has shown that in that case too, the Σ3 twins are activated during compression along 〈001〉, but that this same orientation deforms primarily by slip in tension <ce:cross-refs id="cf0280" refid="bb0105 bb0110">[21,22]</ce:cross-refs>. In the orientation that promotes deformation twinning, a high and sustained work hardening rate is observed. This is not observed in tension, where twinning is not an operative deformation mode. We can therefore conclude that the asymmetry in the work hardening behaviour between tension and compression is the result of the strong texture in the starting material combined with the activation of deformation twinning in this alloy. Another difference between the tensile and compressive behaviour is the strain to failure. This too can be explained by the different deformation behaviour in tension and compression. The Σ3 twin can accommodate a large amount of strain, having a twinning shear of 0.7 <ce:cross-refs id="cf0285" refid="bb0115 bb0140">[23,28]</ce:cross-refs>. The activation of twinning therefore extends the plasticity that can be accommodated by this alloy.</ce:para>
+               <ce:para id="p0045" view="all">The anisotropy in mechanical behaviour observed in these experiments are a direct consequence of the fabrication technique. DLF produced extremely large columnar grains, and these had a very strong preferred orientation. Therefore, if DLF is to be used as a technique to manufacture near net shaped components from HEAs, the effect of deposition direction on texture development and material anisotropy must be considered. In terms of the yield strength, this property was quite similar in tension and compression, but after yielding the behaviours differ markedly. This may have consequences in service, particularly for low cycle fatigue, where plasticity is linked to fatigue life. Clearly, if additive manufacturing techniques are to be used for production of engineering components HEAs, additional work is required to understand the effects of this processing technique on the asymmetry of mechanical behaviour.</ce:para>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0020">Acknowledgements</ce:section-title>
+               <ce:para id="p0050" view="all">The financial support of the <ce:grant-sponsor id="gts0005" sponsor-id="http://dx.doi.org/10.13039/501100000923" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Australian Research Council</ce:grant-sponsor> through the Industry Transformation Research Hub for Additive Manufacturing (<ce:grant-number id="gtn0005" refid="gts0005">IH130100008</ce:grant-number>) is gratefully acknowledged. Also the authors are grateful to the Deakin Advanced Characterisation Facility for the technical support.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0025">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                              <sb:last-page>303</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Otto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>George</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2628</sb:first-page>
+                              <sb:last-page>2638</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Zuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Dahmen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>93</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.A.</ce:given-name>
+                                 <ce:surname>Davies</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Mod. Phys. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1254</sb:first-page>
+                              <sb:last-page>1259</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gali</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>George</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>74</sb:first-page>
+                              <sb:last-page>78</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.-T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.-Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.-H.</ce:given-name>
+                                 <ce:surname>Shiu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>556</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                              <sb:last-page>174</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Ying</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Nie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.S.</ce:given-name>
+                                 <ce:surname>Mishra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Brennan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Doherty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.C.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Des.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>598</sb:first-page>
+                              <sb:last-page>602</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>24</sb:first-page>
+                              <sb:last-page>28</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.G.</ce:given-name>
+                                 <ce:surname>Nieh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>105</sb:first-page>
+                              <sb:last-page>113</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Stepanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Shaysultanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.A.</ce:given-name>
+                                 <ce:surname>Salishchev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Tikhonovsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.E.</ce:given-name>
+                                 <ce:surname>Oleynik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Tortika</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>628</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                              <sb:last-page>185</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Yasuda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Shigeno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nagase</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>108</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>80</sb:first-page>
+                              <sb:last-page>83</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Joseph</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Jarvis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Stanford</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hodgson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Fabijanic</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>633</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>184</sb:first-page>
+                              <sb:last-page>193</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>527</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4823</sb:first-page>
+                              <sb:last-page>4829</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>504</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>129</sb:first-page>
+                              <sb:last-page>134</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Otto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Dlouhý</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Somsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Eggeler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>George</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5743</sb:first-page>
+                              <sb:last-page>5755</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kear</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.D.</ce:given-name>
+                                 <ce:surname>Barker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.C.</ce:given-name>
+                                 <ce:surname>Walsh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Corros. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                              <sb:last-page>135</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chakravartty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wadekar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dubey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>292</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                              <sb:last-page>55</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Beladi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Timokhina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Estrin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>De Cooman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7787</sb:first-page>
+                              <sb:last-page>7799</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Tasan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.G.</ce:given-name>
+                                 <ce:surname>Pradeep</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Springer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Kostka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Raabe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>94</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>124</sb:first-page>
+                              <sb:last-page>133</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Gludovatz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hohenwarter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Catoor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.H.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>George</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.O.</ce:given-name>
+                                 <ce:surname>Ritchie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>345</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1153</sb:first-page>
+                              <sb:last-page>1158</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Gutierrez-Urrutia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zaefferer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Raabe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>527</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3552</sb:first-page>
+                              <sb:last-page>3560</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Karaman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Sehitoglu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Gall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.I.</ce:given-name>
+                                 <ce:surname>Chumlyakov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1345</sb:first-page>
+                              <sb:last-page>1359</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Christian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mahajan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>157</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Gil Sevillano</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>135</sb:first-page>
+                              <sb:last-page>138</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hutchinson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Ridley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                              <sb:last-page>302</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>629</sb:first-page>
+                              <sb:last-page>631</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Saleh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.V.</ce:given-name>
+                                 <ce:surname>Pereloma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Clausen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.N.</ce:given-name>
+                                 <ce:surname>Tomé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.</ce:given-name>
+                                 <ce:surname>Gazder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>589</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>66</sb:first-page>
+                              <sb:last-page>75</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Niendorf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Rüsing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Frehn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chumlyakov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Maier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>875</sb:first-page>
+                              <sb:last-page>878</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

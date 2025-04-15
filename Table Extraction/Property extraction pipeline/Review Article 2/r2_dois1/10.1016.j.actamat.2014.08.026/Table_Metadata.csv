@@ -1,0 +1,12 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2014.08.026\tables\Table 1.csv,Table 1,Processing conditions and grain sizes of the equiatomic alloys.,
+t0010,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2014.08.026\tables\Table 2.csv,Table 2,"The fitting parameters s
+a, C and s
+b obtained from curve fits of the data in Fig. 5 according to the form of Eq. (10). The table also lists: the 0K Peierls stress, s
+p(0), calculated by assuming o
+0
+=0.5b, b, 1.5b, and 2b; the constant a; the melting temperatures (T
+m); and the product of a and T
+m. Additional descriptions of the parameters and their symbols are given in the text.",
+t0015,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2014.08.026\tables\Table 3.csv,Table 3,"Measured melting temperatures, room temperature shear moduli and Poisson's ratios of the equiatomic alloys.",
+t0020,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2014.08.026\tables\Table 4.csv,Table 4,"Temperature dependence of the shear modulus of FeNiCoCr (this study), FeNi (calculated from Ref. [75]) and pure Ni (extracted from Ref. [75]).",

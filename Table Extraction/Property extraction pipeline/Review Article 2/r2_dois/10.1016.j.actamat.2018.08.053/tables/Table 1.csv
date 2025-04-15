@@ -1,0 +1,15 @@
+Materials,Parameters,Parameters,Parameters,Parameters
+Materials,-,EDS results,APT results,APT results
+Alloys,Elements,Average of atom fraction (%),Average of atom fraction (%),m
+As-castNbTaTiV (Bright contrast region),Nb,28.6,27.265,0.0564
+As-castNbTaTiV (Bright contrast region),Ta,33.7,27.381,0.1029
+As-castNbTaTiV (Bright contrast region),Ti,19.8,21.862,0.0779
+As-castNbTaTiV (Bright contrast region),V,17.9,22.150,0.1014
+As-castNbTaTiV (Dark contrast region),Nb,18.9,20.997,0.0422
+As-castNbTaTiV (Dark contrast region),Ta,9.0,11.669,0.0390
+As-castNbTaTiV (Dark contrast region),Ti,36.3,33.149,0.0586
+As-castNbTaTiV (Dark contrast region),V,35.8,32.164,0.0664
+HomogenizedNbTaTiV,Nb,23.8,24.944,0.0375
+HomogenizedNbTaTiV,Ta,25.5,23.627,0.1328
+HomogenizedNbTaTiV,Ti,24.9,25.076,0.0820
+HomogenizedNbTaTiV,V,25.8,24.959,0.0379

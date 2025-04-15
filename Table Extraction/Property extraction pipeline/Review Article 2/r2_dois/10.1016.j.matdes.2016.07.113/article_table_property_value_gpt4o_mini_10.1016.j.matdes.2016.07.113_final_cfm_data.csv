@@ -1,0 +1,13 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+A0.5,-,-,Yield Strength(Tension),925,MPa
+A0.6,-,-,Yield Strength(Tension),1411,MPa
+A0.8,-,-,Yield Strength(Tension),1431,MPa
+A1.0,-,-,Yield Strength(Tension),1371,MPa
+A1.5,-,-,Yield Strength(Tension),1320,MPa
+A1.75,-,-,Yield Strength(Tension),1607,MPa
+A0.5,-,-,Hardness,376,HV
+A0.6,-,-,Hardness,560,HV
+A0.8,-,-,Hardness,577,HV
+A1.0,-,-,Hardness,510,HV
+A1.5,-,-,Hardness,583,HV
+A1.75,-,-,Hardness,667,HV

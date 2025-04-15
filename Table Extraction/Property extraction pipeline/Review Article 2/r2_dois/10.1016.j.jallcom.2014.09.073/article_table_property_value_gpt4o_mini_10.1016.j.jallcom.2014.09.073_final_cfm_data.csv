@@ -1,0 +1,52 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0, - , - , Yield Strength(Tension), 1309.9, MPa
+Al0, - , - , Ultimate Tensile Strength(Tension), 2621.4, MPa
+Al0, - , - , Ductility, 20.4, %
+Al0.25, - , - , Yield Strength(Tension), 1390.8, MPa
+Al0.25, - , - , Ultimate Tensile Strength(Tension), 3412.3, MPa
+Al0.25, - , - , Ductility, 33.4, %
+Al0.5, - , - , Yield Strength(Tension), 1879.8, MPa
+Al0.5, - , - , Ultimate Tensile Strength(Tension), 3474.7, MPa
+Al0.5, - , - , Ductility, 40.0, %
+Al0.75, - , - , Yield Strength(Tension), 1726.1, MPa
+Al0.75, - , - , Ultimate Tensile Strength(Tension), 2811.1, MPa
+Al0.75, - , - , Ductility, 20.0, %
+Al1.0, - , - , Yield Strength(Tension), 1444.7, MPa
+Al1.0, - , - , Ultimate Tensile Strength(Tension), 1829.1, MPa
+Al1.0, - , - , Ductility, 7.2, %
+Al0.5CrFeNiTi0.25,-,-,Yield Strength(Tension),1880,MPa
+Al0.5CrFeNiTi0.25,-,-,Ultimate Tensile Strength(Tension),3475,MPa
+Al0.5CrFeNiTi0.25,-,-,Ductility,40.0,%EL
+AlCoCrFeNi,-,-,Yield Strength(Tension),1423,MPa
+AlCoCrFeNi,-,-,Ultimate Tensile Strength(Tension),2852,MPa
+AlCoCrFeNi,-,-,Ductility,22.7,%EL
+AlCoCrFeNiTi0.5,-,-,Yield Strength(Tension),2260,MPa
+AlCoCrFeNiTi0.5,-,-,Ultimate Tensile Strength(Tension),3140,MPa
+AlCoCrFeNiTi0.5,-,-,Ductility,23.3,%EL
+AlCoCrFeNiTi0,-,-,Yield Strength(Tension),1500,MPa
+AlCoCrFeNiTi0,-,-,Ultimate Tensile Strength(Tension),2830,MPa
+AlCoCrFeNiTi0,-,-,Ductility,26.9,%EL
+CuCoFeNiCrTi0.5,-,-,Yield Strength(Tension),700,MPa
+CuCoFeNiCrTi0.5,-,-,Ultimate Tensile Strength(Tension),1650,MPa
+CuCoFeNiCrTi0.5,-,-,Ductility,21.6,%EL
+Cu48Zr48Al4,-,-,Yield Strength(Tension),1200,MPa
+Cu48Zr48Al4,-,-,Ultimate Tensile Strength(Tension),1880,MPa
+Cu48Zr48Al4,-,-,Ductility,5.3,%EL
+CuCoFeNiCrAlV,-,-,Yield Strength(Tension),1469,MPa
+CuCoFeNiCrAlV,-,-,Ultimate Tensile Strength(Tension),1970,MPa
+CuCoFeNiCrAlV,-,-,Ductility,16.0,%EL
+CuCoFeNiCrAl,-,-,Yield Strength(Tension),1303,MPa
+CuCoFeNiCrAl,-,-,Ultimate Tensile Strength(Tension),2081,MPa
+CuCoFeNiCrAl,-,-,Ductility,24.0,%EL
+NbMoTaW,-,-,Yield Strength(Tension),1058,MPa
+NbMoTaW,-,-,Ultimate Tensile Strength(Tension),1211,MPa
+NbMoTaW,-,-,Ductility,1.5,%EL
+FeCoNi(AlSi)0.3,-,-,Yield Strength(Tension),938,MPa
+FeCoNi(AlSi)0.3,-,-,Ultimate Tensile Strength(Tension),2857,MPa
+FeCoNi(AlSi)0.3,-,-,Ductility,33.0,%EL
+FeCoNi(AlSi)0.2,-,-,Yield Strength(Tension),342,MPa
+FeCoNi(AlSi)0.2,-,-,Ultimate Tensile Strength(Tension),2500,MPa
+FeCoNi(AlSi)0.2,-,-,Ductility,47.0,%EL
+AlCoCrFeNiTi0.3,-,-,Yield Strength(Tension),1980,MPa
+AlCoCrFeNiTi0.3,-,-,Ultimate Tensile Strength(Tension),3600,MPa
+AlCoCrFeNiTi0.3,-,-,Ductility,12.0,%EL

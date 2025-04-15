@@ -1,0 +1,5 @@
+,E corr (mVSHE),i corr (A/cm2),i crit (A/cm2),E pp (mVSHE),i pass (A/cm2),DE (mVSHE)
+CrFe1.5MnNi0.5,-229,6.86x10-4,1.26x10-2,-55,3.14x10-5,1227
+Al0.3CrFe1.5MnNi0.5,-194,2.39x10-3,2.36x10-2,-12,7.39x10-5,1176
+Al0.5CrFe1.5MnNi0.5,-206,5.08x10-3,5.54x10-2,47,6.82x10-5,1114
+304 stainless steel,-186,7.45x10-5,8.19x10-4,-22,8.05x10-6,1178

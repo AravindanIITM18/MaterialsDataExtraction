@@ -1,0 +1,10 @@
+Figure ID,Figure Path,Figure Label,Figure Caption
+fig1,articles_all/10.1016.j.jallcom.2009.08.090/figures/gr1.jpg,Fig. 1,XRD patterns for C-x(0≤x≤2) showing the phase change from FCC to BCC asxincreases.
+fig2,articles_all/10.1016.j.jallcom.2009.08.090/figures/gr2.jpg,Fig. 2,SEM images for not etched C-xsamples with lower (left) and higher (right) magnifications.
+fig3,articles_all/10.1016.j.jallcom.2009.08.090/figures/gr3.jpg,Fig. 3,Hardness of C-xvs.xplot with the schematic plot (dashed line) for determining the boundaries of the transition region in C-x.
+fig4,articles_all/10.1016.j.jallcom.2009.08.090/figures/gr4.jpg,Fig. 4,The XRD patterns for not etched H-x(0≤x≤2) showing the phase change from FCC to BCC asxincreases.
+fig5,articles_all/10.1016.j.jallcom.2009.08.090/figures/gr5.jpg,Fig. 5,SEM images for H-xsamples with lower (left) and higher (right) magnifications.
+fig6,articles_all/10.1016.j.jallcom.2009.08.090/figures/gr6.jpg,Fig. 6,Hardness of H-xvs.xplot and the schematic plot (dashed line) for determining the boundaries of the transition region in H-x.
+fig7,articles_all/10.1016.j.jallcom.2009.08.090/figures/gr7.jpg,Fig. 7,XRD patterns of D-x(0≤x≤0.875) showing lower intensity than that of H-x.
+fig8,articles_all/10.1016.j.jallcom.2009.08.090/figures/gr8.jpg,Fig. 8,SEM images for not etched D-xsamples with lower (left) and higher (right) magnifications.
+fig9,articles_all/10.1016.j.jallcom.2009.08.090/figures/gr9.jpg,Fig. 9,"(a). Plots of hardness for H-xand D-xwith error bar. (b) Plots of hardness for H-xand D-xand volume fraction of BCC as a function of the molar ratio of Al,x. Note that the three curves seem to obey the same x dependence in (b). (c) Plots of the hardness and hardening ratio as a function of the volume function of FCC. Note that both curves have monotonically decreasing linear relationship with volume fraction of FCC in (c)."

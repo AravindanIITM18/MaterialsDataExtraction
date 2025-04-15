@@ -1,0 +1,13 @@
+Alloy system,Hmix (KJ/mol),d,Smix (J/K*mol),Phase composition
+CoCrFeNiCu,3.2,1.09,13.38,Ss
+CoCrFeNiAl,-12.32,5.25,13.38,Ss + IC
+CoCrFeNiMn,-4.8,0.924,13.38,Ss
+CoCrFeNiTi,-16.16,6.42,13.38,Ss + IC
+CrFeNiCuAl,-4.64,5.98,13.38,Ss + IC
+CoCrFeNiV,-8.8,2.77,13.38,Ss
+CoCrFeNiCuAl,-4.78,4.82,14.90,Ss + IC
+CoCrFeNiTiAl,-20.44,6.57,14.90,Ss + IC
+CoCrFeNiMnAl,-11.89,4.92,14.90,Ss + IC
+CoCrFeNiCuAlTi,-13.80,6.23,16.18,Ss + IC
+CoCrFeNiCuAlMn,-5.5,4.32,16.18,Ss + IC
+CoCrFeNiCuAlMnTiV,-12.59,5.75,18.27,Ss + IC

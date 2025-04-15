@@ -1,0 +1,89 @@
+
+Table Table 1:
+Input Table:
+Alloy,Zone,Co,Cr,Fe,Ni,Ti,Al
+CoCrFeNiTiAl0,Nominal,20.0,20.0,20.0,20.0,20.0,0.0
+nan,Alloy,22.51,22.66,21.9,20.97,16.39,0.0
+nan,nan,nan,nan,nan,nan,nan,nan
+CoCrFeNiTiAl0.5,Nominal,18.2,18.2,18.2,18.2,18.2,9.0
+nan,E(A),13.62,36.18,26.93,10.45,8.64,3.04
+nan,Dendrite,24.66,5.13,9.82,26.62,20.36,12.62
+nan,Interdendrite,15.55,27.58,31.63,10.78,12.75,1.97
+nan,nan,nan,nan,nan,nan,nan,nan
+CoCrFeNiTiAl1.0,Nominal,16.6,16.6,16.7,16.7,16.7,16.7
+nan,E(A),14.71,33.52,27.39,12.53,8.54,6.36
+nan,Dendrite,21.91,13.08,14.44,22.47,17.51,20.31
+nan,Interdendrite,16.41,24.92,29.33,14.11,13.25,5.24
+nan,nan,nan,nan,nan,nan,nan,nan
+CoCrFeNiTiAl1.5,Nominal,15.4,15.4,15.4,15.4,15.4,23.0
+nan,Dendrite,22.87,9.49,14.44,22.51,17.4,24.55
+nan,Interdendrite,15.9,23.27,22.18,15.12,14.2,13.89
+nan,nan,nan,nan,nan,nan,nan,nan
+CoCrFeNiTiAl2.0,Nominal,14.3,14.3,14.3,14.3,14.3,28.5
+nan,Dendrite,17.64,9.63,11.84,18.81,17.29,30.63
+nan,Interdendrite,8.75,42.89,28.87,4.79,5.13,11.21
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNiTiAl0,-,Nominal,Chemical Composition,Co: 20.0; Cr: 20.0; Fe: 20.0; Ni: 20.0; Ti: 20.0; Al: 0.0,at%
+CoCrFeNiTiAl0.5,-,Nominal,Chemical Composition,Co: 18.2; Cr: 18.2; Fe: 18.2; Ni: 18.2; Ti: 18.2; Al: 9.0,at%
+CoCrFeNiTiAl0.5,-,E(A),Chemical Composition,Co: 13.62; Cr: 36.18; Fe: 26.93; Ni: 10.45; Ti: 8.64; Al: 3.04,at%
+CoCrFeNiTiAl0.5,-,Dendrite,Chemical Composition,Co: 24.66; Cr: 5.13; Fe: 9.82; Ni: 26.62; Ti: 20.36; Al: 12.62,at%
+CoCrFeNiTiAl0.5,-,Interdendrite,Chemical Composition,Co: 15.55; Cr: 27.58; Fe: 31.63; Ni: 10.78; Ti: 12.75; Al: 1.97,at%
+CoCrFeNiTiAl1.0,-,Nominal,Chemical Composition,Co: 16.6; Cr: 16.6; Fe: 16.7; Ni: 16.7; Ti: 16.7; Al: 16.7,at%
+CoCrFeNiTiAl1.0,-,E(A),Chemical Composition,Co: 14.71; Cr: 33.52; Fe: 27.39; Ni: 12.53; Ti: 8.54; Al: 6.36,at%
+CoCrFeNiTiAl1.0,-,Dendrite,Chemical Composition,Co: 21.91; Cr: 13.08; Fe: 14.44; Ni: 22.47; Ti: 17.51; Al: 20.31,at%
+CoCrFeNiTiAl1.0,-,Interdendrite,Chemical Composition,Co: 16.41; Cr: 24.92; Fe: 29.33; Ni: 14.11; Ti: 13.25; Al: 5.24,at%
+CoCrFeNiTiAl1.5,-,Nominal,Chemical Composition,Co: 15.4; Cr: 15.4; Fe: 15.4; Ni: 15.4; Ti: 15.4; Al: 23.0,at%
+CoCrFeNiTiAl1.5,-,Dendrite,Chemical Composition,Co: 22.87; Cr: 9.49; Fe: 14.44; Ni: 22.51; Ti: 17.4; Al: 24.55,at%
+CoCrFeNiTiAl1.5,-,Interdendrite,Chemical Composition,Co: 15.9; Cr: 23.27; Fe: 22.18; Ni: 15.12; Ti: 14.2; Al: 13.89,at%
+CoCrFeNiTiAl2.0,-,Nominal,Chemical Composition,Co: 14.3; Cr: 14.3; Fe: 14.3; Ni: 14.3; Ti: 14.3; Al: 28.5,at%
+CoCrFeNiTiAl2.0,-,Dendrite,Chemical Composition,Co: 17.64; Cr: 9.63; Fe: 11.84; Ni: 18.81; Ti: 17.29; Al: 30.63,at%
+CoCrFeNiTiAl2.0,-,Interdendrite,Chemical Composition,Co: 8.75; Cr: 42.89; Fe: 28.87; Ni: 4.79; Ti: 5.13; Al: 11.21,at%
+
+Table Table 2:
+Input Table:
+"Element (atomic size, A)",Co (1.25),Cr (1.25),Fe (1.24),Ni (1.24),Ti (1.44),Al (1.43)
+Co,-,-7.0,-1.0,0.0,-42.0,-19
+Cr,nan,nan,-1.0,-7.0,-11.0,-10
+Fe,nan,nan,nan,-2.0,-25.0,-11
+Ni,nan,nan,nan,nan,-52.0,-22
+Ti,nan,nan,nan,nan,nan,-30
+
+Retrieved Properties: Formation Enthalpy, Mixing Enthalpy, Mixing Entropy
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCr,-,-,Mixing Enthalpy,-7.0,J/mol
+CoFe,-,-,Mixing Enthalpy,-1.0,J/mol
+CoNi,-,-,Mixing Enthalpy,0.0,J/mol
+CoTi,-,-,Mixing Enthalpy,-42.0,J/mol
+CoAl,-,-,Mixing Enthalpy,-19,J/mol
+CrFe,-,-,Mixing Enthalpy,-1.0,J/mol
+CrNi,-,-,Mixing Enthalpy,-7.0,J/mol
+CrTi,-,-,Mixing Enthalpy,-11.0,J/mol
+CrAl,-,-,Mixing Enthalpy,-10,J/mol
+FeNi,-,-,Mixing Enthalpy,-2.0,J/mol
+FeTi,-,-,Mixing Enthalpy,-25.0,J/mol
+FeAl,-,-,Mixing Enthalpy,-11,J/mol
+NiTi,-,-,Mixing Enthalpy,-52.0,J/mol
+NiAl,-,-,Mixing Enthalpy,-22,J/mol
+TiAl,-,-,Mixing Enthalpy,-30,J/mol
+
+Table Table 3:
+Input Table:
+Alloy,E (GPa),s max (GPa),e p (%)
+Al0,134.6,2.02,9.0
+Al0.5,106.8,1.6,9.9
+Al1.0,147.6,2.28,6.4
+Al1.5,133.4,2.11,9.8
+Al2.0,93.5,1.03,5.2
+
+Retrieved Properties: Ultimate Tensile Strength, Pitting Potential, Elastic Moduli, SRO, Band Gap, Elasticity, Saturation Magnetization
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNiTiAl0,-,-,Elastic Moduli,134.6,GPa
+CoCrFeNiTiAl0.5,-,-,Elastic Moduli,106.8,GPa
+CoCrFeNiTiAl1.0,-,-,Elastic Moduli,147.6,GPa
+CoCrFeNiTiAl1.5,-,-,Elastic Moduli,133.4,GPa
+CoCrFeNiTiAl2.0,-,-,Elastic Moduli,93.5,GPa

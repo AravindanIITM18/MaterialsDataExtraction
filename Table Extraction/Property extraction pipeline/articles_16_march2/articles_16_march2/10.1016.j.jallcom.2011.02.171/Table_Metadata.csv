@@ -1,0 +1,21 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl0005,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2011.02.171/tables/Table 1.csv,Table 1,Chemical composition of the TaNbHfZrTi alloy produced by vacuum arc melting.,
+tbl0010,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2011.02.171/tables/Table 2.csv,Table 2,"The lattice parameter, a, of the BCC crystal structure, density, r, Vickers microhardness, H
+v, and yield strength, s
+0.2, of the pure metals and the studied alloy.",
+tbl0015,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2011.02.171/tables/Table 3.csv,Table 3,"Atomic radius, r
+=(3/4)a, and shear modulus, G, of pure elements.",
+tbl0020,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2011.02.171/tables/Table 4.csv,Table 4,"Relative atomic size difference, d
+
+aij
+ (underlined numbers), and modulus difference, d
+
+Gij
+ (bold numbers), of the alloying element pairs.",
+tbl0025,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2011.02.171/tables/Table 5.csv,Table 5,"Calculated lattice distortion, d
+
+ai
+, and modulus distortion, d
+
+Gi
+, (Eqs. (6) and (7)) near each element in the BCC lattice of the TaNbHfZrTi alloy.",

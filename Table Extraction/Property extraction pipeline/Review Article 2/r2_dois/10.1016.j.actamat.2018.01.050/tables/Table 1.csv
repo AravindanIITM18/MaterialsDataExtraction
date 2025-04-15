@@ -1,0 +1,6 @@
+No.,M,Chemical compositions(at. %),VEC,HV,sy  (MPa),sy  (MPa),sUTS  (MPa),d(%),Phase constitution +Volume fraction (%)
+1,Al2(NiCoFeCr)14 (M1111),Al12.5Ni21.875Co21.875Fe21.875Cr21.875,7.59,285,614,598,930,15.6,FCC matrix+ BCC/B2 (~35%)
+2,Al2(Ni4Co4Fe3Cr3)14 (M4433),Al12.5Ni25Co25Fe18.75Cr18.75,7.75,205,387,346,>728,>33.0,FCC matrix+ BCC/B2 (~15%)
+3,Al2(NiCoFe2Cr)14 (M1121),Al12.5Ni17.5Co17.5Fe35Cr17.5,7.55,485,1085,991,1245,8.2,BCC/B2 matrix+ FCC (~25%)
+4,Al2(NiCoFeCr2)14 (M1112),Al12.5Ni17.5Co17.5Fe17.5Cr35,7.20,626,1718,-,-,-,BCC/B2
+5,Al3(NiCoFeCr)14 (Al3M14),Al17.64Ni20.59Co20.59Fe20.59Cr20.59,7.32,531,1399,-,-,-,BCC/B2

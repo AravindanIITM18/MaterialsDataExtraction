@@ -1,0 +1,26 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+HfMoxNbTaTiZr,Mo-0,-,Density,9.910,g/cm3
+HfMoxNbTaTiZr,Mo-0.25,-,Density,9.94,g/cm3
+HfMoxNbTaTiZr,Mo-0.5,-,Density,9.960,g/cm3
+HfMoxNbTaTiZr,Mo-0.75,-,Density,9.970,g/cm3
+HfMoxNbTaTiZr,Mo-1,-,Density,9.97,g/cm3
+HfMoxNbTaTiZr,Mo-0,-,Hardness,335.000,kg/mm2
+HfMoxNbTaTiZr,Mo-0.25,-,Hardness,395.00,kg/mm2
+HfMoxNbTaTiZr,Mo-0.5,-,Hardness,480.000,kg/mm2
+HfMoxNbTaTiZr,Mo-0.75,-,Hardness,492.000,kg/mm2
+HfMoxNbTaTiZr,Mo-1,-,Hardness,505.00,kg/mm2
+HfMoxNbTaTiZr,Mo-0,-,Yield Strength(Compression),1015,MPa
+HfMoxNbTaTiZr,Mo-0.25,-,Yield Strength(Compression),1112,MPa
+HfMoxNbTaTiZr,Mo-0.5,-,Yield Strength(Compression),1317,MPa
+HfMoxNbTaTiZr,Mo-0.75,-,Yield Strength(Compression),1373,MPa
+HfMoxNbTaTiZr,Mo-1,-,Yield Strength(Compression),1512,MPa
+HfMoxNbTaTiZr,Mo-0,-,Ductility,>50,%
+HfMoxNbTaTiZr,Mo-0.25,-,Ductility,>50,%
+HfMoxNbTaTiZr,Mo-0.5,-,Ductility,>50,%
+HfMoxNbTaTiZr,Mo-0.75,-,Ductility,>50,%
+HfMoxNbTaTiZr,Mo-1,-,Ductility,12,%
+HfMoxNbTaTiZr,Mo-0,-,Young's modulus,85,GPa
+HfMoxNbTaTiZr,Mo-0.25,-,Young's modulus,96,GPa
+HfMoxNbTaTiZr,Mo-0.5,-,Young's modulus,102,GPa
+HfMoxNbTaTiZr,Mo-0.75,-,Young's modulus,109,GPa
+HfMoxNbTaTiZr,Mo-1,-,Young's modulus,115,GPa

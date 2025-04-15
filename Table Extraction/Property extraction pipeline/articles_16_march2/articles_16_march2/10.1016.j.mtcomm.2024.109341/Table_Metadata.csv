@@ -1,0 +1,6 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl0005,/home/sai/sai-mani/articles_all/10.1016.j.mtcomm.2024.109341/tables/Table 1.csv,Table 1,Chemical compositions and O and N contents measured by EDS and carrier hot gas extraction of the investigated alloys in at%.,
+tbl0010,/home/sai/sai-mani/articles_all/10.1016.j.mtcomm.2024.109341/tables/Table 2.csv,Table 2,Lattice parameter a in nm and grain size d in um.,
+tbl0015,/home/sai/sai-mani/articles_all/10.1016.j.mtcomm.2024.109341/tables/Table 3.csv,Table 3,"CTE of the investigated alloys in 10-6/K, with the experimental error being at most +- 1%.",
+tbl0020,/home/sai/sai-mani/articles_all/10.1016.j.mtcomm.2024.109341/tables/Table 4.csv,Table 4,"Resonance fields, g-values and amplitudes of the ESR-spectra of the investigated alloys with H in the sample plane (th = 0deg).",
+tbl0025,/home/sai/sai-mani/articles_all/10.1016.j.mtcomm.2024.109341/tables/Table 5.csv,Table 5,"Resonance fields, g-values and amplitudes of the ESR-spectra of the investigated alloys with H in the sample plane (th = 90deg).",

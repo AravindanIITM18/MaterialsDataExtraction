@@ -1,0 +1,25 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Co20Ni20Fe20Al20Ti20,-,Room Temperature,Ultimate Tensile Strength(Tension),2988,MPa
+Co0.5NiFeCrTi0.5,-,Room Temperature,Ultimate Tensile Strength(Tension),2690,MPa
+CoNiFeCrAl0.6Ti0.4,-,Room Temperature,Ultimate Tensile Strength(Tension),2520,MPa
+AlFeNiCoCrMn,-,Room Temperature,Ultimate Tensile Strength(Tension),2142,MPa
+Co0.3NiFeCrAl0.7,-,Room Temperature,Ultimate Tensile Strength(Tension),2635,MPa
+Al0.5CrFeNiCo0.3C0.2,-,Room Temperature,Ultimate Tensile Strength(Tension),2131,MPa
+CoCrFeNiAl,-,Room Temperature,Ultimate Tensile Strength(Tension),1907,MPa
+FeNiCoCrMn,-,Room Temperature,Ultimate Tensile Strength(Tension),1987,MPa
+Co20Ni20Fe20Al20Ti20,-,Room Temperature,Others(fracture strain),5.8,%
+Co0.5NiFeCrTi0.5,-,Room Temperature,Others(fracture strain),~2.0,* 
+CoNiFeCrAl0.6Ti0.4,-,Room Temperature,Others(fracture strain),~7.0,* 
+AlFeNiCoCrMn,-,Room Temperature,Others(fracture strain),~6.0,* 
+Co0.3NiFeCrAl0.7,-,Room Temperature,Others(fracture strain),8.1,% 
+Al0.5CrFeNiCo0.3C0.2,-,Room Temperature,Others(fracture strain),3.0,% 
+CoCrFeNiAl,-,Room Temperature,Others(fracture strain),~6.5,* 
+FeNiCoCrMn,-,Room Temperature,Others(fracture strain),~8.0,* 
+Co20Ni20Fe20Al20Ti20,-,Room Temperature,Hardness,704,Hv
+Co0.5NiFeCrTi0.5,-,Room Temperature,Hardness,846,Hv
+CoNiFeCrAl0.6Ti0.4,-,Room Temperature,Hardness,573,Hv
+AlFeNiCoCrMn,-,Room Temperature,Hardness,662,Hv
+Co0.3NiFeCrAl0.7,-,Room Temperature,Hardness,624,Hv
+Al0.5CrFeNiCo0.3C0.2,-,Room Temperature,Hardness,617,Hv
+CoCrFeNiAl,-,Room Temperature,Hardness,625,Hv
+FeNiCoCrMn,-,Room Temperature,Hardness,646,Hv

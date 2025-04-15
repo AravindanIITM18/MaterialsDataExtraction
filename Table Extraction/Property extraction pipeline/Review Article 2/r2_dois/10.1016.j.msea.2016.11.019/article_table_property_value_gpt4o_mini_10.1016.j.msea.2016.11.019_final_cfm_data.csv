@@ -1,0 +1,26 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al09,-,Room temperature,Yield Strength(Tension),770.0,MPa
+Al09,-,Room temperature,Ultimate Tensile Strength(Tension),3002.4,MPa
+Al09,-,Room temperature,Ductility,37.1,%
+Al10,-,Room temperature,Yield Strength(Tension),843.2,MPa
+Al10,-,Room temperature,Ultimate Tensile Strength(Tension),3450.4,MPa
+Al10,-,Room temperature,Ductility,34.6,%
+Al11,-,Room temperature,Yield Strength(Tension),1044.0,MPa
+Al11,-,Room temperature,Ultimate Tensile Strength(Tension),3513.0,MPa
+Al11,-,Room temperature,Ductility,27.1,%
+Al12,-,Room temperature,Yield Strength(Tension),906.8,MPa
+Al12,-,Room temperature,Ultimate Tensile Strength(Tension),3607.6,MPa
+Al12,-,Room temperature,Ductility,31.4,%
+Al13,-,Room temperature,Yield Strength(Tension),1122.8,MPa
+Al13,-,Room temperature,Ultimate Tensile Strength(Tension),3705.3,MPa
+Al13,-,Room temperature,Ductility,24.7,%
+AxCrFeNi,-,Room Temperature,Yield Strength(Tension),3002.4-3705.3,MPa
+AlCrFe2Ni2,-,Room Temperature,Yield Strength(Tension),1228,MPa
+AlCoCrFeNi,-,Room Temperature,Yield Strength(Tension),2864.9,MPa
+AlCrFeNi2Ti0.5,-,Room Temperature,Yield Strength(Tension),2083,MPa
+AlCrFeNiMo2,-,Room Temperature,Yield Strength(Tension),3222,MPa
+AlCrCuFeNi2,-,Room Temperature,Yield Strength(Tension),2123,MPa
+CrFeNiV0.5W,-,Room Temperature,Yield Strength(Tension),2240,MPa
+Al0.3CoCrFeNi,-,Room Temperature,Yield Strength(Tension),2000,MPa
+CoCrFeNi,-,Room Temperature,Yield Strength(Tension),488,MPa
+CoCrCuFeNi,-,Room Temperature,Yield Strength(Tension),888,MPa

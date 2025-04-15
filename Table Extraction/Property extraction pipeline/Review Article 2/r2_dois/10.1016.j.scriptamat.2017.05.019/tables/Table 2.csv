@@ -1,0 +1,7 @@
+Annealing conditions,YS (MPa),UTS (MPa),EL (%)
+800degC/1h/AC,1311,1410,12.1
+850degC/5min/WQ,1212,1360,14.9
+900degC/5min/WQ,1028,1249,18.3
+1000degC/5min/WQ,879,1194,25.4
+1000degC/1h/AC,799,1127,28.2
+1150degC/1h/AC,350,918,62.4

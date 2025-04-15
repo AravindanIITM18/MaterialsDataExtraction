@@ -1,0 +1,18 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Fe36Mn21Cr18Ni15Al10,-,25,Yield Strength(Compression),990,MPa
+Fe36Mn21Cr18Ni15Al10,-,25,Ultimate Tensile Strength(Tension),880,MPa
+Fe36Mn21Cr18Ni15Al10,-,25,Ductility,2.5,%EL
+Fe36Mn21Cr18Ni15Al10,-,400,Yield Strength(Compression),940,MPa
+Fe36Mn21Cr18Ni15Al10,-,400,Ultimate Tensile Strength(Tension),900,MPa
+Fe36Mn21Cr18Ni15Al10,-,400,Ductility,20,%EL
+Fe36Mn21Cr18Ni15Al10,-,500,Yield Strength(Compression),640,MPa
+Fe36Mn21Cr18Ni15Al10,-,500,Ultimate Tensile Strength(Tension),715,MPa
+Fe36Mn21Cr18Ni15Al10,-,500,Ductility,42,%EL
+Fe36Mn21Cr18Ni15Al10,-,600,Yield Strength(Compression),360,MPa
+Fe36Mn21Cr18Ni15Al10,-,600,Ultimate Tensile Strength(Tension),405,MPa
+Fe36Mn21Cr18Ni15Al10,-,600,Ductility,55,%EL
+Fe36Mn21Cr18Ni15Al10,-,800,Yield Strength(Compression),125,MPa
+Fe36Mn21Cr18Ni15Al10,-,800,Ductility,>50,%EL
+Fe36Mn21Cr18Ni15Al10,As-cast,-,Microhardness,420 ± 10,HV
+Fe36Mn21Cr18Ni15Al10,Annealing 1200 degC 24 h,-,Microhardness,450 ± 10,HV
+Fe36Mn21Cr18Ni15Al10,Annealing 1000 degC 24 h,-,Microhardness,310 ± 10,HV

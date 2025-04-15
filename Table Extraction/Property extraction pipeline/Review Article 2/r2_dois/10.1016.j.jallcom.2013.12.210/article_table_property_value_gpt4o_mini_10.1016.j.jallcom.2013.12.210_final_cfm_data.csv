@@ -1,0 +1,37 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNi,As-solidified,-,Microhardness,160+-4,HV
+CoCrFeNi,Annealed,-,Microhardness,134+-4,HV
+CoCrFeNiMn,As-solidified,-,Microhardness,170+-4,HV
+CoCrFeNiMn,Annealed,-,Microhardness,135+-2,HV
+CoCrFeNiV,As-solidified,-,Microhardness,524+-15,HV
+CoCrFeNiV,Annealed,-,Microhardness,587+-17,HV
+CoCrFeNiMnV,As-solidified,-,Microhardness,650+-27,HV
+CoCrFeNiMnV,Annealed,-,Microhardness,636+-23,HV
+CoCrFeNi,As-solidified,-,Yield Strength(Tension),140,MPa
+CoCrFeNi,As-solidified,-,Ultimate Tensile Strength(Tension),488,MPa
+CoCrFeNi,As-solidified,-,Ductility,83,%EL
+CoCrFeNi,Annealed,-,Yield Strength(Tension),130,MPa
+CoCrFeNi,Annealed,-,Ultimate Tensile Strength(Tension),458,MPa
+CoCrFeNi,Annealed,-,Ductility,87,%EL
+CoCrFeNiMn,As-solidified,-,Yield Strength(Tension),215,MPa
+CoCrFeNiMn,As-solidified,-,Ultimate Tensile Strength(Tension),491,MPa
+CoCrFeNiMn,As-solidified,-,Ductility,71,%EL
+CoCrFeNiMn,Annealed,-,Yield Strength(Tension),162,MPa
+CoCrFeNiMn,Annealed,-,Ultimate Tensile Strength(Tension),443,MPa
+CoCrFeNiMn,Annealed,-,Ductility,68,%EL
+CoCrFeNiV,As-solidified,-,Ultimate Tensile Strength(Tension),311,MPa
+CoCrFeNiV,Annealed,-,Ultimate Tensile Strength(Tension),330,MPa
+CoCrFeNiMnV,As-solidified,-,Ultimate Tensile Strength(Tension),90,MPa
+CoCrFeNiMnV,Annealed,-,Ultimate Tensile Strength(Tension),62,MPa
+Co,-,-,Shear Modulus,75,GPa
+Cr,-,-,Shear Modulus,115,GPa
+Fe,-,-,Shear Modulus,82,GPa
+Ni,-,-,Shear Modulus,76,GPa
+Mn,-,-,Shear Modulus,81,GPa
+V,-,-,Shear Modulus,47,GPa
+Co,-,-,Melting point,1768,K
+Cr,-,-,Melting point,2180,K
+Fe,-,-,Melting point,1811,K
+Ni,-,-,Melting point,1728,K
+Mn,-,-,Melting point,1519,K
+V,-,-,Melting point,2183,K

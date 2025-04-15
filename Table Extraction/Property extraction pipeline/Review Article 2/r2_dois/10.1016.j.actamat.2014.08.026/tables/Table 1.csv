@@ -1,0 +1,11 @@
+Alloy,Homogenization temperature (K),Reduction in thickness (%),"Annealing temperature (K), time (h)",Grain size (mm)
+FeNiCoCr,1473,92,"1173, 1",24
+FeNiCoMn,1373,90,"1273, 1",48
+NiCoCrMn,1373,90,"1273, 1",36
+FeNiCo,1473,92,"1173, 1",28
+NiCoCr,1473,92,"1273, 1",41
+FeNiMn,1373,90,"1173, 1",30
+NiCoMn,1373,90,"1173, 1",32
+FeNi,1473,92,"1173, 1",35
+NiCo,1473,92,"1073, 1",35
+Ni,1473,92,"1073, 0.5",85

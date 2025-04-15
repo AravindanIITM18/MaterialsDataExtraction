@@ -1,0 +1,13 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlCoCrFeNi,600degC/168 h,-,Yield Strength(Compression),1.31,GPa
+AlCoCrFeNi,600degC/168 h,-,Ultimate Tensile Strength(Compression),2.60,GPa
+AlCoCrFeNi,600degC/168 h,-,Ductility,16.8,%  
+AlCoCrFeNi,800degC/168 h,-,Yield Strength(Compression),1.17,GPa
+AlCoCrFeNi,800degC/168 h,-,Ultimate Tensile Strength(Compression),2.94,GPa
+AlCoCrFeNi,800degC/168 h,-,Ductility,21.6,%  
+AlCoCrFeNi,1000degC/168 h,-,Yield Strength(Compression),1.07,GPa
+AlCoCrFeNi,1000degC/168 h,-,Ultimate Tensile Strength(Compression),2.83,GPa
+AlCoCrFeNi,1000degC/168 h,-,Ductility,24.9,%  
+AlCoCrFeNi,1200degC/168 h,-,Yield Strength(Compression),1.13,GPa
+AlCoCrFeNi,1200degC/168 h,-,Ultimate Tensile Strength(Compression),3.02,GPa
+AlCoCrFeNi,1200degC/168 h,-,Ductility,24.2,%

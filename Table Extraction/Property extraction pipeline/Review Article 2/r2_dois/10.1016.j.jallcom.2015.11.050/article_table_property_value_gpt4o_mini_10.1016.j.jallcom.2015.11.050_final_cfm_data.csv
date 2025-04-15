@@ -1,0 +1,18 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+-,Compression,25,Yield Strength(Compression),-,MPa
+-,Compression,25,Ultimate Tensile Strength(Compression),1010,MPa
+-,Compression,400,Yield Strength(Compression),1080,MPa
+-,Compression,400,Ultimate Tensile Strength(Compression),1100,MPa
+-,Compression,400,Ductility,0.020,-
+-,Compression,600,Yield Strength(Compression),1060,MPa
+-,Compression,600,Ultimate Tensile Strength(Compression),1170,MPa
+-,Compression,600,Ductility,>0.025,-
+-,Compression,800,Yield Strength(Compression),860 ± 110,MPa
+-,Compression,800,Ultimate Tensile Strength(Compression),1000 ± 195,MPa
+-,Compression,800,Ductility,>0.020,-
+-,Compression,1000,Yield Strength(Compression),594 ± 5,MPa
+-,Compression,1000,Ultimate Tensile Strength(Compression),630 ± 16,MPa
+-,Compression,1000,Ductility,>0.150,-
+-,Compression,1200,Yield Strength(Compression),105 ± 14,MPa
+-,Compression,1200,Ultimate Tensile Strength(Compression),116 ± 8,MPa
+-,Compression,1200,Ductility,>0.240,-

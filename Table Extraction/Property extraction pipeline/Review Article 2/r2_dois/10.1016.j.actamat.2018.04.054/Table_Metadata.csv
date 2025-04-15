@@ -1,0 +1,18 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.04.054\tables\Table 1.csv,Table 1,"Designations of the 12 twin systems of an FCC crystal subjected to tension along <111>T, <122>T and <144>T and to compression along <001>C nominal loading directions. The Schmid factors are calculated based on the exact crystal orientations determined from EBSD. The activated twin systems of each case are highlighted in the table.",
+tbl2,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.04.054\tables\Table 2.csv,Table 2,Designations of all 12 slip systems in an FCC crystal. The Schmid factors correspond to the exact loading orientation determined from EBSD. Systems activated are highlighted.,
+tbl3,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.04.054\tables\Table 3.csv,Table 3,The updated Schmid factors for the activated systems based on the loading orientations at ~10% axial strain.,
+tbl4,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.04.054\tables\Table 4.csv,Table 4,"Magnitudes of the residual Burgers vectors 
+
+|
+
+
+b
+-
+
+r
+
+|
+
+ for the observed slip-twin and twin-twin interactions depending on the loading orientation. a is the lattice constant of FeMnNiCoCr.",
+tbl5,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.04.054\tables\Table 5.csv,Table 5,A summary of the strain hardening coefficients determined from the experimental data.,

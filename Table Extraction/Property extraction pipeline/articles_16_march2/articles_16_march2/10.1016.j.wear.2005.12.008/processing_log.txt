@@ -1,0 +1,80 @@
+
+Table Table 1:
+Input Table:
+x-Value,Al,Co,Cr,Cu,Fe,Ni
+0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Nominal,9.09,18.18,18.18,18.18,18.18,18.18
+DR (BCC),5.5,21.2,23.9,9.4,22.7,17.2
+ID (Cu-rich),12.5,5.5,4.0,59.2,5.2,13.6
+nan,nan,nan,nan,nan,nan,nan
+1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nominal,16.67,16.67,16.67,16.67,16.67,16.67
+DR (BCC),25.5,16.1,17.2,7.4,14.6,19.2
+ID (FCC+BCC),13.0,17.3,18.3,17.5,20.0,13.9
+ID (Cu-rich),13.3,6.2,4.9,56.9,6.4,12.3
+nan,nan,nan,nan,nan,nan,nan
+2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Nominal,28.56,14.28,14.28,14.28,14.28,14.28
+DR (BCC),31.5,16.8,10.8,9.1,15.0,16.9
+ID (Cu-rich),15.1,3.4,4.2,68.2,4.0,5.1
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 9.09; Co: 18.18; Cr: 18.18; Cu: 18.18; Fe: 18.18; Ni: 18.18,at%
+Al0.5CoCrCuFeNi,-,DR (BCC),Chemical Composition,Al: 5.5; Co: 21.2; Cr: 23.9; Cu: 9.4; Fe: 22.7; Ni: 17.2,at%
+Al0.5CoCrCuFeNi,-,ID (Cu-rich),Chemical Composition,Al: 12.5; Co: 5.5; Cr: 4.0; Cu: 59.2; Fe: 5.2; Ni: 13.6,at%
+Al1.0CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 16.67; Co: 16.67; Cr: 16.67; Cu: 16.67; Fe: 16.67; Ni: 16.67,at%
+Al1.0CoCrCuFeNi,-,DR (BCC),Chemical Composition,Al: 25.5; Co: 16.1; Cr: 17.2; Cu: 7.4; Fe: 14.6; Ni: 19.2,at%
+Al1.0CoCrCuFeNi,-,ID (FCC+BCC),Chemical Composition,Al: 13.0; Co: 17.3; Cr: 18.3; Cu: 17.5; Fe: 20.0; Ni: 13.9,at%
+Al1.0CoCrCuFeNi,-,ID (Cu-rich),Chemical Composition,Al: 13.3; Co: 6.2; Cr: 4.9; Cu: 56.9; Fe: 6.4; Ni: 12.3,at%
+Al2.0CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 28.56; Co: 14.28; Cr: 14.28; Cu: 14.28; Fe: 14.28; Ni: 14.28,at%
+Al2.0CoCrCuFeNi,-,DR (BCC),Chemical Composition,Al: 31.5; Co: 16.8; Cr: 10.8; Cu: 9.1; Fe: 15.0; Ni: 16.9,at%
+Al2.0CoCrCuFeNi,-,ID (Cu-rich),Chemical Composition,Al: 15.1; Co: 3.4; Cr: 4.2; Cu: 68.2; Fe: 4.0; Ni: 5.1,at%
+
+Table Table 2:
+Input Table:
+x-Value,Al,Co,Cr,Cu,Fe,Ni,O
+0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5
+Nominal,9.09,18.18,18.18,18.18,18.18,18.18,nan
+Worn surface,7.2,16.5,17.3,14.7,17.5,16.2,12.4
+Wear debris,6.1,16.4,16.1,15.5,16.5,15.3,16.2
+nan,nan,nan,nan,nan,nan,nan,nan
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Nominal,16.67,16.67,16.67,16.67,16.67,16.67,nan
+Worn surface,15.6,13.6,15.7,14.6,13.5,14.5,14.8
+Wear debris,13.2,15.3,16.0,14.6,14.3,13.6,18.4
+nan,nan,nan,nan,nan,nan,nan,nan
+2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0
+Nominal,28.56,14.28,14.28,14.28,14.28,14.28,nan
+Worn surface-A,25.1,15.9,14.2,9.1,14.9,14.1,5.6
+Worn surface-B,19.4,7.7,6.7,39.8,7.7,9.6,9.2
+Wear debris,12.4,6.0,5.5,6.2,6.6,6.0,56.8
+
+Retrieved Properties: Wear Rate, Wear Resistance, Poisson's Ratio, Crystallinity, Surface Activity, Surface Energy, Friction, Figure of Merit, Magnetism, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 9.09; Co: 18.18; Cr: 18.18; Cu: 18.18; Fe: 18.18; Ni: 18.18,at%
+Al0.5CoCrCuFeNi,-,Worn surface,Chemical Composition,Al: 7.2; Co: 16.5; Cr: 17.3; Cu: 14.7; Fe: 17.5; Ni: 16.2; O: 12.4,at%
+Al0.5CoCrCuFeNi,-,Wear debris,Chemical Composition,Al: 6.1; Co: 16.4; Cr: 16.1; Cu: 15.5; Fe: 16.5; Ni: 15.3; O: 16.2,at%
+Al1.0CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 16.67; Co: 16.67; Cr: 16.67; Cu: 16.67; Fe: 16.67; Ni: 16.67,at%
+Al1.0CoCrCuFeNi,-,Worn surface,Chemical Composition,Al: 15.6; Co: 13.6; Cr: 15.7; Cu: 14.6; Fe: 13.5; Ni: 14.5; O: 14.8,at%
+Al1.0CoCrCuFeNi,-,Wear debris,Chemical Composition,Al: 13.2; Co: 15.3; Cr: 16.0; Cu: 14.6; Fe: 14.3; Ni: 13.6; O: 18.4,at%
+Al2.0CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 28.56; Co: 14.28; Cr: 14.28; Cu: 14.28; Fe: 14.28; Ni: 14.28,at%
+Al2.0CoCrCuFeNi,-,Worn surface-A,Chemical Composition,Al: 25.1; Co: 15.9; Cr: 14.2; Cu: 9.1; Fe: 14.9; Ni: 14.1; O: 5.6,at%
+Al2.0CoCrCuFeNi,-,Worn surface-B,Chemical Composition,Al: 19.4; Co: 7.7; Cr: 6.7; Cu: 39.8; Fe: 7.7; Ni: 9.6; O: 9.2,at%
+Al2.0CoCrCuFeNi,-,Wear debris,Chemical Composition,Al: 12.4; Co: 6.0; Cr: 5.5; Cu: 6.2; Fe: 6.6; Ni: 6.0; O: 56.8,at%
+
+Table Table 3:
+Input Table:
+Alloy,m p,m s,Dm
+Al0.5CoCrCuFeNi,0.65+-0.04,0.50+-0.03,0.15+-0.07
+Al1.0CoCrCuFeNi,0.65+-0.03,0.48+-0.03,0.17+-0.06
+Al2.0CoCrCuFeNi,0.70+-0.02,0.32+-0.01,0.30+-0.03
+
+Retrieved Properties: Magnetization, Temperature Metrics, Damping, Saturation Magnetization, Magnetic Moment, Ductility
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,-,-,Others(peak coefficient of friction),0.65+-0.04,-
+Al1.0CoCrCuFeNi,-,-,Others(peak coefficient of friction),0.65+-0.03,-
+Al2.0CoCrCuFeNi,-,-,Others(peak coefficient of friction),0.70+-0.02,-

@@ -1,0 +1,6 @@
+Alloy,AlNbTiV,AlNbTiV,AlNbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV
+"Temperature, degS","sYS, MPa","sP, MPa","e, %","sYS, MPa","sP, MPa","e, %","sYS, MPa","sP, MPa","e, %","sYS, MPa","sP, MPa","e, %"
+22,1000,1280,5.2,1300,1430,0.8,1550,1570,0.4,1700,1700,0
+600,780,1005,12.5,1005,1045,2.5,1015,1060,1.5,1370,1480,0.8
+800,560,700,>50,640,685,>50,860,895,>50,970,1045,>50
+1000,110,-,>50,40,80,>50,65,95,>50,75,105,>50

@@ -1,0 +1,10 @@
+Figure ID,Figure Path,Figure Label,Figure Caption
+f0005,articles_test/10.1016.j.actamat.2014.08.026/figures/gr1.jpg,Fig. 1,"BSE images of: (a) FeNiCoCr, (b) FeNiCo, (c) NiCoCr, (d) FeNi, (e) NiCo, (f) FeNiMn, (g) NiCoMn, (h) FeNiCoMn, (i) NiCoCrMn and (j) pure Ni after cold-rolling and annealing (annealing temperatures and times are listed inTable 1)."
+f0010,articles_test/10.1016.j.actamat.2014.08.026/figures/gr2.jpg,Fig. 2,Engineering stress vs. engineering plastic strain obtained in tension as a function of temperature for the equiatomic alloys and Ni. The representative insets show magnified regions around the yield points.
+f0015,articles_test/10.1016.j.actamat.2014.08.026/figures/gr3.jpg,Fig. 3,Temperature dependence of: (a) the 0.2% offset yield stress (σy); (b) the UTS; and (c) the uniform elongation to fracture for the equiatomic alloys and Ni.
+f0020,articles_test/10.1016.j.actamat.2014.08.026/figures/gr4.jpg,Fig. 4,"Hall–Petch plots showing the effects of grain size,d, on the yield strength of the FeNiCoCr equiatomic alloy at different temperatures."
+f0025,articles_test/10.1016.j.actamat.2014.08.026/figures/gr5.jpg,Fig. 5,The temperature dependence of the 0.2% offset yield stress of the equiatomic alloys and pure Ni. The dashed lines are curve fits to the form of Eq.(10). Data for the quinary alloy FeNiCoCrMn are from Ref.[26].
+f0030,articles_test/10.1016.j.actamat.2014.08.026/figures/gr6.jpg,Fig. 6,Strain hardening portion of the flow stress (Δσρ=σflow−σy) vs. true plastic strain as a function of temperature for the equiatomic alloys and Ni.
+f0035,articles_test/10.1016.j.actamat.2014.08.026/figures/gr7.jpg,Fig. 7,Shear modulus corrected strain hardening vs. true plastic strain curves for: (a) the FeNiCoCr equiatomic alloy; (b) the FeNi equiatomic alloy; and (c) pure Ni.
+f0040,articles_test/10.1016.j.actamat.2014.08.026/figures/gr8.jpg,Fig. 8,Temperature dependence of the extent of work hardening (UTS –σy) for the equiatomic alloys and Ni.
+f0045,articles_test/10.1016.j.actamat.2014.08.026/figures/gr9.jpg,Fig. 9,"High and low magnification fractographs of tensile samples tested to failure at 77K: (a, b) FeNi and (c, d) Ni."

@@ -1,0 +1,164 @@
+
+Table Table 1:
+Input Table:
+Designation,Composition (atomic mole ratio),Co(58.93) (%),Cr(52.00) (%),Fe(55.85) (%),Ni(58.69) (%),Ti(47.88) (%),Mo(95.94) (%)
+Mo0,Co1.5CrFeNi1.5Ti0.5Mo0,28.68,16.87,18.12,28.56,7.77,0.0
+Mo0.1,Co1.5CrFeNi1.5Ti0.5Mo0.1,27.81,16.36,17.57,27.7,7.53,3.02
+Mo0.5,Co1.5CrFeNi1.5Ti0.5Mo0.5,24.82,14.6,15.68,24.72,6.72,13.47
+Mo0.8,Co1.5CrFeNi1.5Ti0.5Mo0.8,22.96,13.51,14.51,22.87,6.22,19.94
+
+Retrieved Properties: Composition, Elemental Composition, Phase Composition
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Mo0,-,-,Elemental Composition,Co: 28.68; Cr: 16.87; Fe: 18.12; Ni: 28.56; Ti: 7.77; Mo: 0.0,wt%
+Mo0.1,-,-,Elemental Composition,Co: 27.81; Cr: 16.36; Fe: 17.57; Ni: 27.7; Ti: 7.53; Mo: 3.02,wt%
+Mo0.5,-,-,Elemental Composition,Co: 24.82; Cr: 14.6; Fe: 15.68; Ni: 24.72; Ti: 6.72; Mo: 13.47,wt%
+Mo0.8,-,-,Elemental Composition,Co: 22.96; Cr: 13.51; Fe: 14.51; Ni: 22.87; Ti: 6.22; Mo: 19.94,wt%
+
+Table Table 2:
+Input Table:
+Element,Co1.5CrFeNi1.5Ti0.5Mo0 (atom%),Co1.5CrFeNi1.5Ti0.5Mo0 (atom%).1,Co1.5CrFeNi1.5Ti0.5Mo0.1 (atom%),Co1.5CrFeNi1.5Ti0.5Mo0.1 (atom%).1
+Element,Interdendrite,Dendrite,Dendrite,Dendrite
+Co1.5CrFeNi1.5Ti0.5Mox high-entropy alloys,Co1.5CrFeNi1.5Ti0.5Mox high-entropy alloys,Co1.5CrFeNi1.5Ti0.5Mox high-entropy alloys,Co1.5CrFeNi1.5Ti0.5Mox high-entropy alloys,Co1.5CrFeNi1.5Ti0.5Mox high-entropy alloys
+Co,26.7,27.6,25.8,26.6
+Cr,15.1,21.0,13.3,19.1
+Fe,15.3,19.8,14.1,18.3
+Ni,28.9,25.9,29.5,26.8
+Ti,14.0,5.7,15.5,7.3
+Mo,-,-,1.8,1.9
+nan,nan,nan,nan,nan
+nan,Co1.5CrFeNi1.5Ti0.5Mo0.5 (atom%),Co1.5CrFeNi1.5Ti0.5Mo0.5 (atom%),Co1.5CrFeNi1.5Ti0.5Mo0.8 (atom%),Co1.5CrFeNi1.5Ti0.5Mo0.8 (atom%)
+nan,Interdendrite,Dendrite,Dendrite,Dendrite
+Co,21.0,24.0,20.6,24.8
+Cr,20.5,18.1,19.6,15.5
+Fe,14.2,16.9,15.2,16.6
+Ni,13.0,26.2,14.0,28.2
+Ti,7.1,7.5,4.3,7.3
+Mo,24.2,7.3,26.3,7.6
+
+Retrieved Properties: Interstitial Content, Composition, Optical Properties, Absorption Properties, Figure of Merit, Indentation Properties, Entropy, Ductility
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Co1.5CrFeNi1.5Ti0.5Mo0,-,Interdendrite,Chemical Composition,Co: 26.7; Cr: 15.1; Fe: 15.3; Ni: 28.9; Ti: 14.0,at%
+Co1.5CrFeNi1.5Ti0.5Mo0,-,Dendrite,Chemical Composition,Co: 27.6; Cr: 21.0; Fe: 19.8; Ni: 25.9; Ti: 5.7,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,Dendrite,Chemical Composition,Co: 25.8; Cr: 13.3; Fe: 14.1; Ni: 29.5; Ti: 15.5; Mo: 1.8,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,Dendrite,Chemical Composition,Co: 26.6; Cr: 19.1; Fe: 18.3; Ni: 26.8; Ti: 7.3; Mo: 1.9,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,Interdendrite,Chemical Composition,Co: 21.0; Cr: 20.5; Fe: 14.2; Ni: 13.0; Ti: 7.1; Mo: 24.2,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,Dendrite,Chemical Composition,Co: 24.0; Cr: 18.1; Fe: 16.9; Ni: 26.2; Ti: 7.5; Mo: 7.3,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,Dendrite,Chemical Composition,Co: 20.6; Cr: 19.6; Fe: 15.2; Ni: 14.0; Ti: 4.3; Mo: 26.3,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,Dendrite,Chemical Composition,Co: 24.8; Cr: 15.5; Fe: 16.6; Ni: 28.2; Ti: 7.3; Mo: 7.6,at%
+
+Table Table 3:
+Input Table:
+System,DH chem (kJ/mol)
+Mo-Co,-5
+Mo-Cr,0
+Mo-Fe,-2
+Mo-Ni,-7
+Mo-Ti,-4
+Fe-Co,-1
+Fe-Cr,-1
+Fe-Ni,-2
+Fe-Ti,-9
+Co-Ni,0
+Co-Ti,-28
+Ni-Ti,-35
+
+Retrieved Properties: Composition, Dehydrogenation Enthalpy, Electrochemical Properties
+Final Output:
+-
+
+Table Table 4:
+Input Table:
+Designation,E corr    (mVSHE),i corr    (mA/cm2),E pp    (mVSHE),i cri    (mA/cm2),i pass    (mA/cm2),E sp    (mVSHE),E b    (mVSHE),DE    (mV)
+Mo0,-92,30,-41,46,9,-,1089,1130
+Mo0.1,-71,78,-23,45,9,-,1089,1112
+Mo0.5,-64,72,-20,41,11,-,1089,1109
+Mo0.8,-70,69,-20,44,22,971,1089,1109
+
+Retrieved Properties: Entropy, Pitting Potential, Debye Temperature, Elastic Moduli, Breakdown Potential, Elasticity, Deformation Resistance, Corrosion Potential, Corrosion Current Density, Strain
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 0.5M H2SO4,Corrosion Potential,-92,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 0.5M H2SO4,Corrosion Current Density,30,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 0.5M H2SO4,Breakdown Potential,1089,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 0.5M H2SO4,Corrosion Potential,-71,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 0.5M H2SO4,Corrosion Current Density,78,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 0.5M H2SO4,Breakdown Potential,1089,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 0.5M H2SO4,Corrosion Potential,-64,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 0.5M H2SO4,Corrosion Current Density,72,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 0.5M H2SO4,Breakdown Potential,1089,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 0.5M H2SO4,Corrosion Potential,-70,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 0.5M H2SO4,Corrosion Current Density,69,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 0.5M H2SO4,Breakdown Potential,1089,mVSHE
+
+Table Table 5:
+Input Table:
+Designation,E corr    (mVSHE),i corr    (mA/cm2),E pp    (mVSHE),i cri    (mA/cm2),E sp    (mVSHE),E b    (mVSHE)
+Mo0,-546,0.09,-485,0.2,335,653
+Mo0.1,-379,0.11,-307,0.23,317,653
+Mo0.5,-657,0.16,-545,0.62,328,653
+Mo0.8,-589,0.25,-509,0.63,317,660
+
+Retrieved Properties: Fatigue, Pitting Potential, Elastic Moduli, Breakdown Potential, Elasticity, Corrosion Resistance, Corrosion Potential, Corrosion Current Density, Creep, Strain
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaOH; Reference Electrode: SHE,Corrosion Potential,-546,mV
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaOH,Corrosion Current Density,0.09,mA/cm²
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaOH; Reference Electrode: SHE,Breakdown Potential,653,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaOH; Reference Electrode: SHE,Corrosion Potential,-379,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaOH,Corrosion Current Density,0.11,mA/cm²
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaOH; Reference Electrode: SHE,Breakdown Potential,653,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaOH; Reference Electrode: SHE,Corrosion Potential,-657,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaOH,Corrosion Current Density,0.16,mA/cm²
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaOH; Reference Electrode: SHE,Breakdown Potential,653,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaOH; Reference Electrode: SHE,Corrosion Potential,-589,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaOH,Corrosion Current Density,0.25,mA/cm²
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaOH; Reference Electrode: SHE,Breakdown Potential,660,mV
+
+Table Table 6:
+Input Table:
+Designation,E corr    (mVSHE),i corr    (mA/cm2),E pp    (mVSHE),i pass    (mA/cm2),E b    (mVSHE),E prot    (mVSHE),E rp    (mVSHE),DE    (mV)
+Mo0,-443,0.57,-219,1.46,338,85,32.5,557
+Mo0.1,-381,0.13,-215,3.8,1214,-,761.0,1429
+Mo0.5,-493,0.2,-219,4.1,1164,-,755.0,1383
+Mo0.8,-551,0.41,-189,5.11,1182,-,476.0,1371
+
+Retrieved Properties: Pitting Potential, Debye Temperature, Elastic Moduli, Repassivation Potential, Protection Potential, Breakdown Potential, Elasticity, Deformation Resistance, Corrosion Potential, Corrosion Current Density
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Corrosion Potential,-443,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Corrosion Current Density,0.57,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Pitting Potential,-219,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Breakdown Potential,338,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Repassivation Potential,32.5,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Corrosion Potential,-381,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Corrosion Current Density,0.13,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Pitting Potential,-215,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Breakdown Potential,1214,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Repassivation Potential,761.0,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Corrosion Potential,-493,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Corrosion Current Density,0.2,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Pitting Potential,-219,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Breakdown Potential,1164,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Repassivation Potential,755.0,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Corrosion Potential,-551,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Corrosion Current Density,0.41,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Pitting Potential,-189,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Breakdown Potential,1182,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Repassivation Potential,476.0,mVSHE
+
+Table Table 7:
+Input Table:
+Element,Co1.5CrFeNi1.5Ti0.5Mo0.5 (atom%),Co1.5CrFeNi1.5Ti0.5Mo0.5 (atom%).1
+Element,A,B
+Co,21.9,24.4
+Cr,20.7,18.0
+Fe,12.8,17.6
+Ni,13.8,27.1
+Ti,6.9,6.5
+Mo,23.9,6.4
+
+Retrieved Properties: Passivation Potential, Passivation, Pitting Potential
+Final Output:
+-

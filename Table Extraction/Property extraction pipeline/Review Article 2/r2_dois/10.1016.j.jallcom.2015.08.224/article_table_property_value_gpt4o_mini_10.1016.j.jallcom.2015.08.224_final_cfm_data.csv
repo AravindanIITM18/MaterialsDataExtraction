@@ -1,0 +1,86 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlNbTiV,-,-,Density,5590 ± 70,kg m-3
+AlCr0.5NbTiV,-,-,Density,5710 ± 80,kg m-3
+AlCrNbTiV,-,-,Density,5820 ± 120,kg m-3
+AlCr1.5NbTiV,-,-,Density,5900 ± 80,kg m-3
+AlNbTiV,22,-,Yield Strength(Compression),1000,MPa
+AlNbTiV,22,-,Ultimate Tensile Strength(Compression),1280,MPa
+AlNbTiV,22,-,Ductility,5.2,%EL
+AlNbTiV.1,22,-,Yield Strength(Compression),1300,MPa
+AlNbTiV.1,22,-,Ultimate Tensile Strength(Compression),1430,MPa
+AlNbTiV.1,22,-,Ductility,0.8,%EL
+AlNbTiV.2,22,-,Yield Strength(Compression),1550,MPa
+AlNbTiV.2,22,-,Ultimate Tensile Strength(Compression),1570,MPa
+AlNbTiV.2,22,-,Ductility,0.4,%EL
+AlCr0.5NbTiV,22,-,Yield Strength(Compression),1700,MPa
+AlCr0.5NbTiV,22,-,Ultimate Tensile Strength(Compression),1700,MPa
+AlCr0.5NbTiV,22,-,Ductility,0,%EL
+AlCr0.5NbTiV.1,22,-,Yield Strength(Compression),1005,MPa
+AlCr0.5NbTiV.1,22,-,Ultimate Tensile Strength(Compression),1045,MPa
+AlCr0.5NbTiV.1,22,-,Ductility,2.5,%EL
+AlCr0.5NbTiV.2,22,-,Yield Strength(Compression),1015,MPa
+AlCr0.5NbTiV.2,22,-,Ultimate Tensile Strength(Compression),1060,MPa
+AlCr0.5NbTiV.2,22,-,Ductility,1.5,%EL
+AlCrNbTiV,22,-,Yield Strength(Compression),1370,MPa
+AlCrNbTiV,22,-,Ultimate Tensile Strength(Compression),1480,MPa
+AlCrNbTiV,22,-,Ductility,0.8,%EL
+AlCrNbTiV.1,22,-,Yield Strength(Compression),65,MPa
+AlCrNbTiV.1,22,-,Ultimate Tensile Strength(Compression),95,MPa
+AlCrNbTiV.1,22,-,Ductility,>50,%EL
+AlCrNbTiV.2,22,-,Yield Strength(Compression),75,MPa
+AlCrNbTiV.2,22,-,Ultimate Tensile Strength(Compression),105,MPa
+AlCrNbTiV.2,22,-,Ductility,>50,%EL
+AlCr1.5NbTiV,22,-,Yield Strength(Compression),>50,MPa
+AlCr1.5NbTiV,22,-,Ultimate Tensile Strength(Compression),>50,MPa
+AlCr1.5NbTiV,22,-,Ductility,>50,%EL
+AlCr1.5NbTiV.1,22,-,Yield Strength(Compression),40,MPa
+AlCr1.5NbTiV.1,22,-,Ultimate Tensile Strength(Compression),80,MPa
+AlCr1.5NbTiV.1,22,-,Ductility,>50,%EL
+AlCr1.5NbTiV.2,22,-,Yield Strength(Compression),75,MPa
+AlCr1.5NbTiV.2,22,-,Ultimate Tensile Strength(Compression),105,MPa
+AlCr1.5NbTiV.2,22,-,Ductility,>50,%EL
+AlNbTiV,600,-,Yield Strength(Compression),780,MPa
+AlNbTiV,600,-,Ultimate Tensile Strength(Compression),1005,MPa
+AlNbTiV,600,-,Ductility,12.5,%EL
+AlNbTiV.1,600,-,Yield Strength(Compression),1005,MPa
+AlNbTiV.1,600,-,Ultimate Tensile Strength(Compression),1045,MPa
+AlNbTiV.1,600,-,Ductility,2.5,%EL
+AlNbTiV.2,600,-,Yield Strength(Compression),1015,MPa
+AlNbTiV.2,600,-,Ultimate Tensile Strength(Compression),1060,MPa
+AlNbTiV.2,600,-,Ductility,1.5,%EL
+AlCr0.5NbTiV,600,-,Yield Strength(Compression),1370,MPa
+AlCr0.5NbTiV,600,-,Ultimate Tensile Strength(Compression),1480,MPa
+AlCr0.5NbTiV,600,-,Ductility,0.8,%EL
+AlCr0.5NbTiV.1,600,-,Yield Strength(Compression),65,MPa
+AlCr0.5NbTiV.1,600,-,Ultimate Tensile Strength(Compression),95,MPa
+AlCr0.5NbTiV.1,600,-,Ductility,>50,%EL
+AlCr0.5NbTiV.2,600,-,Yield Strength(Compression),75,MPa
+AlCr0.5NbTiV.2,600,-,Ultimate Tensile Strength(Compression),105,MPa
+AlCr0.5NbTiV.2,600,-,Ductility,>50,%EL
+AlNbTiV,800,-,Yield Strength(Compression),560,MPa
+AlNbTiV,800,-,Ultimate Tensile Strength(Compression),700,MPa
+AlNbTiV,800,-,Ductility,>50,%EL
+AlNbTiV.1,800,-,Yield Strength(Compression),640,MPa
+AlNbTiV.1,800,-,Ultimate Tensile Strength(Compression),685,MPa
+AlNbTiV.1,800,-,Ductility,>50,%EL
+AlNbTiV.2,800,-,Yield Strength(Compression),860,MPa
+AlNbTiV.2,800,-,Ultimate Tensile Strength(Compression),895,MPa
+AlNbTiV.2,800,-,Ductility,>50,%EL
+AlCr0.5NbTiV,800,-,Yield Strength(Compression),970,MPa
+AlCr0.5NbTiV,800,-,Ultimate Tensile Strength(Compression),1045,MPa
+AlCr0.5NbTiV,800,-,Ductility,>50,%EL
+AlCr0.5NbTiV.1,800,-,Yield Strength(Compression),40,MPa
+AlCr0.5NbTiV.1,800,-,Ultimate Tensile Strength(Compression),80,MPa
+AlCr0.5NbTiV.1,800,-,Ductility,>50,%EL
+AlCr0.5NbTiV.2,800,-,Yield Strength(Compression),75,MPa
+AlCr0.5NbTiV.2,800,-,Ultimate Tensile Strength(Compression),105,MPa
+AlCr0.5NbTiV.2,800,-,Ductility,>50,%EL
+AlNbTiV,1000,-,Yield Strength(Compression),110,MPa
+AlNbTiV,1000,-,Ultimate Tensile Strength(Compression),-,MPa
+AlNbTiV,1000,-,Ductility,>50,%EL
+AlNbTiV.1,1000,-,Yield Strength(Compression),40,MPa
+AlNbTiV.1,1000,-,Ultimate Tensile Strength(Compression),80,MPa
+AlNbTiV.1,1000,-,Ductility,>50,%EL
+AlNbTiV.2,1000,-,Yield Strength(Compression),65,MPa
+AlNbTiV.2,1000,-,Ultimate Tensile Strength(Compression),95,MPa
+AlNbTiV.2,1000,-,Ductility,>50,%EL

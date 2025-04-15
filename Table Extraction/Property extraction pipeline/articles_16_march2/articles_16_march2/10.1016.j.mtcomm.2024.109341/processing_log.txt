@@ -1,0 +1,88 @@
+
+Table Table 1:
+Input Table:
+Alloy,Cr,Mn,Fe,Co,Ni,O,N
+CrMnFeCoNi,20.7 +- 0.3,20.2 +- 0.3,19.8 +- 0.5,19.7 +- 0.1,19.6 +- 0.4,0.138 +- 0.003,0.0020 +- 0.0002
+CrFeCoNi,25.4 +- 0.3,-,16.3 +- 0.3,24.2 +- 0.5,24.1 +- 0.4,0.132 +- 0.002,0.0040 +- 0.0001
+CrFeNi,33.6 +- 0.4,-,34.2 +- 0.2,-,32.1 +- 0.3,0.169 +- 0.008,0.0020 +- 0.0002
+CrCoNi,34.1 +- 0.5,-,-,33.0 +- 0.5,32.7 +- 0.3,0.156 +- 0.005,0.0020 +- 0.0002
+
+Retrieved Properties: Oxygen Content, OER Activity, Temperature Metrics, H Pick-up, Elasticity, Hardness
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CrMnFeCoNi,-,Measured by EDS and carrier hot gas extraction,Chemical Composition,Cr: 20.7 ± 0.3; Mn: 20.2 ± 0.3; Fe: 19.8 ± 0.5; Co: 19.7 ± 0.1; Ni: 19.6 ± 0.4,at%
+CrMnFeCoNi,-,Measured by EDS and carrier hot gas extraction,Oxygen Content,0.138 ± 0.003,at%
+CrFeCoNi,-,Measured by EDS and carrier hot gas extraction,Chemical Composition,Cr: 25.4 ± 0.3; Fe: 16.3 ± 0.3; Co: 24.2 ± 0.5; Ni: 24.1 ± 0.4,at%
+CrFeCoNi,-,Measured by EDS and carrier hot gas extraction,Oxygen Content,0.132 ± 0.002,at%
+CrFeNi,-,Measured by EDS and carrier hot gas extraction,Chemical Composition,Cr: 33.6 ± 0.4; Fe: 34.2 ± 0.2; Ni: 32.1 ± 0.3,at%
+CrFeNi,-,Measured by EDS and carrier hot gas extraction,Oxygen Content,0.169 ± 0.008,at%
+CrCoNi,-,Measured by EDS and carrier hot gas extraction,Chemical Composition,Cr: 34.1 ± 0.5; Co: 33.0 ± 0.5; Ni: 32.7 ± 0.3,at%
+CrCoNi,-,Measured by EDS and carrier hot gas extraction,Oxygen Content,0.156 ± 0.005,at%
+
+Table Table 2:
+Input Table:
+Alloy,a,d
+CrMnFeCoNi,0.358,44 +- 1
+CrFeCoNi,0.359,49 +- 5
+CrFeNi,0.359,73 +- 7
+CrCoNi,0.358,63 +- 10
+
+Retrieved Properties: Work Function, Diffusion, Elasticity, Ductility
+Final Output:
+-
+
+Table Table 3:
+Input Table:
+Alloy,373 K,473 K,573 K,673 K,773 K
+CrMnFeCoNi,16.3,18.8,19.4,19.5,19.6
+CrFeCoNi,15.63,18.0,18.7,18.8,18.8
+CrFeNi,17.1,19.7,20.4,20.5,20.6
+CrCoNi,15.2,17.5,18.1,18.2,18.3
+
+Retrieved Properties: Electronic Thermal Conductivity, Thermal Vacancy, Thermal Expansion Coefficient
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CrMnFeCoNi,-,Temperature(in K): 373, Thermal Expansion Coefficient,16.3,10^-6/K
+CrMnFeCoNi,-,Temperature(in K): 473, Thermal Expansion Coefficient,18.8,10^-6/K
+CrMnFeCoNi,-,Temperature(in K): 573, Thermal Expansion Coefficient,19.4,10^-6/K
+CrMnFeCoNi,-,Temperature(in K): 673, Thermal Expansion Coefficient,19.5,10^-6/K
+CrMnFeCoNi,-,Temperature(in K): 773, Thermal Expansion Coefficient,19.6,10^-6/K
+CrFeCoNi,-,Temperature(in K): 373, Thermal Expansion Coefficient,15.63,10^-6/K
+CrFeCoNi,-,Temperature(in K): 473, Thermal Expansion Coefficient,18.0,10^-6/K
+CrFeCoNi,-,Temperature(in K): 573, Thermal Expansion Coefficient,18.7,10^-6/K
+CrFeCoNi,-,Temperature(in K): 673, Thermal Expansion Coefficient,18.8,10^-6/K
+CrFeCoNi,-,Temperature(in K): 773, Thermal Expansion Coefficient,18.8,10^-6/K
+CrFeNi,-,Temperature(in K): 373, Thermal Expansion Coefficient,17.1,10^-6/K
+CrFeNi,-,Temperature(in K): 473, Thermal Expansion Coefficient,19.7,10^-6/K
+CrFeNi,-,Temperature(in K): 573, Thermal Expansion Coefficient,20.4,10^-6/K
+CrFeNi,-,Temperature(in K): 673, Thermal Expansion Coefficient,20.5,10^-6/K
+CrFeNi,-,Temperature(in K): 773, Thermal Expansion Coefficient,20.6,10^-6/K
+CrCoNi,-,Temperature(in K): 373, Thermal Expansion Coefficient,15.2,10^-6/K
+CrCoNi,-,Temperature(in K): 473, Thermal Expansion Coefficient,17.5,10^-6/K
+CrCoNi,-,Temperature(in K): 573, Thermal Expansion Coefficient,18.1,10^-6/K
+CrCoNi,-,Temperature(in K): 673, Thermal Expansion Coefficient,18.2,10^-6/K
+CrCoNi,-,Temperature(in K): 773, Thermal Expansion Coefficient,18.3,10^-6/K
+
+Table Table 4:
+Input Table:
+Alloy,H   res  in G,g  -value,D  H  in G,Amplitude in A
+CrMnFeCoNi,H  FMR  =500  2900,-  2.317,1500  800,120  110
+CrFeCoNi,H  FMR  =200  2500,-  2.689,1500  350,2212  2528
+CrFeNi,3150,2.135,560,89
+CrCoNi,3136  3267  3501  CESR: 3788.6,2.144  2.058  1.92 1.77,157  835  130 522,18  11  14 26
+
+Retrieved Properties: Sound Velocity, Grüneisen Coefficient, Stress, Remanence, Residual Stress, Stress and Strain, Elastic Moduli, Elasticity, Magnetostriction
+Final Output:
+-
+
+Table Table 5:
+Input Table:
+Alloy,H   res  in G,g  -value,D  H  in G,Amplitude in A
+CrMnFeCoNi,H  FMR  = -  2900  3400,-  2.3198  1.98,-  200  500,-  20  90
+CrFeCoNi,H  FMR  =750  3450  4580,-  1.92  1.477,800  1200  1200,252  885  1264
+CrFeNi,3112  3220,2.162  2.0895,1800  500,6  55
+CrCoNi,2595.8  2807  3187  3584.5  CESR: 3964.8,2.5916  2.3964  2.1106  1.88  1.7,127  237  338  338  1523,11  16  42  24  32
+
+Retrieved Properties: Sound Velocity, Grüneisen Coefficient, Stress, Remanence, Residual Stress, Stress and Strain, Elastic Moduli, H Pick-up, Elasticity, Magnetostriction
+Final Output:
+-

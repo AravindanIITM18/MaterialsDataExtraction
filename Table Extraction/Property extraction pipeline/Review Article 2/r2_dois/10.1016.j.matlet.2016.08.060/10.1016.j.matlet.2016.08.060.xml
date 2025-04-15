@@ -1,0 +1,1244 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0167577X16313398</prism:url><dc:identifier>doi:10.1016/j.matlet.2016.08.060</dc:identifier><eid>1-s2.0-S0167577X16313398</eid><prism:doi>10.1016/j.matlet.2016.08.060</prism:doi><pii>S0167-577X(16)31339-8</pii><dc:title>Simultaneously increasing the strength and ductility of a refractory high-entropy alloy via grain refining </dc:title><prism:publicationName>Materials Letters</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>0167577X</prism:issn><prism:volume>184</prism:volume><prism:startingPage>200</prism:startingPage><prism:endingPage>203</prism:endingPage><prism:pageRange>200-203</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-12-01</prism:coverDate><prism:coverDisplayDate>1 December 2016</prism:coverDisplayDate><prism:copyright>© 2016 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Juan, Chien-Chang</dc:creator><dc:creator>Tsai, Ming-Hung</dc:creator><dc:creator>Tsai, Che-Wei</dc:creator><dc:creator>Hsu, Wei-Lin</dc:creator><dc:creator>Lin, Chun-Ming</dc:creator><dc:creator>Chen, Swe-Kai</dc:creator><dc:creator>Lin, Su-Jien</dc:creator><dc:creator>Yeh, Jien-Wei</dc:creator><dc:description>
+                  The HfNbTaTiZr refractory high-entropy alloy was investigated on the grain growth kinetics and tensile properties. Grain growth at 1200–1350°C is rather slow. The activation energy is 389kJ/mol and the growth exponent is 3.5. The HfNbTaTiZr alloy has high strength, small work hardening and high ductility. Grain refining is found to enhance the tensile strength and ductility simultaneously.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Refractory high-entropy alloys</dcterms:subject><dcterms:subject>Metals and alloys</dcterms:subject><dcterms:subject>Recrystallization</dcterms:subject><dcterms:subject>Solute-drag mechanism</dcterms:subject><dcterms:subject>Hall-Petch equation</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0167577X16313398" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0167577X16313398" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="157" size="16726">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X16313398-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="217" height="164" size="25402">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X16313398-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="88" size="9572">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X16313398-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="753" height="540" size="110426">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X16313398-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="565" height="427" size="84385">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X16313398-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="753" height="302" size="57381">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X16313398-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="si0001" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="64" height="14" size="1277">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X16313398-si0001.gif?httpAccept=%2A%2F%2A</object><object ref="si0002" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="82" height="29" size="1903">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X16313398-si0002.gif?httpAccept=%2A%2F%2A</object><object ref="si0003" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="78" height="16" size="1561">https://api.elsevier.com/content/object/eid/1-s2.0-S0167577X16313398-si0003.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>84983438185</scopus-id><scopus-eid>2-s2.0-84983438185</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84983438185" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271572</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291940</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Letters</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSLETTERS</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160814">2016-08-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160814">2016-08-14</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160823">2016-08-23</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160823">2016-08-23</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-09-29T17:39:47</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0167577X16313398</xocs:eid>
+      <xocs:pii-formatted>S0167-577X(16)31339-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0167577X16313398</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matlet.2016.08.060</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0167577X16X00183</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160929">2016-09-29T13:08:21.530335-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20161201</xocs:date-search-begin>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1471166398">2016-08-14T09:19:58.129528Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0167-577X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0167577X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>184</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>184</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 184</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>49</xocs:sort-order>
+      <xocs:first-fp>200</xocs:first-fp>
+      <xocs:last-lp>203</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>200</xocs:first-page>
+         <xocs:last-page>203</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20161201</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 December 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-12-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>SIMULTANEOUSLYINCREASINGSTRENGTHDUCTILITYAREFRACTORYHIGHENTROPYALLOYVIAGRAINREFINING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>JUAN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sbref1">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1759</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1771</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref2">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>123</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref3">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>93</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref4">
+            <xocs:ref-normalized-surname>MURTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HIGHENTROPYALLOYS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref5">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6043</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6048</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref6">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>698</xocs:ref-first-fp>
+            <xocs:ref-last-lp>706</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref7">
+            <xocs:ref-normalized-surname>DIETER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>188</xocs:ref-first-fp>
+            <xocs:ref-last-lp>191</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MECHANICALMETALLURGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref8">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>526</xocs:ref-first-fp>
+            <xocs:ref-last-lp>529</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref9">
+            <xocs:ref-normalized-surname>OTTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5743</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5755</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref10">
+            <xocs:ref-normalized-surname>HUMPHREYS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>338</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>RECRYSTALLIZATIONRELATEDANNEALINGPHENOMENA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref11">
+            <xocs:ref-normalized-surname>GREY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1973</xocs:ref-pub-year>
+            <xocs:ref-first-fp>309</xocs:ref-first-fp>
+            <xocs:ref-last-lp>321</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref12">
+            <xocs:ref-normalized-surname>NEUMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>SELFDIFFUSIONIMPURITYDIFFUSIONINPUREMETALSVOLUME14HANDBOOKEXPERIMENTALDATA</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref13">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4887</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4897</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref14">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>083525</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref15">
+            <xocs:ref-normalized-surname>REEDHILL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>840</xocs:ref-first-fp>
+            <xocs:ref-last-lp>844</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHYSICALMETALLURGYPRINCIPLES</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref16">
+            <xocs:ref-normalized-surname>DIETER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>289</xocs:ref-first-fp>
+            <xocs:ref-last-lp>292</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MECHANICALMETALLURGY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>JUANX2016X200</xocs:refkey3>
+         <xocs:refkey4lp>JUANX2016X200X203</xocs:refkey4lp>
+         <xocs:refkey4ai>JUANX2016X200XC</xocs:refkey4ai>
+         <xocs:refkey5>JUANX2016X200X203XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-08-23T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Elsevier B.V. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0167-577X(16)31339-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0167577X16313398</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0167577X16313398</xocs:eid>
+         <xocs:doi>10.1016/j.matlet.2016.08.060</xocs:doi>
+         <xocs:cid>271572</xocs:cid>
+         <xocs:timestamp>2016-09-29T13:08:21.530335-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-12-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/MAIN/application/pdf/a702c530b4185cd61ff742b006d93c8c/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/MAIN/application/pdf/a702c530b4185cd61ff742b006d93c8c/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>962966</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0167577X16313398-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/PREVIEW/image/png/f3190b3e20730a495c0fd4e06676b88a/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/PREVIEW/image/png/f3190b3e20730a495c0fd4e06676b88a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>52129</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/gr1/THUMBNAIL/image/gif/1837debd6adb454572a757a339eafc71/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/gr1/THUMBNAIL/image/gif/1837debd6adb454572a757a339eafc71/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16726</xocs:filesize>
+               <xocs:pixel-height>157</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/gr2/THUMBNAIL/image/gif/8eb269347876a0efd27327cde4e80461/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/gr2/THUMBNAIL/image/gif/8eb269347876a0efd27327cde4e80461/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>25402</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>217</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/gr3/THUMBNAIL/image/gif/917837ed34f70e218aad7174f71dbbcb/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/gr3/THUMBNAIL/image/gif/917837ed34f70e218aad7174f71dbbcb/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9572</xocs:filesize>
+               <xocs:pixel-height>88</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/gr1/DOWNSAMPLED/image/jpeg/7e49e53ddde5a3c2710304115f72e63b/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/gr1/DOWNSAMPLED/image/jpeg/7e49e53ddde5a3c2710304115f72e63b/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>110426</xocs:filesize>
+               <xocs:pixel-height>540</xocs:pixel-height>
+               <xocs:pixel-width>753</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/gr2/DOWNSAMPLED/image/jpeg/bc3f93cb570af57a90a5a1de9eb14dd2/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/gr2/DOWNSAMPLED/image/jpeg/bc3f93cb570af57a90a5a1de9eb14dd2/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>84385</xocs:filesize>
+               <xocs:pixel-height>427</xocs:pixel-height>
+               <xocs:pixel-width>565</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/gr3/DOWNSAMPLED/image/jpeg/447ca1dbb0168a62a1000a4a81ae9a14/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/gr3/DOWNSAMPLED/image/jpeg/447ca1dbb0168a62a1000a4a81ae9a14/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>57381</xocs:filesize>
+               <xocs:pixel-height>302</xocs:pixel-height>
+               <xocs:pixel-width>753</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-si0001.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/STRIPIN/image/gif/5c06f9d68cabf83d706aff097d95a4a3/si0001.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/STRIPIN/image/gif/5c06f9d68cabf83d706aff097d95a4a3/si0001.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0001</xocs:file-basename>
+               <xocs:filename>si0001.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1277</xocs:filesize>
+               <xocs:pixel-height>14</xocs:pixel-height>
+               <xocs:pixel-width>64</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-si0002.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/STRIPIN/image/gif/d10d5118d17949c5274d37f7619e662c/si0002.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/STRIPIN/image/gif/d10d5118d17949c5274d37f7619e662c/si0002.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0002</xocs:file-basename>
+               <xocs:filename>si0002.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1903</xocs:filesize>
+               <xocs:pixel-height>29</xocs:pixel-height>
+               <xocs:pixel-width>82</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0167577X16313398-si0003.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0167577X16313398/STRIPIN/image/gif/e89f2c784bb4920028a111264056d141/si0003.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0167577X16313398/STRIPIN/image/gif/e89f2c784bb4920028a111264056d141/si0003.gif</xocs:ucs-locator>
+               <xocs:file-basename>si0003</xocs:file-basename>
+               <xocs:filename>si0003.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1561</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>78</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="sco" version="5.4" xml:lang="en">
+         <item-info>
+            <jid>MLBLUE</jid>
+            <aid>21344</aid>
+            <ce:pii>S0167-577X(16)31339-8</ce:pii>
+            <ce:doi>10.1016/j.matlet.2016.08.060</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0005">
+                  <ce:simple-para id="sp0005" view="all">(a) XRD patterns of the as-cast, 70%-rolled, and as-annealed (1250<ce:hsp sp="0.25"/>°C-6<ce:hsp sp="0.25"/>h) states of the HfNbTaTiZr alloy, (b) grain sizes of the HfNbTaTiZr alloy annealed at 1200, 1250, 1300, and 1350<ce:hsp sp="0.25"/>°C for different times, (c) plot of <ce:italic>grain size</ce:italic>
+                     <ce:sup loc="post">
+                        <ce:italic>3.5</ce:italic>
+                     </ce:sup> vs. <ce:italic>time</ce:italic> at different temperatures, and (d) plot of <ce:italic>ln<ce:hsp sp="0.25"/>C</ce:italic> vs. <ce:italic>1/T</ce:italic>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0005" role="short">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:href="pii:S0167577X16313398/gr1" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="sp0010" view="all">OM images of the HfNbTaTiZr alloys annealed at 1250<ce:hsp sp="0.25"/>°C for different times.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0010" role="short">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:href="pii:S0167577X16313398/gr2" xlink:type="simple"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="sp0015" view="all">(a) True and engineering tensile stress–strain curves of HfNbTaTiZr alloy with different grain size, in which dashed lines connecting necking point (marked with <ce:bold>×</ce:bold>) with fracture point are treated to be linear, (b) The yield stress as a function of grain size in the HfNbTaTiZr alloy.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text id="at0015" role="short">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:href="pii:S0167577X16313398/gr3" xlink:type="simple"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:title id="tit0005">Simultaneously increasing the strength and ductility of a refractory high-entropy alloy via grain refining</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005">
+                  <ce:given-name>Chien-Chang</ce:given-name>
+                  <ce:surname>Juan</ce:surname>
+                  <ce:cross-ref id="cr0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0010">
+                  <ce:given-name>Ming-Hung</ce:given-name>
+                  <ce:surname>Tsai</ce:surname>
+                  <ce:cross-ref id="cr0010" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015">
+                  <ce:given-name>Che-Wei</ce:given-name>
+                  <ce:surname>Tsai</ce:surname>
+                  <ce:cross-ref id="cr0015" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020">
+                  <ce:given-name>Wei-Lin</ce:given-name>
+                  <ce:surname>Hsu</ce:surname>
+                  <ce:cross-ref id="cr0020" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025">
+                  <ce:given-name>Chun-Ming</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+                  <ce:cross-ref id="cr0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030">
+                  <ce:given-name>Swe-Kai</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref id="cr0030" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0035">
+                  <ce:given-name>Su-Jien</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+                  <ce:cross-ref id="cr0035" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0040">
+                  <ce:given-name>Jien-Wei</ce:given-name>
+                  <ce:surname>Yeh</ce:surname>
+                  <ce:cross-ref id="cr0040" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="cr0045" refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Materials Science and Engineering, National Tsing Hua University, Hsinchu 30013, Taiwan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Materials Science and Engineering, National Tsing Hua University</sa:organization>
+                     <sa:city>Hsinchu</sa:city>
+                     <sa:postal-code>30013</sa:postal-code>
+                     <sa:country>Taiwan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Materials Science and Engineering, National Chung Hsing University, Taichung 40227, Taiwan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Materials Science and Engineering, National Chung Hsing University</sa:organization>
+                     <sa:city>Taichung</sa:city>
+                     <sa:postal-code>40227</sa:postal-code>
+                     <sa:country>Taiwan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Center for Nanotechnology, Materials Science, and Microsystems, National Tsing Hua University, Hsinchu 30013, Taiwan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Center for Nanotechnology, Materials Science, and Microsystems, National Tsing Hua University</sa:organization>
+                     <sa:city>Hsinchu</sa:city>
+                     <sa:postal-code>30013</sa:postal-code>
+                     <sa:country>Taiwan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="12" month="12" year="2015"/>
+            <ce:date-revised day="10" month="8" year="2016"/>
+            <ce:date-accepted day="13" month="8" year="2016"/>
+            <ce:abstract id="ab0010" class="author" view="all"><ce:abstract-sec id="abs0010" view="all">
+                  <ce:simple-para id="sp0020" view="all">The HfNbTaTiZr refractory high-entropy alloy was investigated on the grain growth kinetics and tensile properties. Grain growth at 1200–1350<ce:hsp sp="0.25"/>°C is rather slow. The activation energy is 389<ce:hsp sp="0.25"/>kJ/mol and the growth exponent is 3.5. The HfNbTaTiZr alloy has high strength, small work hardening and high ductility. Grain refining is found to enhance the tensile strength and ductility simultaneously.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords id="keys0005" class="keyword" view="all">
+               <ce:section-title id="sect0015">Keywords</ce:section-title>
+               <ce:keyword id="key0005">
+                  <ce:text>Refractory high-entropy alloys</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0010">
+                  <ce:text>Metals and alloys</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0015">
+                  <ce:text>Recrystallization</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0020">
+                  <ce:text>Solute-drag mechanism</ce:text>
+               </ce:keyword>
+               <ce:keyword id="key0025">
+                  <ce:text>Hall-Petch equation</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" role="introduction" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sect0020">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">A new alloy design strategy called high-entropy alloys (HEAs) has attracted significant attention in the past decade <ce:cross-refs id="crs0005" refid="bib1 bib2 bib3 bib4">[1–4]</ce:cross-refs>. A subclass of HEAs, the refractory HEAs, is also of great interest <ce:cross-refs id="crs0010" refid="bib5 bib6">[5,6]</ce:cross-refs>. These alloys can have exceptional high-temperature strength and reasonable compressive plasticity. However, their tensile ductility at room temperature is a major concern. In this regard, the HfNbTaTiZr alloy is special because it has a very high compressive plasticity (ε&gt;50%) at room temperature. Grain refining is considered as a route to improve the mechanical properties of metals and alloys <ce:cross-ref id="cr0050" refid="bib7">[7]</ce:cross-ref>. Some literatures on CoCrFeMnNi high-entropy alloy with single FCC phase had revealed the grain growth mechanism and the grain size effect on mechanical properties <ce:cross-refs id="crs0015" refid="bib8 bib9">[8,9]</ce:cross-refs>, and the grain refining effectively strengthens this alloy. However, it is rare to see the literature reporting the grain growth kinetics and grain refining effect on the HfNbTaTiZr equiatomic alloy with single BCC phase yet. The understanding of these two aspects is important especially in controlling grain structure and tensile properties for structural applications. Therefore, the present study is focusing on the grain growth kinetics and the grain-size dependence of tensile properties of HfNbTaTiZr alloy.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sect0025">Experimental procedures</ce:section-title>
+                  <ce:para id="p0030" view="all">The HfNbTaTiZr HEA was prepared by vacuum-arc-melting of high-purity elements (99.9<ce:hsp sp="0.25"/>wt%). Melting was repeated for at least five times to improve the chemical homogeneity of the alloy. The ingots were cold-rolled by a reduction of 70%, then sealed in a vacuum quartz tube and heat-treated in an air furnace at 1200, 1250, 1300 and 1350<ce:hsp sp="0.25"/>°C for different time. The samples were examined by an optical microscope (OM). The grain size was measured from micrographs by using the linear-intercept method. At least 100 grain boundaries were intercepted for the calculation. Crystal structures of the alloys were examined with an X-ray diffractometer (Shimadzu XRD-6000). The tensile-test samples had the dog-bone shape with the gage-section dimensions of 2×3×20<ce:hsp sp="0.25"/>mm. Tensile tests were performed at an initial strain rate of 10<ce:sup loc="post">−3</ce:sup> by Instron 4468 <ce:italic>universal testing machine</ce:italic>. An Instron extensometer was used to record the strain of each specimen during tensile test. At least two specimens were tested for each heat-treatment condition to confirm the reliable data.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" role="results" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sect0030">Results and discussion</ce:section-title>
+                  <ce:para id="p0035" view="all">
+                     <ce:float-anchor refid="f0005"/>
+                     <ce:cross-ref id="cr0055" refid="f0005">Fig. 1</ce:cross-ref>(a) shows the X-ray diffraction patterns of the HfNbTaTiZr alloy in the as-cast, as-rolled, and as-annealed (1250<ce:hsp sp="0.25"/>°C, 6<ce:hsp sp="0.25"/>h) states. All diffraction patterns exhibit single BCC structure with a lattice constant of 3.406<ce:hsp sp="0.25"/>Å. <ce:float-anchor refid="f0010"/>
+                     <ce:cross-ref id="cr0060" refid="f0010">Fig. 2</ce:cross-ref> shows the OM images of samples annealed at 1250<ce:hsp sp="0.25"/>°C for different times. Based on the OM images, the grains sizes of the samples are plotted as functions of annealing time for each annealing temperature in <ce:cross-ref id="cr0065" refid="f0005">Fig. 1</ce:cross-ref>(b). As can be expected, the grain size increases with the annealing time and temperature. The equation for grain growth can be expressed in the following general form <ce:cross-ref id="cr0070" refid="bib10">[10]</ce:cross-ref>:<ce:display>
+                        <ce:formula id="eq0005">
+                           <ce:label>(1)</ce:label>
+                           <mml:math altimg="si0001.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi>D</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mi>n</mml:mi>
+                                 </mml:msup>
+                                 <mml:mo>−</mml:mo>
+                                 <mml:msubsup>
+                                    <mml:mrow>
+                                       <mml:mi>D</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>n</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msubsup>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mi>t</mml:mi>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where D is the grain size at annealing time t, D<ce:inf loc="post">0</ce:inf> is the initial grain size, n is the growth exponent, and C is a kinetic constant. Because grain sizes are at least tens of micrometers after annealing, D<ce:inf loc="post">0</ce:inf> at recrystallization can be treated as zero. The growth exponent n is approximately 3.5. The plot of D<ce:sup loc="post">3.5</ce:sup> versus time is shown in <ce:cross-ref id="cr0075" refid="f0005">Fig. 1</ce:cross-ref>(c). Well linear relationship is found. Factors such as texture and pinning effect by solutes and second phase particles are known to increase n. Because second phase particles are not observed in the grain boundaries of our alloys, pinning by particles is excluded, and the solute-drag effect becomes the most probable reason <ce:cross-refs id="crs0020" refid="bib8 bib11">[8,11]</ce:cross-refs>. Liu et al. proposed this solute-drag mechanism in addition to sluggish diffusion effect for the slow grain growth phenomenon found in single-FCC CoCrFeMnNi <ce:cross-ref id="cr0080" refid="bib8">[8]</ce:cross-ref>. In the present study, we propose that the solute-drag effect is significant in the whole-solute matrix of HEAs as compared with conventional solid solution alloy. This relates to the energy reason that the different sizes of abundant solutes along grain boundaries would in-situ adjust their relative positions to form the low-energy configuration of grain boundaries during boundary migration.</ce:para>
+                  <ce:para id="p0040" view="all">The kinetic constant C in Eq. <ce:cross-ref id="cr0085" refid="eq0005">(1)</ce:cross-ref> could be expressed as Eq. <ce:cross-ref id="cr0090" refid="eq0010">(2)</ce:cross-ref>:<ce:display>
+                        <ce:formula id="eq0010">
+                           <ce:label>(2)</ce:label>
+                           <mml:math altimg="si0002.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>C</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>C</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mi>exp</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mo stretchy="true">(</mml:mo>
+                                    <mml:mrow>
+                                       <mml:mo>−</mml:mo>
+                                       <mml:mfrac>
+                                          <mml:mi>Q</mml:mi>
+                                          <mml:mrow>
+                                             <mml:mi>R</mml:mi>
+                                             <mml:mi>T</mml:mi>
+                                          </mml:mrow>
+                                       </mml:mfrac>
+                                    </mml:mrow>
+                                    <mml:mo stretchy="true">)</mml:mo>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where Q is the apparent activation energy of grain growth, R is the gas constant, T is the absolute temperature, and C<ce:inf loc="post">0</ce:inf> is a constant. <ce:cross-ref id="cr0095" refid="f0005">Fig. 1</ce:cross-ref>(d) shows the ln C versus 1/T plot in which a good linear relationship is seen. The activation energy of grain growth is 389<ce:hsp sp="0.25"/>kJ/mol. This value is markedly higher than the self-diffusion activation energies of Hf (162<ce:hsp sp="0.25"/>kJ/mol), Ti (198<ce:hsp sp="0.25"/>kJ/mol) and Zr (126<ce:hsp sp="0.25"/>kJ/mol), and close to that of Nb (397<ce:hsp sp="0.25"/>kJ/mol) and Ta (413<ce:hsp sp="0.25"/>kJ/mol) <ce:cross-ref id="cr0100" refid="bib12">[12]</ce:cross-ref>. Although the diffusion coefficients and activation energies of diffusion for composing elements in the present alloy have not been reported, it is expected from the study on the diffusion of CoCrFeMnNi <ce:cross-ref id="cr0105" refid="bib13">[13]</ce:cross-ref> that the activation energies of Nb and Ta diffusion in the present alloy is very likely higher than that for their self diffusions. It is noted that the activation energies of grain growth in HfNbTaTiZr and that of self-diffusion in Nb and Ta have similar values. This suggests that the grain growth in HfNbTaTiZr is directly related to the volume diffusion through the lattice, whose rate is controlled by the slowest species, i.e. Nb and Ta. Migration of grain boundaries cannot proceed except the average composition is maintained, i.e., the fast-moving species need to wait for the slow ones.</ce:para>
+                  <ce:para id="p0045" view="all">To investigate the grain size strengthening and tensile behavior of the present HEA, annealed samples with average grain sizes: 38, 81, and 128<ce:hsp sp="0.25"/>µm (named as: Sample A, Sample B, and Sample C, respectively) were selected for tensile testing. <ce:float-anchor refid="f0015"/>
+                     <ce:cross-ref id="cr0110" refid="f0015">Fig. 3</ce:cross-ref>(a) shows their engineering and true stress–strain curves. All the samples have the same Young's modulus of 81<ce:hsp sp="0.25"/>GPa. The yield strengths of Samples A, B, and C are 958±2.1, 944±2.1, and 940±0.7<ce:hsp sp="0.25"/>MPa, respectively. The ultimate tensile strengths are 974±0.7, 959±1.5, and 953±0.7<ce:hsp sp="0.25"/>MPa, respectively. The corresponding elongations (or engineering fracture strain) are 20%, 18%, and 15%, respectively. In addition, the true fracture strains estimated from the reduction of area are 1.23, 1.13, and 0.97, respectively. All these demonstrate that grain refining could simultaneously enhance strength and ductility, which is not commonly found in metals <ce:cross-ref id="cr0115" refid="bib14">[14]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0050" view="all">It is noted that slight work softening occurs before necking in the engineering stress–strain curves but small work hardening still exists in the true stress–strain curves. Small work hardening is proposed to be related to the high yield strength of HfNbTaTiZr, which is due to large solution hardening from its whole-solute matrix with severe lattice distortion. This is entirely different from the high work hardening found in lower strength FCC HEAs <ce:cross-refs id="crs0025" refid="bib3 bib9">[3,9]</ce:cross-refs> and might be an unique feature of BCC HEAs. Similar low work hardening is found in BCC metals at low temperatures where the yield strength becomes markedly higher <ce:cross-ref id="cr0120" refid="bib15">[15]</ce:cross-ref>. Both might have similar basic reasons. Physically, low work hardening means high dynamic recovery which eliminates most hardening of increased dislocations due to the multiplication from dislocation sources. It is expected that higher dislocation density (e.g. at higher strain) and higher applied stress for deforming high strength alloys would have higher strain energy and thus larger driving force to induce dynamic recovery. The very low work hardening in the present alloy suggests that its distorted whole-solute BCC matrix having high-strength and large lattice strain could potentially raise the driving force to reduce overall strain energy under the high applied stress level (&gt;σ<ce:inf loc="post">y</ce:inf>~1000<ce:hsp sp="0.25"/>MPa). This lattice distortion effect is significant since their atomic size difference is quite large (atomic sizes of Hf, Nb, Ta, Ti and Zr are 1.58, 1.47, 1.47, 1.46, and 1.60<ce:hsp sp="0.25"/>Å, respectively, and maximum difference between unlike atomic pairs is up to 9.6%). As for the enhancement of ductility and ultimate tensile strength by smaller grain size, it relates with Considere's criterion <ce:cross-ref id="cr0125" refid="bib16">[16]</ce:cross-ref> which suggests that a higher work hardening rate would give higher necking strain and necking strength (ultimate tensile strength). Apparently, the work hardening is higher for smaller grain size from true stress–strain curves in <ce:cross-ref id="cr0130" refid="f0015">Fig. 3</ce:cross-ref>, the enhancement is thus explained.</ce:para>
+                  <ce:para id="p0055" view="all">In order to evaluate the relation between strength and grain size, the yield stress as functions of grain size was plotted in <ce:cross-ref id="cr0135" refid="f0015">Fig. 3</ce:cross-ref>(b). The fitting line agrees well with the Hall–Petch equation:<ce:display>
+                        <ce:formula id="eq0015">
+                           <ce:label>(3)</ce:label>
+                           <mml:math altimg="si0003.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mi>σ</mml:mi>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>σ</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>k</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>σ</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mi>D</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>−</mml:mo>
+                                       <mml:mn>1</mml:mn>
+                                       <mml:mo>/</mml:mo>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                              </mml:mrow>
+                           </mml:math>
+                        </ce:formula>
+                     </ce:display>where σ<ce:inf loc="post">0</ce:inf> is the intrinsic stress, D is the grain size and k<ce:inf loc="post">σ</ce:inf> is the Hall–Petch coefficient. The Hall–Petch coefficient k<ce:inf loc="post">σ</ce:inf> of yield stress are 240<ce:hsp sp="0.25"/>MPa<ce:hsp sp="0.25"/>μm<ce:sup loc="post">−1/2</ce:sup>. This suggests that grain size strengthening is significant in the present alloy.</ce:para>
+               </ce:section>
+               <ce:section id="s0020" role="conclusion" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sect0035">Conclusions</ce:section-title>
+                  <ce:para id="p0060" view="all">The grain growth kinetics and tensile properties in the HfNbTaTiZr BCC refractory high-entropy alloy was investigated. The activation energy of grain growth at 1200~1350<ce:hsp sp="0.25"/>°C is 389<ce:hsp sp="0.25"/>kJ/mol, and the growth exponent is 3.5. The grain growth rate is controlled by the slowest two components, i.e., Nb and Ta. The slow grain boundary migration is a result of the solute-drag mechanism. Grain refinement increases both strength and ductility. The tensile yield strength, elongation and true fracture strain of HfNbTaTiZr HEA with smallest grain size 38<ce:hsp sp="0.25"/>µm are 958<ce:hsp sp="0.25"/>MPa, 20%, and 1.23, respectively. The grain size strengthening is significant and obeys the Hall–Petch relationship.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0005" view="all">
+               <ce:section-title id="sect0040">Acknowledgment</ce:section-title>
+               <ce:para id="p0065" view="all">The authors are pleased to acknowledge the financial support by <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Ministry of Science and Technology of Taiwan</ce:grant-sponsor>, under Grant no. <ce:grant-number refid="gs1">MOST102-2221-E-007-047-MY3</ce:grant-number>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bibliog0005" view="all">
+               <ce:section-title id="sect0045">References</ce:section-title>
+               <ce:bibliography-sec id="bb0005" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JOM</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1759</sb:first-page>
+                              <sb:last-page>1771</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                              <sb:last-page>123</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Zuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Dahmen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>93</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Murty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ranganathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-Entropy Alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Butterworth-Heinemann,</sb:name>
+                                 <sb:location>Boston</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Senkova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Miracle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Woodward</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>509</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6043</sb:first-page>
+                              <sb:last-page>6048</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Wilks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Miracle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>698</sb:first-page>
+                              <sb:last-page>706</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Dieter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical Metallurgy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1988</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill,</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>188</sb:first-page>
+                              <sb:last-page>191</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.G.</ce:given-name>
+                                 <ce:surname>Nieh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>526</sb:first-page>
+                              <sb:last-page>529</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Otto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Dlouhy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Somsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Eggeler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>George</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5743</sb:first-page>
+                              <sb:last-page>5755</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Humphreys</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hatherly</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recrystallization and Related Annealing Phenomena</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>2nd ed.</sb:edition>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier,</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>338</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Grey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.T.</ce:given-name>
+                                 <ce:surname>Higgins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Met.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1973</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>309</sb:first-page>
+                              <sb:last-page>321</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Neumann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Tuijn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Self-diffusion and Impurity Diffusion in Pure Metals, Volume 14: Handbook of Experimental Data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>1st ed.</sb:edition>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier Ltd.,</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4887</sb:first-page>
+                              <sb:last-page>4897</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="sbref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.R.</ce:given-name>
+                                 <ce:surname>Cui</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>083525</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Reed-Hill</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Abbaschain</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Physical Metallurgy Principles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>3rd ed.</sb:edition>
+                              <sb:date>1991</sb:date>
+                              <sb:publisher>
+                                 <sb:name>PWS-Kent</sb:name>
+                                 <sb:location>Boston</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>840</sb:first-page>
+                              <sb:last-page>844</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Dieter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical Metallurgy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1988</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw-Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                           <sb:pages>
+                              <sb:first-page>289</sb:first-page>
+                              <sb:last-page>292</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

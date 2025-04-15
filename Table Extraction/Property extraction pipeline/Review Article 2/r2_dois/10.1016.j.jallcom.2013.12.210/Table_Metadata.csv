@@ -1,0 +1,14 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2013.12.210\tables\Table 1.csv,Table 1,Chemical composition of the alloy constituents (as shown in Fig. 2) in the as-solidified condition. The data derived by SEM-based EDS.,
+t0010,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2013.12.210\tables\Table 2.csv,Table 2,Chemical composition and the crystal lattice type of the alloy constituents (as shown on Fig. 3) in as-solidified state. The data derived from TEM-based EDS.,
+t0015,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2013.12.210\tables\Table 3.csv,Table 3,Chemical composition of alloys' constituents (as shown in Fig. 1) in the annealed condition. The data derived by SEM-based EDS.,
+t0020,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2013.12.210\tables\Table 4.csv,Table 4,Microhardness of the studied alloys in as-solidified and annealed states.,
+t0025,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2013.12.210\tables\Table 5.csv,Table 5,"Tensile properties of the CoCrFeNi, CoCrFeNiMn and CoCrFeNiV alloys in as-solidified and annealed states.","{'a': 'The CoCrFeNiV and CoCrFeNiMnV alloys exhibited brittle fracture, both in as-solidified and annealed states, and the given values correspond to the fracture strength values.'}"
+t0030,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2013.12.210\tables\Table 6.csv,Table 6,"Compressive properties of the CoCrFeNi, CoCrFeNiV and CoCrFeNiMnV alloys in annealed state.",{'⁎': 'The CoCrFeNi alloy exhibited no fracture after strain of 75% and the stress level continuously increased with strain.'}
+t0035,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2013.12.210\tables\Table 7.csv,Table 7,"Atomic radius, shear modulus, electronegativity, vacancy electron concentration, and melting temperature of the constituent elements of the studied alloys [29].",
+t0040,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2013.12.210\tables\Table 8.csv,Table 8,"Calculated parameters dr, DH
+mix, DS
+mix, OVEC, dkh, and dVEC for studied alloys.",
+t0045,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2013.12.210\tables\Table 9.csv,Table 9,"Calculated lattice, dri
+, and shear modulus, dGi
+, distortions near an individual constituent element i in apparent FCC solid solution compositions corresponding to the compositions of the studied alloys.",

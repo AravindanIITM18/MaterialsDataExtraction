@@ -1,0 +1,12 @@
+"Temperature, degS","s0.2, MPa","sUTS, MPa","e,%"
+Compression,Compression,Compression,Compression
+25,990,-,>50
+400,940,-,>50
+500,640,-,>50
+600,360,-,>50
+800,125,-,>50
+Tension,Tension,Tension,Tension
+25,750,880,2.5
+400,640,900,20
+500,515,715,42
+600,310,405,55

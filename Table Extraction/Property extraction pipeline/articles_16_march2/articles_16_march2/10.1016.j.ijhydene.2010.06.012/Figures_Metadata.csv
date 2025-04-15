@@ -1,0 +1,15 @@
+Figure ID,Figure Path,Figure Label,Figure Caption
+fig1,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr1.jpg,Fig. 1,"The XRD patterns for hydrogenated, dehydrogenated, and raw-powder Zr1."
+fig2,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr2.jpg,Fig. 2,The XRD patterns for Tix(a) before PCI tests and (b) after PCI tests.
+fig3,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr3.jpg,Fig. 3,The XRD patterns for Vy(a) before PCI tests and (b) after PCI tests.
+fig4,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr4.jpg,Fig. 4,The XRD patterns for Zrz(a) before PCI tests and (b) after PCI tests.
+fig5,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr5.jpg,Fig. 5,"The kinetics curves at (a) 25 °C, (b) 80 °C, and (c)t0.9vs.xfor Tix."
+fig6,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr6.jpg,Fig. 6,"The kinetics curves at (a) 25 °C, (b) 80 °C, and (c)t0.9vs.yfor Vy."
+fig7,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr7.jpg,Fig. 7,"The kinetics curves at (a) 25 °C, (b) 80 °C, and (c)t0.9vs.zfor Zrz."
+fig8,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr8.jpg,Fig. 8,The PCI curves for Tixat (a) 25 °C and (b) 80 °C. Note that the numbers indicated in these figures are the values ofx.
+fig9,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr9.jpg,Fig. 9,The PCI curves for Vyat (a) 25 °C and (b) 80 °C.
+fig10,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr10.jpg,Fig. 10,The PCI curves for Zrzat (a) 25 °C and (b) 80 °C. Note that the numbers indicated in these figures are the values ofz.
+fig11,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr11.jpg,Fig. 11,"(a) The BEI metallograph of CoFeMnTiVZr alloy. (b)–(g) The EDS mapping of Co, Fe, Mn, Ti, V, and Zr elements, respectively."
+fig12,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr12.jpg,Fig. 12,"(a) The BEI metallograph of CoFeMnTi2.5VZr alloy. (b)–(g) The EDS mapping of Co, Fe, Mn, Ti, V, and Zr elements, respectively."
+fig13,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr13.jpg,Fig. 13,"(a) The BEI metallograph of CoFeMnTiVZr3alloy. (b)–(g) The EDS mapping of Co, Fe, Mn, Ti, V, and Zr elements, respectively."
+fig14,articles_all/10.1016.j.ijhydene.2010.06.012/figures/gr14.jpg,Fig. 14,"The (H/atom)maxvs. ΔHcalcurves for Mg2Ni, LaNi5, TiFe (AB), TiCo (AB), ZrB2(AB2), Tix, Vy, and Zrz. It shows that (H/atom)maxis a linear function of ΔHcalfor Mg2Ni, LaNi5, but not for AB, AB2, Tix, Vy, and Zrz. The alloys AB, AB2, Tix, Vy, and Zrzhave data scattered over a wide range indicated in this figure."

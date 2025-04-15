@@ -1,0 +1,6 @@
+HEAs,Entropy of mixing (DS mix) (R =8.314J/molK),Enthalpy of mixing (kJ/mol) (DH mix),Atomic size difference (%) (d)
+AlCoCrCuFe,1.61R,-2.56,4.99
+NiCoCrCuFe,1.61R,3.20,1.07
+NiCoCrFe,1.34R,-3.75,1.03
+NiCoCuFe,1.34R,5.00,1.03
+NiCoFe,1.10R,-1.33,0.76

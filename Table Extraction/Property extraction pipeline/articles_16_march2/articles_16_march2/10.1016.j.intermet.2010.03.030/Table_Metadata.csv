@@ -1,0 +1,4 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,/home/sai/sai-mani/articles_all/10.1016.j.intermet.2010.03.030/tables/Table 1.csv,Table 1,EDX analysis of chemical composition of Cu0.5CoCrFeNi alloy (at.%) under various heat treatments.,
+tbl2,/home/sai/sai-mani/articles_all/10.1016.j.intermet.2010.03.030/tables/Table 2.csv,Table 2,EDX analysis of chemical composition of Cu0.5CoCrFeNi alloy (at.%) after various aging temperatures of 1100-1250 degC.,
+tbl3,/home/sai/sai-mani/articles_all/10.1016.j.intermet.2010.03.030/tables/Table 3.csv,Table 3,Electrochemical parameters of Cu0.5CoCrFeNi alloy in 3.5% NaCl solution at 25 degC after various aging temperatures.,{'NA': 'i\ncorr: corrosion current density.'}

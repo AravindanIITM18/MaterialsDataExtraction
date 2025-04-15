@@ -1,0 +1,26 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CrNbTiVZr (Al0),Annealed at 1200degC,-,Density,6590,kgm-3
+CrNbTiVZr (Al0.25),Annealed at 1200degC,-,Density,6500,kgm-3
+CrNbTiVZr (Al0.5),Annealed at 1200degC,-,Density,6390,kgm-3
+CrNbTiVZr (Al1),Annealed at 1200degC,-,Density,6250,kgm-3
+CrNbTiVZr (Al0),Annealed at 1200degC,-,Microhardness,520+-10,HV
+Al0.25CrNbTiVZr (Al0.25),Annealed at 1200degC,-,Microhardness,650+-35,HV
+Al0.5CrNbTiVZr (Al0.5),Annealed at 1200degC,-,Microhardness,660+-20,HV
+AlCrNbTiVZr (Al1),Annealed at 1200degC,-,Microhardness,670+-20,HV
+CrNbTiVZr (Al0),-,22,Yield Strength(Compression),1260,MPa
+CrNbTiVZr (Al0),-,22,Yield Strength(Compression),1270,MPa
+CrNbTiVZr (Al0),-,600,Yield Strength(Compression),795,MPa
+CrNbTiVZr (Al0),-,800,Yield Strength(Compression),440,MPa
+CrNbTiVZr (Al0),-,1000,Yield Strength(Compression),95,MPa
+Al0.25CrNbTiVZr (Al0.25),-,22,Yield Strength(Compression),1095,MPa
+Al0.25CrNbTiVZr (Al0.25),-,600,Yield Strength(Compression),1365,MPa
+Al0.25CrNbTiVZr (Al0.25),-,800,Yield Strength(Compression),680,MPa
+Al0.25CrNbTiVZr (Al0.25),-,1000,Yield Strength(Compression),130,MPa
+Al0.5CrNbTiVZr (Al0.5),-,22,Yield Strength(Compression),1630,MPa
+Al0.5CrNbTiVZr (Al0.5),-,600,Yield Strength(Compression),1105,MPa
+Al0.5CrNbTiVZr (Al0.5),-,800,Yield Strength(Compression),970,MPa
+Al0.5CrNbTiVZr (Al0.5),-,1000,Yield Strength(Compression),265,MPa
+AlCrNbTiVZr (Al1),-,22,Yield Strength(Compression),850,MPa
+AlCrNbTiVZr (Al1),-,600,Yield Strength(Compression),620,MPa
+AlCrNbTiVZr (Al1),-,800,Yield Strength(Compression),1250,MPa
+AlCrNbTiVZr (Al1),-,1000,Yield Strength(Compression),305,MPa

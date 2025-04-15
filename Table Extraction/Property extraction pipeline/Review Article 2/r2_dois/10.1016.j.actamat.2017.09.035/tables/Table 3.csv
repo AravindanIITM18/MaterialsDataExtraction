@@ -1,0 +1,5 @@
+Microstructural State,Tensile strength (MPa),Total elongation to failure (%),Reduction of area (%)
+as-received,830,9.2,69
+HPT,1900,7.9,49
+"500 degC,1 h",1520,1.7,5
+"800 degC, 1 h",795,5.0,67

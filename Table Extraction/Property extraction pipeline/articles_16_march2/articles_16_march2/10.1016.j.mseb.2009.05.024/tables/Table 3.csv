@@ -1,0 +1,6 @@
+Material,n e (cm-3),r (mOcm),Contribution of k
+Metal,1022-1023,1-102,ke kph
+Semi-metal,1017-1021,101-102,ke kph
+Semiconductor,1013-1016,104-1015,ke kph
+Insulator,<1013,>1020,kph
+Al x CoCrFeNi,1019-1021,102,ke kph

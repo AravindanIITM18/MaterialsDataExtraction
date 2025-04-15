@@ -1,0 +1,40 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+HfZrTiTa0.53,-,-,Shear Modulus,44,GPa
+HfZrTiTa0.53,-,-,Shear Modulus,33,GPa
+HfZrTiTa0.53,-,-,Shear Modulus,30,GPa
+HfZrTiTa0.53,-,-,Shear Modulus,69,GPa
+HfZrTiTa0.53,-,-,Melting point,1941,K
+HfZrTiTa0.53,-,-,Melting point,2128,K
+HfZrTiTa0.53,-,-,Melting point,2506,K
+HfZrTiTa0.53,-,-,Melting point,3290,K
+Al/PTFE,-,-,Compressive Strength,30,MPa
+Al/Fe2O3,-,-,Compressive Strength,<100,MPa
+Al/Ni,-,-,Compressive Strength,225,MPa
+Al/Ta,-,-,Compressive Strength,450,MPa
+W/Zr,-,-,Compressive Strength,1860,MPa
+Hf/Al composite,-,-,Compressive Strength,522,MPa
+Al/PTFE,-,-,Ductility,>70,%EL
+Al/Ni,-,-,Ductility,5,%EL
+Al/Ta,-,-,Ductility,3,%EL
+W/Zr,-,-,Ductility,1,%EL
+Hf/Al composite,-,-,Ductility,1.2-1.5,%EL
+-,0.001,-,Yield Strength(Compression),774±12,MPa
+-,0.001,-,Ultimate Tensile Strength(Compression),1300±14,MPa
+-,0.001,-,Ductility,13.5±0.5,%EL
+-,0.001,-,Compressive Modulus,91±4,GPa
+-,950.000,-,Yield Strength(Compression),1360±30,MPa
+-,950.000,-,Ultimate Tensile Strength(Compression),1590±10,MPa
+-,950.000,-,Ductility,10.4±0.3,%EL
+-,950.000,-,Compressive Modulus,94±5,GPa
+-,1270.000,-,Yield Strength(Compression),1469±11,MPa
+-,1270.000,-,Ultimate Tensile Strength(Compression),1600±14,MPa
+-,1270.000,-,Ductility,8.9±0.3,%EL
+-,1270.000,-,Compressive Modulus,108±2,GPa
+-,1500.000,-,Yield Strength(Compression),1390±22,MPa
+-,1500.000,-,Ultimate Tensile Strength(Compression),1580±13,MPa
+-,1500.000,-,Ductility,13.2±0.3,%EL
+-,1500.000,-,Compressive Modulus,96±4,GPa
+-,2200.000,-,Yield Strength(Compression),1388±10,MPa
+-,2200.000,-,Ultimate Tensile Strength(Compression),1570±11,MPa
+-,2200.000,-,Ductility,12.1±0.4,%EL
+-,2200.000,-,Compressive Modulus,104±4,GPa

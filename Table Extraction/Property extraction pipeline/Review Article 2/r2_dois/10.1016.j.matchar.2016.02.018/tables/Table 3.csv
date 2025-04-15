@@ -1,0 +1,13 @@
+,Yield stress sy (MPa),Compressive strength smax (MPa),Fracture strain ef
+High entropy alloys,,,
+AlCrFeCoNiCuMn [27],1005,1480,15
+AlCrFeCoNiCuTi [27],1234,1356,9
+CrFeCoNiCuTi0.5 [28],700,1650,21
+Bulk amorphous alloys,,,
+Zr56*2Ti13.8Nb5Cu6*9Ni5.6Be12.5 [13],1300,1700,6.81
+Ti40Zr25Ni3Cu12Be20 [13],1680,1780,3.2
+Mg81Cu9*3Y4.7Zn5 [13],550,1163,18.5
+Commercial grade high strength stainless steels,,,
+420 stainless steel [29],1345,1586,8
+416 stainless steel [29],1000,1310,15
+18Ni(200) maraging steel [30],1400,1500,10

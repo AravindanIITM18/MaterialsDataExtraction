@@ -1,0 +1,23 @@
+,sY [MPa],sUTS [MPa],eP [MPa],HV[GPa],HV[GPa],Ref,Remarks
+1,1370,3530,24.5,5.2,5.2,[27],
+2,1500,2830,26.9,,,[4],Arc melting + vacuum induction melting & cast into 5 mm Cu cylinder
+3,395,400,1,,,[41],In as cast condition-Tension
+3,295,393,11.7,,,[41],HIP at 1150 degC & homogenized at 1150 degC - Tension
+4,1425,2900,31.7,,,[50],Impact of cooling rate.2 mm thickness cast
+4,1423,2580,22.7,,,[50],4 mm thickness cast
+4,1309,2192,20.8,,,[50],8 mm thickness cast
+4,1258,1830,11.7,,,[50],10 mm thickness cast
+5,1250,2004,32.7,,,[43],
+6,1250,2004,32.7,5.1,5.1,[33],
+7,,,,4.9,4.9,[32],
+8,1450,2960,15.5,,,[53],3 mm thickness cast
+8,1390,4430,24.4,,,[53],As cast
+9,2070,3670,14.4,,,[54],Heat treated at 500 degC
+9,1570,3250,15.9,,,[54],Heat treated at 700 degC
+9,1070,3520,30.4,,,[54],Heat treated at 900 degC
+10,,,,DC,ID,This work,
+10,1380,2065,10,4.6,5.1,This work,As cast condition
+10,1430,1465,1.6,4.5,6.0,This work,After 3 h at 850 degC
+10,1690,2020,2.7,4.3,4.4,This work,After 3 h at 975 degC
+10,1220,2050,13.1,4.4,4.5,This work,After 3 h at 1100 degC
+10,1450,2500,20.1,5.4,5.5,This work,After 3 h at 1200 degC

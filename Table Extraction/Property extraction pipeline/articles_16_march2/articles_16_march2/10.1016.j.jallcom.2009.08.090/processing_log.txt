@@ -1,0 +1,324 @@
+
+Table Table 1:
+Input Table:
+Samples,Items,Al (%),Co (%),Cr (%),Fe (%),Ni (%)
+C-0,Designed,0.0,25.0,25.0,25.0,25.0
+C-0,Overall (FCC),0.0,24.16,26.82,24.48,24.66
+nan,nan,nan,nan,nan,nan,nan
+C-0.25,Designed,5.88,23.53,23.53,23.53,23.53
+C-0.25,Overall (FCC),5.61,23.14,24.58,24.1,22.58
+nan,nan,nan,nan,nan,nan,nan
+C-0.375,Designed,8.57,22.86,22.86,22.86,22.86
+C-0.375,Overall (FCC),7.82,22.61,23.68,23.34,22.55
+nan,nan,nan,nan,nan,nan,nan
+C-0.50,Designed,11.11,22.22,22.22,22.22,22.22
+C-0.50,Overall,12.4,21.02,22.8,20.91,22.87
+C-0.50,FCC (87.83%),10.36,21.8,23.5,21.83,22.52
+C-0.50,BCC (12.16%),16.93,18.65,24.07,18.5,21.86
+nan,nan,nan,nan,nan,nan,nan
+C-0.75,Designed,15.79,21.05,21.05,21.05,21.05
+C-0.75,Overall,15.0,21.04,22.29,21.16,20.51
+C-0.75,FCC (27.28%),13.19,21.6,23.89,22.43,18.88
+C-0.75,BCC (72.72%),15.86,20.99,22.27,20.8,22.07
+nan,nan,nan,nan,nan,nan,nan
+C-0.875,Designed,17.95,20.51,20.51,20.51,20.51
+C-0.875,Overall (BCC),16.18,20.56,21.83,21.33,20.1
+nan,nan,nan,nan,nan,nan,nan
+C-1.00,Designed,20.0,20.0,20.0,20.0,20.0
+C-1.00,Overall (BCC),18.26,19.78,21.12,20.68,20.17
+nan,nan,nan,nan,nan,nan,nan
+C-1.25,Designed,23.81,19.05,19.05,19.05,19.05
+C-1.25,Overall (BCC),23.03,19.36,19.28,18.74,19.59
+nan,nan,nan,nan,nan,nan,nan
+C-1.50,Designed,27.27,18.18,18.18,18.18,18.18
+C-1.50,Overall (BCC),27.79,18.17,18.3,18.08,17.66
+nan,nan,nan,nan,nan,nan,nan
+C-2.00,Designed,33.33,16.67,16.67,16.67,16.67
+C-2.00,Overall (BCC),32.01,16.79,17.6,16.78,16.81
+
+Retrieved Properties: Core Loss, Poisson's Ratio, Compression, Composition, Elasticity, Saturation Rate, Power Factor, Crack-Growth Rates, Volume Fraction, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+C-0,-,Designed,Chemical Composition,Al: 0.0; Co: 25.0; Cr: 25.0; Fe: 25.0; Ni: 25.0,at%
+C-0,-,Overall (FCC),Chemical Composition,Al: 0.0; Co: 24.16; Cr: 26.82; Fe: 24.48; Ni: 24.66,at%
+C-0.25,-,Designed,Chemical Composition,Al: 5.88; Co: 23.53; Cr: 23.53; Fe: 23.53; Ni: 23.53,at%
+C-0.25,-,Overall (FCC),Chemical Composition,Al: 5.61; Co: 23.14; Cr: 24.58; Fe: 24.1; Ni: 22.58,at%
+C-0.375,-,Designed,Chemical Composition,Al: 8.57; Co: 22.86; Cr: 22.86; Fe: 22.86; Ni: 22.86,at%
+C-0.375,-,Overall (FCC),Chemical Composition,Al: 7.82; Co: 22.61; Cr: 23.68; Fe: 23.34; Ni: 22.55,at%
+C-0.50,-,Designed,Chemical Composition,Al: 11.11; Co: 22.22; Cr: 22.22; Fe: 22.22; Ni: 22.22,at%
+C-0.50,-,Overall,Chemical Composition,Al: 12.4; Co: 21.02; Cr: 22.8; Fe: 20.91; Ni: 22.87,at%
+C-0.50,-,FCC (87.83%),Chemical Composition,Al: 10.36; Co: 21.8; Cr: 23.5; Fe: 21.83; Ni: 22.52,at%
+C-0.50,-,BCC (12.16%),Chemical Composition,Al: 16.93; Co: 18.65; Cr: 24.07; Fe: 18.5; Ni: 21.86,at%
+C-0.75,-,Designed,Chemical Composition,Al: 15.79; Co: 21.05; Cr: 21.05; Fe: 21.05; Ni: 21.05,at%
+C-0.75,-,Overall,Chemical Composition,Al: 15.0; Co: 21.04; Cr: 22.29; Fe: 21.16; Ni: 20.51,at%
+C-0.75,-,FCC (27.28%),Chemical Composition,Al: 13.19; Co: 21.6; Cr: 23.89; Fe: 22.43; Ni: 18.88,at%
+C-0.75,-,BCC (72.72%),Chemical Composition,Al: 15.86; Co: 20.99; Cr: 22.27; Fe: 20.8; Ni: 22.07,at%
+C-0.875,-,Designed,Chemical Composition,Al: 17.95; Co: 20.51; Cr: 20.51; Fe: 20.51; Ni: 20.51,at%
+C-0.875,-,Overall (BCC),Chemical Composition,Al: 16.18; Co: 20.56; Cr: 21.83; Fe: 21.33; Ni: 20.1,at%
+C-1.00,-,Designed,Chemical Composition,Al: 20.0; Co: 20.0; Cr: 20.0; Fe: 20.0; Ni: 20.0,at%
+C-1.00,-,Overall (BCC),Chemical Composition,Al: 18.26; Co: 19.78; Cr: 21.12; Fe: 20.68; Ni: 20.17,at%
+C-1.25,-,Designed,Chemical Composition,Al: 23.81; Co: 19.05; Cr: 19.05; Fe: 19.05; Ni: 19.05,at%
+C-1.25,-,Overall (BCC),Chemical Composition,Al: 23.03; Co: 19.36; Cr: 19.28; Fe: 18.74; Ni: 19.59,at%
+C-1.50,-,Designed,Chemical Composition,Al: 27.27; Co: 18.18; Cr: 18.18; Fe: 18.18; Ni: 18.18,at%
+C-1.50,-,Overall (BCC),Chemical Composition,Al: 27.79; Co: 18.17; Cr: 18.3; Fe: 18.08; Ni: 17.66,at%
+C-2.00,-,Designed,Chemical Composition,Al: 33.33; Co: 16.67; Cr: 16.67; Fe: 16.67; Ni: 16.67,at%
+C-2.00,-,Overall (BCC),Chemical Composition,Al: 32.01; Co: 16.79; Cr: 17.6; Fe: 16.78; Ni: 16.81,at%
+
+Table Table 2:
+Input Table:
+Sample,Lattice constant (A),Lattice constant (A).1,Hardness (Hv)
+nan,FCC phase,BCC phase,nan
+C-0,3.559,-,116.0+-3
+C-0.25,3.567,-,110.0+-2
+C-0.375,3.560,-,130.8+-0.5
+C-0.50,3.574,2.854,159.0+-2
+C-0.75,3.569,2.861,388.0+-5
+C-0.875,-,2.860,538.0+-12
+C-1.00,-,2.869,484.0+-26
+C-1.25,-,2.860,487.0+-19
+C-1.50,-,2.866,484.0+-5
+C-2.00,-,2.867,509.0+-27
+
+Retrieved Properties: Lattice Parameter, Hardness, Lattice Strain, Lattice Constants
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+C-0,-,FCC phase,Lattice Constants,3.559,A
+C-0,-,-,Hardness,116.0±3,Hv
+C-0.25,-,FCC phase,Lattice Constants,3.567,A
+C-0.25,-,-,Hardness,110.0±2,Hv
+C-0.375,-,FCC phase,Lattice Constants,3.560,A
+C-0.375,-,-,Hardness,130.8±0.5,Hv
+C-0.50,-,FCC phase,Lattice Constants,3.574,A
+C-0.50,-,BCC phase,Lattice Constants,2.854,A
+C-0.50,-,-,Hardness,159.0±2,Hv
+C-0.75,-,FCC phase,Lattice Constants,3.569,A
+C-0.75,-,BCC phase,Lattice Constants,2.861,A
+C-0.75,-,-,Hardness,388.0±5,Hv
+C-0.875,-,BCC phase,Lattice Constants,2.860,A
+C-0.875,-,-,Hardness,538.0±12,Hv
+C-1.00,-,BCC phase,Lattice Constants,2.869,A
+C-1.00,-,-,Hardness,484.0±26,Hv
+C-1.25,-,BCC phase,Lattice Constants,2.860,A
+C-1.25,-,-,Hardness,487.0±19,Hv
+C-1.50,-,BCC phase,Lattice Constants,2.866,A
+C-1.50,-,-,Hardness,484.0±5,Hv
+C-2.00,-,BCC phase,Lattice Constants,2.867,A
+C-2.00,-,-,Hardness,509.0±27,Hv
+
+Table Table 3:
+Input Table:
+Samples,Items,Al (%),Co (%),Cr (%),Fe (%),Ni (%)
+H-0,Designed,0.0,25.0,25.0,25.0,25.0
+H-0,Overall (FCC),0.0,24.47,26.05,25.09,24.4
+nan,nan,nan,nan,nan,nan,nan
+H-0.25,Designed,5.88,23.53,23.53,23.53,23.53
+H-0.25,Overall (FCC),5.89,23.21,24.49,23.82,22.59
+nan,nan,nan,nan,nan,nan,nan
+H-0.375,Designed,8.57,22.86,22.86,22.86,22.86
+H-0.375,Overall,8.03,22.63,23.44,23.22,22.69
+H-0.375,FCC (78.85%),6.2,23.34,24.75,24.19,21.52
+H-0.375,N-BCC (21.15%),15.78,19.88,18.1,19.14,27.1
+nan,nan,nan,nan,nan,nan,nan
+H-0.50,Designed,11.11,22.22,22.22,22.22,22.22
+H-0.50,Overall,12.1,22.63,21.55,21.66,22.06
+H-0.50,FCC (75.51%),7.81,22.9,25.24,24.02,20.03
+H-0.50,N-BCC (24.49%),29.51,16.42,9.44,12.04,32.6
+nan,nan,nan,nan,nan,nan,nan
+H-0.75,Designed,15.79,21.05,21.05,21.05,21.05
+H-0.75,Overall,15.66,21.19,21.54,20.92,20.69
+H-0.75,FCC (57.65%),7.84,22.68,27.77,25.61,16.1
+H-0.75,D-BCC (42.35%),30.21,17.61,10.97,13.12,28.09
+nan,nan,nan,nan,nan,nan,nan
+H-0.875,Designed,17.95,20.51,20.51,20.51,20.51
+H-0.875,Overall,17.33,21.15,20.93,20.18,20.43
+H-0.875,W-FCC (37.12%),7.99,22.98,27.18,26.1,15.74
+H-0.875,BCC (62.88%),27.25,18.69,13.43,14.46,26.18
+nan,nan,nan,nan,nan,nan,nan
+H-1.00,Designed,20.0,20.0,20.0,20.0,20.0
+H-1.00,Overall,20.12,19.58,20.7,20.33,19.27
+H-1.00,W-FCC (18.87%),6.98,23.12,27.78,27.7,14.42
+H-1.00,BCC (81.13%),26.49,19.56,12.76,15.52,25.67
+nan,nan,nan,nan,nan,nan,nan
+H-1.25,Designed,23.81,19.05,19.05,19.05,19.05
+H-1.25,Overall,25.53,19.24,19.06,19.11,19.06
+H-1.25,W-BCC (26.08%),11.74,18.4,33.63,26.37,9.85
+H-1.25,"BCC (matrix, 73.92%)",27.69,19.27,14.32,16.45,22.27
+nan,nan,nan,nan,nan,nan,nan
+H-1.50,Designed,27.27,18.18,18.18,18.18,18.18
+H-1.50,Overall,27.44,18.69,18.26,17.95,17.66
+H-1.50,W-BCC (18.21%),11.32,15.68,38.48,27.5,7.02
+H-1.50,"BCC (matrix, 81.79%)",31.03,19.07,13.34,15.07,21.49
+nan,nan,nan,nan,nan,nan,nan
+H-2.00,Designed,33.33,16.67,16.67,16.67,16.67
+H-2.00,Overall,30.13,17.65,17.96,17.29,16.97
+H-2.00,W-BCC (30.94%),18.19,12.27,36.8,25.21,7.53
+H-2.00,"BCC (matrix, 69.06%)",35.48,19.29,10.63,14.21,20.4
+
+Retrieved Properties: Core Loss, Poisson's Ratio, Compression, Composition, Elasticity, Saturation Rate, Power Factor, Crack-Growth Rates, Volume Fraction, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+H-0,Designed,-,Chemical Composition,Al: 0.0; Co: 25.0; Cr: 25.0; Fe: 25.0; Ni: 25.0,at%
+H-0,Overall (FCC),-,Chemical Composition,Al: 0.0; Co: 24.47; Cr: 26.05; Fe: 25.09; Ni: 24.4,at%
+H-0.25,Designed,-,Chemical Composition,Al: 5.88; Co: 23.53; Cr: 23.53; Fe: 23.53; Ni: 23.53,at%
+H-0.25,Overall (FCC),-,Chemical Composition,Al: 5.89; Co: 23.21; Cr: 24.49; Fe: 23.82; Ni: 22.59,at%
+H-0.375,Designed,-,Chemical Composition,Al: 8.57; Co: 22.86; Cr: 22.86; Fe: 22.86; Ni: 22.86,at%
+H-0.375,Overall,-,Chemical Composition,Al: 8.03; Co: 22.63; Cr: 23.44; Fe: 23.22; Ni: 22.69,at%
+H-0.375,FCC (78.85%),-,Chemical Composition,Al: 6.2; Co: 23.34; Cr: 24.75; Fe: 24.19; Ni: 21.52,at%
+H-0.375,N-BCC (21.15%),-,Chemical Composition,Al: 15.78; Co: 19.88; Cr: 18.1; Fe: 19.14; Ni: 27.1,at%
+H-0.50,Designed,-,Chemical Composition,Al: 11.11; Co: 22.22; Cr: 22.22; Fe: 22.22; Ni: 22.22,at%
+H-0.50,Overall,-,Chemical Composition,Al: 12.1; Co: 22.63; Cr: 21.55; Fe: 21.66; Ni: 22.06,at%
+H-0.50,FCC (75.51%),-,Chemical Composition,Al: 7.81; Co: 22.9; Cr: 25.24; Fe: 24.02; Ni: 20.03,at%
+H-0.50,N-BCC (24.49%),-,Chemical Composition,Al: 29.51; Co: 16.42; Cr: 9.44; Fe: 12.04; Ni: 32.6,at%
+H-0.75,Designed,-,Chemical Composition,Al: 15.79; Co: 21.05; Cr: 21.05; Fe: 21.05; Ni: 21.05,at%
+H-0.75,Overall,-,Chemical Composition,Al: 15.66; Co: 21.19; Cr: 21.54; Fe: 20.92; Ni: 20.69,at%
+H-0.75,FCC (57.65%),-,Chemical Composition,Al: 7.84; Co: 22.68; Cr: 27.77; Fe: 25.61; Ni: 16.1,at%
+H-0.75,D-BCC (42.35%),-,Chemical Composition,Al: 30.21; Co: 17.61; Cr: 10.97; Fe: 13.12; Ni: 28.09,at%
+H-0.875,Designed,-,Chemical Composition,Al: 17.95; Co: 20.51; Cr: 20.51; Fe: 20.51; Ni: 20.51,at%
+H-0.875,Overall,-,Chemical Composition,Al: 17.33; Co: 21.15; Cr: 20.93; Fe: 20.18; Ni: 20.43,at%
+H-0.875,W-FCC (37.12%),-,Chemical Composition,Al: 7.99; Co: 22.98; Cr: 27.18; Fe: 26.1; Ni: 15.74,at%
+H-0.875,BCC (62.88%),-,Chemical Composition,Al: 27.25; Co: 18.69; Cr: 13.43; Fe: 14.46; Ni: 26.18,at%
+H-1.00,Designed,-,Chemical Composition,Al: 20.0; Co: 20.0; Cr: 20.0; Fe: 20.0; Ni: 20.0,at%
+H-1.00,Overall,-,Chemical Composition,Al: 20.12; Co: 19.58; Cr: 20.7; Fe: 20.33; Ni: 19.27,at%
+H-1.00,W-FCC (18.87%),-,Chemical Composition,Al: 6.98; Co: 23.12; Cr: 27.78; Fe: 27.7; Ni: 14.42,at%
+H-1.00,BCC (81.13%),-,Chemical Composition,Al: 26.49; Co: 19.56; Cr: 12.76; Fe: 15.52; Ni: 25.67,at%
+H-1.25,Designed,-,Chemical Composition,Al: 23.81; Co: 19.05; Cr: 19.05; Fe: 19.05; Ni: 19.05,at%
+H-1.25,Overall,-,Chemical Composition,Al: 25.53; Co: 19.24; Cr: 19.06; Fe: 19.11; Ni: 19.06,at%
+H-1.25,W-BCC (26.08%),-,Chemical Composition,Al: 11.74; Co: 18.4; Cr: 33.63; Fe: 26.37; Ni: 9.85,at%
+H-1.25,BCC (matrix, 73.92%),-,Chemical Composition,Al: 27.69; Co: 19.27; Cr: 14.32; Fe: 16.45; Ni: 22.27,at%
+H-1.50,Designed,-,Chemical Composition,Al: 27.27; Co: 18.18; Cr: 18.18; Fe: 18.18; Ni: 18.18,at%
+H-1.50,Overall,-,Chemical Composition,Al: 27.44; Co: 18.69; Cr: 18.26; Fe: 17.95; Ni: 17.66,at%
+H-1.50,W-BCC (18.21%),-,Chemical Composition,Al: 11.32; Co: 15.68; Cr: 38.48; Fe: 27.5; Ni: 7.02,at%
+H-1.50,BCC (matrix, 81.79%),-,Chemical Composition,Al: 31.03; Co: 19.07; Cr: 13.34; Fe: 15.07; Ni: 21.49,at%
+H-2.00,Designed,-,Chemical Composition,Al: 33.33; Co: 16.67; Cr: 16.67; Fe: 16.67; Ni: 16.67,at%
+H-2.00,Overall,-,Chemical Composition,Al: 30.13; Co: 17.65; Cr: 17.96; Fe: 17.29; Ni: 16.97,at%
+H-2.00,W-BCC (30.94%),-,Chemical Composition,Al: 18.19; Co: 12.27; Cr: 36.8; Fe: 25.21; Ni: 7.53,at%
+H-2.00,BCC (matrix, 69.06%),-,Chemical Composition,Al: 35.48; Co: 19.29; Cr: 10.63; Fe: 14.21; Ni: 20.4,at%
+
+Table Table 4:
+Input Table:
+Sample,Lattice constant (A),Lattice constant (A).1,Hardness (Hv)
+nan,FCC phase,BCC phase,nan
+H-0,3.561,-,113.0+-0.4
+H-0.25,3.573,-,113.0+-4
+H-0.375,3.569,nan,196.0+-2
+H-0.50,3.591,2.873,209.0+-12
+H-0.75,3.589,2.873,280.0+-3
+H-0.875,3.577,2.869,361.0+-7
+H-1.00,3.583,2.862,433.0+-22
+H-1.25,-,2.866,499.0+-23
+H-1.50,-,2.871,517.3+-21
+H-2.00,-,2.866,512.4+-18
+
+Retrieved Properties: Lattice Parameter, Hardness, Lattice Strain, Lattice Constants
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+H-0,-,FCC phase,Lattice Constants,3.561,A
+H-0,-,-,Hardness,113.0+-0.4,Hv
+H-0.25,-,FCC phase,Lattice Constants,3.573,A
+H-0.25,-,-,Hardness,113.0+-4,Hv
+H-0.375,-,FCC phase,Lattice Constants,3.569,A
+H-0.375,-,-,Hardness,196.0+-2,Hv
+H-0.50,-,FCC phase,Lattice Constants,3.591,A
+H-0.50,-,BCC phase,Lattice Constants,2.873,A
+H-0.50,-,-,Hardness,209.0+-12,Hv
+H-0.75,-,FCC phase,Lattice Constants,3.589,A
+H-0.75,-,BCC phase,Lattice Constants,2.873,A
+H-0.75,-,-,Hardness,280.0+-3,Hv
+H-0.875,-,FCC phase,Lattice Constants,3.577,A
+H-0.875,-,BCC phase,Lattice Constants,2.869,A
+H-0.875,-,-,Hardness,361.0+-7,Hv
+H-1.00,-,FCC phase,Lattice Constants,3.583,A
+H-1.00,-,BCC phase,Lattice Constants,2.862,A
+H-1.00,-,-,Hardness,433.0+-22,Hv
+H-1.25,-,BCC phase,Lattice Constants,2.866,A
+H-1.25,-,-,Hardness,499.0+-23,Hv
+H-1.50,-,BCC phase,Lattice Constants,2.871,A
+H-1.50,-,-,Hardness,517.3+-21,Hv
+H-2.00,-,BCC phase,Lattice Constants,2.866,A
+H-2.00,-,-,Hardness,512.4+-18,Hv
+
+Table Table 5:
+Input Table:
+Sample,Lattice constant (A),Lattice constant (A).1,Hardness (Hv),"Hardening ratio, HR"
+nan,FCC phase,BCC phase,nan,nan
+D-0,3.554,-,325+-9,1.9
+D-0.25,3.578,-,346+-5,2.1
+D-0.375,3.579,nan,360+-7,0.8
+D-0.50,3.561,2.852,368+-4,0.8
+D-0.75,3.568,2.857,434+-8,0.6
+D-0.875,3.597,2.856,497+-7,0.4
+
+Retrieved Properties: Toughness, Lattice Strain, Work Hardening, Lattice Parameter, Lattice Constants, Hardness, Strain
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+D-0,-,FCC phase,Lattice Constants,3.554,A
+D-0,-,BCC phase,Lattice Constants,-,-
+D-0,-,-,Hardness,325±9,Hv
+D-0.25,-,FCC phase,Lattice Constants,3.578,A
+D-0.25,-,BCC phase,Lattice Constants,-,-
+D-0.25,-,-,Hardness,346±5,Hv
+D-0.375,-,FCC phase,Lattice Constants,3.579,A
+D-0.375,-,BCC phase,Lattice Constants,nan,-
+D-0.375,-,-,Hardness,360±7,Hv
+D-0.50,-,FCC phase,Lattice Constants,3.561,A
+D-0.50,-,BCC phase,Lattice Constants,2.852,A
+D-0.50,-,-,Hardness,368±4,Hv
+D-0.75,-,FCC phase,Lattice Constants,3.568,A
+D-0.75,-,BCC phase,Lattice Constants,2.857,A
+D-0.75,-,-,Hardness,434±8,Hv
+D-0.875,-,FCC phase,Lattice Constants,3.597,A
+D-0.875,-,BCC phase,Lattice Constants,2.856,A
+D-0.875,-,-,Hardness,497±7,Hv
+
+Table Table 6:
+Input Table:
+Samples,Items,Al (%),Co (%),Cr (%),Fe (%),Ni (%)
+D-0,Designed,0.0,25.0,25.0,25.0,25.0
+D-0,Overall (FCC),0.0,25.61,25.17,24.84,24.38
+nan,nan,nan,nan,nan,nan,nan
+D-0.25,Designed,5.88,23.53,23.53,23.53,23.53
+D-0.25,Overall (FCC),5.41,23.55,24.17,23.81,23.06
+nan,nan,nan,nan,nan,nan,nan
+D-0.375,Designed,8.57,22.86,22.86,22.86,22.86
+D-0.375,Overall,7.83,23.03,23.24,22.99,22.91
+D-0.375,FCC (78.85%),7.08,23.67,23.66,22.98,22.61
+D-0.375,N-BCC (21.15%),24.93,16.52,11.42,13.52,33.62
+nan,nan,nan,nan,nan,nan,nan
+D-0.50,Designed,11.11,22.22,22.22,22.22,22.22
+D-0.50,Overall,11.05,21.75,22.86,22.27,22.06
+D-0.50,FCC (75.51%),7.66,23.12,24.95,23.79,20.48
+D-0.50,N-BCC (24.49%),29.64,16.47,8.49,11.78,33.61
+nan,nan,nan,nan,nan,nan,nan
+D-0.75,Designed,15.79,21.05,21.05,21.05,21.05
+D-0.75,Overall,15.45,21.06,21.5,20.99,20.99
+D-0.75,FCC (57.65%),7.81,22.88,27.8,24.52,16.99
+D-0.75,D-BCC (42.35%),29.05,17.6,11.0,12.87,29.48
+nan,nan,nan,nan,nan,nan,nan
+D-0.875,Designed,17.95,20.51,20.51,20.51,20.51
+D-0.875,Overall,16.9,19.77,21.35,20.77,21.22
+D-0.875,W-FCC (37.12%),6.35,29.37,25.93,22.33,16.02
+D-0.875,BCC (62.88%),26.87,12.97,15.01,18.3,26.85
+
+Retrieved Properties: Core Loss, Poisson's Ratio, Compression, Composition, Elasticity, Saturation Rate, Power Factor, Crack-Growth Rates, Volume Fraction, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+D-0,-,Designed,Chemical Composition,Al: 0.0; Co: 25.0; Cr: 25.0; Fe: 25.0; Ni: 25.0,at%
+D-0,-,Overall (FCC),Chemical Composition,Al: 0.0; Co: 25.61; Cr: 25.17; Fe: 24.84; Ni: 24.38,at%
+D-0.25,-,Designed,Chemical Composition,Al: 5.88; Co: 23.53; Cr: 23.53; Fe: 23.53; Ni: 23.53,at%
+D-0.25,-,Overall (FCC),Chemical Composition,Al: 5.41; Co: 23.55; Cr: 24.17; Fe: 23.81; Ni: 23.06,at%
+D-0.375,-,Designed,Chemical Composition,Al: 8.57; Co: 22.86; Cr: 22.86; Fe: 22.86; Ni: 22.86,at%
+D-0.375,-,Overall,Chemical Composition,Al: 7.83; Co: 23.03; Cr: 23.24; Fe: 22.99; Ni: 22.91,at%
+D-0.375,-,FCC (78.85%),Chemical Composition,Al: 7.08; Co: 23.67; Cr: 23.66; Fe: 22.98; Ni: 22.61,at%
+D-0.375,-,N-BCC (21.15%),Chemical Composition,Al: 24.93; Co: 16.52; Cr: 11.42; Fe: 13.52; Ni: 33.62,at%
+D-0.50,-,Designed,Chemical Composition,Al: 11.11; Co: 22.22; Cr: 22.22; Fe: 22.22; Ni: 22.22,at%
+D-0.50,-,Overall,Chemical Composition,Al: 11.05; Co: 21.75; Cr: 22.86; Fe: 22.27; Ni: 22.06,at%
+D-0.50,-,FCC (75.51%),Chemical Composition,Al: 7.66; Co: 23.12; Cr: 24.95; Fe: 23.79; Ni: 20.48,at%
+D-0.50,-,N-BCC (24.49%),Chemical Composition,Al: 29.64; Co: 16.47; Cr: 8.49; Fe: 11.78; Ni: 33.61,at%
+D-0.75,-,Designed,Chemical Composition,Al: 15.79; Co: 21.05; Cr: 21.05; Fe: 21.05; Ni: 21.05,at%
+D-0.75,-,Overall,Chemical Composition,Al: 15.45; Co: 21.06; Cr: 21.5; Fe: 20.99; Ni: 20.99,at%
+D-0.75,-,FCC (57.65%),Chemical Composition,Al: 7.81; Co: 22.88; Cr: 27.8; Fe: 24.52; Ni: 16.99,at%
+D-0.75,-,D-BCC (42.35%),Chemical Composition,Al: 29.05; Co: 17.6; Cr: 11.0; Fe: 12.87; Ni: 29.48,at%
+D-0.875,-,Designed,Chemical Composition,Al: 17.95; Co: 20.51; Cr: 20.51; Fe: 20.51; Ni: 20.51,at%
+D-0.875,-,Overall,Chemical Composition,Al: 16.9; Co: 19.77; Cr: 21.35; Fe: 20.77; Ni: 21.22,at%
+D-0.875,-,W-FCC (37.12%),Chemical Composition,Al: 6.35; Co: 29.37; Cr: 25.93; Fe: 22.33; Ni: 16.02,at%
+D-0.875,-,BCC (62.88%),Chemical Composition,Al: 26.87; Co: 12.97; Cr: 15.01; Fe: 18.3; Ni: 26.85,at%

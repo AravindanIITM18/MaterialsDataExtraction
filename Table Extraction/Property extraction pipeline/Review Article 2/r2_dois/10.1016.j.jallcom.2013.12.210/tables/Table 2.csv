@@ -1,0 +1,15 @@
+"Element, at.%","Element, at.%","Element, at.%",Co,Cr,Fe,Ni,Mn,V
+CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi
+1,Grains,FCC,25.0,24.6,25.1,25.3,-,-
+,,,,,,,,
+CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn
+1,Dendrites,FCC,20.1,22.8,21.7,17.6,17.9,-
+2,Interdendrites,FCC,18.3,21.1,18.1,19.1,23.4,-
+,,,,,,,,
+CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV
+1,Matrix,Tetragonal (D8b),18.4,24.9,19.1,15.2,-,22.3
+2,Particles,FCC,20.7,17.8,21.2,23.1,-,17.2
+,,,,,,,,
+CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV
+1,Matrix,Tetragonal (D8b),16.3,19.1,15.4,16.2,14.0,18.9
+2,Particles,FCC,18.0,14.1,17.3,17.6,19.6,13.4

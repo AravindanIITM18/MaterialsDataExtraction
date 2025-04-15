@@ -1,0 +1,5 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msea.2017.08.019\tables\Table 1.csv,Table 1,Lattice parameters of the constitutive phases of AlNbTiVZrx (x = 0; 0.1; 0.25; 0.5; 1; 1.5) alloys after annealing at 1200degC for 24h.,
+t0010,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msea.2017.08.019\tables\Table 2.csv,Table 2,"Chemical compositions, volume fractions and dimensions of the structural constituents of the AlNbTiVZrx (x = 0; 0.1; 0.25; 0.5; 1; 1.5) alloys after annealing at 1200degC for 24h. Analyzed areas are denoted in Fig. 3.",
+t0015,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msea.2017.08.019\tables\Table 3.csv,Table 3,Density of the AlNbTiVZrx (x = 0; 0.1; 0.25; 0.5; 1; 1.5) alloys.,
+t0020,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msea.2017.08.019\tables\Table 4.csv,Table 4,"The compression yield strength (sYS), peak stress (sp), and fracture strain (e) of the AlNbTiVZrx (x = 0; 0.1; 0.25; 0.5; 1; 1.5) alloys at 22-800degC.",

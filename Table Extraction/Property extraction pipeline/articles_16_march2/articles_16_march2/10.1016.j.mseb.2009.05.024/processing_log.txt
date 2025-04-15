@@ -1,0 +1,178 @@
+
+Table Table 1:
+Input Table:
+H-x,Structure,a (A),Weight fraction (%),Intensity ratio
+H-0,FCC,3.58,-,1
+H-0.25,FCC,3.592,-,0.64
+H-0.375,FCC,3.596,-,0.58
+H-0.5,FCC,3.601,82.41,-
+H-0.5,BCC,2.899,17.59,-
+nan,nan,nan,nan,nan
+H-0.75,FCC,3.605,73.68,-
+H-0.75,BCC,2.876,26.32,-
+nan,nan,nan,nan,nan
+H-0.875,FCC,3.613,43.98,-
+H-0.875,BCC,2.879,56.02,-
+nan,nan,nan,nan,nan
+H-1,FCC,3.611,15.61,-
+H-1,BCC,2.884,84.39,-
+nan,nan,nan,nan,nan
+H-1.25,BCC,2.873,-,1
+H-1.5,BCC,2.885,-,0.70
+H-2,BCC,2.894,-,0.28
+
+Retrieved Properties: Microstructure, Relative Density, Density, Surface Structure, Strength-to-Weight Ratio, Poisson's Ratio, Lattice Parameter, Volume Fraction, Crystal Structure, Lattice Constants
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlH-0CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0CoCrFeNi,-,-,Lattice Parameter,3.58,Å
+AlH-0.25CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.25CoCrFeNi,-,-,Lattice Parameter,3.592,Å
+AlH-0.375CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.375CoCrFeNi,-,-,Lattice Parameter,3.596,Å
+AlH-0.5CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.5CoCrFeNi,-,-,Lattice Parameter,3.601,Å
+AlH-0.5CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-0.5CoCrFeNi,-,-,Lattice Parameter,2.899,Å
+AlH-0.75CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.75CoCrFeNi,-,-,Lattice Parameter,3.605,Å
+AlH-0.75CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-0.75CoCrFeNi,-,-,Lattice Parameter,2.876,Å
+AlH-0.875CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.875CoCrFeNi,-,-,Lattice Parameter,3.613,Å
+AlH-0.875CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-0.875CoCrFeNi,-,-,Lattice Parameter,2.879,Å
+AlH-1CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-1CoCrFeNi,-,-,Lattice Parameter,3.611,Å
+AlH-1CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-1CoCrFeNi,-,-,Lattice Parameter,2.884,Å
+AlH-1.25CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-1.25CoCrFeNi,-,-,Lattice Parameter,2.873,Å
+AlH-1.5CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-1.5CoCrFeNi,-,-,Lattice Parameter,2.885,Å
+AlH-2CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-2CoCrFeNi,-,-,Lattice Parameter,2.894,Å
+
+Table Table 2:
+Input Table:
+H-x,k e (W/mK),k ph (W/mK),k ph/k e
+H-0,6.9-8.8,4.7-5.7,0.68-0.64
+H-0.25,5.5-7.1,5.7-7.0,1.04-0.99
+H-0.375,4.9-6.3,5.6-7.1,1.14-1.13
+H-0.5,4.6-6.0,5.8-7.2,1.26-1.20
+H-0.75,4.5-5.9,6.0-7.0,1.33-1.19
+H-0.875,4.3-5.6,6.4-6.6,1.49-1.18
+H-1,4.5-5.7,6.5-7.1,1.44-1.25
+H-1.25,5.6-7.2,14.6-15.3,2.61-2.12
+H-1.5,5.0-6.6,14.3-14.5,2.66-2.20
+H-2,4.7-6.1,11.0-12.2,2.34-2.00
+
+Retrieved Properties: Dielectric Constant, Heat Capacity, Thermal Resistance, Seebeck Coefficient, Softening Coefficient, HER Activity, Thermal Conductivity, Electronic Specific Heat, Electronic Thermal Conductivity, Thermal Expansion Coefficient
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+H-0,-,-,Electronic Thermal Conductivity,6.9-8.8,W/mK
+H-0,-,-,Thermal Conductivity,4.7-5.7,W/mK
+H-0.25,-,-,Electronic Thermal Conductivity,5.5-7.1,W/mK
+H-0.25,-,-,Thermal Conductivity,5.7-7.0,W/mK
+H-0.375,-,-,Electronic Thermal Conductivity,4.9-6.3,W/mK
+H-0.375,-,-,Thermal Conductivity,5.6-7.1,W/mK
+H-0.5,-,-,Electronic Thermal Conductivity,4.6-6.0,W/mK
+H-0.5,-,-,Thermal Conductivity,5.8-7.2,W/mK
+H-0.75,-,-,Electronic Thermal Conductivity,4.5-5.9,W/mK
+H-0.75,-,-,Thermal Conductivity,6.0-7.0,W/mK
+H-0.875,-,-,Electronic Thermal Conductivity,4.3-5.6,W/mK
+H-0.875,-,-,Thermal Conductivity,6.4-6.6,W/mK
+H-1,-,-,Electronic Thermal Conductivity,4.5-5.7,W/mK
+H-1,-,-,Thermal Conductivity,6.5-7.1,W/mK
+H-1.25,-,-,Electronic Thermal Conductivity,5.6-7.2,W/mK
+H-1.25,-,-,Thermal Conductivity,14.6-15.3,W/mK
+H-1.5,-,-,Electronic Thermal Conductivity,5.0-6.6,W/mK
+H-1.5,-,-,Thermal Conductivity,14.3-14.5,W/mK
+H-2,-,-,Electronic Thermal Conductivity,4.7-6.1,W/mK
+H-2,-,-,Thermal Conductivity,11.0-12.2,W/mK
+
+Table Table 3:
+Input Table:
+Material,n e (cm-3),r (mOcm),Contribution of k
+Metal,1022-1023,1-102,ke kph
+Semi-metal,1017-1021,101-102,ke kph
+Semiconductor,1013-1016,104-1015,ke kph
+Insulator,<1013,>1020,kph
+Al x CoCrFeNi,1019-1021,102,ke kph
+
+Retrieved Properties: Carrier Concentration, Resistivity, Electrical Resistance, Thermal Resistance, Thermal Conductivity, Hydrogen Absorption Capacity, Mass Transport, Electronic Thermal Conductivity, Residual Resistivity Ratio
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al x CoCrFeNi,-,-,Carrier Concentration,1019-1021,cm⁻³
+Al x CoCrFeNi,-,-,Resistivity,102,Ohm-meter
+Al x CoCrFeNi,-,-,Others(Contribution of k),ke kph,-
+
+Table Table 4:
+Input Table:
+Unnamed: 0,CTE (10-6 K-1),CTE (10-6 K-1).1,CTE (10-6 K-1).2,T c (K)
+nan,293-303K,368-378K,423-773K,nan
+Al,23.4,24.8,-,-
+Fe,11.8,12.0,-,1043
+Ni,12.5,13.5,-,627
+H-0,11.25,15.09,16.40,844.5
+H-0.25,9.74,14.73,16.01,864.2
+H-0.375,9.01,14.39,15.75,868.1
+H-0.5,9.23,13.99,14.87,837.0
+H-0.75,9.17,13.41,14.14,787.8
+H-0.875,9.08,12.94,13.92,781.2
+H-1,9.03,12.47,13.54,844.1
+H-1.25,8.97,11.97,13.35,847.5
+H-1.5,8.95,11.88,13.01,856.4
+H-2,8.84,11.71,12.85,869.2
+
+Retrieved Properties: Superconducting Transition Temperature, Debye Temperature, Curie Temperature, Thermal Expansion, Thermal Diffusivity, Thermal Expansion Coefficient
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al,-,Temperature range: 293-303K,Thermal Expansion Coefficient,23.4,10^-6 K^-1
+Al,-,Temperature range: 368-378K,Thermal Expansion Coefficient,24.8,10^-6 K^-1
+Fe,-,Temperature range: 293-303K,Thermal Expansion Coefficient,11.8,10^-6 K^-1
+Fe,-,Temperature range: 368-378K,Thermal Expansion Coefficient,12.0,10^-6 K^-1
+Fe,-,-,Curie Temperature,1043,K
+Ni,-,Temperature range: 293-303K,Thermal Expansion Coefficient,12.5,10^-6 K^-1
+Ni,-,Temperature range: 368-378K,Thermal Expansion Coefficient,13.5,10^-6 K^-1
+Ni,-,-,Curie Temperature,627,K
+H-0,-,Temperature range: 293-303K,Thermal Expansion Coefficient,11.25,10^-6 K^-1
+H-0,-,Temperature range: 368-378K,Thermal Expansion Coefficient,15.09,10^-6 K^-1
+H-0,-,Temperature range: 423-773K,Thermal Expansion Coefficient,16.40,10^-6 K^-1
+H-0,-,-,Curie Temperature,844.5,K
+H-0.25,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.74,10^-6 K^-1
+H-0.25,-,Temperature range: 368-378K,Thermal Expansion Coefficient,14.73,10^-6 K^-1
+H-0.25,-,Temperature range: 423-773K,Thermal Expansion Coefficient,16.01,10^-6 K^-1
+H-0.25,-,-,Curie Temperature,864.2,K
+H-0.375,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.01,10^-6 K^-1
+H-0.375,-,Temperature range: 368-378K,Thermal Expansion Coefficient,14.39,10^-6 K^-1
+H-0.375,-,Temperature range: 423-773K,Thermal Expansion Coefficient,15.75,10^-6 K^-1
+H-0.375,-,-,Curie Temperature,868.1,K
+H-0.5,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.23,10^-6 K^-1
+H-0.5,-,Temperature range: 368-378K,Thermal Expansion Coefficient,13.99,10^-6 K^-1
+H-0.5,-,Temperature range: 423-773K,Thermal Expansion Coefficient,14.87,10^-6 K^-1
+H-0.5,-,-,Curie Temperature,837.0,K
+H-0.75,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.17,10^-6 K^-1
+H-0.75,-,Temperature range: 368-378K,Thermal Expansion Coefficient,13.41,10^-6 K^-1
+H-0.75,-,Temperature range: 423-773K,Thermal Expansion Coefficient,14.14,10^-6 K^-1
+H-0.75,-,-,Curie Temperature,787.8,K
+H-0.875,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.08,10^-6 K^-1
+H-0.875,-,Temperature range: 368-378K,Thermal Expansion Coefficient,12.94,10^-6 K^-1
+H-0.875,-,Temperature range: 423-773K,Thermal Expansion Coefficient,13.92,10^-6 K^-1
+H-0.875,-,-,Curie Temperature,781.2,K
+H-1,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.03,10^-6 K^-1
+H-1,-,Temperature range: 368-378K,Thermal Expansion Coefficient,12.47,10^-6 K^-1
+H-1,-,Temperature range: 423-773K,Thermal Expansion Coefficient,13.54,10^-6 K^-1
+H-1,-,-,Curie Temperature,844.1,K
+H-1.25,-,Temperature range: 293-303K,Thermal Expansion Coefficient,8.97,10^-6 K^-1
+H-1.25,-,Temperature range: 368-378K,Thermal Expansion Coefficient,11.97,10^-6 K^-1
+H-1.25,-,Temperature range: 423-773K,Thermal Expansion Coefficient,13.35,10^-6 K^-1
+H-1.25,-,-,Curie Temperature,847.5,K
+H-1.5,-,Temperature range: 293-303K,Thermal Expansion Coefficient,8.95,10^-6 K^-1
+H-1.5,-,Temperature range: 368-378K,Thermal Expansion Coefficient,11.88,10^-6 K^-1
+H-1.5,-,Temperature range: 423-773K,Thermal Expansion Coefficient,13.01,10^-6 K^-1
+H-1.5,-,-,Curie Temperature,856.4,K
+H-2,-,Temperature range: 293-303K,Thermal Expansion Coefficient,8.84,10^-6 K^-1
+H-2,-,Temperature range: 368-378K,Thermal Expansion Coefficient,11.71,10^-6 K^-1
+H-2,-,Temperature range: 423-773K,Thermal Expansion Coefficient,12.85,10^-6 K^-1
+H-2,-,-,Curie Temperature,869.2,K

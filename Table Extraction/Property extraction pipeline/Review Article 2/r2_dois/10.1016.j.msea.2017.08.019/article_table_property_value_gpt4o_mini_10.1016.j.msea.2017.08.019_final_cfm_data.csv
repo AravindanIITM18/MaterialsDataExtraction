@@ -1,0 +1,59 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlNbTiV,-,-,Density,5590,kg/m3
+AlNbTiVZr0.1,-,-,Density,5530,kg/m3
+AlNbTiVZr0.25,-,-,Density,5570,kg/m3
+AlNbTiVZr0.5,-,-,Density,5640,kg/m3
+AlNbTiVZr,-,-,Density,5790,kg/m3
+AlNbTiVZr1.5,-,-,Density,5870,kg/m3
+AlNbTiV,-,22,Yield Strength(Compression),1000,MPa
+AlNbTiV,-,22,Ultimate Tensile Strength(Compression),1280,MPa
+AlNbTiV,-,22,Ductility,6.0,%
+AlNbTiV,-,600,Yield Strength(Compression),780,MPa
+AlNbTiV,-,600,Ultimate Tensile Strength(Compression),1005,MPa
+AlNbTiV,-,600,Ductility,14.3,%
+AlNbTiV,-,800,Yield Strength(Compression),560,MPa
+AlNbTiV,-,800,Ultimate Tensile Strength(Compression),700,MPa
+AlNbTiV,-,800,Ductility,> 50,%
+AlNbTiVZr0.1,-,22,Yield Strength(Compression),1290,MPa
+AlNbTiVZr0.1,-,22,Ultimate Tensile Strength(Compression),1395,MPa
+AlNbTiVZr0.1,-,22,Ductility,3.7,%
+AlNbTiVZr0.1,-,600,Yield Strength(Compression),975,MPa
+AlNbTiVZr0.1,-,600,Ultimate Tensile Strength(Compression),1085,MPa
+AlNbTiVZr0.1,-,600,Ductility,5.1,%
+AlNbTiVZr0.1,-,800,Yield Strength(Compression),865,MPa
+AlNbTiVZr0.1,-,800,Ultimate Tensile Strength(Compression),920,MPa
+AlNbTiVZr0.1,-,800,Ductility,> 50,%
+AlNbTiVZr0.25,-,22,Yield Strength(Compression),1360,MPa
+AlNbTiVZr0.25,-,22,Ultimate Tensile Strength(Compression),1480,MPa
+AlNbTiVZr0.25,-,22,Ductility,9.3,%
+AlNbTiVZr0.25,-,600,Yield Strength(Compression),1065,MPa
+AlNbTiVZr0.25,-,600,Ultimate Tensile Strength(Compression),1260,MPa
+AlNbTiVZr0.25,-,600,Ductility,6.5,%
+AlNbTiVZr0.25,-,800,Yield Strength(Compression),855,MPa
+AlNbTiVZr0.25,-,800,Ultimate Tensile Strength(Compression),865,MPa
+AlNbTiVZr0.25,-,800,Ductility,> 50,%
+AlNbTiVZr0.5,-,22,Yield Strength(Compression),1485,MPa
+AlNbTiVZr0.5,-,600,Yield Strength(Compression),1135,MPa
+AlNbTiVZr0.5,-,600,Ultimate Tensile Strength(Compression),1425,MPa
+AlNbTiVZr0.5,-,600,Ductility,7.5,%
+AlNbTiVZr0.5,-,800,Yield Strength(Compression),675,MPa
+AlNbTiVZr0.5,-,800,Ultimate Tensile Strength(Compression),740,MPa
+AlNbTiVZr0.5,-,800,Ductility,> 50,%
+AlNbTiVZr,-,22,Yield Strength(Compression),1500,MPa
+AlNbTiVZr,-,22,Ultimate Tensile Strength(Compression),1675,MPa
+AlNbTiVZr,-,22,Ductility,3.0,%
+AlNbTiVZr,-,600,Yield Strength(Compression),1155,MPa
+AlNbTiVZr,-,600,Ultimate Tensile Strength(Compression),1385,MPa
+AlNbTiVZr,-,600,Ductility,1.0,%
+AlNbTiVZr,-,800,Yield Strength(Compression),550,MPa
+AlNbTiVZr,-,800,Ultimate Tensile Strength(Compression),600,MPa
+AlNbTiVZr,-,800,Ductility,> 50,%
+AlNbTiVZr1.5,-,22,Yield Strength(Compression),1535,MPa
+AlNbTiVZr1.5,-,22,Ultimate Tensile Strength(Compression),1550,MPa
+AlNbTiVZr1.5,-,22,Ductility,0.4,%
+AlNbTiVZr1.5,-,600,Yield Strength(Compression),1195,MPa
+AlNbTiVZr1.5,-,600,Ultimate Tensile Strength(Compression),1195,MPa
+AlNbTiVZr1.5,-,600,Ductility,0,%
+AlNbTiVZr1.5,-,800,Yield Strength(Compression),180,MPa
+AlNbTiVZr1.5,-,800,Ultimate Tensile Strength(Compression),395,MPa
+AlNbTiVZr1.5,-,800,Ductility,> 50,%

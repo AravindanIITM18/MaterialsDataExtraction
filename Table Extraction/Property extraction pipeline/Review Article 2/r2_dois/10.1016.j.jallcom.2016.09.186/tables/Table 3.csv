@@ -1,0 +1,8 @@
+Alloy,Structure,Ms (emu/g),Hc (A/m),Tc (degC),Reference
+FeCoNiAl0.2Si0.2,FCC,95-131,315-1508,,"[11,26,27]"
+FeCoNiCrCuAl,BCC + FCC,38-46,3582,25,[28-30]
+FeCoNiCrPd1-2,FCC,33-34,,167-230,[29]
+FeCoNiCrAl,BCC,64,4100,,[12]
+FeCoNiCrAl1.25,BCC,43.05,1416,165,[31]
+FeCoNiCrAl2,BCC,13-18,,157,[29]
+FeCoNiMn0.25Al0.25,FCC,101,268,~800,Current study

@@ -1,0 +1,12 @@
+Heat treatment,Heat treatment,Microstructure,Microstructure,XRD
+Heat treatment,Heat treatment,DC,ID,XRD
+As cast,matrix,dark phase,dark phase,"BCC, B2,"
+As cast,precipitates,cubical bright precipitates,faceted bright precipitates,"BCC, B2,"
+850 degC,matrix,dark phase,dark phase,"BCC, s, B2 and FCC"
+850 degC,precipitates,cubical bright precipitates and rectangular bright faceted particles,grayish non-faceted phase and bright non-faceted phase,"BCC, s, B2 and FCC"
+975 degC,matrix,dark phase,dark phase,"BCC, B2, FCC"
+975 degC,precipitates,bright faceted phase and grayish non-faceted phase,grayish non-faceted phase and bright non-faceted phase,"BCC, B2, FCC"
+1100 degC,matrix,dark phase,dark phase,"BCC, B2 and FCC"
+1100 degC,precipitates,grayish non-faceted phase and dark cubic fine particles,"grayish non-faceted phase, small cubic dark phase and bright non-faceted phase","BCC, B2 and FCC"
+1200 degC,matrix,dark phase,dark phase,"BCC, B2 and residual FCC"
+1200 degC,precipitates,nano-metric bright precipitates,"grayish non-faceted phase, small cubic dark phase and nano-sized bright particles","BCC, B2 and residual FCC"

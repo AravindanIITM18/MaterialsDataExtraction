@@ -1,0 +1,11 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+-,Compressive,-,Ultimate Tensile Strength(Compression),1803.00,MPa
+-,Compressive,-,Yield Strength(Compression),1719.00,MPa
+-,Compressive,-,Ductility,10.12,%
+-,Compressive,-,Ductility,9.08,%
+Mo,-,-,Melting point,2896,K
+Nb,-,-,Melting point,2750,K
+Hf,-,-,Melting point,2506,K
+Zr,-,-,Melting point,2128,K
+Ti,-,-,Melting point,1941,K
+Ta,-,-,Melting point,3268,K

@@ -1,0 +1,16 @@
+Alloy,"s 0.2, MPa","su , MPa","d, %"
+CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi
+As-solidified,140,488,83
+Annealed,130,458,87
+,,,
+CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn
+As-solidified,215,491,71
+Annealed,162,443,68
+,,,
+CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV
+As-solidified,-,311,0
+Annealed,-,330,0
+,,,
+CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV
+As-solidified,-,90,0
+Annealed,-,62,0

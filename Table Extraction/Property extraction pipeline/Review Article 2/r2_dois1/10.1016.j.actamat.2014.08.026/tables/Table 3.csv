@@ -1,0 +1,12 @@
+Alloy,Melting temperature (K),Shear modulus (GPa),Poisson's ratio
+FeNiCoCrMn,1553,80,0.26
+FeNiCoCr,1695,84,0.28
+FeNiCoMn,1533,77,0.22
+NiCoCrMn,1489,78,0.25
+FeNiCo,1724,60,0.35
+NiCoCr,1690,87,0.30
+FeNiMn,1473,73,0.24
+NiCoMn,1462,77,0.23
+FeNi,1703,62,0.34
+NiCo,1735,84,0.29
+Ni,1728,76,0.31

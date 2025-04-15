@@ -1,0 +1,42 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+MoNbTaTiV,-,-,Density,9.27/9.29,g/cm³
+MoNbTaTiV,-,-,Melting point,2341,- 
+MoNbTaTiV,-,-,Hardness,109/443,Hv
+MoNbTaTiV,-,-,Yield Strength(Tension),303/1400,MPa
+MoNbTaTiV,-,-,Shear Modulus,65.6,GPa
+MoNbTaTiV,As-cast,-,Hardness,443,Hv
+MoNbTaTiV,As-cast,-,Yield Strength(Tension),1400,MPa
+MoNbTaV,As-cast,-,Hardness,504,Hv
+MoNbTaV,As-cast,-,Yield Strength(Tension),1525,MPa
+NbTaTiV,As-cast,-,Hardness,298,Hv
+NbTaTiV,As-cast,-,Yield Strength(Tension),965,MPa
+NbTaVW,As-cast,-,Hardness,493,Hv
+NbTaVW,As-cast,-,Yield Strength(Tension),1530,MPa
+NbTaTiVW,As-cast,-,Hardness,447,Hv
+NbTaTiVW,As-cast,-,Yield Strength(Tension),1420,MPa
+MoNbTaW,As-cast,-,Hardness,454,Hv
+MoNbTaW,As-cast,-,Yield Strength(Tension),1058,MPa
+MoNbTaVW,As-cast,-,Hardness,535,Hv
+MoNbTaVW,As-cast,-,Yield Strength(Tension),1246,MPa
+CrMoNbTaVW,As-cast,-,Hardness,705,Hv
+HfMoTaTiZr,As-cast,-,Hardness,542,Hv
+HfMoTaTiZr,As-cast,-,Yield Strength(Tension),1600,MPa
+HfMoNbTaTiZr,As-cast,-,Hardness,505,Hv
+HfMoNbTaTiZr,As-cast,-,Yield Strength(Tension),1512,MPa
+HfNbTaTiVZr,As-cast,-,Hardness,558,Hv
+HfNbTaTiZr,As-cast,-,Hardness,390,Hv
+HfMoNbTiZr,As-cast,-,Yield Strength(Tension),1719,MPa
+HfMoNbTiZr,Annealed,-,Yield Strength(Tension),1575,MPa
+NbTiVZr,Annealed,-,Hardness,335,Hv
+NbTiVZr,Annealed,-,Yield Strength(Tension),1105,MPa
+MoNbTaTiV,-,-,Others(lattice parameter a),3.2130,Å
+MoNbTaTiV,-,-,Others(lattice parameter a),3.224,Å
+MoNbTaTiV,-,-,Others(atomic volume V0),16.58,A³/at
+MoNbTaTiV,-,-,Others(C11),262.03,GPa
+MoNbTaTiV,-,-,Others(C12),141.45,GPa
+MoNbTaTiV,-,-,Others(C44),43.22,GPa
+MoNbTaTiV,-,-,Others(B|Ci j),181.20,GPa
+MoNbTaTiV,-,-,Others(B|e o s),174.47,GPa
+MoNbTaTiV,-,-,Others(G),50.71,GPa
+MoNbTaTiV,-,-,Others(E),139.15,GPa
+MoNbTaTiV,-,-,Others(Poisson's ratio n),0.372,-

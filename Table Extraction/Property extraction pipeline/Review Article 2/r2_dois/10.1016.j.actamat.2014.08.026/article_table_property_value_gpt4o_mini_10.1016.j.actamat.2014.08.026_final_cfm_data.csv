@@ -1,0 +1,78 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeNiCoCrMn,-,-,Others(Peierls stress),423,MPa
+FeNiCoCrMn,-,-,Others(melting temperature),1553,K
+FeNiCoCrMn,-,-,Others(product of a and Tm),1.37,-
+FeNiCoCr,-,-,Others(Peierls stress),443,MPa
+FeNiCoCr,-,-,Others(melting temperature),1695,K
+FeNiCoCr,-,-,Others(product of a and Tm),1.46,-
+FeNiCoMn,-,-,Others(Peierls stress),282,MPa
+FeNiCoMn,-,-,Others(melting temperature),1533,K
+FeNiCoMn,-,-,Others(product of a and Tm),1.11,-
+NiCoCrMn,-,-,Others(Peierls stress),491,MPa
+NiCoCrMn,-,-,Others(melting temperature),1489,K
+NiCoCrMn,-,-,Others(product of a and Tm),1.14,-
+FeNiCo,-,-,Others(Peierls stress),292,MPa
+FeNiCo,-,-,Others(melting temperature),1724,K
+FeNiCo,-,-,Others(product of a and Tm),1.08,-
+NiCoCr,-,-,Others(Peierls stress),489,MPa
+NiCoCr,-,-,Others(melting temperature),1690,K
+NiCoCr,-,-,Others(product of a and Tm),1.18,-
+FeNiMn,-,-,Others(Peierls stress),283,MPa
+FeNiMn,-,-,Others(melting temperature),1473,K
+FeNiMn,-,-,Others(product of a and Tm),1.20,-
+NiCoMn,-,-,Others(Peierls stress),302,MPa
+NiCoMn,-,-,Others(melting temperature),1462,K
+NiCoMn,-,-,Others(product of a and Tm),1.22,-
+FeNi,-,-,Others(Peierls stress),341,MPa
+FeNi,-,-,Others(melting temperature),1703,K
+FeNi,-,-,Others(product of a and Tm),0.93,-
+NiCo,-,-,Others(Peierls stress),130,MPa
+NiCo,-,-,Others(melting temperature),1735,K
+NiCo,-,-,Others(product of a and Tm),0.82,-
+Ni,-,-,Others(Peierls stress),46,MPa
+Ni,-,-,Others(melting temperature),1728,K
+Ni,-,-,Others(product of a and Tm),0.89,-
+FeNiCoCrMn,-,-,Melting point,1553,K
+FeNiCoCr,-,-,Melting point,1695,K
+FeNiCoMn,-,-,Melting point,1533,K
+NiCoCrMn,-,-,Melting point,1489,K
+FeNiCo,-,-,Melting point,1724,K
+NiCoCr,-,-,Melting point,1690,K
+FeNiMn,-,-,Melting point,1473,K
+NiCoMn,-,-,Melting point,1462,K
+FeNi,-,-,Melting point,1703,K
+NiCo,-,-,Melting point,1735,K
+Ni,-,-,Melting point,1728,K
+FeNiCoCrMn,-,-,Shear modulus,80,GPa
+FeNiCoCr,-,-,Shear modulus,84,GPa
+FeNiCoMn,-,-,Shear modulus,77,GPa
+NiCoCrMn,-,-,Shear modulus,78,GPa
+FeNiCo,-,-,Shear modulus,60,GPa
+NiCoCr,-,-,Shear modulus,87,GPa
+FeNiMn,-,-,Shear modulus,73,GPa
+NiCoMn,-,-,Shear modulus,77,GPa
+FeNi,-,-,Shear modulus,62,GPa
+NiCo,-,-,Shear modulus,84,GPa
+Ni,-,-,Shear modulus,76,GPa
+FeNiCoCrMn,-,-,Poisson's ratio,0.26,-
+FeNiCoCr,-,-,Poisson's ratio,0.28,-
+FeNiCoMn,-,-,Poisson's ratio,0.22,-
+NiCoCrMn,-,-,Poisson's ratio,0.25,-
+FeNiCo,-,-,Poisson's ratio,0.35,-
+NiCoCr,-,-,Poisson's ratio,0.30,-
+FeNiMn,-,-,Poisson's ratio,0.24,-
+NiCoMn,-,-,Poisson's ratio,0.23,-
+FeNi,-,-,Poisson's ratio,0.34,-
+NiCo,-,-,Poisson's ratio,0.29,-
+Ni,-,-,Poisson's ratio,0.31,-
+FeNiCoCr,-,293,Shear Modulus,84,GPa
+FeNi,-,77,Shear Modulus,68,GPa
+FeNi,-,203,Shear Modulus,66,GPa
+FeNi,-,293,Shear Modulus,62,GPa
+FeNi,-,473,Shear Modulus,62,GPa
+FeNi,-,673,Shear Modulus,60,GPa
+Ni,-,77,Shear Modulus,84,GPa
+Ni,-,203,Shear Modulus,80,GPa
+Ni,-,293,Shear Modulus,76,GPa
+Ni,-,473,Shear Modulus,73,GPa
+Ni,-,673,Shear Modulus,70,GPa

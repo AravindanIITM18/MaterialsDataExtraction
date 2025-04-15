@@ -1,0 +1,31 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msea.2015.07.052\tables\Table 1.csv,Table 1,Chemical composition (in at%) analysis results of the detailed phases by EDS/TEM.,
+t0010,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msea.2015.07.052\tables\Table 2.csv,Table 2,"The values of parameters, DH
+
+mix
+
+, DS
+
+mix
+, T
+
+m
+, d, O, VEC for the alloys investigated in the present study.",
+t0015,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msea.2015.07.052\tables\Table 3.csv,Table 3,"Enthalpy of mixing (
+
+D
+
+H
+
+i
+j
+
+
+m
+i
+x
+
+
+
+, kJmol-1) in binary equiatomic alloys calculated by Miedema's approach [27,29].",
+t0020,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.msea.2015.07.052\tables\Table 4.csv,Table 4,Mechanical properties of the SPS'ed Co20Ni20Fe20Al20Ti20 alloy and some typical SPS'ed HEAs at room temperature.,{'⁎': 'Indicates that values of e\n\nf\n for these alloys were re-estimated according to their engineering stress-strain curves under compression at room temperature.'}

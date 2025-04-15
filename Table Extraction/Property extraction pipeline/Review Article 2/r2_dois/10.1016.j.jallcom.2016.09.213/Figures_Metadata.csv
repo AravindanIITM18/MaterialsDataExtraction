@@ -1,0 +1,9 @@
+Figure ID,Figure Path,Figure Label,Figure Caption
+fig1,articles_test/10.1016.j.jallcom.2016.09.213/figures/gr1.jpg,Fig. 1,XRD patterns of the (a) Ixand (b) Rxalloys.
+fig2,articles_test/10.1016.j.jallcom.2016.09.213/figures/gr2.jpg,Fig. 2,"OM micrographs of the (a) Ixand (b) Rxalloys: (1)x= 0.2, (2)x= 0.4, (3)x= 0.5, (4)x= 0.6, (5)x= 0.8, and (6)x= 0.9."
+fig3,articles_test/10.1016.j.jallcom.2016.09.213/figures/gr3.jpg,Fig. 3,"SEM images of the (a) Ixand (b) Rxalloys: (1)x= 0.2, (2)x= 0.5, and (3)x= 0.9 (DR: dendrite, ID: inter-dendrite, and SD: spinodal deposition)."
+fig4,articles_test/10.1016.j.jallcom.2016.09.213/figures/gr4.jpg,Fig. 4,"Bright-field TEM images and SAED patterns of the (a) Ixand (b) Rxalloys: (1)x= 0.2, (2)x= 0.5, and (3)x= 0.9 (DR: dendrite, ID: inter-dendrite, and SD: spinodal decomposition)."
+fig5,articles_test/10.1016.j.jallcom.2016.09.213/figures/gr5.jpg,Fig. 5,"Vickers hardness of the Ixand Rxalloys as a function of Al content,x."
+fig6,articles_test/10.1016.j.jallcom.2016.09.213/figures/gr6.jpg,Fig. 6,Typical engineering stress-strain curves of the (a) Ixand (b) Rxalloys under quasi-static compression at room temperature with a strain rate of 1 × 10−3s−1.
+fig7,articles_test/10.1016.j.jallcom.2016.09.213/figures/gr7.jpg,Fig. 7,"Yield stress, compression strength, and fracture strain of the Ixand Rxalloys under quasi-static compression at room temperature as a function of Al content,x."
+fig8,articles_test/10.1016.j.jallcom.2016.09.213/figures/gr8.jpg,Fig. 8,"Fracture surfaces of the (a) Ixand (b) Rxalloys under quasi-static compression at room temperature: (1)x= 0.5, (2)x= 0.6, (3)x= 0.8, and (4)x= 0.9."

@@ -1,0 +1,5 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Fe40Mn28Ni28Cr4,homogenization annealing,-,Microhardness,111+-6,HV
+Fe40Mn28Ni20Cr12,homogenization annealing,-,Microhardness,115+-4,HV
+Fe40Mn28Ni14Cr18,homogenization annealing,-,Microhardness,126+-6,HV
+Fe40Mn28Ni8Cr24,homogenization annealing,-,Microhardness,410+-19,HV

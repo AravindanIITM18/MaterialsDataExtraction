@@ -1,0 +1,78 @@
+
+Table Table 1:
+Input Table:
+Samples,Practical density(g/cm3),Theoretical density(g/cm3),Relative density(%)
+Pure Al,2.66 +- 0.04,2.7,98.52
+Al10,3.20 +- 0.03,3.25,98.46
+Al20,3.72 +- 0.04,3.79,98.15
+Al30,4.26 +- 0.02,4.34,98.16
+
+Retrieved Properties: Density, Mass Density, Relative Density, Dislocation Density
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Pure Al,-,-,Relative Density,98.52,% 
+Al10,-,-,Relative Density,98.46,% 
+Al20,-,-,Relative Density,98.15,% 
+Al30,-,-,Relative Density,98.16,% 
+
+Table Table 2:
+Input Table:
+Regions,Element (at.%),Element (at.%).1,Element (at.%).2,Element (at.%).3,Element (at.%).4,Element (at.%).5
+Regions,Al,Ti,Ni,Cu,Zr,W
+I,19.46,17.36,11.10,15.06,19.34,17.68
+II,72.12,8.00,1.11,2.04,8.19,8.53
+III,90.40,0.59,0.39,0.99,0.56,7.07
+IV,85.15,1.94,9.78,0.98,1.60,0.55
+I*,15.64,17.33,11.75,17.79,19.34,18.16
+II*,93.93,1.24,0.69,1.59,0.92,1.62
+III*,87.65,0.29,10.09,1.54,-N/A,0.44
+
+Retrieved Properties: A2 Phase Amount, Composition, Elemental Composition, Elemental Distribution
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al10,-,Region I,Elemental Composition,Al: 19.46; Ti: 17.36; Ni: 11.10; Cu: 15.06; Zr: 19.34; W: 17.68,at%
+Al10,-,Region II,Elemental Composition,Al: 72.12; Ti: 8.00; Ni: 1.11; Cu: 2.04; Zr: 8.19; W: 8.53,at%
+Al10,-,Region III,Elemental Composition,Al: 90.40; Ti: 0.59; Ni: 0.39; Cu: 0.99; Zr: 0.56; W: 7.07,at%
+Al10,-,Region IV,Elemental Composition,Al: 85.15; Ti: 1.94; Ni: 9.78; Cu: 0.98; Zr: 1.60; W: 0.55,at%
+Al20,-,Region I*,Elemental Composition,Al: 15.64; Ti: 17.33; Ni: 11.75; Cu: 17.79; Zr: 19.34; W: 18.16,at%
+Al20,-,Region II*,Elemental Composition,Al: 93.93; Ti: 1.24; Ni: 0.69; Cu: 1.59; Zr: 0.92; W: 1.62,at%
+Al20,-,Region III*,Elemental Composition,Al: 87.65; Ti: 0.29; Ni: 10.09; Cu: 1.54; Zr: -N/A; W: 0.44,at%
+
+Table Table 3:
+Input Table:
+Samples,d (%),s 0.2 (MPa),s f (MPa)
+Pure Al,15.11,39 +- 8,98 +- 2
+Al10,7.23,258 +- 12,344 +- 2
+Al20,6.57,-N/A,544 +- 2
+Al30,3.09,-N/A,270 +- 2
+
+Retrieved Properties: A2 Phase Size, SRO, Stacking Fault Energy, Surface Area, Diffusion, Elasticity, Figure of Merit, Ductility
+Final Output:
+-
+
+Table Table 4:
+Input Table:
+Samples,E corr (V vs.Ag/AgCl),E pit (V vs.Ag/AgCl),DE (V vs.Ag/AgCl),i corrx10-5 (A/mm2),r corr (mm/yr)
+Pure Al,-0.98 +- 0.02,-N/A,-N/A,1.28,1.394
+Al10,-1.04 +- 0.03,-0.54 +- 0.03,0.50 +- 0.05,0.86,0.827
+Al20,-1.09 +- 0.04,-0.40 +- 0.06,0.69 +- 0.06,1.63,1.288
+Al30,-1.07 +- 0.03,-0.18 +- 0.05,0.89 +- 0.05,2.44,1.616
+
+Retrieved Properties: Pitting Potential, Pitting Resistance, Passivation, Breakdown Potential, Critical Current Density for Passivation, Corrosion Rate, Corrosion Resistance, Passive Film, Corrosion Potential, Corrosion Current Density
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Pure Al,-,-,Corrosion Potential,-0.98 ± 0.02,V
+Pure Al,-,-,Corrosion Current Density,1.28,A/mm²
+Pure Al,-,-,Corrosion Rate,1.394,mm/yr
+Al10,-,-,Corrosion Potential,-1.04 ± 0.03,V
+Al10,-,-,Pitting Potential,-0.54 ± 0.03,V
+Al10,-,-,Corrosion Current Density,0.86,A/mm²
+Al10,-,-,Corrosion Rate,0.827,mm/yr
+Al20,-,-,Corrosion Potential,-1.09 ± 0.04,V
+Al20,-,-,Pitting Potential,-0.40 ± 0.06,V
+Al20,-,-,Corrosion Current Density,1.63,A/mm²
+Al20,-,-,Corrosion Rate,1.288,mm/yr
+Al30,-,-,Corrosion Potential,-1.07 ± 0.03,V
+Al30,-,-,Pitting Potential,-0.18 ± 0.05,V
+Al30,-,-,Corrosion Current Density,2.44,A/mm²
+Al30,-,-,Corrosion Rate,1.616,mm/yr

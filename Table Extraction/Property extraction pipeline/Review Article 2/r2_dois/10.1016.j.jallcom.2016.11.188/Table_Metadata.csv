@@ -1,0 +1,298 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2016.11.188\tables\Table 1.csv,Table 1,"The average bulk composition 
+
+
+(
+
+
+C
+
+a
+v
+e
+r
+
+
+
+)
+
+
+, the average composition of dendrite arms 
+
+
+(
+
+
+C
+
+d
+r
+
+
+
+)
+
+
+, and the average composition of interdendritic regions 
+
+
+(
+
+
+C
+
+i
+d
+r
+
+
+
+)
+
+
+ for MoNbTaTiV alloy are given. It also lists the atomic weight (A), density 
+
+
+(
+r
+)
+
+
+, crystal lattice parameter 
+
+
+(
+a
+)
+
+
+, atomic radius 
+
+
+(
+r
+)
+
+
+, melting temperature 
+
+
+(
+
+
+T
+m
+
+
+)
+
+
+, Vickers hardness 
+
+
+(
+
+H
+V
+
+)
+
+
+, yield strength 
+
+
+(
+
+
+s
+
+0.2
+
+
+
+)
+
+
+, valence electron concentration 
+
+
+(
+
+V
+E
+C
+
+)
+
+
+, Pauling electronegativity (kh), and shear modulus (G) of pure metals as well as the calculated values (Calc) using the ROM and experimental (Exp) data for MoNbTaTiV alloy. Pauling electronegativity difference for the alloy (Dkh) is also given.","{'NA': 'Note: The mean properties of the MoNbTaTiV alloy are calculated with the true bulk composition by ROM, except for Dkh using Eq. (21).'}"
+tbl2,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2016.11.188\tables\Table 2.csv,Table 2,"Comparison between the calculated yield strength 
+
+
+(
+
+
+s
+
+0.2
+
+
+c
+a
+l
+
+
+
+)
+
+
+ and experimental value 
+
+
+(
+
+
+s
+
+0.2
+
+
+e
+x
+p
+
+
+
+)
+
+
+, and between calculated Vickers hardness (HV
+cal) and the experimental value (HV
+exp) for the single-phase refractory HEAs. The grain sizes or secondary dendrite arm spacing (SDAS) are also listed.",{'NA': 'Note: * Means the mean grain size.'}
+tbl3,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2016.11.188\tables\Table 3.csv,Table 3,"Calculated lattice parameters (a), atomic volume 
+
+
+(
+
+
+V
+0
+
+
+)
+
+
+, single-crystal elastic constants 
+
+
+(
+
+
+C
+
+i
+j
+
+
+
+)
+
+
+, bulk modulus 
+
+
+(
+
+
+
+
+B
+|
+
+
+
+
+C
+
+i
+j
+
+
+
+
+
+)
+
+
+ using Eq. (12), bulk modulus 
+
+
+(
+
+
+
+
+B
+|
+
+
+
+e
+o
+s
+
+
+
+)
+
+
+ using Eq. (14), polycrystalline shear modulus 
+
+
+(
+G
+)
+
+
+, polycrystalline Young's modulus 
+
+
+(
+G
+)
+
+
+, and Poisson's ratio 
+
+
+(
+n
+)
+
+
+ for the MoNbTaTiV alloy and its constituent elements. Experimental values for pure elements and estimated averages using the ROM are also provided.","{'a': 'Values are calculated using the ROM based on the calculated properties for the pure elements.', 'b': 'The values in the parenthesis are the calculated values using the ROM based on the experimental properties for the pure elements.', 'c': 'Other calculated elastic constants [GPa] for Ti are: \n\n\nC\n\n13\n\n\n\n = 76.60 (69.00 [67]); \n\n\nC\n\n33\n\n\n\n = 191.44 (180.70 [67]). The values in parenthesis are experimental results obtained at room temperature and 1 atm.'}"
+tbl4,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.jallcom.2016.11.188\tables\Table 4.csv,Table 4,"The atomic radius difference (d), enthalpy of mixing 
+
+
+(
+
+D
+
+H
+
+m
+i
+x
+
+
+
+)
+
+
+, entropy of mixing (DS
+
+mix
+), O parameter, excessive entropy of mixing (S
+
+E
+), and ph-parameter of the as-cast MoNbTaTiV alloy.",

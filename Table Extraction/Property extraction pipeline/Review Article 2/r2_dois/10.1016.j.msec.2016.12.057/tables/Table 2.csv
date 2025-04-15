@@ -1,0 +1,12 @@
+Element,Element,Ti,Zr,Nb,Ta,Mo,(HEA)mix,HEA
+Crystal structure,High temperature,A3,A3,A2,A2,A2,-,A2
+Crystal structure,Low temperature,A2,A2,,,,,
+"Atomic radius, r (nm)","Atomic radius, r (nm)",0.147,0.160,0.147,0.147,0.140,-,-
+"Lattice parameter, a (nm)","Lattice parameter, a (nm)",0.3276,0.3582,0.3301,0.3303,0.3147,-,-
+"Young's modulus, E (GPa)","Young's modulus, E (GPa)",116,88,105,186,329,-,-
+"Shear modulus, G (GPa)","Shear modulus, G (GPa)",44,33,38,69,126,-,-
+"Poisson's ratio, v","Poisson's ratio, v",0.361,0.38,0.397,0.342,0.293,-,-
+"Valence electron concentration, VEC","Valence electron concentration, VEC",4,4,5,5,6,4.8,-
+"Vickers microhardness, H v (GPA)","Vickers microhardness, H v (GPA)",0.97,0.903,1.32,0.873,1.53,1.12,4.9
+Yield strength s y (MPa),Yield strength s y (MPa),195,280,240,170,420,261,1390
+"Melting temperature, Tm (K)","Melting temperature, Tm (K)",1941,2128,2750,3290,2893,2600,-

@@ -1,0 +1,6 @@
+HEAs,After MA,After SPS at 900degC
+AlCoCrCuFe,BCC (B) and Cu rich FCC (FCu),"Ordered BCC (B2), Cu rich FCC (FCu), sigma phase (s)"
+NiCoCrCuFe,FCC (F) and BCC (Bminor),"Two FCC (F1 and F2), sigma phase (s)"
+NiCoCrFe,FCC (F) and BCC (Bminor),FCC (F) and sigma phase (s)
+NiCoCuFe,FCC (F),Two FCC (F1 and F2)
+NiCoFe,FCC (F),FCC (F)

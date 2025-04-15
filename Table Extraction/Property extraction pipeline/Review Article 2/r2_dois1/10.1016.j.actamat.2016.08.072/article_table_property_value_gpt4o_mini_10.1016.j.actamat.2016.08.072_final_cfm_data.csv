@@ -1,0 +1,19 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit, Testing condition, Property
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0,,,159 ± 11,MPa,-,Yield Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.07,,,171 ± 3,MPa,-,Yield Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.16,,,181 ± 4,MPa,-,Yield Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.30,,,208 ± 6,MPa,-,Yield Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.55,,,274 ± 12,MPa,-,Yield Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C1.10,,,355 ± 7,MPa,-,Yield Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0,,,535 ± 21,MPa,-,Ultimate Tensile Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.07,,,674 ± 26,MPa,-,Ultimate Tensile Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.16,,,713 ± 7,MPa,-,Ultimate Tensile Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.30,,,762 ± 27,MPa,-,Ultimate Tensile Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.55,,,960 ± 66,MPa,-,Ultimate Tensile Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C1.10,,,1174 ± 19,MPa,-,Ultimate Tensile Strength(Tension)
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0,,,40.8 ± 2.5,%EL,-,Ductility
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.07,,,51.6 ± 3.2,%EL,-,Ductility
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.16,,,52.2 ± 2.0,%EL,-,Ductility
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.30,,,48.2 ± 0.9,%EL,-,Ductility
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C0.55,,,52.3 ± 4.7,%EL,-,Ductility
+Fe40.4Ni11.3Mn34.8Al7.5Cr6,C1.10,,,49.5 ± 0.6,%EL,-,Ductility

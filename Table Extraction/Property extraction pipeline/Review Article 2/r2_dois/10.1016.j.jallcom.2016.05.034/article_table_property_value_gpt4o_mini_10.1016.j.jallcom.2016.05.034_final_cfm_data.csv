@@ -1,0 +1,16 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlCoCrFeNi,As cast,-,Microhardness,4.6 ± 0.2,GPa
+AlCoCrFeNi,850 degC,-,Microhardness,4.5 ± 0.2,GPa
+AlCoCrFeNi,975 degC,-,Microhardness,4.3 ± 0.2,GPa
+AlCoCrFeNi,1100 degC,-,Microhardness,4.4 ± 0.2,GPa
+AlCoCrFeNi,1200 degC,-,Microhardness,5.4 ± 0.2,GPa
+AlCoCrFeNi,As cast,-,Yield Strength(Compression),1380,MPa
+AlCoCrFeNi,As cast,-,Ultimate Tensile Strength(Compression),2065,MPa
+AlCoCrFeNi,850 degC,-,Yield Strength(Compression),1430,MPa
+AlCoCrFeNi,850 degC,-,Ultimate Tensile Strength(Compression),1465,MPa
+AlCoCrFeNi,975 degC,-,Yield Strength(Compression),1690,MPa
+AlCoCrFeNi,975 degC,-,Ultimate Tensile Strength(Compression),2020,MPa
+AlCoCrFeNi,1100 degC,-,Yield Strength(Compression),1220,MPa
+AlCoCrFeNi,1100 degC,-,Ultimate Tensile Strength(Compression),2050,MPa
+AlCoCrFeNi,1200 degC,-,Yield Strength(Compression),1450,MPa
+AlCoCrFeNi,1200 degC,-,Ultimate Tensile Strength(Compression),2500,MPa

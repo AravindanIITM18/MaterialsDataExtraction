@@ -1,0 +1,5 @@
+Alloy,DH mix (kJmol-1),DS mix (Jmol-1 K-1),T m (K),O,dr  (%),dkh  (%),dV  (%),Phases
+AlMo0.5NbTa0.5TiZr,-17.0,14.5,1982,1.7,4.5,13.8,20.9,bcc1+bcc2
+Al0.4Hf0.6NbTaTiZr,-6.5,14.5,2397,5.4,4.3,7.8,14.2,bcc
+CrMo0.5NbTa0.5TiZr,-5.2,14.5,2418,6.8,7.2,13.8,17.0,bcc1+bcc2+Laves
+HfNbTaTiZr,2.7,13.4,2523,12.7,4.3,8.1,11.1,bcc

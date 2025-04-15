@@ -1,0 +1,17 @@
+Alloys,Phase,State,HV [Hv],HV [Hv],s  0.2     [MPa],s  0.2     [MPa],SDAS [mm],Size [mm],Ref.
+Alloys,Phase,State,Exp.,Cal.,Exp.,Cal.,SDAS [mm],Size [mm],Ref.
+MoNbTaTiV,BCC,As-cast,443,449,1400,1468,10-20,ph3 x 6,Present
+MoNbTaV,BCC,As-cast,504,472,1525,1543,15-25,ph3 x 6,Ref. [17]
+NbTaTiV,BCC,As-cast,298,282,965,921,10-20,ph3 x 6,Ref. [16]
+NbTaVW,BCC,As-cast,493,532,1530,1737,10-20,ph3 x 6,Ref. [16]
+NbTaTiVW,BCC,As-cast,447,513,1420,1678,10-20,ph3 x 6,Ref. [16]
+MoNbTaW,BCC,As-cast,454,593,1058,1938,200*,ph3.6 x 5.4,"Refs. [4,13]"
+MoNbTaVW,BCC,As-cast,535,655,1246,2142,80*,ph3.6 x 5.4,"Refs. [4,13]"
+CrMoNbTaVW,BCC,As-cast,705,676,-,2208,10-20,-,Ref. [28]
+HfMoTaTiZr,BCC,As-cast,542,574,1600,1877,20-30,ph3 x 6,Ref. [50]
+HfMoNbTaTiZr,BCC,As-cast,505,506,1512,1656,20-30,ph3 x 6,Ref. [50]
+HfNbTaTiVZr,BCC,As-cast,558,485,-,-,10-20,-,Ref. [29]
+HfNbTaTiZr,BCC,As-cast,390,331,929,1080,100-200*,ph3.8 x 5.7,Ref. [19]
+HfMoNbTiZr,BCC,As-cast,-,552,1719,1804,10-20,ph4 x 6,Ref. [51]
+HfMoNbTiZr,BCC,Annealed,-,552,1575,1804,100-200*,ph4 x 6,Ref. [51]
+NbTiVZr,BCC,Annealed,335,390,1105,1276,~ 600*,4.7 x 4.7 x 4.7,Ref. [49]

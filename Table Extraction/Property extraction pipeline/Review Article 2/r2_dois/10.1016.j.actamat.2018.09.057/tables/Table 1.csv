@@ -1,0 +1,9 @@
+"Solute effect, k  i"
+"For fcc,"
+k   C o   f c c   = 2.03 - 2.748    10   - 3   T - 8.425    10   - 7     T   2   + 0.024372   C   C o   f c c
+k   N i   f c c   = 1.54 + 2.267    10   - 3   T - 11.26    10   - 7     T   2   + 0.062642   C   N i   f c c
+k   C r   f c c   = - 7.59 + 3.422    10   - 3   T - 5.388    10   - 7     T   2   - 0.014271   C   C r   f c c
+"For bcc,"
+k   C o   b c c   = - 0.12 - 0.210    10   - 3   T - 1.097    10   - 7     T   2   + 0.073248   C   C o   b c c
+k   N i   b c c   = - 0.22 - 0.470    10   - 3   T - 1.855    10   - 7     T   2   + 0.104608   C   N i   b c c
+k   C r   b c c   = - 8.58 + 1.229    10   - 3   T + 0.852    10   - 7     T   2   + 0.018367   C   C r   b c c

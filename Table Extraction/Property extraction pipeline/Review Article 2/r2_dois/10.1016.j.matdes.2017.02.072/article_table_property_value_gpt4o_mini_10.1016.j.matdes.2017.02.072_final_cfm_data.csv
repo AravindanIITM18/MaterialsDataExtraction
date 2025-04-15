@@ -1,0 +1,13 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.3CoCrFeNi,CRSA (1150degC/60min),-,Yield Strength(Tension),159±22,MPa
+Al0.3CoCrFeNi,CRSA (1150degC/60min),-,Ultimate Tensile Strength(Tension),410±42,MPa
+Al0.3CoCrFeNi,CRSA (1150degC/5min),-,Yield Strength(Tension),220±20,MPa
+Al0.3CoCrFeNi,CRSA (1150degC/5min),-,Ultimate Tensile Strength(Tension),550±35,MPa
+Al0.3CoCrFeNi,CRSA(1150degC/60min)+700degC/50h,-,Yield Strength(Tension),215±16,MPa
+Al0.3CoCrFeNi,CRSA(1150degC/60min)+700degC/50h,-,Ultimate Tensile Strength(Tension),520±21,MPa
+Al0.3CoCrFeNi,CRSA(1150degC/60min)+550degC/150h,-,Yield Strength(Tension),285±14,MPa
+Al0.3CoCrFeNi,CRSA(1150degC/60min)+550degC/150h,-,Ultimate Tensile Strength(Tension),540±43,MPa
+Al0.3CoCrFeNi,CRSA (1150degC/2min),-,Yield Strength(Tension),263±32,MPa
+Al0.3CoCrFeNi,CRSA (1150degC/2min),-,Ultimate Tensile Strength(Tension),589±51,MPa
+Al0.3CoCrFeNi,CRSA(1150degC/2min)+620degC/50h,-,Yield Strength(Tension),490±22,MPa
+Al0.3CoCrFeNi,CRSA(1150degC/2min)+620degC/50h,-,Ultimate Tensile Strength(Tension),840±24,MPa

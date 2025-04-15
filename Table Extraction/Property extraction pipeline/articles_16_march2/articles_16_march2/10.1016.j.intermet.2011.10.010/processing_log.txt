@@ -1,0 +1,129 @@
+
+Table Table 1:
+Input Table:
+Alloy,Zone,Co,Cr,Fe,Ni,Ti
+Alloy,Nominal,20.0,20.0,20.0,20.0,20.0
+As-cast CoCrFeNiTi,Dendrite,19.4,27.48,23.69,14.44,14.99
+As-cast CoCrFeNiTi,Interdendrite,21.67,12.41,17.76,23.36,24.78
+As-annealed CoCrFeNiTi,Dendrite,22.58,24.56,24.39,20.85,7.62
+As-annealed CoCrFeNiTi,Interdendrite,22.44,20.75,19.41,21.1,16.3
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNiTi,As-cast,Dendrite,Chemical Composition,Co: 19.4; Cr: 27.48; Fe: 23.69; Ni: 14.44; Ti: 14.99,wt%
+CoCrFeNiTi,As-cast,Interdendrite,Chemical Composition,Co: 21.67; Cr: 12.41; Fe: 17.76; Ni: 23.36; Ti: 24.78,wt%
+CoCrFeNiTi,As-annealed,Dendrite,Chemical Composition,Co: 22.58; Cr: 24.56; Fe: 24.39; Ni: 20.85; Ti: 7.62,wt%
+CoCrFeNiTi,As-annealed,Interdendrite,Chemical Composition,Co: 22.44; Cr: 20.75; Fe: 19.41; Ni: 21.1; Ti: 16.3,wt%
+
+Table Table 2:
+Input Table:
+Alloy,Zone,Co,Cr,Fe,Ni,Ti,Al
+Al0.5,Nominal,18.2,18.2,18.2,18.2,18.2,9.0
+Al0.5,E(A),13.62,36.18,26.93,10.45,8.64,3.04
+Al0.5,Dendrite,24.66,5.13,9.82,26.62,20.36,12.62
+Al0.5,Interdendrite,15.55,27.58,31.63,10.78,12.75,1.97
+Al1.0,Nominal,16.6,16.6,16.7,16.7,16.7,16.7
+Al1.0,E(A),14.71,33.52,27.39,12.53,8.54,6.36
+Al1.0,Dendrite,21.91,13.08,14.44,22.47,17.51,20.31
+Al1.0,Interdendrite,16.41,24.92,29.33,14.11,13.25,5.24
+Al1.5,Nominal,15.4,15.4,15.4,15.4,15.4,23.0
+Al1.5,Dendrite,22.87,9.49,14.44,22.51,17.4,24.55
+Al1.5,Interdendrite,15.9,23.27,22.18,15.12,14.2,13.89
+Al2.0,Nominal,14.3,14.3,14.3,14.3,14.3,28.5
+Al2.0,Dendrite,17.64,9.63,11.84,18.81,17.29,30.63
+Al2.0,Interdendrite,8.75,42.89,28.87,4.79,5.13,11.21
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNiTiAl0.5,-,Nominal,Chemical Composition,Co: 18.2; Cr: 18.2; Fe: 18.2; Ni: 18.2; Ti: 18.2; Al: 9.0,at%
+CoCrFeNiTiAl0.5,-,E(A),Chemical Composition,Co: 13.62; Cr: 36.18; Fe: 26.93; Ni: 10.45; Ti: 8.64; Al: 3.04,at%
+CoCrFeNiTiAl0.5,-,Dendrite,Chemical Composition,Co: 24.66; Cr: 5.13; Fe: 9.82; Ni: 26.62; Ti: 20.36; Al: 12.62,at%
+CoCrFeNiTiAl0.5,-,Interdendrite,Chemical Composition,Co: 15.55; Cr: 27.58; Fe: 31.63; Ni: 10.78; Ti: 12.75; Al: 1.97,at%
+CoCrFeNiTiAl1.0,-,Nominal,Chemical Composition,Co: 16.6; Cr: 16.6; Fe: 16.7; Ni: 16.7; Ti: 16.7; Al: 16.7,at%
+CoCrFeNiTiAl1.0,-,E(A),Chemical Composition,Co: 14.71; Cr: 33.52; Fe: 27.39; Ni: 12.53; Ti: 8.54; Al: 6.36,at%
+CoCrFeNiTiAl1.0,-,Dendrite,Chemical Composition,Co: 21.91; Cr: 13.08; Fe: 14.44; Ni: 22.47; Ti: 17.51; Al: 20.31,at%
+CoCrFeNiTiAl1.0,-,Interdendrite,Chemical Composition,Co: 16.41; Cr: 24.92; Fe: 29.33; Ni: 14.11; Ti: 13.25; Al: 5.24,at%
+CoCrFeNiTiAl1.5,-,Nominal,Chemical Composition,Co: 15.4; Cr: 15.4; Fe: 15.4; Ni: 15.4; Ti: 15.4; Al: 23.0,at%
+CoCrFeNiTiAl1.5,-,Dendrite,Chemical Composition,Co: 22.87; Cr: 9.49; Fe: 14.44; Ni: 22.51; Ti: 17.4; Al: 24.55,at%
+CoCrFeNiTiAl1.5,-,Interdendrite,Chemical Composition,Co: 15.9; Cr: 23.27; Fe: 22.18; Ni: 15.12; Ti: 14.2; Al: 13.89,at%
+CoCrFeNiTiAl2.0,-,Nominal,Chemical Composition,Co: 14.3; Cr: 14.3; Fe: 14.3; Ni: 14.3; Ti: 14.3; Al: 28.5,at%
+CoCrFeNiTiAl2.0,-,Dendrite,Chemical Composition,Co: 17.64; Cr: 9.63; Fe: 11.84; Ni: 18.81; Ti: 17.29; Al: 30.63,at%
+CoCrFeNiTiAl2.0,-,Interdendrite,Chemical Composition,Co: 8.75; Cr: 42.89; Fe: 28.87; Ni: 4.79; Ti: 5.13; Al: 11.21,at%
+
+Table Table 3:
+Input Table:
+Alloy,Zone,Co,Cr,Fe,Ni,Ti,Al
+Al0.5,Nominal,18.2,18.2,18.2,18.2,18.2,9.0
+Al0.5,Dendrite,20.55,5.16,9.83,26.8,20.35,12.77
+Al0.5,Interdendrite,13.28,36.3,33.86,7.1,7.99,0.67
+Al1.0,Nominal,16.6,16.6,16.7,16.7,16.7,16.7
+Al1.0,Dendrite,24.25,5.66,10.13,26.35,20.62,18.46
+Al1.0,Interdendrite,15.55,29.74,33.05,10.02,10.27,6.05
+Al1.5,Nominal,15.4,15.4,15.4,15.4,15.4,23.0
+Al1.5,Dendrite,26.06,6.31,10.99,23.84,18.11,25.36
+Al1.5,Interdendrite,14.98,26.31,23.14,13.97,13.01,9.73
+Al2.0,Nominal,14.3,14.3,14.3,14.3,14.3,28.5
+Al2.0,Dendrite,18.96,7.99,12.45,20.67,12.26,27.67
+Al2.0,Interdendrite,9.35,41.31,28.15,5.57,5.28,10.34
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNiTiAl0.5,-,Nominal,Chemical Composition,Co: 18.2; Cr: 18.2; Fe: 18.2; Ni: 18.2; Ti: 18.2; Al: 9.0,at%
+CoCrFeNiTiAl0.5,-,Dendrite,Chemical Composition,Co: 20.55; Cr: 5.16; Fe: 9.83; Ni: 26.8; Ti: 20.35; Al: 12.77,at%
+CoCrFeNiTiAl0.5,-,Interdendrite,Chemical Composition,Co: 13.28; Cr: 36.3; Fe: 33.86; Ni: 7.1; Ti: 7.99; Al: 0.67,at%
+CoCrFeNiTiAl1.0,-,Nominal,Chemical Composition,Co: 16.6; Cr: 16.6; Fe: 16.7; Ni: 16.7; Ti: 16.7; Al: 16.7,at%
+CoCrFeNiTiAl1.0,-,Dendrite,Chemical Composition,Co: 24.25; Cr: 5.66; Fe: 10.13; Ni: 26.35; Ti: 20.62; Al: 18.46,at%
+CoCrFeNiTiAl1.0,-,Interdendrite,Chemical Composition,Co: 15.55; Cr: 29.74; Fe: 33.05; Ni: 10.02; Ti: 10.27; Al: 6.05,at%
+CoCrFeNiTiAl1.5,-,Nominal,Chemical Composition,Co: 15.4; Cr: 15.4; Fe: 15.4; Ni: 15.4; Ti: 15.4; Al: 23.0,at%
+CoCrFeNiTiAl1.5,-,Dendrite,Chemical Composition,Co: 26.06; Cr: 6.31; Fe: 10.99; Ni: 23.84; Ti: 18.11; Al: 25.36,at%
+CoCrFeNiTiAl1.5,-,Interdendrite,Chemical Composition,Co: 14.98; Cr: 26.31; Fe: 23.14; Ni: 13.97; Ti: 13.01; Al: 9.73,at%
+CoCrFeNiTiAl2.0,-,Nominal,Chemical Composition,Co: 14.3; Cr: 14.3; Fe: 14.3; Ni: 14.3; Ti: 14.3; Al: 28.5,at%
+CoCrFeNiTiAl2.0,-,Dendrite,Chemical Composition,Co: 18.96; Cr: 7.99; Fe: 12.45; Ni: 20.67; Ti: 12.26; Al: 27.67,at%
+CoCrFeNiTiAl2.0,-,Interdendrite,Chemical Composition,Co: 9.35; Cr: 41.31; Fe: 28.15; Ni: 5.57; Ti: 5.28; Al: 10.34,at%
+
+Table Table 4:
+Input Table:
+Alloy system,Hmix (KJ/mol),d,Smix (J/K*mol),Phase composition
+CoCrFeNiCu,3.2,1.09,13.38,Ss
+CoCrFeNiAl,-12.32,5.25,13.38,Ss + IC
+CoCrFeNiMn,-4.8,0.924,13.38,Ss
+CoCrFeNiTi,-16.16,6.42,13.38,Ss + IC
+CrFeNiCuAl,-4.64,5.98,13.38,Ss + IC
+CoCrFeNiV,-8.8,2.77,13.38,Ss
+CoCrFeNiCuAl,-4.78,4.82,14.9,Ss + IC
+CoCrFeNiTiAl,-20.44,6.57,14.9,Ss + IC
+CoCrFeNiMnAl,-11.89,4.92,14.9,Ss + IC
+CoCrFeNiCuAlTi,-13.8,6.23,16.18,Ss + IC
+CoCrFeNiCuAlMn,-5.5,4.32,16.18,Ss + IC
+CoCrFeNiCuAlMnTiV,-12.59,5.75,18.27,Ss + IC
+
+Retrieved Properties: Mixing Entropy, Mixing Enthalpy, H Pick-up, Composition, Diffusion, Elasticity, Ductility
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNiCu,-,-,Mixing Enthalpy,3.2,KJ/mol
+CoCrFeNiCu,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiAl,-,-,Mixing Enthalpy,-12.32,KJ/mol
+CoCrFeNiAl,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiMn,-,-,Mixing Enthalpy,-4.8,KJ/mol
+CoCrFeNiMn,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiTi,-,-,Mixing Enthalpy,-16.16,KJ/mol
+CoCrFeNiTi,-,-,Mixing Entropy,13.38,J/K*mol
+CrFeNiCuAl,-,-,Mixing Enthalpy,-4.64,KJ/mol
+CrFeNiCuAl,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiV,-,-,Mixing Enthalpy,-8.8,KJ/mol
+CoCrFeNiV,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiCuAl,-,-,Mixing Enthalpy,-4.78,KJ/mol
+CoCrFeNiCuAl,-,-,Mixing Entropy,14.9,J/K*mol
+CoCrFeNiTiAl,-,-,Mixing Enthalpy,-20.44,KJ/mol
+CoCrFeNiTiAl,-,-,Mixing Entropy,14.9,J/K*mol
+CoCrFeNiMnAl,-,-,Mixing Enthalpy,-11.89,KJ/mol
+CoCrFeNiMnAl,-,-,Mixing Entropy,14.9,J/K*mol
+CoCrFeNiCuAlTi,-,-,Mixing Enthalpy,-13.8,KJ/mol
+CoCrFeNiCuAlTi,-,-,Mixing Entropy,16.18,J/K*mol
+CoCrFeNiCuAlMn,-,-,Mixing Enthalpy,-5.5,KJ/mol
+CoCrFeNiCuAlMn,-,-,Mixing Entropy,16.18,J/K*mol
+CoCrFeNiCuAlMnTiV,-,-,Mixing Enthalpy,-12.59,KJ/mol
+CoCrFeNiCuAlMnTiV,-,-,Mixing Entropy,18.27,J/K*mol

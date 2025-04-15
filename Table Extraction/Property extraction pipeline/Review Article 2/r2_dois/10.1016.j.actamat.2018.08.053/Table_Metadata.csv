@@ -1,0 +1,62 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.08.053\tables\Table 1.csv,Table 1,"SEM-EDS and APT compositions, and elemental distribution analyses of as-cast and homogenization-treated refractory NbTaTiV HEAs. Chemical composition (in atomic percent, at. %) of constitutive regions in as-cast and homogenized alloys, determined using the energy-dispersive spectroscopy (EDS) and atom-probe tomography (APT), respectively. The binomial distribution of the analyzed data in comparison to the binomial distribution of the theoretical data is provided by the parameters of 
+
+
+
+kh
+
+
+2
+
+
+
+ and m for each element.",
+tbl2,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.08.053\tables\Table 2.csv,Table 2,"The theoretical parameters (A
+
+3
+
+) of the six binary systems. A calculated volume before and after alloying for six binary systems, variation of volume, DV, and average of the volume difference, DVij, in the supercell.",
+tbl3,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.08.053\tables\Table 3.csv,Table 3,"Theoretical calculations and experimental results of lattice distortions. Effective lattice constant 
+
+
+(
+
+
+
+d
+
+
+i
+
+
+e
+f
+f
+
+
+
+)
+
+
+ of each element, lattice constant (
+
+
+d
+-
+
+
+), and lattice-distortion parameter (
+
+
+
+
+m
+-
+
+
+
+D
+
+
+
+) of theoretically-calculated results in comparison to the experimental data. Note that the experimental results are calculated, based on the chemical composition, which is obtained from the APT measurements and lattice constants that are obtained through neutron diffraction.",

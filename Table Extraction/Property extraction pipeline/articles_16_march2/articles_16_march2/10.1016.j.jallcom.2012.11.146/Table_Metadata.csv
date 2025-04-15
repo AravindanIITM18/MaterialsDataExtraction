@@ -1,0 +1,20 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2012.11.146/tables/Table 1.csv,Table 1,The crystalline size and lattice strain of the BCC and FCC phases with different milling time.,
+t0010,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2012.11.146/tables/Table 2.csv,Table 2,Chemical composition (in at.%) analysis results of phases by EDS/TEM.,
+t0015,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2012.11.146/tables/Table 3.csv,Table 3,Mechanical properties of HEAs at ambient temperature.,
+t0020,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2012.11.146/tables/Table 4.csv,Table 4,"The chemical mixing enthalpy (
+
+D
+
+
+H
+
+
+ij
+
+
+mix
+
+
+
+, kJ/mol) of binary equiatomic alloys calculated by Miedema's approach [21,22].",

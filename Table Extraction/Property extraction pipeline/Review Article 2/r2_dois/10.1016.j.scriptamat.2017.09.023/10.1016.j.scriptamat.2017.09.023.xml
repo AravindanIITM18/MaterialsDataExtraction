@@ -1,0 +1,2196 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1359646217305353</prism:url><dc:identifier>doi:10.1016/j.scriptamat.2017.09.023</dc:identifier><eid>1-s2.0-S1359646217305353</eid><prism:doi>10.1016/j.scriptamat.2017.09.023</prism:doi><pii>S1359-6462(17)30535-3</pii><dc:title>Fcc nanostructured TiFeCoNi alloy with multi-scale grains and enhanced plasticity </dc:title><prism:publicationName>Scripta Materialia</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13596462</prism:issn><prism:volume>143</prism:volume><prism:startingPage>108</prism:startingPage><prism:endingPage>112</prism:endingPage><prism:pageRange>108-112</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2018-01-15</prism:coverDate><prism:coverDisplayDate>15 January 2018</prism:coverDisplayDate><prism:copyright>© 2017 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Acta Materialia Inc. Published by Elsevier Ltd.</prism:publisher><dc:creator>Fu, Zhiqiang</dc:creator><dc:creator>MacDonald, Benjamin E.</dc:creator><dc:creator>Zhang, Dalong</dc:creator><dc:creator>Wu, Bingyong</dc:creator><dc:creator>Chen, Weiping</dc:creator><dc:creator>Ivanisenko, Julia</dc:creator><dc:creator>Hahn, Horst</dc:creator><dc:creator>Lavernia, Enrique J.</dc:creator><dc:description>
+                  Face-centered cubic (fcc) nanostructured high entropy alloys (HEAs) are characterized by high strength and low plasticity. The objective of the present study was to investigate the question of whether it is possible to increase plasticity while retaining strength in a medium-entropy TiFeCoNi alloy by promoting the formation of a multi-scale microstructure. To accomplish this objective we synthesized a bulk Ti10Fe30Co30Ni30 medium-entropy alloy (MEA) via mechanical alloying (MA) and spark plasma sintering (SPS). This synthesis approach yielded a multi-scale microstructure consisting of distinctly coarse grains (&gt;1μm) and nanosized grains. The mechanisms responsible for the associated mechanical behavior are discussed.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>High-entropy alloys</dcterms:subject><dcterms:subject>Multi-scale grains</dcterms:subject><dcterms:subject>Mechanical properties</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1359646217305353" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1359646217305353" rel="scidir"/></coredata><objects><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="478" height="200" size="30948">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="712" height="225" size="65430">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="270" height="233" size="23381">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="537" height="390" size="74547">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="734" height="276" size="32282">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="92" size="8294">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="69" size="9893">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="190" height="164" size="14040">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="159" size="22991">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="4319">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2118" height="886" size="286482">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3153" height="995" size="665867">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1196" height="1030" size="460089">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2377" height="1726" size="1064829">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3249" height="1220" size="228092">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="13915136">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-mmc1.doc?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P28" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="532053">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P28.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P17" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="592160">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P17.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P32" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="238159">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P32.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P13" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="226300">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P13.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P23" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="606648">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P23.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P21" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="584710">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P21.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P10" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="842757">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P10.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P01" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="403278">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P01.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P04" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="873758">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P04.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P18" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="574440">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P18.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P07" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="839106">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P07.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P08" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="787903">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P08.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P27" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="766909">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P27.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P33" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="177411">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P33.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P03" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="882752">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P03.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P12" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="831794">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P12.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P30" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="790931">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P30.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P24" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="654746">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P24.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P29" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="221820">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P29.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P19" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="597146">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P19.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P05" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="833595">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P05.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P14" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="819486">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P14.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P22" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="622156">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P22.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P11" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="888260">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P11.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P15" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="447690">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P15.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P16" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="585686">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P16.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P20" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="616362">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P20.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P25" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="557081">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P25.jpg?httpAccept=%2A%2F%2A</object><object ref="am" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="6112781">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-am.pdf?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P31" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="211249">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P31.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P09" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="761348">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P09.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P02" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="843815">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P02.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P26" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="356262">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P26.jpg?httpAccept=%2A%2F%2A</object><object ref="Saket_Navlakha_Network_design_2017_P06" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="878885">https://api.elsevier.com/content/object/eid/1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P06.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>85029817704</scopus-id><scopus-eid>2-s2.0-85029817704</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85029817704" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271906</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291778</xocs:ssid>
+         <xocs:ssid type="subj">291788</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Scripta Materialia</xocs:srctitle>
+      <xocs:normalized-srctitle>SCRIPTAMATERIALIA</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170922">2017-09-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170922">2017-09-22</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170922">2017-09-22</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170922">2017-09-22</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2020-11-23T16:52:31</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1359646217305353</xocs:eid>
+      <xocs:pii-formatted>S1359-6462(17)30535-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1359646217305353</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.scriptamat.2017.09.023</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1359646217X00134</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20210309">2021-03-09T22:24:03.915571Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20180115</xocs:date-search-begin>
+      <xocs:year-nav>2018</xocs:year-nav>
+      <xocs:indexeddate epoch="1506099197">2017-09-22T16:53:17.933547Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid orcid primabst pubtype ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1359-6462</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13596462</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>143</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>143</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 143</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>36</xocs:sort-order>
+      <xocs:first-fp>108</xocs:first-fp>
+      <xocs:last-lp>112</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>108</xocs:first-page>
+         <xocs:last-page>112</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20180115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 January 2018</xocs:cover-date-text>
+      <xocs:cover-date-start>2018-01-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2018</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>FCCNANOSTRUCTUREDTIFECONIALLOYMULTISCALEGRAINSENHANCEDPLASTICITY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Z</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>GRANBERG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>135504</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-last-lp>303</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>MURTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HIGHENTROPYALLOYS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>STEPANOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>188</xocs:ref-first-fp>
+            <xocs:ref-last-lp>195</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>GLUDOVATZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1153</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1158</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>GLUDOVATZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10602</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>TAZUDDIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>224</xocs:ref-first-fp>
+            <xocs:ref-last-lp>233</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>OWEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>227</xocs:ref-first-fp>
+            <xocs:ref-last-lp>230</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1701678</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>187</xocs:ref-first-fp>
+            <xocs:ref-last-lp>196</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>228</xocs:ref-first-fp>
+            <xocs:ref-last-lp>239</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>59</xocs:ref-first-fp>
+            <xocs:ref-last-lp>71</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>SHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>654</xocs:ref-first-fp>
+            <xocs:ref-last-lp>657</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>TELLKAMP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2335</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2343</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>912</xocs:ref-first-fp>
+            <xocs:ref-last-lp>915</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>OLEVSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>S122</xocs:ref-first-fp>
+            <xocs:ref-last-lp>S132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4887</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4897</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>103505</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>SURYANARAYANA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>184</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>TROPAREVSKY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-article-number>011041</xocs:ref-article-number>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>357</xocs:ref-first-fp>
+            <xocs:ref-last-lp>362</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>SHUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-last-lp>67</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>JI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>24</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-last-lp>31</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>SOHN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-last-lp>32</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FUX2018X108</xocs:refkey3>
+         <xocs:refkey4lp>FUX2018X108X112</xocs:refkey4lp>
+         <xocs:refkey4ai>FUX2018X108XZ</xocs:refkey4ai>
+         <xocs:refkey5>FUX2018X108X112XZ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:open-research>
+         <xocs:or-agreements>
+            <xocs:or-agreement>
+               <xocs:or-agreement-id>https://vtw.elsevier.com/content/oragreement/10130</xocs:or-agreement-id>
+               <xocs:or-agreement-name>CHU_DOD</xocs:or-agreement-name>
+               <xocs:or-agreement-terms>publishAcceptedManuscriptIndexable</xocs:or-agreement-terms>
+            </xocs:or-agreement>
+         </xocs:or-agreements>
+         <xocs:or-embargo-opening-date>2018-09-22T00:00:00Z</xocs:or-embargo-opening-date>
+         <xocs:or-agreement-license>http://www.elsevier.com/open-access/userlicense/1.0/</xocs:or-agreement-license>
+      </xocs:open-research>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-09-22T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Acta Materialia Inc. Published by Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+         <xocs:cp-license-lines/>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2020-03-10T02:58:15.539Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/nlp</xocs:funding-addon-type>
+         <xocs:funding-source-document source-document-type="pii">S1359646217305353</xocs:funding-source-document>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Opening Project of Guangdong Key Laboratory for Advanced Metallic Materials processing</xocs:funding-agency-matched-string>
+            <xocs:funding-agency>Jiangsu Key Laboratory for Advanced Metallic Materials</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100011515</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Alexander von Humboldt</xocs:funding-agency-matched-string>
+            <xocs:funding-agency-acronym>AFAvH</xocs:funding-agency-acronym>
+            <xocs:funding-agency>American Friends of the Alexander von Humboldt Foundation</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/100003579</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/6252001/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>South China University of Technology</xocs:funding-agency-matched-string>
+            <xocs:funding-id>GJ201601</xocs:funding-id>
+            <xocs:funding-agency-acronym>SCUT</xocs:funding-agency-acronym>
+            <xocs:funding-agency>South China University of Technology</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100005015</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>US Army Research Office</xocs:funding-agency-matched-string>
+            <xocs:funding-id>W911NF-16-1-0269</xocs:funding-id>
+         </xocs:funding>
+         <xocs:funding-text>The authors acknowledge the financial support from the US Army Research Office ( W911NF-16-1-0269 ) and Alexander von Humboldt Research Award for Senior Researchers, and from the Opening Project of Guangdong Key Laboratory for Advanced Metallic Materials processing, South China University of Technology ( GJ201601 ).  </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1359-6462(17)30535-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1359646217305353</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1359646217305353</xocs:eid>
+         <xocs:doi>10.1016/j.scriptamat.2017.09.023</xocs:doi>
+         <xocs:cid>271906</xocs:cid>
+         <xocs:timestamp>2020-11-23T17:49:15.035183Z</xocs:timestamp>
+         <xocs:cover-date-start>2018-01-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/MAIN/application/pdf/c0a83ea52bd7ebdec0f6a9583c3509e8/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>869449</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1359646217305353-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/PREVIEW/image/png/dbb03091c610381db813efde9819f7bf/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>65485</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/fx1/DOWNSAMPLED/image/jpeg/fbf4fa2404cdd5b5e0373d1bda2f5275/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30948</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>478</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr1/DOWNSAMPLED/image/jpeg/555460ae5aff0bef31f3edaad9c6e6b5/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>65430</xocs:filesize>
+               <xocs:pixel-height>225</xocs:pixel-height>
+               <xocs:pixel-width>712</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr2/DOWNSAMPLED/image/jpeg/37ccb941c841a5c773c642b9e77a78d6/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23381</xocs:filesize>
+               <xocs:pixel-height>233</xocs:pixel-height>
+               <xocs:pixel-width>270</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr3/DOWNSAMPLED/image/jpeg/df12bdf9f6fa4d5effa68eeb4dc4b52d/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>74547</xocs:filesize>
+               <xocs:pixel-height>390</xocs:pixel-height>
+               <xocs:pixel-width>537</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr4/DOWNSAMPLED/image/jpeg/67906d996d6c4db189212a6e9faaa161/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32282</xocs:filesize>
+               <xocs:pixel-height>276</xocs:pixel-height>
+               <xocs:pixel-width>734</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/fx1/THUMBNAIL/image/gif/be0014293a149fbf6dc84b0cb95e92a7/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8294</xocs:filesize>
+               <xocs:pixel-height>92</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr1/THUMBNAIL/image/gif/7d492b251a32a2805ebeb681b0c991a0/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>9893</xocs:filesize>
+               <xocs:pixel-height>69</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr2/THUMBNAIL/image/gif/21814ce605fb1347de3b1a73a487ad88/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>14040</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>190</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr3/THUMBNAIL/image/gif/601dde4738519237281a6f4911a16a1a/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>22991</xocs:filesize>
+               <xocs:pixel-height>159</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr4/THUMBNAIL/image/gif/76aa1a04c3034d742b6ff24d144d87ca/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4319</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/fx1/HIGHRES/image/jpeg/e8a4afdbad16711cb1deb554ca808094/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>286482</xocs:filesize>
+               <xocs:pixel-height>886</xocs:pixel-height>
+               <xocs:pixel-width>2118</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr1/HIGHRES/image/jpeg/3c7c07431d7a2eb8b9913f1db297aeef/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>665867</xocs:filesize>
+               <xocs:pixel-height>995</xocs:pixel-height>
+               <xocs:pixel-width>3153</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr2/HIGHRES/image/jpeg/ee8a78ef9e2af843dd2cf50205f6f492/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>460089</xocs:filesize>
+               <xocs:pixel-height>1030</xocs:pixel-height>
+               <xocs:pixel-width>1196</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr3/HIGHRES/image/jpeg/e64f05aeabe454148c74b9b889b6843b/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1064829</xocs:filesize>
+               <xocs:pixel-height>1726</xocs:pixel-height>
+               <xocs:pixel-width>2377</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/gr4/HIGHRES/image/jpeg/16ee25b26ff4ddbe3b17ea97a36b1fe7/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>228092</xocs:filesize>
+               <xocs:pixel-height>1220</xocs:pixel-height>
+               <xocs:pixel-width>3249</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-mmc1.doc</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1359646217305353/mmc1/MAIN/application/msword/60ef691055ad66792409e4fa7355260a/mmc1.doc</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.doc</xocs:filename>
+               <xocs:extension>doc</xocs:extension>
+               <xocs:filesize>13915136</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P28.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/9b8ab8d27c6ad0f8c0c85b9d4f1b5ead/Saket_Navlakha_Network_design_2017_P28.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/9b8ab8d27c6ad0f8c0c85b9d4f1b5ead/Saket_Navlakha_Network_design_2017_P28.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/dccc331b-36f1-46dc-adf8-4911d6ee83a3</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P28</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P28.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>532053</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P17.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/5b996f89fc8e7531e12ac04e6f78c40c/Saket_Navlakha_Network_design_2017_P17.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/5b996f89fc8e7531e12ac04e6f78c40c/Saket_Navlakha_Network_design_2017_P17.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/b14dcf54-074a-4188-9313-5c37fcf64122</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P17</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P17.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>592160</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P32.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/d4a2cc6a874f93f254f372865a088a9d/Saket_Navlakha_Network_design_2017_P32.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/d4a2cc6a874f93f254f372865a088a9d/Saket_Navlakha_Network_design_2017_P32.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/9c1a1216-5177-471d-99d5-6b5aceb29d29</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P32</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P32.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>238159</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P13.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/a190962e01b17123c67a6dbb2acca5ce/Saket_Navlakha_Network_design_2017_P13.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/a190962e01b17123c67a6dbb2acca5ce/Saket_Navlakha_Network_design_2017_P13.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/75ec429b-65e8-47e5-9225-167d2b016b28</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P13</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P13.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>226300</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P23.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/b98e97e71d6e4ac7bc50c8e7e240d827/Saket_Navlakha_Network_design_2017_P23.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/b98e97e71d6e4ac7bc50c8e7e240d827/Saket_Navlakha_Network_design_2017_P23.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/1ed96d79-6fba-4ba9-87f4-9683888eb29d</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P23</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P23.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>606648</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P21.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/ac9985eb55d9376d0afc5ea036e57c68/Saket_Navlakha_Network_design_2017_P21.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/ac9985eb55d9376d0afc5ea036e57c68/Saket_Navlakha_Network_design_2017_P21.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/6bf6d823-ddc9-4658-b33f-8bbb7884a36b</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P21</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P21.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>584710</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/f537833fd0de382acbc119d6204a9806/Saket_Navlakha_Network_design_2017_P10.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/f537833fd0de382acbc119d6204a9806/Saket_Navlakha_Network_design_2017_P10.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/eb233f17-ba0a-4550-a664-1079b98eef8e</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P10</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>842757</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P01.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/812b21b077bf37f6080c46e250304d85/Saket_Navlakha_Network_design_2017_P01.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/812b21b077bf37f6080c46e250304d85/Saket_Navlakha_Network_design_2017_P01.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/4415ba96-fdb7-4c44-96b3-ab3f638d560b</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P01</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P01.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>403278</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P04.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/1c1094f4904b07c08af4dfcecf33496e/Saket_Navlakha_Network_design_2017_P04.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/1c1094f4904b07c08af4dfcecf33496e/Saket_Navlakha_Network_design_2017_P04.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/8c174653-7efd-488f-bce2-4cfd34a8628f</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P04</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P04.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>873758</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P18.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/ce18ec3916203a93b8431be2cbf5ccd4/Saket_Navlakha_Network_design_2017_P18.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/ce18ec3916203a93b8431be2cbf5ccd4/Saket_Navlakha_Network_design_2017_P18.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/85d1d9ab-c14a-4a46-a972-df65e22b1bf6</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P18</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P18.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>574440</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P07.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/d24be4b8c03d7db04927386f82841a67/Saket_Navlakha_Network_design_2017_P07.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/d24be4b8c03d7db04927386f82841a67/Saket_Navlakha_Network_design_2017_P07.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/c1d93071-c23e-4b8b-a57a-e3e686648dc4</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P07</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P07.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>839106</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P08.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/8edc3cc69bc27f75fb5e4d02d8579e7e/Saket_Navlakha_Network_design_2017_P08.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/8edc3cc69bc27f75fb5e4d02d8579e7e/Saket_Navlakha_Network_design_2017_P08.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/65a9ef0f-27b1-47ed-8a22-6d148d51afd3</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P08</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P08.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>787903</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P27.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/598c67849c7ad8f66c6bfd4254e986e2/Saket_Navlakha_Network_design_2017_P27.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/598c67849c7ad8f66c6bfd4254e986e2/Saket_Navlakha_Network_design_2017_P27.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/5bb4d706-323a-4242-9583-154756a2a146</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P27</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P27.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>766909</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P33.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/f0afb224182cfee950c20b35afa2e1d8/Saket_Navlakha_Network_design_2017_P33.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/f0afb224182cfee950c20b35afa2e1d8/Saket_Navlakha_Network_design_2017_P33.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/0678cfea-77bb-4af5-9e45-b07cc623d98f</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P33</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P33.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>177411</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P03.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/3f99e8c0c8870080f35cd827407bb2eb/Saket_Navlakha_Network_design_2017_P03.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/3f99e8c0c8870080f35cd827407bb2eb/Saket_Navlakha_Network_design_2017_P03.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/191c7772-ef81-463f-bfbd-13aab4ba5d7b</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P03</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P03.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>882752</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P12.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/57e7f6d9a9a4a8c35fe293d580f9e3ba/Saket_Navlakha_Network_design_2017_P12.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/57e7f6d9a9a4a8c35fe293d580f9e3ba/Saket_Navlakha_Network_design_2017_P12.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/fe39f292-eac9-4e7e-a620-067357a99402</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P12</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P12.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>831794</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P30.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/03f07dde3d69f2e1a1ecb3b9935a5902/Saket_Navlakha_Network_design_2017_P30.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/03f07dde3d69f2e1a1ecb3b9935a5902/Saket_Navlakha_Network_design_2017_P30.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/4fcb1a92-21cc-4e03-9889-984873209ab6</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P30</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P30.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>790931</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P24.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/039a450058a87fd4039bdd8f9d2d3c53/Saket_Navlakha_Network_design_2017_P24.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/039a450058a87fd4039bdd8f9d2d3c53/Saket_Navlakha_Network_design_2017_P24.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/e86b89cc-270f-45fe-bb9d-0a2320179b70</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P24</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P24.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>654746</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P29.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/3095df90b8e5389e73d6d952ed92a103/Saket_Navlakha_Network_design_2017_P29.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/3095df90b8e5389e73d6d952ed92a103/Saket_Navlakha_Network_design_2017_P29.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/6c70c69a-d9c2-46f4-bd1c-f594a27f47fb</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P29</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P29.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>221820</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P19.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/a8c245f2206ae45cf051a06a7acf9c41/Saket_Navlakha_Network_design_2017_P19.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/a8c245f2206ae45cf051a06a7acf9c41/Saket_Navlakha_Network_design_2017_P19.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/4dc699f6-c2ce-4d78-b83e-187150bd8b9c</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P19</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P19.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>597146</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P05.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/48a319cafa62e171324a2f80aa1559af/Saket_Navlakha_Network_design_2017_P05.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/48a319cafa62e171324a2f80aa1559af/Saket_Navlakha_Network_design_2017_P05.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/6591c4ee-60a7-4f75-98d1-5a16770b1cfe</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P05</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P05.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>833595</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P14.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/865afc979350dfccb124ad8c2f31e304/Saket_Navlakha_Network_design_2017_P14.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/865afc979350dfccb124ad8c2f31e304/Saket_Navlakha_Network_design_2017_P14.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/568d1e64-8dac-407e-b23a-24f547f550a5</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P14</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P14.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>819486</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P22.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/ac572ba2ca287698ca53966b4cec921b/Saket_Navlakha_Network_design_2017_P22.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/ac572ba2ca287698ca53966b4cec921b/Saket_Navlakha_Network_design_2017_P22.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/c59f292e-ee6d-475b-a38c-a9e352edfada</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P22</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P22.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>622156</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/a6d8ead297a5305696f3fe2ae4024ae9/Saket_Navlakha_Network_design_2017_P11.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/a6d8ead297a5305696f3fe2ae4024ae9/Saket_Navlakha_Network_design_2017_P11.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/6959d6be-7376-4ce9-a2b5-581ed8f4152d</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P11</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>888260</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P15.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/50201848a9aa837388bd16ca95938da2/Saket_Navlakha_Network_design_2017_P15.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/50201848a9aa837388bd16ca95938da2/Saket_Navlakha_Network_design_2017_P15.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/c16a5180-e21c-4af0-8e70-53d1f6cd447b</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P15</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P15.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>447690</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P16.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/a02a1261a9d65db5f8636ed92b17b0c1/Saket_Navlakha_Network_design_2017_P16.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/a02a1261a9d65db5f8636ed92b17b0c1/Saket_Navlakha_Network_design_2017_P16.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/ea4de641-1a7e-4495-8fb5-50fecb14fa33</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P16</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P16.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>585686</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P20.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/964261646ae94970018e30a55a30467a/Saket_Navlakha_Network_design_2017_P20.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/964261646ae94970018e30a55a30467a/Saket_Navlakha_Network_design_2017_P20.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/825185f1-9581-411a-b690-3826404e7e95</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P20</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P20.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>616362</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P25.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/55f4f6037e59660067e92d01e2424876/Saket_Navlakha_Network_design_2017_P25.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/55f4f6037e59660067e92d01e2424876/Saket_Navlakha_Network_design_2017_P25.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/5745889f-42a8-4fd6-9ad8-1bd68757e3f4</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P25</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P25.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>557081</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-am.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/MAIN/application/pdf/8df757186116efad8b2eadaa3a0dec6c/am.pdf</xocs:ucs-locator>
+               <xocs:file-basename>am</xocs:file-basename>
+               <xocs:filename>am.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>6112781</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P31.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/6641b9a762fac2049d087999746965be/Saket_Navlakha_Network_design_2017_P31.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/6641b9a762fac2049d087999746965be/Saket_Navlakha_Network_design_2017_P31.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/05ad9c09-8fbd-49b2-a23a-587bfdcc3a7b</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P31</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P31.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>211249</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P09.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/fca93851f111ccfd82915b00aefed37b/Saket_Navlakha_Network_design_2017_P09.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/fca93851f111ccfd82915b00aefed37b/Saket_Navlakha_Network_design_2017_P09.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/f4ac1c56-403a-48d7-964b-42a15522a989</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P09</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P09.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>761348</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P02.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/538f10294e27753c4e254761a3a75650/Saket_Navlakha_Network_design_2017_P02.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/538f10294e27753c4e254761a3a75650/Saket_Navlakha_Network_design_2017_P02.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/3435f4bd-4734-4120-bd83-17afec2a84e7</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P02</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P02.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>843815</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P26.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/3f48f49c2dc6f8d9190137805c1d5f97/Saket_Navlakha_Network_design_2017_P26.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/3f48f49c2dc6f8d9190137805c1d5f97/Saket_Navlakha_Network_design_2017_P26.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/beb42c27-c341-45e2-ae61-725b9f41cc22</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P26</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P26.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>356262</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1359646217305353-Saket_Navlakha_Network_design_2017_P06.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/b0930b127b2568adfbf6b6530bab4f90/Saket_Navlakha_Network_design_2017_P06.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:103LQJD9CKM/PAGE-IMAGE/image/jpg/b0930b127b2568adfbf6b6530bab4f90/Saket_Navlakha_Network_design_2017_P06.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/e5569d39-c316-4405-9b3f-a77cfad4b629</xocs:ucs-locator>
+               <xocs:file-basename>Saket_Navlakha_Network_design_2017_P06</xocs:file-basename>
+               <xocs:filename>Saket_Navlakha_Network_design_2017_P06.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>878885</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.5" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>SMM</jid>
+            <aid>11808</aid>
+            <ce:pii>S1359-6462(17)30535-3</ce:pii>
+            <ce:doi>10.1016/j.scriptamat.2017.09.023</ce:doi>
+            <ce:copyright type="society" year="2017">Acta Materialia Inc.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">(a) XRD patterns of Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> powders and bulk samples, (b) Representative SEM image of the 40<ce:hsp sp="0.25"/>h as-milled Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> powders, and corresponding EDS mapping of Ti, Fe, Co, Ni, showing they are uniformly distributed.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S1359646217305353/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">SEM image of the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA consolidated by SPS. The inset image shows a high-magnification SEM image of Region 2.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S1359646217305353/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">TEM images of the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA. (a) bright-field TEM image exhibiting coarse grains and nanosized grains, (b) high-magnified TEM image of grain A in (a) with its SAED pattern corresponding to the fcc structure along [011] zone axis presented in the inset, (c) bright-field TEM image with SAED pattern corresponding to twinned grain B, confirming the presence of twins, (d) SAED pattern corresponding to the circled region (nanosized grains) in (c), indicating the fcc structure.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S1359646217305353/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">(a) Representative engineering stress-strain curve of bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA under compression at room temperature; (b) compressive yield strength versus strain for the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA in comparison with those of fcc-based MEAs and HEAs in the literature <ce:cross-refs id="cf0005" refid="bb0065 bb0115 bb0120 bb0125 bb0130 bb0135">[13,23–27]</ce:cross-refs>.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S1359646217305353/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dh0005">
+               <ce:textfn id="tn0005">Regular article</ce:textfn>
+            </ce:dochead>
+            <ce:title id="ti0005">Fcc nanostructured TiFeCoNi alloy with multi-scale grains and enhanced plasticity</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author orcid="0000-0002-3187-7900" id="au0005" author-id="S1359646217305353-7808384c18380f3300b7945a630358a8">
+                  <ce:given-name>Zhiqiang</ce:given-name>
+                  <ce:surname>Fu</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0010">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0015">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0020">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S1359646217305353-40cc20b41996e7c71856989f25bd198f">
+                  <ce:given-name>Benjamin E.</ce:given-name>
+                  <ce:surname>MacDonald</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0015" author-id="S1359646217305353-9d46b92867fc74b44446fea2b3d15a64">
+                  <ce:given-name>Dalong</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0020" author-id="S1359646217305353-377248fec201794ab5b5f807aee4449c">
+                  <ce:given-name>Bingyong</ce:given-name>
+                  <ce:surname>Wu</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0035">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0025" author-id="S1359646217305353-7fe3be01e36f68862d853d0f23e26436">
+                  <ce:given-name>Weiping</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0040">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0030" author-id="S1359646217305353-cb3a1da9e63d598c1f32d6ec9003879b">
+                  <ce:given-name>Julia</ce:given-name>
+                  <ce:surname>Ivanisenko</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0045">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0035" author-id="S1359646217305353-ac2e97584b728411bbf202572c268413">
+                  <ce:given-name>Horst</ce:given-name>
+                  <ce:surname>Hahn</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0050">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au0040" author-id="S1359646217305353-08faeecd4863c2c8c150df303f4dc6b0">
+                  <ce:given-name>Enrique J.</ce:given-name>
+                  <ce:surname>Lavernia</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0055">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0010" id="cf0060">
+                     <ce:sup loc="post">⁎⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S1359646217305353-c2d5a4a79a13a770e2ddee8958093a50">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0010">Department of Chemical Engineering and Materials Science, University of California, Irvine, CA 92697, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical Engineering and Materials Science</sa:organization>
+                     <sa:organization>University of California</sa:organization>
+                     <sa:city>Irvine</sa:city>
+                     <sa:state>CA</sa:state>
+                     <sa:postal-code>92697</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S1359646217305353-94fbb17e844bd769cbb85d1e028289e5">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0015">Guangdong Key Laboratory for Advanced Metallic Materials Processing, South China University of Technology, Guangzhou, Guangdong 510640, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Guangdong Key Laboratory for Advanced Metallic Materials Processing</sa:organization>
+                     <sa:organization>South China University of Technology</sa:organization>
+                     <sa:city>Guangzhou</sa:city>
+                     <sa:state>Guangdong</sa:state>
+                     <sa:postal-code>510640</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af0015" affiliation-id="S1359646217305353-2dfd3f612c93cbc630b08ce10842b519">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0020">Institute of Nanotechnology, Karlsruhe Institute of Technology (KIT), D-76021 Karlsruhe, Germany</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Institute of Nanotechnology</sa:organization>
+                     <sa:organization>Karlsruhe Institute of Technology (KIT)</sa:organization>
+                     <sa:city>Karlsruhe</sa:city>
+                     <sa:postal-code>D-76021</sa:postal-code>
+                     <sa:country>Germany</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Correspondence to: Z. Fu, Department of Chemical Engineering and Materials Science, University of California, Irvine, CA 92697, USA.</ce:text>
+                  <sa:affiliation>
+                     <sa:organization>Department of Chemical Engineering and Materials Science</sa:organization>
+                     <sa:organization>University of California</sa:organization>
+                     <sa:city>Irvine</sa:city>
+                     <sa:state>CA</sa:state>
+                     <sa:postal-code>92697</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:correspondence>
+               <ce:correspondence id="cr0010">
+                  <ce:label>⁎⁎</ce:label>
+                  <ce:text id="tx0010">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="10" month="6" year="2017"/>
+            <ce:date-revised day="13" month="9" year="2017"/>
+            <ce:date-accepted day="14" month="9" year="2017"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0025" view="all">Face-centered cubic (fcc) nanostructured high entropy alloys (HEAs) are characterized by high strength and low plasticity. The objective of the present study was to investigate the question of whether it is possible to increase plasticity while retaining strength in a medium-entropy TiFeCoNi alloy by promoting the formation of a multi-scale microstructure. To accomplish this objective we synthesized a bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> medium-entropy alloy (MEA) via mechanical alloying (MA) and spark plasma sintering (SPS). This synthesis approach yielded a multi-scale microstructure consisting of distinctly coarse grains (&gt;<ce:hsp sp="0.10"/>1<ce:hsp sp="0.25"/>μm) and nanosized grains. The mechanisms responsible for the associated mechanical behavior are discussed.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:abstract id="ab0010" class="graphical" xml:lang="en" view="all">
+               <ce:section-title id="st0010">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0030" view="all">
+                     <ce:display>
+                        <ce:figure id="f0025">
+                           <ce:alt-text role="short" id="al0025">Image 2</ce:alt-text>
+                           <ce:link id="lk0025" locator="fx1" xlink:type="simple" xlink:href="pii:S1359646217305353/fx1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0015">High-entropy alloys</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0020">Multi-scale grains</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0025">Mechanical properties</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:para id="p0005" view="all">Despite possessing multiple principal elements, the recently emerged medium-entropy alloys (MEAs) and high-entropy alloys (HEAs) can readily form solution-like phases instead of ordered intermetallic phases, and accordingly have attracted attention for two primary reasons. First, MEAs and HEAs provide a novel alloy design framework that, in principle, can be used to attain combinations of physical and mechanical properties heretofore unattainable with conventional alloys <ce:cross-ref id="cf0065" refid="bb0005">[1]</ce:cross-ref>. Second, available data reports of strength and other mechanical properties suggest notable enhancements in performance that exceed those of conventional metals and alloys <ce:cross-refs id="cf0070" refid="bb0010 bb0015 bb0020">[2–4]</ce:cross-refs>. The published literature reveals that MEAs and HEAs with a face-centered cubic (fcc) structure display exceptional fracture toughness and outstanding ductility from room-temperature to cryogenic temperatures <ce:cross-refs id="cf0075" refid="bb0025 bb0030">[5,6]</ce:cross-refs>. However, published data also reveals that fcc structured MEAs and HEAs exhibit low yield strength (≤<ce:hsp sp="0.10"/>500<ce:hsp sp="0.25"/>MPa) at room temperature, which will hinder their use in many structural applications <ce:cross-refs id="cf0080" refid="bb0015 bb0025 bb0030 bb0035">[3,5–7]</ce:cross-refs>. This behavior has been attributed to the fact that the so-called: “severe lattice distortion” that is characteristic of HEAs and MEAs and which can impede dislocation glide and thereby lead to strengthening, has been found to be absent in single-phase fcc HEAs <ce:cross-ref id="cf0085" refid="bb0040">[8]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0010" view="all">In view of the above findings, recent studies report that a number of approaches have been proposed to enhance the room-temperature yield strength of fcc structured MEAs and HEAs, including: twinning-induced ductility <ce:cross-ref id="cf0090" refid="bb0025">[5]</ce:cross-ref>, introducing phase transformation-induced ductility <ce:cross-refs id="cf0095" refid="bb0045 bb0050">[9,10]</ce:cross-refs>, incorporating precipitates <ce:cross-ref id="cf0100" refid="bb0055">[11]</ce:cross-ref>, interstitial alloying <ce:cross-ref id="cf0105" refid="bb0060">[12]</ce:cross-ref>, and grain size refinement <ce:cross-ref id="cf0110" refid="bb0065">[13]</ce:cross-ref>. Some of these strategies have been shown to attain limited enhancement in yield strength; for example the yield strength increased from 159<ce:hsp sp="0.25"/>MPa to 355<ce:hsp sp="0.25"/>MPa with the addition of 1.1<ce:hsp sp="0.25"/>at.% carbon to a Fe<ce:inf loc="post">40.4</ce:inf>Ni<ce:inf loc="post">11.3</ce:inf>Mn<ce:inf loc="post">34.8</ce:inf>Al<ce:inf loc="post">7.5</ce:inf>Cr<ce:inf loc="post">6</ce:inf> HEA matrix <ce:cross-ref id="cf0115" refid="bb0060">[12]</ce:cross-ref>. Typically, reducing grain size down to the nanoscale in conventional alloys can effectively increase yield strength, but this increase is also coupled with a drastic decrease in the plasticity due to constrained dislocation activity <ce:cross-ref id="cf0120" refid="bb0070">[14]</ce:cross-ref>. The same phenomenon is also observed in fcc structured HEAs <ce:cross-ref id="cf0125" refid="bb0065">[13]</ce:cross-ref>. In the case of nanostructured metals and alloys, the introduction of multi-scale grains as a strategy to achieve balanced strength and ductility has shown some promise <ce:cross-refs id="cf0130" refid="bb0075 bb0080">[15,16]</ce:cross-refs> and recent preliminary reports for fcc structured HEAs are notable <ce:cross-ref id="cf0135" refid="bb0065">[13]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0015" view="all">The combination of mechanical alloying (MA) and spark plasma sintering (SPS) represents a viable approach to fabricate bulk nanostructured alloys with a multi-scale microstructure, partly due to the fact that SPS is a field assisted sintering technique, which can deliver high heating rates and hence high local temperature gradients <ce:cross-ref id="cf0140" refid="bb0085">[17]</ce:cross-ref>. However, in SPS processed fcc nanostructured HEAs comprised of five or more principal elements, most of the coarse grains (CG) reportedly remain under 1<ce:hsp sp="0.25"/>μm that has been attributed to the “sluggish diffusion” effect associated with the large variation in the local lattice potential energy associated with multi-component elements <ce:cross-refs id="cf0145" refid="bb0010 bb0015 bb0065 bb0090">[2,3,13,18]</ce:cross-refs>. In view of this limitation, we designed a quaternary medium-entropy TiFeCoNi alloy with an FCC structure to degrade the high-entropy“sluggish kinetics” effect in order to facilitate the formation of a multi-scale microstructure comprised of coarse grains (&gt;<ce:hsp sp="0.10"/>1<ce:hsp sp="0.25"/>μm) and nanosized grains.</ce:para>
+               <ce:para id="p0020" view="all">Thus, in view of the above discussion, this letter was motivated by the question of whether it is possible to design and fabricate fcc structured MEAs with enhanced plasticity. To accomplish this objective, a medium-entropy Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> (at.%) alloy was designed based on the single-phase fcc equi-atomic FeCoNi MEA matrix with the addition of 10<ce:hsp sp="0.25"/>at.% Ti, with parameters (<ce:italic>Ω</ce:italic>, <ce:italic>δ</ce:italic> and <ce:italic>VEC</ce:italic>) that fit the empirical conditions which can potentially form single fcc solid-solution phase <ce:cross-refs id="cf0150" refid="bb0095 bb0100">[19,20]</ce:cross-refs>. In addition, the generation of multi-scale grains in this medium-entropy Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> alloy was accomplished via MA and SPS. Finally, the microstructure, phase compositions and mechanical behavior were systematically investigated.</ce:para>
+               <ce:para id="p0025" view="all">Elemental powders of Ti, Fe, Co and Ni with high purity (&gt;<ce:hsp sp="0.10"/>99.7<ce:hsp sp="0.25"/>wt%), possessing average particle sizes of 45<ce:hsp sp="0.25"/>μm, were used as starting materials for generating the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> (at.%) alloy. The as-received Ti, Fe, Co and Ni elemental powders were blended for 4<ce:hsp sp="0.25"/>h. Tungsten carbide milling media and the blended powders were then placed in stainless-steel vials filled with argon gas in a ball-to-powder weight ratio of 10:1. The entire MA process was carried out in a high energy planetary ball mill at a rotation speed of 300<ce:hsp sp="0.25"/>rpm for 40<ce:hsp sp="0.25"/>h of wet milling, using cyclohexane as the process control agent (PCA) to prevent powder agglomeration. Following the MA process, the 40<ce:hsp sp="0.25"/>h wet milled powders were placed in a vacuum drying chamber at 70<ce:hsp sp="0.25"/>°C with the aim to evaporate cyclohexane. The dried powders were then allowed to pass through a −<ce:hsp sp="0.10"/>200 mesh (≤<ce:hsp sp="0.10"/>75<ce:hsp sp="0.25"/>μm) sieve. A Dr. Sinter 825 apparatus (Sumitomo Coal Mining Co. Ltd., Japan) was utilized to consolidate the sieved powders at 1273<ce:hsp sp="0.25"/>K with a heating rate of 100<ce:hsp sp="0.25"/>K<ce:hsp sp="0.25"/>min<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> and a holding time of 8<ce:hsp sp="0.25"/>min. During the process, the vacuum pressure was maintained &lt;<ce:hsp sp="0.10"/>8<ce:hsp sp="0.25"/>Pa and a constant pressure of 30<ce:hsp sp="0.25"/>MPa were consistently applied during consolidation. This SPS process produced samples with a geometry of Ø20<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:hsp sp="0.25"/>mm.</ce:para>
+               <ce:para id="p0030" view="all">Transmission electron microscopy (TEM) studies were carried out using an FEI CM-20 (200<ce:hsp sp="0.25"/>kV) or a JEOL JEM-2500SE (200<ce:hsp sp="0.25"/>kV) with selected area electron diffraction (SAED) and energy dispersive spectroscopy (EDS). A FEI Quanta 3D scanning electron microscopy (SEM) equipped with EDS was used to study the microstructures and chemical compositions of the as-milled powders and bulk samples, as well as the fracture morphology of bulk samples. A Bruker D8 ADVANCE X-ray diffractometer with a Cu <ce:italic>K</ce:italic>α radiation was utilized to identify the phase composition of milled powders and bulk samples. From the SPS sintered samples, the specimens for SEM observation were first prepared by polishing, followed by etching with a dilute aqua regia solution. Thin foil specimens for TEM observation were prepared via polishing using SiC grit papers followed by Ion milling. Compression tests at ambient temperature for the bulk samples with the geometry of Ø3<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>4.5<ce:hsp sp="0.25"/>mm was performed on an Instron 5500 testing system at a strain rate of 1<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−<ce:hsp sp="0.10"/>3</ce:sup>
+                  <ce:hsp sp="0.25"/>s<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>.</ce:para>
+               <ce:para id="p0035" view="all">
+                  <ce:cross-ref id="cf0155" refid="f0005">Fig. 1</ce:cross-ref>(a)<ce:float-anchor refid="f0005"/> shows three XRD patterns of the Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> powders before and after milling as well as the SPS sintered compacts. As expected, all four of the constituent elements are identified in the blended powders (0<ce:hsp sp="0.25"/>h). As the milling time increases to 40<ce:hsp sp="0.25"/>h, a single fcc structured solid-solution phase can been observed. However, following SPS, the sintered bulk samples are comprised of a primary fcc structured phase with a small amount of unindexed phases. The unindexed phases are likely a complex mixture of oxides and carbides, which are reportedly formed during either the MA process or the SPS process <ce:cross-ref id="cf0160" refid="bb0105">[21]</ce:cross-ref>. Further studies are needed to understand the unindexed phases and their formation mechanisms. The absence of these peaks in the as-milled powder pattern is attributed to the small volume fraction of the phase along with the peak broadening due to the nanocrystalline nature of the powder, which leads to the diffraction peaks being overwhelmed by the XRD background <ce:cross-ref id="cf0165" refid="bb0105">[21]</ce:cross-ref>. Furthermore, the peaks of the sintered bulk samples are significantly narrower than those of the 40<ce:hsp sp="0.25"/>h as-milled powders due to grain growth during the SPS process <ce:cross-refs id="cf0170" refid="bb0065 bb0110">[13,22]</ce:cross-refs>. <ce:cross-ref id="cf0175" refid="f0005">Fig. 1</ce:cross-ref>(b) shows the morphology and qualitative size distribution of the 40<ce:hsp sp="0.25"/>h as-milled powder particles, including the corresponding EDS mapping of Ti, Fe, Co, Ni. The 40<ce:hsp sp="0.25"/>h as-milled powders exhibit near-equiaxed and irregular morphology, with particle sizes varying from several microns to 30<ce:hsp sp="0.25"/>μm. It is worth noting that the circled areas in the SEM image of <ce:cross-ref id="cf0180" refid="f0005">Fig. 1</ce:cross-ref>(b) correspond to the dark areas of EDS mapping of Ti, Fe, Co, Ni elements, which are caused by a height fluctuation in the powders associated with significant differences of particle size, and their non-planar surfaces. In other words, the constituent Ti, Fe, Co and Ni elements are uniformly distributed except in these dark areas. The semi-quantitative EDS/SEM results of the chemical distribution of the elemental constituents; Ti, Fe, Co and Ni are ~<ce:hsp sp="0.10"/>10.2, 29.6, 30.0 and 30.2<ce:hsp sp="0.25"/>at.%, respectively, suggest that the chemical composition of the 40<ce:hsp sp="0.25"/>h as-milled powders is relatively close to the target nominal composition (Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf>). Additionally, cross-sectional studies of high-magnification SEM image and EDS mapping of 40<ce:hsp sp="0.25"/>h as-milled powders also show that Ti, Fe, Co and Ni elements are uniformly distributed (See Supplementary Fig. 1). Note that EDS analyses in Supplementary Fig. 2 also reveal that the chemical composition of the 40<ce:hsp sp="0.25"/>h as-milled powders is remarkably similar to the target nominal composition. Furthermore, bright-field TEM image of 40<ce:hsp sp="0.25"/>h as-milled powders and its corresponding SAED pattern in Supplementary Fig. 3 confirms the presence of single fcc structure. Therefore, we note that a single fcc solid-solution phase was formed following 40<ce:hsp sp="0.25"/>h of MA.</ce:para>
+               <ce:para id="p0040" view="all">An SEM image of the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA following SPS is shown in <ce:cross-ref id="cf0185" refid="f0010">Fig. 2</ce:cross-ref>
+                  <ce:float-anchor refid="f0010"/>. Evidently, the microstructure is composed of two distinctive regions: dark regions, marked region 1 in <ce:cross-ref id="cf0190" refid="f0010">Fig. 2</ce:cross-ref>, that correspond to coarse grains and light gray regions, marked region 2 in <ce:cross-ref id="cf0195" refid="f0010">Fig. 2</ce:cross-ref>, that correspond to domains of nanosized grains. The inset micrograph of <ce:cross-ref id="cf0200" refid="f0010">Fig. 2</ce:cross-ref> reveals a high magnification of region 2 where the grains are nanometers in size. EDS/SEM analyses was carried out on the two different regions with the aim to measure their chemical compositions, which indicated that coarse grains are Ti-depleted (Ti, Fe, Ni, Co are ~<ce:hsp sp="0.10"/>1.1, 29.0, 32.0, 37.9<ce:hsp sp="0.25"/>at.%, respectively) whereas the nanosized grains are Ti-enriched (Ti, Fe, Ni, Co are ~<ce:hsp sp="0.10"/>13.6, 25.3, 28.0, 33.1<ce:hsp sp="0.25"/>at.%, respectively). In contrast, Fe, Ni and Co appear to be uniformly distributed in the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA.</ce:para>
+               <ce:para id="p0045" view="all">
+                  <ce:cross-ref id="cf0205" refid="f0015">Fig. 3</ce:cross-ref>
+                  <ce:float-anchor refid="f0015"/> shows TEM images of the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA consolidated by SPS. Bright-field TEM images (<ce:cross-ref id="cf0210" refid="f0015">Fig. 3</ce:cross-ref>(a) and (c)) reveal the presence of coarse grains and nanograins, as well as a small number of twins. Note that the volume fraction of coarse grains is estimated as ~<ce:hsp sp="0.10"/>13<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>4<ce:hsp sp="0.25"/>vol% based on twenty TEM images. It is worth pointing out that the majority of coarse grains are &gt;<ce:hsp sp="0.10"/>1<ce:hsp sp="0.25"/>μm, and therefore can more easily accommodate the deformation in comparison with the plasticity associated with ultra-fine grains <ce:cross-refs id="cf0215" refid="bb0065 bb0070">[13,14]</ce:cross-refs>. <ce:cross-ref id="cf0220" refid="f0015">Fig. 3</ce:cross-ref>(b) shows a high-magnification TEM image of grain A in <ce:cross-ref id="cf0225" refid="f0015">Fig. 3</ce:cross-ref>(a), suggesting the presence of dislocations. In addition, SAED pattern of grain A shown in the inset corresponding to the fcc structure along [011] zone axis with a lattice parameter of ~<ce:hsp sp="0.10"/>3.596<ce:hsp sp="0.25"/>Å, confirming that coarse grains display an fcc structure. In <ce:cross-ref id="cf0230" refid="f0015">Fig. 3</ce:cross-ref>(d), SAED pattern corresponding to the circled region in <ce:cross-ref id="cf0235" refid="f0015">Fig. 3</ce:cross-ref>(c), containing nanosized grains, reveals the fcc structure with a lattice parameter of ~<ce:hsp sp="0.10"/>3.604<ce:hsp sp="0.25"/>Å and few weak diffraction patterns which likely result from the small amount of the above-mentioned unindexed phases. EDS/TEM analyses were also carried out to measure the chemical compositions of coarse grains and nanograins. Note that the EDS/TEM results reveal that coarse grains consist of a Ti-depleted phase, whereas nanograins consist of a Ti-enriched phase, and that these results are consistent with the EDS/TEM data. Occasionally, the EDS/TEM results indicate that the unidentified phases are completely located in the nanosized regions, and in this case they will have the same influence on mechanical behavior. It is worth noting that the compositions of these unidentified phases are complex, containing different oxides and carbides. Additionally, as shown in <ce:cross-ref id="cf0240" refid="f0015">Fig. 3</ce:cross-ref>(c), the SAED pattern of grain B presented in the inset shows a typical diffraction pattern of the fcc structured twins, confirming the presence of twins. It is not surprising that twins could be readily formed in the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA, since fcc structured MEAs and HEAs commonly have low stacking-fault energy, which favors twin formation <ce:cross-refs id="cf0245" refid="bb0015 bb0025 bb0065">[3,5,13]</ce:cross-refs>. However, these twins are unlikely to contribute to mechanical behavior due to their low volume fraction <ce:cross-ref id="cf0250" refid="bb0065">[13]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0050" view="all">It is not surprising that a single fcc solid-solution phase is formed after 40<ce:hsp sp="0.25"/>h of milling for the following reasons. First, as shown in Supplementary Table 1, the physical parameters of the Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA, i.e., <ce:italic>Ω</ce:italic>
+                  <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1.83<ce:hsp sp="0.25"/>≥<ce:hsp sp="0.25"/>1.1, <ce:italic>δ</ce:italic>
+                  <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>4.73<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>6.6% and <ce:italic>VEC</ce:italic>
+                  <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>8.5<ce:hsp sp="0.25"/>≥<ce:hsp sp="0.25"/>8.0, predict the formation of a single fcc solid solution <ce:cross-refs id="cf0255" refid="bb0095 bb0100">[19,20]</ce:cross-refs>. Second, the formation of an extended solid solution during MA is consistent with published studies which attribute this phenomenon to the high strains present during MA <ce:cross-ref id="cf0260" refid="bb0105">[21]</ce:cross-ref>. Third, the Fe-Ni-Co matrix which is assumed to be the host lattice which favors the formation of a single fcc phase, and Ti has very similar affinity with Co, Ni and Fe <ce:cross-refs id="cf0265" refid="bb0010 bb0065 bb0095 bb0100">[2,13,19,20]</ce:cross-refs>. Hence, a single fcc solid-solution phase tends to form after 40<ce:hsp sp="0.25"/>h of milling. Originally, it was our goal to utilize the high local temperature gradients typical of SPS, coupled with the “sluggish diffusion” effect, to achieve a bimodal microstructure (multi-scale grains with identical chemical composition) <ce:cross-refs id="cf0270" refid="bb0015 bb0085">[3,17]</ce:cross-refs>. However, our results reveal the presence of multi-scale grains with different chemical compositions, along with some unidentified phases. This observation may be rationalized as follow: During the MA process, solubility extension naturally leads to the formation of a single-phase supersaturated solid solution. As shown in Supplementary Fig. 4, during SPS, highly localized thermal zones are readily generated at contact points between powder particles, thereby leading to recrystallization and compositional redistribution. Moreover, grain growth in these contact regions will be more pronounced than that associated with the interior of the powders, which can be confirmed by the SEM images in <ce:cross-ref id="cf0275" refid="f0010">Fig. 2</ce:cross-ref>, showing the presence of coarse grains at the particle boundaries. Thus, heterogeneous recrystallization can take place during SPS, resulting in non-uniform grain size distributions <ce:cross-ref id="cf0280" refid="bb0065">[13]</ce:cross-ref>. Additionally, a strict parameter of Δ<ce:italic>H</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>f</ce:italic>
+                  </ce:inf> revealing the formation enthalpy for binary complex compounds is preferred to be utilized to predict the formation of single-phase HEAs <ce:cross-ref id="cf0285" refid="bb0110">[22]</ce:cross-ref>, that is, a single phase will be formed when −<ce:italic>
+                     <ce:hsp sp="0.10"/>T</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>ann</ce:italic>
+                  </ce:inf>Δ<ce:italic>S</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>mix</ce:italic>
+                  </ce:inf>
+                  <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>Δ<ce:italic>H</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>f</ce:italic>
+                  </ce:inf>
+                  <ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>37<ce:hsp sp="0.25"/>meV/atom (<ce:italic>T</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>ann</ce:italic>
+                  </ce:inf> is the annealing temperature, and here <ce:italic>T</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>ann</ce:italic>
+                  </ce:inf>
+                  <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                  <ce:italic>T</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>Sintering</ce:italic>
+                  </ce:inf>
+                  <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1273<ce:hsp sp="0.25"/>K) <ce:cross-ref id="cf0290" refid="bb0110">[22]</ce:cross-ref>. The calculated value of −<ce:italic>
+                     <ce:hsp sp="0.10"/>T</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>ann</ce:italic>
+                  </ce:inf>Δ<ce:italic>S</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>mix</ce:italic>
+                  </ce:inf>
+                  <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>−<ce:italic>
+                     <ce:hsp sp="0.10"/>T</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>Sintering</ce:italic>
+                  </ce:inf>Δ<ce:italic>S</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>mix</ce:italic>
+                  </ce:inf> here is −<ce:hsp sp="0.10"/>144<ce:hsp sp="0.25"/>meV/atom, and the lowest ΔH<ce:inf loc="post">
+                     <ce:italic>f</ce:italic>
+                  </ce:inf> of any binary among Ti, Fe, Co and Ni is −<ce:hsp sp="0.10"/>435<ce:hsp sp="0.25"/>meV/atom, thereby a single phase cannot be formed in the Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA, which is consistent with our experimental results.</ce:para>
+               <ce:para id="p0055" view="all">It is important to emphasize that the coarse grains exceeding 1<ce:hsp sp="0.25"/>μm in the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA (Δ<ce:italic>S</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>mix</ce:italic>
+                  </ce:inf>
+                  <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>10.92<ce:hsp sp="0.25"/>JK<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>
+                  <ce:hsp sp="0.25"/>mol<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>) possibly result from the moderated complex lattice potential energy found in the random solid solution microstructure (the so-called “sluggish diffusion” effect) <ce:cross-refs id="cf0295" refid="bb0010 bb0015">[2,3]</ce:cross-refs>. However, a strong “sluggish diffusion” effect would hinder coarsening, for example, the coarser grains in the bimodal Al<ce:inf loc="post">7.5</ce:inf>Fe<ce:inf loc="post">25</ce:inf>Co<ce:inf loc="post">25</ce:inf>Ni<ce:inf loc="post">25</ce:inf>Cu<ce:inf loc="post">17.5</ce:inf> HEA (Δ<ce:italic>S</ce:italic>
+                  <ce:inf loc="post">
+                     <ce:italic>mix</ce:italic>
+                  </ce:inf>
+                  <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>12.80<ce:hsp sp="0.25"/>JK<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>
+                  <ce:hsp sp="0.25"/>mol<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup>) are significantly smaller than 1<ce:hsp sp="0.25"/>μm <ce:cross-ref id="cf0300" refid="bb0065">[13]</ce:cross-ref>.</ce:para>
+               <ce:para id="p0060" view="all">
+                  <ce:cross-ref id="cf0305" refid="f0020">Fig. 4</ce:cross-ref>(a)<ce:float-anchor refid="f0020"/> shows a representative engineering stress-strain curve of the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA. The bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA exhibits a yield strength of ~<ce:hsp sp="0.10"/>1830<ce:hsp sp="0.25"/>MPa, compressive strength of ~<ce:hsp sp="0.10"/>2024<ce:hsp sp="0.25"/>MPa, and strain at failure of ~<ce:hsp sp="0.10"/>18.7%. <ce:cross-ref id="cf0310" refid="f0020">Fig. 4</ce:cross-ref>(b) shows compressive yield strength versus strain-to-failure for the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA, and compares the results to those of fcc-based HEAs prepared by casting or the combination of MA and SPS in the literature <ce:cross-refs id="cf0315" refid="bb0065 bb0115 bb0120 bb0125 bb0130 bb0135">[13,23–27]</ce:cross-refs>. Through this comparison, it can be stated that the fcc structured Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA displays an ultra-high yield strength. Furthermore, the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA with multi-scale grains show dramatically enhanced plasticity, as compared to the bimodal fcc Al<ce:inf loc="post">7.5</ce:inf>Fe<ce:inf loc="post">25</ce:inf>Co<ce:inf loc="post">25</ce:inf>Ni<ce:inf loc="post">25</ce:inf>Cu<ce:inf loc="post">17.5</ce:inf> HEA exhibiting ultra-high yield strength (~<ce:hsp sp="0.10"/>1795<ce:hsp sp="0.25"/>MPa) <ce:cross-ref id="cf0320" refid="bb0065">[13]</ce:cross-ref>. In detail, strain at failure of the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA increased by 76.4% as compared to that of the bimodal fcc Al<ce:inf loc="post">7.5</ce:inf>Fe<ce:inf loc="post">25</ce:inf>Co<ce:inf loc="post">25</ce:inf>Ni<ce:inf loc="post">25</ce:inf>Cu<ce:inf loc="post">17.5</ce:inf> HEA. It is obvious that significant volume fractions of coarse grains (&gt;<ce:hsp sp="0.10"/>1<ce:hsp sp="0.25"/>μm) present in the bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA likely contribute to the observed enhancement of plasticity <ce:cross-ref id="cf0325" refid="bb0080">[16]</ce:cross-ref>. The fracture morphology shown in Supplementary Fig. 5 reveals that coarse grains underwent severe deformation as indicated by slip lines, marked by yellow arrows. Conversely, nanosized grains showed intergranular fracture features. This suggests that the coarse grains play an important role during plastic deformation, whereas the ultra-high yield strength is primarily attributed to grain-boundary strengthening mechanisms arising from the nanosized grains <ce:cross-refs id="cf0330" refid="bb0065 bb0080">[13,16]</ce:cross-refs>.</ce:para>
+               <ce:para id="p0065" view="all">In summary, a Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA was designed and fabricated by the combination of MA and SPS in the present work. After MA, a single fcc solid-solution was observed. Following SPS, bulk Ti<ce:inf loc="post">10</ce:inf>Fe<ce:inf loc="post">30</ce:inf>Co<ce:inf loc="post">30</ce:inf>Ni<ce:inf loc="post">30</ce:inf> MEA shows a multiscale microstructure containing coarse grains (&gt;<ce:hsp sp="0.10"/>1<ce:hsp sp="0.25"/>μm) and nanosized grains, as well as different chemical compositions. Accordingly, coarse grains are responsible for the enhanced plasticity whereas the ultra-high strength principally results from nanosized grains, which supports the argument of the present study.</ce:para>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section id="s0005" view="all">
+                  <ce:section-title id="st0020">Acknowledgements</ce:section-title>
+                  <ce:para id="p0070" view="all">The authors acknowledge the financial support from the US <ce:grant-sponsor id="gts0005" sponsor-id="http://dx.doi.org/10.13039/100000183" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Army Research Office</ce:grant-sponsor> (<ce:grant-number id="gtn0005" refid="gts0005">W911NF-16-1-0269</ce:grant-number>) and Alexander von Humboldt Research Award for Senior Researchers, and from the Opening Project of Guangdong Key Laboratory for Advanced Metallic Materials processing, <ce:grant-sponsor id="gts0010" sponsor-id="http://dx.doi.org/10.13039/501100005015" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">South China University of Technology</ce:grant-sponsor> (<ce:grant-number id="gtn0010" refid="gts0010">GJ201601</ce:grant-number>).</ce:para>
+               </ce:section>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section id="s0010" view="extended">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st0025">Supplementary data</ce:section-title>
+                  <ce:para id="p0075" view="all">
+                     <ce:display>
+                        <ce:e-component id="ec0005">
+                           <ce:caption id="ca0025">
+                              <ce:simple-para id="sp0035" view="all">Supplementary material</ce:simple-para>
+                           </ce:caption>
+                           <ce:alt-text role="short" id="al0030">Image 1</ce:alt-text>
+                           <ce:link id="lk0030" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" locator="mmc1" xlink:type="simple" xlink:href="pii:S1359646217305353/mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+               <ce:section view="compact-standard" id="s0015">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st0030">Supplementary data</ce:section-title>
+                  <ce:para id="p0080" view="all">Supplementary data to this article can be found online at <ce:inter-ref xlink:href="doi:10.1016/j.scriptamat.2017.09.023" id="ir0005" xlink:type="simple">http://dx.doi.org/10.1016/j.scriptamat.2017.09.023</ce:inter-ref>.</ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0035">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Granberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nordlund</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.W.</ce:given-name>
+                                 <ce:surname>Ullah</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>116</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>13</sb:issue-nr>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>135504</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                              <sb:last-page>303</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Murty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ranganathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-entropy Alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>first ed.</sb:edition>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Butterworth-Heinemann</sb:name>
+                                 <sb:location>Oxford</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Stepanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Shaysultanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.Y.</ce:given-name>
+                                 <ce:surname>Yurchenko</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>636</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>188</sb:first-page>
+                              <sb:last-page>195</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Gludovatz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hohenwarter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Catoor</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>345</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1153</sb:first-page>
+                              <sb:last-page>1158</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Gludovatz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hohenwarter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.V.</ce:given-name>
+                                 <ce:surname>Thurston</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nat. Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10602</sb:first-page>
+                           </sb:pages>
+                           <ce:doi>10.1038/ncomms10602(2016)</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K. Biswas</ce:given-name>
+                                 <ce:surname>Tazuddin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.P.</ce:given-name>
+                                 <ce:surname>Gurao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>657</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>224</sb:first-page>
+                              <sb:last-page>233</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Owen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Pickering</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Y.</ce:given-name>
+                                 <ce:surname>Playford</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11</sb:first-page>
+                              <sb:last-page>18</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.G.</ce:given-name>
+                                 <ce:surname>Pradeep</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>534</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>227</sb:first-page>
+                              <sb:last-page>230</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Mater.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1701678</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.L.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>187</sb:first-page>
+                              <sb:last-page>196</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Baker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>120</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>228</sb:first-page>
+                              <sb:last-page>239</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>107</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>59</sb:first-page>
+                              <sb:last-page>71</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.W.</ce:given-name>
+                                 <ce:surname>Shan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Stach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.K.</ce:given-name>
+                                 <ce:surname>Wiezorek</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>305</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>305</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>654</sb:first-page>
+                              <sb:last-page>657</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.L.</ce:given-name>
+                                 <ce:surname>Tellkamp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Melmed</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.J.</ce:given-name>
+                                 <ce:surname>Lavernia</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2335</sb:first-page>
+                              <sb:last-page>2343</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nature</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>419</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>912</sb:first-page>
+                              <sb:last-page>915</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.A.</ce:given-name>
+                                 <ce:surname>Olevsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Froyen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Ceram. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>92</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>S1</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>S122</sb:first-page>
+                              <sb:last-page>S132</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>13</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4887</sb:first-page>
+                              <sb:last-page>4897</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Chem. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>132</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>103505</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Suryanarayana</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>184</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Troparevsky</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Morris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.C.</ce:given-name>
+                                 <ce:surname>Kent</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Phys. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>X</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:article-number>011041</sb:article-number>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Qiao</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>357</sb:first-page>
+                              <sb:last-page>362</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Shiu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Charact.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                              <sb:last-page>67</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Ji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>24</sb:first-page>
+                              <sb:last-page>27</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Cai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>662</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                              <sb:last-page>31</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sohn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Scr. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                              <sb:last-page>32</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

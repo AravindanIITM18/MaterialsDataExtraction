@@ -1,0 +1,408 @@
+
+Table Table 1:
+Input Table:
+Alloy,Al,Hf,Mo,Nb,Ta,Ti,Zr
+AlMo0.5NbTa0.5TiZr,20.4,-,10.5,22.4,10.1,17.8,18.8
+Al0.4Hf0.6NbTaTiZr,7.9,12.8,-,23.0,16.8,18.9,20.6
+
+Retrieved Properties: Indentation Properties, Optical Properties, Absorption Properties
+Final Output:
+-
+
+Table Table 2:
+Input Table:
+Alloy,Phase ID,a (pm)*,a (pm)**,Ref.
+AlMo0.5NbTa0.5TiZr,bcc1,326.8,325.9,This work
+AlMo0.5NbTa0.5TiZr,bcc2,332.4,332.2,nan
+Al0.4Hf0.6NbTaTiZr,bcc,336.7,337.2,This work
+CrMo0.5NbTa0.5TiZr,bcc1,325.5,nan,[12]
+CrMo0.5NbTa0.5TiZr,bcc2,338.6,nan,nan
+CrMo0.5NbTa0.5TiZr,Laves,733.4,nan,nan
+HfNbTaTiZr,bcc,340.4,340.5,[8]
+
+Retrieved Properties: Lattice Parameter, Lattice Strain, Lattice Constants
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,326.8,pm
+AlMo0.5NbTa0.5TiZr,cast,compression deformation at 1273K,Lattice Parameter,325.9,pm
+AlMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,332.4,pm
+AlMo0.5NbTa0.5TiZr,cast,compression deformation at 1273K,Lattice Parameter,332.2,pm
+Al0.4Hf0.6NbTaTiZr,cast,annealing,Lattice Parameter,336.7,pm
+Al0.4Hf0.6NbTaTiZr,cast,compression deformation at 1273K,Lattice Parameter,337.2,pm
+CrMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,325.5,pm
+CrMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,338.6,pm
+CrMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,733.4,pm
+HfNbTaTiZr,cast,annealing,Lattice Parameter,340.4,pm
+HfNbTaTiZr,cast,compression deformation at 1273K,Lattice Parameter,340.5,pm
+
+Table Table 3:
+Input Table:
+Alloy,r (gcm-3),H v (GPa),Ref.
+AlMo0.5NbTa0.5TiZr,7.40+-0.08,5.8+-0.1,This work
+Al0.4Hf0.6NbTaTiZr,9.05+-0.05,4.9+-0.1,This work
+CrMo0.5NbTa0.5TiZr,8.23+-0.05,5.3+-0.1,[12]
+HfNbTaTiZr,9.94+-0.05,3.8+-0.1,[8]
+
+Retrieved Properties: Density, Mass Density, Relative Density, Hardness
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,-,-,Density,7.40+-0.08,g/cm³
+Al0.4Hf0.6NbTaTiZr,-,-,Density,9.05+-0.05,g/cm³
+CrMo0.5NbTa0.5TiZr,-,-,Density,8.23+-0.05,g/cm³
+HfNbTaTiZr,-,-,Density,9.94+-0.05,g/cm³
+AlMo0.5NbTa0.5TiZr,-,-,Hardness,5.8+-0.1,GPa
+Al0.4Hf0.6NbTaTiZr,-,-,Hardness,4.9+-0.1,GPa
+CrMo0.5NbTa0.5TiZr,-,-,Hardness,5.3+-0.1,GPa
+HfNbTaTiZr,-,-,Hardness,3.8+-0.1,GPa
+
+Table Table 4:
+Input Table:
+T (K),296,1073,1273,1473
+s 0.2 (MPa),2000.0,1597,745,250
+s p (MPa),2368.0,1810,772,275
+E (GPa),178.6,80,36,27
+d (%),10.0,11,>50,>50
+
+Retrieved Properties: Stress, Ultimate Tensile Strength, Elastic Modulus, Elastic Moduli, Compression, Yield Strength, Fracture, Elasticity, Compressive Strength, Strain
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 296,Compression Strength,2000.0,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1073,Compression Strength,1597,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Compression Strength,745,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1473,Compression Strength,250,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 296,Ultimate Tensile Strength,2368.0,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1073,Ultimate Tensile Strength,1810,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Ultimate Tensile Strength,772,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1473,Ultimate Tensile Strength,275,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 296,Elastic Modulus,178.6,GPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1073,Elastic Modulus,80,GPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Elastic Modulus,36,GPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1473,Elastic Modulus,27,GPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 296,Fracture Strain,10.0,%
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1073,Fracture Strain,11.0,%
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Fracture Strain,>50,%
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1473,Fracture Strain,>50,%
+
+Table Table 5:
+Input Table:
+T (K),296,1073,1273,1473
+s 0.2 (MPa),1841.0,796,298,89
+s p (MPa),2269.0,834,455,135
+E (GPa),78.1,48.8,23.3,nan
+d (%),10.0,>50,>50,>50
+
+Retrieved Properties: Stress, Ultimate Tensile Strength, Elastic Modulus, Elastic Moduli, Compression, Yield Strength, Fracture, Elasticity, Compressive Strength, Strain
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 296,Compressive Strength,1841.0,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1073,Compressive Strength,796,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Compressive Strength,298,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1473,Compressive Strength,89,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 296,Ultimate Tensile Strength,2269.0,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1073,Ultimate Tensile Strength,834,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Ultimate Tensile Strength,455,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1473,Ultimate Tensile Strength,135,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 296,Elastic Modulus,78.1,GPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1073,Elastic Modulus,48.8,GPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Elastic Modulus,23.3,GPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1473,Elastic Modulus,nan,GPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 296,Fracture Strain,10.0,% 
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1073,Fracture Strain,>50,% 
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Fracture Strain,>50,% 
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1473,Fracture Strain,>50,% 
+
+Table Table 6:
+Input Table:
+ID #,Constituent,Al,Mo,Nb,Ta,Ti,Zr
+1,Matrix grains,19.9,11.3,22.9,10.6,18.5,16.8
+2,Dark large particles (at grain boundaries),39.5,0.0,10.9,2.3,7.2,40.1
+3,Bright nano-lamellar phase,15.4,14.5,25.6,12.8,19.2,12.5
+4,Dark nano-lamellar phase,27.6,6.8,19.1,7.2,15.2,24.1
+
+Retrieved Properties: MOR Activity, Elastic Moduli, Poisson's Ratio, Figure of Merit, Friction, Elasticity, Zener Ratio, Mass Activity, ZT Value, Entropy
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,annealed,Matrix grains,Chemical Composition,Al: 19.9; Mo: 11.3; Nb: 22.9; Ta: 10.6; Ti: 18.5; Zr: 16.8,at%
+AlMo0.5NbTa0.5TiZr,annealed,Dark large particles (at grain boundaries),Chemical Composition,Al: 39.5; Mo: 0.0; Nb: 10.9; Ta: 2.3; Ti: 7.2; Zr: 40.1,at%
+AlMo0.5NbTa0.5TiZr,annealed,Bright nano-lamellar phase,Chemical Composition,Al: 15.4; Mo: 14.5; Nb: 25.6; Ta: 12.8; Ti: 19.2; Zr: 12.5,at%
+AlMo0.5NbTa0.5TiZr,annealed,Dark nano-lamellar phase,Chemical Composition,Al: 27.6; Mo: 6.8; Nb: 19.1; Ta: 7.2; Ti: 15.2; Zr: 24.1,at%
+
+Table Table 7:
+Input Table:
+ID #,Constituent,Al,Mo,Nb,Ta,Ti,Zr
+1,Matrix grains,20.8,11.6,21.9,8.7,18.2,18.8
+2,Dark large particles (at grain boundaries),38.9,0.5,11.6,2.5,7.5,39.0
+3,Bright nano-lamellar phase,12.1,18.1,27.1,13.2,18.8,10.6
+4,Dark nano-lamellar phase,32.6,4.5,15.3,4.9,12.7,30.0
+5,"Gray regions (inside grains, Fig. 6d)",21.7,7.2,23.2,7.8,21.3,18.9
+
+Retrieved Properties: Indentation Properties, Optical Properties, Absorption Properties
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,-,Matrix grains,Chemical Composition,Al: 20.8; Mo: 11.6; Nb: 21.9; Ta: 8.7; Ti: 18.2; Zr: 18.8,at%
+AlMo0.5NbTa0.5TiZr,-,Dark large particles (at grain boundaries),Chemical Composition,Al: 38.9; Mo: 0.5; Nb: 11.6; Ta: 2.5; Ti: 7.5; Zr: 39.0,at%
+AlMo0.5NbTa0.5TiZr,-,Bright nano-lamellar phase,Chemical Composition,Al: 12.1; Mo: 18.1; Nb: 27.1; Ta: 13.2; Ti: 18.8; Zr: 10.6,at%
+AlMo0.5NbTa0.5TiZr,-,Dark nano-lamellar phase,Chemical Composition,Al: 32.6; Mo: 4.5; Nb: 15.3; Ta: 4.9; Ti: 12.7; Zr: 30.0,at%
+AlMo0.5NbTa0.5TiZr,-,"Gray regions (inside grains, Fig. 6d)",Chemical Composition,Al: 21.7; Mo: 7.2; Nb: 23.2; Ta: 7.8; Ti: 21.3; Zr: 18.9,at%
+
+Table Table 8:
+Input Table:
+Alloy,T   L   NE     (K),T   S   NE     (K),T   2   NE     (K)
+AlMo0.5NbTa0.5TiZr,2046,1314,1391
+Al0.4Hf0.6NbTaTiZr,2238,1595,-
+CrMo0.5NbTa0.5TiZr,2877,1610,1664
+HfNbTaTiZr,2290,1836,-
+
+Retrieved Properties: Stress, Seebeck Coefficient, Temperature Metrics, A2 Phase Size, Surface Area, Thermal Expansion, A2 Phase Amount, Thermal Expansion Coefficient
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,-,T_L_NE(in K): 2046 ;T_S_NE(in K): 1314 ;T_2_NE(in K): 1391,Temperature Metrics,2046,°C
+Al0.4Hf0.6NbTaTiZr,-,T_L_NE(in K): 2238 ;T_S_NE(in K): 1595,Temperature Metrics,2238,°C
+CrMo0.5NbTa0.5TiZr,-,T_L_NE(in K): 2877 ;T_S_NE(in K): 1610 ;T_2_NE(in K): 1664,Temperature Metrics,2877,°C
+HfNbTaTiZr,-,T_L_NE(in K): 2290 ;T_S_NE(in K): 1836,Temperature Metrics,2290,°C
+
+Table Table 9:
+Input Table:
+Reaction equation,AlMo0.5NbTa0.5TiZr,Al0.4Hf0.6NbTaTiZr,CrMo0.5NbTa0.5TiZr,HfNbTaTiZr
+L-bcc1 (TL ),2046,2238,2877,2290
+L-bcc1 (TS ),1791,2021,1913,2131
+bcc1-bcc2,-,1318,-,1258
+bcc1-bcc2+hcp,-,1290,-,"1092, 992"
+bcc1-Laves,-,-,1542,-
+bcc1-Ti3Al,1131,-,-,-
+bcc1-Ti3Al+Al2Zr3,1068,-,-,-
+
+Retrieved Properties: Ultimate Tensile Strength, Stress, Fatigue, Temperature Metrics, Lifetime Properties
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,-,Reaction: L-bcc1 (TL),Temperature Metrics,2046,K
+Al0.4Hf0.6NbTaTiZr,-,Reaction: L-bcc1 (TL),Temperature Metrics,2238,K
+CrMo0.5NbTa0.5TiZr,-,Reaction: L-bcc1 (TL),Temperature Metrics,2877,K
+HfNbTaTiZr,-,Reaction: L-bcc1 (TL),Temperature Metrics,2290,K
+AlMo0.5NbTa0.5TiZr,-,Reaction: L-bcc1 (TS),Temperature Metrics,1791,K
+Al0.4Hf0.6NbTaTiZr,-,Reaction: L-bcc1 (TS),Temperature Metrics,2021,K
+CrMo0.5NbTa0.5TiZr,-,Reaction: L-bcc1 (TS),Temperature Metrics,1913,K
+HfNbTaTiZr,-,Reaction: L-bcc1 (TS),Temperature Metrics,2131,K
+Al0.4Hf0.6NbTaTiZr,-,Reaction: bcc1-bcc2,Temperature Metrics,1318,K
+HfNbTaTiZr,-,Reaction: bcc1-bcc2,Temperature Metrics,1258,K
+Al0.4Hf0.6NbTaTiZr,-,Reaction: bcc1-bcc2+hcp,Temperature Metrics,1290,K
+HfNbTaTiZr,-,Reaction: bcc1-bcc2+hcp,Temperature Metrics,"1092, 992",K
+CrMo0.5NbTa0.5TiZr,-,Reaction: bcc1-Laves,Temperature Metrics,1542,K
+AlMo0.5NbTa0.5TiZr,-,Reaction: bcc1-Ti3Al,Temperature Metrics,1131,K
+AlMo0.5NbTa0.5TiZr,-,Reaction: bcc1-Ti3Al+Al2Zr3,Temperature Metrics,1068,K
+
+Table Table 10:
+Input Table:
+T =1273K,Fraction,Al or Cr,Hf or Mo,Nb,Ta,Ti,Zr
+AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr
+bcc1,1.00,20,10,20,10,20,20
+nan,nan,nan,nan,nan,nan,nan,nan
+Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr
+bcc1,0.63,9.4,15.1,15.4,13.9,21.8,24.3
+bcc2,0.37,5.2,5.5,28.3,30.9,17.3,12.9
+hcp,0.01,22.4,63.1,0.1,0.1,4.8,9.5
+nan,nan,nan,nan,nan,nan,nan,nan
+CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr
+bcc1,0.80,8.4,12.5,25.0,12.5,24.8,16.8
+Laves,0.20,66.5,0.0,0.0,0.0,0.6,33.0
+nan,nan,nan,nan,nan,nan,nan,nan
+HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr
+bcc1,1,nan,20.0,20.0,20.0,20.0,20.0
+
+Retrieved Properties: Phase Fractions, Volume Fraction, Remanence
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Volume Fraction,1.00,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Volume Fraction,0.63,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Volume Fraction,0.37,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Volume Fraction,0.01,-
+CrMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Volume Fraction,0.80,-
+CrMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Volume Fraction,0.20,-
+HfNbTaTiZr,-,Temperature(in K): 1273,Volume Fraction,1,-
+
+Table Table 11:
+Input Table:
+T =973K,Fraction,Al or Cr,Hf or Mo,Nb,Ta,Ti,Zr
+AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr,AlMo0.5NbTa0.5TiZr
+bcc1,0.64,14.5,15.5,30.3,14.8,11.8,13.1
+Ti3Al,0.24,25.1,0.3,2.3,2.1,51.1,19.2
+Al2Zr3,0.12,40.0,nan,nan,nan,nan,60.0
+nan,nan,nan,nan,nan,nan,nan,nan
+Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr,Al0.4Hf0.6NbTaTiZr
+bcc1,0.44,8.4,7.2,10.9,6.5,30.5,36.5
+bcc2,0.42,2.9,0.7,35.8,40.4,14.1,6.2
+hcp,0.13,22.9,64.3,0.0,0.0,3.6,9.2
+nan,nan,nan,nan,nan,nan,nan,nan
+CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr,CrMo0.5NbTa0.5TiZr
+bcc1,0.71,1.2,14.0,28.1,14.0,28.1,14.6
+Laves,0.29,66.6,0.0,0.0,0.0,0.1,33.4
+nan,nan,nan,nan,nan,nan,nan,nan
+HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr,HfNbTaTiZr
+bcc2,0.51,-,3.3,38.3,38.4,15.5,4.5
+hcp,0.49,-,37.6,0.8,0.6,24.7,36.3
+
+Retrieved Properties: Phase Fractions, Volume Fraction, Remanence
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.64,-
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.24,-
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.12,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.44,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.42,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.13,-
+CrMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.71,-
+CrMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.29,-
+HfNbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.51,-
+HfNbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.49,-
+
+Table Table 12:
+Input Table:
+Element,Al,Cr,Hf,Mo,Nb,Ta,Ti,Zr
+r (pm),143.0,128.0,159.0,139.0,146.0,146.0,147.0,160.0
+kh,1.61,1.66,1.3,2.16,1.6,1.5,1.54,1.33
+V,3.0,6.0,4.0,6.0,5.0,5.0,4.0,4.0
+T m (K),933.5,2180.0,2506.0,2896.0,2750.0,3290.0,1941.0,2128.0
+
+Retrieved Properties: Melting Point, Valence Electron Concentration, Latent Heat, Electronegativity, Electrochemical Properties, Solidus Temperature, Electron Mean Free Path, Atomic Size, Atomic Radius, Bond Strength
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al,-,-,Atomic Radius,143.0,pm
+Cr,-,-,Atomic Radius,128.0,pm
+Hf,-,-,Atomic Radius,159.0,pm
+Mo,-,-,Atomic Radius,139.0,pm
+Nb,-,-,Atomic Radius,146.0,pm
+Ta,-,-,Atomic Radius,146.0,pm
+Ti,-,-,Atomic Radius,147.0,pm
+Zr,-,-,Atomic Radius,160.0,pm
+Al,-,-,Electronegativity,1.61,-
+Cr,-,-,Electronegativity,1.66,-
+Hf,-,-,Electronegativity,1.3,-
+Mo,-,-,Electronegativity,2.16,-
+Nb,-,-,Electronegativity,1.6,-
+Ta,-,-,Electronegativity,1.5,-
+Ti,-,-,Electronegativity,1.54,-
+Zr,-,-,Electronegativity,1.33,-
+Al,-,-,Valence Electron Concentration,3.0,-
+Cr,-,-,Valence Electron Concentration,6.0,-
+Hf,-,-,Valence Electron Concentration,4.0,-
+Mo,-,-,Valence Electron Concentration,6.0,-
+Nb,-,-,Valence Electron Concentration,5.0,-
+Ta,-,-,Valence Electron Concentration,5.0,-
+Ti,-,-,Valence Electron Concentration,4.0,-
+Zr,-,-,Valence Electron Concentration,4.0,-
+Al,-,-,Melting Point,933.5,K
+Cr,-,-,Melting Point,2180.0,K
+Hf,-,-,Melting Point,2506.0,K
+Mo,-,-,Melting Point,2896.0,K
+Nb,-,-,Melting Point,2750.0,K
+Ta,-,-,Melting Point,3290.0,K
+Ti,-,-,Melting Point,1941.0,K
+Zr,-,-,Melting Point,2128.0,K
+
+Table Table 13:
+Input Table:
+System,Phase,DH mix [30] (kJmol-1),Temperature range [27] (K)
+Al-Mo,Al12Mo,-1.45,<934
+Al-Mo,Al5Mo,-2.83,<1008
+Al-Mo,Al4Mo,-3.26,<1403
+Al-Mo,Al8Mo3,-4.05,<1818
+Al-Mo,AlMo,-5.1,1743-1993
+Al-Mo,AlMo3,-3.83,<2423
+nan,nan,nan,nan
+Al-Nb,Al3Nb,-13.76,<1873
+Al-Nb,AlNb2,-16.09,<2213
+Al-Nb,AlNb3,-13.54,<2333
+nan,nan,nan,nan
+Al-Ta,Al3Ta,-14.51,<1824
+Al-Ta,Al2Ta3,-19.2,<1867
+Al-Ta,AlTa,-18.37,<2043
+Al-Ta,AlTa2,-17.16,<2373
+nan,nan,nan,nan
+Al-Ti,Al3Ti,-22.11,<1623
+Al-Ti,Al2Ti,-26.2,<1513
+Al-Ti,AlTi,-29.5,<1753
+Al-Ti,AlTi3,-22.18,<1453
+nan,nan,nan,nan
+Al-Zr,Al3Zr,-34.04,<1853
+Al-Zr,Al2Zr,-39.82,<1918
+Al-Zr,Al3Zr2,-42.57,<1868
+Al-Zr,AlZr,-43.7,<1548
+Al-Zr,Al2Zr3,-41.38,<1758
+Al-Zr,AlZr2,-37.97,<1523
+Al-Zr,AlZr3,-31.7,<1261
+nan,nan,nan,nan
+Al-Hf,Al3Hf,-29.89,<1863
+Al-Hf,Al2Hf,-35.0,<1923
+Al-Hf,Al3Hf2,-37.46,<1913
+Al-Hf,AlHf,-38.5,<2073
+Al-Hf,Al2Hf3,-36.5,<1863
+Al-Hf,AlHf2,-33.52,<1393
+nan,nan,nan,nan
+Mo-Zr,Mo2Zr,-5.67,<2153
+Cr-Nb,Cr2Nb,-6.65,<2043
+Cr-Ta,Cr2Ta,-6.17,<2293
+Cr-Ti,Cr2Ti,-6.47,<1643
+Cr-Zr,Cr2Zr,-11.3,<1946
+
+Retrieved Properties: Mixing Entropy, Transformation Temperatures, Mixing Enthalpy, Working Temperature Range, Dehydrogenation Enthalpy, Magnetic Transition Temperature
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al-Mo(Al12Mo),-,<934, Mixing Enthalpy,-1.45,kJ/mol
+Al-Mo(Al5Mo),-,<1008, Mixing Enthalpy,-2.83,kJ/mol
+Al-Mo(Al4Mo),-,<1403, Mixing Enthalpy,-3.26,kJ/mol
+Al-Mo(Al8Mo3),-,<1818, Mixing Enthalpy,-4.05,kJ/mol
+Al-Mo(AlMo),-,1743-1993, Mixing Enthalpy,-5.1,kJ/mol
+Al-Mo(AlMo3),-,<2423, Mixing Enthalpy,-3.83,kJ/mol
+Al-Nb(Al3Nb),-,<1873, Mixing Enthalpy,-13.76,kJ/mol
+Al-Nb(AlNb2),-,<2213, Mixing Enthalpy,-16.09,kJ/mol
+Al-Nb(AlNb3),-,<2333, Mixing Enthalpy,-13.54,kJ/mol
+Al-Ta(Al3Ta),-,<1824, Mixing Enthalpy,-14.51,kJ/mol
+Al-Ta(Al2Ta3),-,<1867, Mixing Enthalpy,-19.2,kJ/mol
+Al-Ta(AlTa),-,<2043, Mixing Enthalpy,-18.37,kJ/mol
+Al-Ta(AlTa2),-,<2373, Mixing Enthalpy,-17.16,kJ/mol
+Al-Ti(Al3Ti),-,<1623, Mixing Enthalpy,-22.11,kJ/mol
+Al-Ti(Al2Ti),-,<1513, Mixing Enthalpy,-26.2,kJ/mol
+Al-Ti(AlTi),-,<1753, Mixing Enthalpy,-29.5,kJ/mol
+Al-Ti(AlTi3),-,<1453, Mixing Enthalpy,-22.18,kJ/mol
+Al-Zr(Al3Zr),-,<1853, Mixing Enthalpy,-34.04,kJ/mol
+Al-Zr(Al2Zr),-,<1918, Mixing Enthalpy,-39.82,kJ/mol
+Al-Zr(Al3Zr2),-,<1868, Mixing Enthalpy,-42.57,kJ/mol
+Al-Zr(AlZr),-,<1548, Mixing Enthalpy,-43.7,kJ/mol
+Al-Zr(Al2Zr3),-,<1758, Mixing Enthalpy,-41.38,kJ/mol
+Al-Zr(AlZr2),-,<1523, Mixing Enthalpy,-37.97,kJ/mol
+Al-Zr(AlZr3),-,<1261, Mixing Enthalpy,-31.7,kJ/mol
+Al-Hf(Al3Hf),-,<1863, Mixing Enthalpy,-29.89,kJ/mol
+Al-Hf(Al2Hf),-,<1923, Mixing Enthalpy,-35.0,kJ/mol
+Al-Hf(Al3Hf2),-,<1913, Mixing Enthalpy,-37.46,kJ/mol
+Al-Hf(AlHf),-,<2073, Mixing Enthalpy,-38.5,kJ/mol
+Al-Hf(Al2Hf3),-,<1863, Mixing Enthalpy,-36.5,kJ/mol
+Al-Hf(AlHf2),-,<1393, Mixing Enthalpy,-33.52,kJ/mol
+Mo-Zr(Mo2Zr),-,<2153, Mixing Enthalpy,-5.67,kJ/mol
+Cr-Nb(Cr2Nb),-,<2043, Mixing Enthalpy,-6.65,kJ/mol
+Cr-Ta(Cr2Ta),-,<2293, Mixing Enthalpy,-6.17,kJ/mol
+Cr-Ti(Cr2Ti),-,<1643, Mixing Enthalpy,-6.47,kJ/mol
+Cr-Zr(Cr2Zr),-,<1946, Mixing Enthalpy,-11.3,kJ/mol
+
+Table Table 14:
+Input Table:
+Alloy,DH mix (kJmol-1),DS mix (Jmol-1 K-1),T m (K),O,dr  (%),dkh  (%),dV  (%),Phases
+AlMo0.5NbTa0.5TiZr,-17.0,14.5,1982,1.7,4.5,13.8,20.9,bcc1+bcc2
+Al0.4Hf0.6NbTaTiZr,-6.5,14.5,2397,5.4,4.3,7.8,14.2,bcc
+CrMo0.5NbTa0.5TiZr,-5.2,14.5,2418,6.8,7.2,13.8,17.0,bcc1+bcc2+Laves
+HfNbTaTiZr,2.7,13.4,2523,12.7,4.3,8.1,11.1,bcc
+
+Retrieved Properties: Mixing Entropy, Magnetization, Temperature Metrics, HER Activity, Vacancy Formation Energy, Mixing Enthalpy, Voltage, H Pick-up, Phase Transition Temperatures, Diffusion
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlMo0.5NbTa0.5TiZr,-,-,Mixing Enthalpy,-17.0,kJmol-1
+AlMo0.5NbTa0.5TiZr,-,-,Mixing Entropy,14.5,Jmol-1 K-1
+AlMo0.5NbTa0.5TiZr,-,-,Temperature Metrics,1982,K
+Al0.4Hf0.6NbTaTiZr,-,-,Mixing Enthalpy,-6.5,kJmol-1
+Al0.4Hf0.6NbTaTiZr,-,-,Mixing Entropy,14.5,Jmol-1 K-1
+Al0.4Hf0.6NbTaTiZr,-,-,Temperature Metrics,2397,K
+CrMo0.5NbTa0.5TiZr,-,-,Mixing Enthalpy,-5.2,kJmol-1
+CrMo0.5NbTa0.5TiZr,-,-,Mixing Entropy,14.5,Jmol-1 K-1
+CrMo0.5NbTa0.5TiZr,-,-,Temperature Metrics,2418,K
+HfNbTaTiZr,-,-,Mixing Enthalpy,2.7,kJmol-1
+HfNbTaTiZr,-,-,Mixing Entropy,13.4,Jmol-1 K-1
+HfNbTaTiZr,-,-,Temperature Metrics,2523,K

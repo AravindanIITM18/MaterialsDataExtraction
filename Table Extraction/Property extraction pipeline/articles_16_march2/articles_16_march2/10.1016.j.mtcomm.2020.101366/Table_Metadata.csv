@@ -1,0 +1,13 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl0005,/home/sai/sai-mani/articles_all/10.1016.j.mtcomm.2020.101366/tables/Table 1.csv,Table 1,"Experimental data of practical density, theoretical density and relative density for SPS-ed pure Al, and Al10, Al20 and Al30 composites.",
+tbl0010,/home/sai/sai-mani/articles_all/10.1016.j.mtcomm.2020.101366/tables/Table 2.csv,Table 2,EDS analysis of SPS-ed Al10 and Al20 composites.,
+tbl0015,/home/sai/sai-mani/articles_all/10.1016.j.mtcomm.2020.101366/tables/Table 3.csv,Table 3,"Experimental data of d, s
+0.2, s
+f for SPS-ed pure Al, and Al10, Al20 and Al30 composites.",
+tbl0020,/home/sai/sai-mani/articles_all/10.1016.j.mtcomm.2020.101366/tables/Table 4.csv,Table 4,"Corrosion potential (E
+corr), pitting potential (E
+pit), passive region (DE=E
+pit-E
+corr), corrosion current density (i
+corr) and general corrosion rates (r
+corr) derived from the potentiodynamic polarization curves (Fig. 11).",

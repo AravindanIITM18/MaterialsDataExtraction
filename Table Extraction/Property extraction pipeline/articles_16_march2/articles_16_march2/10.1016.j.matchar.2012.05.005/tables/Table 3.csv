@@ -1,0 +1,6 @@
+Alloy,Yield stress,Compressive strength,Fracture strain
+,s  y  (MPa),s max (MPa),e p (%)
+Mo0,136,871,75
+Mo0.3,305,1269,58
+Mo0.5,510,1371,33
+Mo0.85,929,1441,21

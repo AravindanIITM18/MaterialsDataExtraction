@@ -1,0 +1,13 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.01.050\tables\Table 1.csv,Table 1,"Data summary for Al2M14 and Al3M14 alloy systems, including chemical composition, valence electron concentration (VEC), microhardness (HV), compressive yield strength s
+y
+c, tensile yield strength s
+y
+t, tensile ultimate strength sUTS
+t, uniform elongation d, phase constitutions and their volume fraction.",
+tbl2,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.01.050\tables\Table 2.csv,Table 2,Chemical compositions (at. %) in different regions or phases in the designed Al2M14 and Al3M14 HEAs measured by EDS. The variations for the EDS results are represented by the standard deviation from the measured series.,"{'a': 'O: overall, DR: dendritic region, ID: inter-dendritic region.'}"
+tbl3,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.01.050\tables\Table 3.csv,Table 3,"Lattice constants (a
+B2 and a
+BCC) of the ordered B2 and its parent BCC matrix, lattice misfits e, average sizes (r) of precipitates (the diameter of spherical particle or the length of cuboidal particle), and the parameter L (related to the shape of precipitates) in the designed Al2M14 and Al3M14 HEAs.","{'a': 'L\n=\n\n\n\ne\n2\n\n\nC\n\n44\n\n\nr\n\ns\n\n\n, in which C\n\n44\n = 130 GPa and s = 0.125 J/m2 for BCC/B2 alloys [65-67].'}"
+tbl4,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.01.050\tables\Table 4.csv,Table 4,"Data used for the strength calculations. M: Taylor factor; G: shear modulus of matrix; b: Burger's vector; u: Poisson ratio; e: lattice misfit between the precipitate and the matrix; r: average size of precipitates; f: average volume fraction of precipitates; r
+0: the optimal size of precipitates for the maximum strength increment.",

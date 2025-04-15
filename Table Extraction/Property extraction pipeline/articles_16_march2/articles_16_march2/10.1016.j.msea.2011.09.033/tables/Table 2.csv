@@ -1,0 +1,6 @@
+Constituent,Phase,Nb,Cr,Mo,Ta,Ti,Zr
+4mm2 area,BCC1+BCC2+FCC,22.20,18.35,10.15,11.73,19.30,18.27
+Primary bright particles,BCC1,26.80,13.22,14.30,16.80,19.07,9.82
+Matrix between the primary particles,BCC2,18.68,3.09,0.64,3.83,33.16,40.60
+Dark particles inside the matrix,FCC (Laves),12.07,40.74,6.35,6.99,10.78,23.09
+Transition layer,BCC1,26.96,6.74,9.92,14.14,28.08,14.16

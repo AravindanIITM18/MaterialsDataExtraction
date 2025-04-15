@@ -1,0 +1,13 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeCoNiMn0.25Al0.25,As-cast,-,Yield Strength(Tension),138.1,MPa
+FeCoNiMn0.25Al0.25,As-cast,-,Ultimate Tensile Strength(Tension),483.9,MPa
+FeCoNiMn0.25Al0.25,As-cast,-,Ductility,58.1,%EL
+FeCoNiMn0.25Al0.25,As-cast,-,Hardness,150.6,HV
+FeCoNiMn0.25Al0.25,Cold-rolled,-,Yield Strength(Tension),662.7,MPa
+FeCoNiMn0.25Al0.25,Cold-rolled,-,Ultimate Tensile Strength(Tension),1029.6,MPa
+FeCoNiMn0.25Al0.25,Cold-rolled,-,Ductility,7.9,%EL
+FeCoNiMn0.25Al0.25,Cold-rolled,-,Hardness,357.2,HV
+FeCoNiMn0.25Al0.25,Annealed,-,Yield Strength(Tension),331.4,MPa
+FeCoNiMn0.25Al0.25,Annealed,-,Ultimate Tensile Strength(Tension),651.0,MPa
+FeCoNiMn0.25Al0.25,Annealed,-,Ductility,47.9,%EL
+FeCoNiMn0.25Al0.25,Annealed,-,Hardness,175.8,HV

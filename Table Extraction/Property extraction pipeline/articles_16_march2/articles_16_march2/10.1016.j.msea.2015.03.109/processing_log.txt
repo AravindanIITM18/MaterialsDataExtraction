@@ -1,0 +1,72 @@
+
+Table Table 1:
+Input Table:
+Alloy/composition,g  (mJm  -2  ),D  H   mix  (kJmol  -1  ),D  S   mix  (Jmol  -1   K  -1  ),d  x100
+NiFeCrCo,26.8,-2.45,11.52,1.181
+NiFeCrCoMn,19.0,-3.04,13.37,1.057
+Ni14Fe20Cr26Co20Mn20,3.5,-2.6,13.22,1.046
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,9.7,-2.77,13.29,1.045
+
+Retrieved Properties: Mixing Entropy, Twin Density, Standard Enthalpy, Stacking Fault Energy, Formation Enthalpy, Surface Energy, Dehydrogenation Enthalpy, Entropy, Magnetic Entropy
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NiFeCrCo,-,-,Dehydrogenation Enthalpy,-2.45,kJ/mol
+NiFeCrCo,-,-,Dehydrogenation Enthalpy,-3.04,kJ/mol
+Ni14Fe20Cr26Co20Mn20,-,-,Dehydrogenation Enthalpy,-2.6,kJ/mol
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,-,Dehydrogenation Enthalpy,-2.77,kJ/mol
+NiFeCrCo,-,-,Mixing Entropy,11.52,J/mol·K
+NiFeCrCoMn,-,-,Mixing Entropy,13.37,J/mol·K
+Ni14Fe20Cr26Co20Mn20,-,-,Mixing Entropy,13.22,J/mol·K
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,-,Mixing Entropy,13.29,J/mol·K
+
+Table Table 2:
+Input Table:
+Annealing temperature (degC),Alloy,s   y  (MPa),s   UTS  (MPa),EL (%),Uniform EL (%),Toughness (Jcm  -3  )
+1100.0,Ni18.5Fe18.5Cr18.5Co26Mn18.5,134.0,414,73.5,66.5,257.0
+1100.0,Ni14Fe20Cr26Co20Mn20,162.0,462,51.6,50.1,193.0
+1100.0,NiFeCrCoMn,135.0,497,55.4,53.5,224.0
+1100.0,NiFeCrCo,197.0,582,82.4,70.3,408.0
+625.0,Ni18.5Fe18.5Cr18.5Co26Mn18.5,586.0,715,32.8,24.3,223.0
+675.0,Ni14Fe20Cr26Co20Mn20,1153.0,1187,1.8,1.7,19.5
+650.0,NiFeCrCoMn,660.0,851,24.9,17.4,201.0
+625.0,NiFeCrCo,540.0,786,49.3,35.4,360.0
+nan,Fe70.04Mn28Al1.6Si0.28C0.08,325.0,495,64.0,48.0,nan
+nan,Fe73.03Mn25Al1.6Si0.24Nb0.05C0.08,375.5,538,61.0,50.0,nan
+nan,Fe68.25Mn27Al4.1Si0.52Nb0.05C0.08,383.0,548,61.0,38.0,nan
+
+Retrieved Properties: Stress, Ultimate Tensile Strength, Shear Strength, Yield Strength, Fracture, Yield Stress, Ductility, Strain
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 1100.0,Yield Stress,134.0,MPa
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 1100.0,Ultimate Tensile Strength,414,MPa
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 1100.0,Ductility,73.5,%
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 1100.0,Yield Stress,162.0,MPa
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 1100.0,Ultimate Tensile Strength,462,MPa
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 1100.0,Ductility,51.6,%
+NiFeCrCoMn,-,Annealing temperature(in degC): 1100.0,Yield Stress,135.0,MPa
+NiFeCrCoMn,-,Annealing temperature(in degC): 1100.0,Ultimate Tensile Strength,497,MPa
+NiFeCrCoMn,-,Annealing temperature(in degC): 1100.0,Ductility,55.4,%
+NiFeCrCo,-,Annealing temperature(in degC): 1100.0,Yield Stress,197.0,MPa
+NiFeCrCo,-,Annealing temperature(in degC): 1100.0,Ultimate Tensile Strength,582,MPa
+NiFeCrCo,-,Annealing temperature(in degC): 1100.0,Ductility,82.4,%
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 625.0,Yield Stress,586.0,MPa
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 625.0,Ultimate Tensile Strength,715,MPa
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 625.0,Ductility,32.8,%
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 675.0,Yield Stress,1153.0,MPa
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 675.0,Ultimate Tensile Strength,1187,MPa
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 675.0,Ductility,1.8,%
+NiFeCrCoMn,-,Annealing temperature(in degC): 650.0,Yield Stress,660.0,MPa
+NiFeCrCoMn,-,Annealing temperature(in degC): 650.0,Ultimate Tensile Strength,851,MPa
+NiFeCrCoMn,-,Annealing temperature(in degC): 650.0,Ductility,24.9,%
+NiFeCrCo,-,Annealing temperature(in degC): 625.0,Yield Stress,540.0,MPa
+NiFeCrCo,-,Annealing temperature(in degC): 625.0,Ultimate Tensile Strength,786,MPa
+NiFeCrCo,-,Annealing temperature(in degC): 625.0,Ductility,49.3,%
+Fe70.04Mn28Al1.6Si0.28C0.08,-,-,Yield Stress,325.0,MPa
+Fe70.04Mn28Al1.6Si0.28C0.08,-,-,Ultimate Tensile Strength,495,MPa
+Fe70.04Mn28Al1.6Si0.28C0.08,-,-,Ductility,64.0,%
+Fe73.03Mn25Al1.6Si0.24Nb0.05C0.08,-,-,Yield Stress,375.5,MPa
+Fe73.03Mn25Al1.6Si0.24Nb0.05C0.08,-,-,Ultimate Tensile Strength,538,MPa
+Fe73.03Mn25Al1.6Si0.24Nb0.05C0.08,-,-,Ductility,61.0,%
+Fe68.25Mn27Al4.1Si0.52Nb0.05C0.08,-,-,Yield Stress,383.0,MPa
+Fe68.25Mn27Al4.1Si0.52Nb0.05C0.08,-,-,Ultimate Tensile Strength,548,MPa
+Fe68.25Mn27Al4.1Si0.52Nb0.05C0.08,-,-,Ductility,61.0,%

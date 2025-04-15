@@ -1,0 +1,148 @@
+Instructions:
+1. The context section contains definitions of various properties of materials commonly found in the literature of materials science. The table section contains a table caption and a table. Your task is to identify the properties from the context section that are described in the table. If no property from the context section is described in the table, reply with a '-'. 
+2. If one more properties from the context section is present in the table return a table in CSV format that contains the alloy composition, processing condition(if available in the table), testing condition(if available in the table) the property present in table(as written in the context section), property value and units as present in the table provided.
+3. Note that the table may contain the same property as in the context but with a different naming convention. Use the context to understand the property and decide if any property from the context is described in the table. If some property is mentioned with a heading that you are unsure of from the context provided, do not extract that property. Extract only those properties available in the context.
+3. Refer to the examples and follow the above instructions strictly.
+
+Context:
+
+1. Ultimate Tensile Strength (UTS):
+Definition: UTS is the maximum stress a material can withstand before breaking, measured during a tensile test. The test can be done under tension or compression, unless mentioned explicitly assume that the test is done under tension. Report the property as Ultimate Tensile Strength(Tension) if done under tension else report Ultimate Tensile Strength(Compression). Testing conditions mentioned are usually the strain rates and temperature.
+Units: Pascals (Pa), megapascals (MPa), or pounds per square inch (psi).
+Comparison: UTS is always higher than yield strength since it represents the material's maximum capacity to resist tension before fracture.
+Variations: Often called tensile strength or breaking strength.
+
+2. Yield Strength:
+Definition: Yield strength is the stress at which a material begins to deform plastically. The test can be done under tension or compression, unless mentioned explicitly assume that the test is done under tension. Report the property as Yield Strength(Tension) if done under tension else report Yield Strength(Compression). Testing conditions mentioned are usually the strain rates and temperature.
+Units: Pascals (Pa), megapascals (MPa), or pounds per square inch (psi).
+Comparison: Yield strength is always less than UTS, as plastic deformation starts at lower stress levels.
+Variations: Also referred to as yield stress, elastic limit stress, or stress at the elastic limit.
+
+3. Ductility:
+Definition: Ductility is the material's ability to undergo significant plastic deformation before rupture.
+Units: Dimensionless or percentage values, such as percent elongation (%EL) or percent reduction in area (%RA).
+Comparison: Higher ductility indicates a material can deform more without breaking. Brittle materials have very low ductility.
+Variations: Sometimes called fracture strain or elongation at break.
+
+4. Hardness:
+Definition: Hardness is a material’s resistance to deformation or penetration by an indenter under an applied load.
+Units: Scientifically measured in units of GPa but no universal unit, often expressed using specific test scales like Vickers (HV), Rockwell (HRC), Brinell (BH), or Mohs hardness.
+Comparison: Harder materials resist localized deformation better but may lack ductility.
+Variations:
+Microhardness: Measured using small loads to assess localized properties (e.g., Vickers or Knoop microhardness).
+Nano-hardness: Assessed using nano-indentation techniques, useful for thin films and coatings.
+
+5. Wear Resistance:
+Definition: Wear resistance is a material's ability to resist surface damage or material loss due to mechanical action such as friction, abrasion, or erosion.
+Units: No standard unit; it is often described qualitatively or measured by volume loss (e.g., mm³) during wear tests. There may be other units of measurement for this property, be sure to look for the units correctly.
+Comparison: Materials with high hardness often exhibit better wear resistance, though this also depends on other factors like toughness and lubrication.
+Variations:
+Abrasion resistance: Focused on resistance to scratching or scuffing.
+Erosion resistance: Focused on material loss due to particles or fluids impacting the surface.
+
+6. There are a lot of properties with clear definitions. In addition to the 5 properties mentioned above, if you are sure that one of the following properties is present, extract them in the prescribed format: Density, Melting point, Boiling point, Shear modulus, Young's modulus(elastic modulus), Poisson's ratio.
+
+7. Properties for a material cannot always be described through a number alone. For example, the Young's modulus of a material can vary with temperature and this is usually mentioned in the table details; be sure to extract this and report it as a testing condition. 
+
+8. Some properties like refractive index, Poisson's ratio do not have units, report units as "-".
+
+9. Since material systems may have hundreds of property to describe the system, the most frequently occuring ones and listed in the above sections. However, if a table contains units, value and details of any other property mention it as "Others(<insert property name>)" in the Property column and report it with value and unit in the same format as other properties.
+
+Examples:
+Go through these example prompts:
+Example 1:
+Table Caption: "Table 4. Shear Modulus(GPa) measured at various temperatures for 3 alloys."
+Table Data:
+Temperature (K),FeNiCoCr,FeNi,Ni
+77,-,68,84
+203,-,66,80
+293,84,62,76
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeNiCoCr,-,293,Shear Modulus,84,GPa
+FeNi,-,77,Shear Modulus,68,GPa
+FeNi,-,203,Shear Modulus,66,GPa
+FeNi,-,293,Shear Modulus,62,GPa
+Ni,-,77,Shear Modulus,84,GPa
+Ni,-,203,Shear Modulus,80,GPa
+Ni,-,293,Shear Modulus,76,GPa
+
+Example 2:
+Table Caption: "Table 4. Hardness of Al0.5CoCrCuFeNi alloys in four different states."
+Table Data:
+State,Hardness (HV)
+As-cast,208±2
+As-forged,350±3
+As-homogenized-FC,265±4
+As-homogenized-WQ,154±4
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,As-cast,-,Hardness,208±2,HV
+Al0.5CoCrCuFeNi,As-forged,-,Hardness,350±3,HV
+Al0.5CoCrCuFeNi,As-homogenized-FC,-,Hardness,265±4,HV
+Al0.5CoCrCuFeNi,As-homogenized-WQ,-,Hardness,154±4,HV
+
+Example 3:
+Table Caption: "Table 3. Summary of results on friction properties of alloys tested"
+Table Data:
+Alloy peak coefficient of friction (µp)
+Al0.5CoCrCuFeNi,0.65 ± 0.04
+Al1.0CoCrCuFeNi,0.65 ± 0.03
+Al2.0CoCrCuFeNi,0.70 ± 0.02
+
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Expected Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.5CoCrCuFeNi,-,-,Others(coefficient of friction),0.65 ± 0.04,-
+Al1.0CoCrCuFeNi,-,-,Others(coefficient of friction),0.65 ± 0.03,-
+Al2.0CoCrCuFeNi,-,-,Others(coefficient of friction),0.70 ± 0.02,-
+
+Table:
+Table Caption: "Chemical compositions of different regions in the (FeCoNiCrMn)100-
+
+x
+Al
+x
+ high-entropy alloys by EDS (at.%)."
+Table Data:
+Alloys Regions Crystal structure Chemical compositions/at.% Chemical compositions/at.%.1 Chemical compositions/at.%.2 Chemical compositions/at.%.3 Chemical compositions/at.%.4 Chemical compositions/at.%.5
+   NaN     NaN               NaN                         Al                           Cr                           Mn                           Fe                           Co                           Ni
+   Al0       O               FCC                        0.0                    21.3+-0.4                    20.7+-0.5                    19.4+-0.5                    19.3+-0.6                    19.3+-0.7
+   Al2       O               FCC                   2.4+-0.8                    20.9+-0.4                    19.7+-0.5                    19.5+-0.5                    19.3+-0.4                    18.2+-0.6
+   Al4       O               FCC                   4.6+-0.1                    20.9+-0.3                    18.1+-0.3                    19.1+-0.4                    19.3+-0.5                    18.0+-0.5
+   Al8       O                 -                   7.6+-0.2                    20.0+-0.3                    18.2+-0.3                    18.3+-0.4                    18.2+-0.2                    17.7+-0.5
+   NaN      BP               FCC                   7.0+-0.4                    20.9+-0.2                    15.4+-0.2                    21.1+-0.3                    19.4+-0.1                    16.2+-0.4
+   NaN      DP               BCC                  11.2+-0.5                    17.8+-0.3                    22.7+-0.4                    14.5+-0.2                    15.2+-0.3                    18.6+-0.2
+   Al9       O                 -                   9.3+-0.4                      19+-0.5                    18.4+-0.4                    17.5+-1.1                      18+-0.5                    17.8+-0.8
+   NaN      BP               FCC                     8+-0.6                    20.5+-0.4                      16+-0.6                      20+-0.4                    19.1+-0.2                    16.4+-0.3
+   NaN      DP               BCC                  14.1+-1.1                    15.8+-1.5                    21.1+-1.2                    13.3+-0.6                    15.2+-0.6                    20.5+-0.4
+  Al10       O                 -                  10.4+-0.8                      19+-0.4                      18+-0.3                    17.4+-0.5                    17.6+-0.2                    17.6+-0.2
+   NaN      BP               FCC                   9.1+-0.2                    18.8+-0.5                    17.9+-0.3                    18.1+-0.4                    18.2+-0.5                    17.9+-0.4
+   NaN      DP               BCC                  14.7+-0.5                      20+-1.0                    17.1+-0.5                    15.9+-0.5                    16.2+-0.4                    16.1+-0.4
+  Al11       O                 -                  11.9+-0.4                    17.9+-0.8                    17.9+-0.7                    17.6+-0.7                    17.1+-0.3                    17.6+-0.5
+   NaN      BP               FCC                  10.9+-1.0                    17.4+-0.6                    18.3+-0.4                    17.4+-0.1                    17.6+-0.2                    18.4+-0.6
+   NaN      DP               BCC                  13.3+-0.5                    19.5+-0.8                    17.1+-0.8                    17.2+-0.3                    16.9+-0.7                      16+-1.2
+  Al12       O                 -                  13.1+-0.7                    18.2+-0.4                    17.3+-0.4                    17.2+-0.2                      17+-0.4                    17.2+-0.2
+  Al13       O                 -                    14+-0.2                    17.9+-0.7                    17.2+-0.4                    16.8+-0.3                    16.9+-0.3                    17.2+-0.4
+  Al14       O                 -                  14.4+-0.8                    18.3+-0.5                    16.9+-0.5                    16.8+-0.2                    16.9+-0.4                    16.7+-0.2
+  Al16       O                 -                  17.5+-1.2                    17.4+-0.4                    16.4+-0.8                    16.2+-0.4                    16.1+-0.2                    16.3+-0.3
+  Al20       O               BCC                  21.3+-0.3                    16.4+-0.4                    15.9+-0.9                    15.5+-0.2                    15.4+-0.6                    15.5+-0.5
+   NaN      BP               BCC                  20.5+-1.8                    15.8+-0.2                    13.9+-0.6                    15.7+-0.4                    16.9+-0.6                    17.2+-0.3
+   NaN      DP               BCC                  24.9+-1.1                     5.3+-0.4                    17.3+-0.5                     9.1+-0.5                    20.1+-0.3                    24.3+-0.3
+
+Table Footer: "{'a': 'O: overall, BP: bright phase, DP: dark phase.'}"
+Question: Extract the properties of alloy systems present in the context from the following table data. Provide the data in comma-separated values (CSV) format only.
+Output: 
+-
+DOI: 10.1016.j.actamat.2013.09.037
+Total time taken: 1.51 seconds
+Total prompts: 1
+Total input tokens: 12866
+Total output tokens: 1
+Total tokens: 12867
+C:\Users\Meera\Desktop\Table Extraction\r2_dois1\10.1016.j.actamat.2014.08.026
+Processing DOI folder: 10.1016.j.actamat.2014.08.026

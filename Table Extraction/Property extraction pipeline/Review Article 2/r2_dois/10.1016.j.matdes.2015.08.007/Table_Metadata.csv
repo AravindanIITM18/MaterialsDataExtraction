@@ -1,0 +1,6 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.matdes.2015.08.007\tables\Table 1.csv,Table 1,"Chemical composition of different structural constituents of the Fe40Mn28Ni32-xCrx (x=4, 12, 18, 24) alloys as determined by SEM-based EDS-analysis. Typical regions of analysis are shown in Fig. 2. For comparison actual chemical compositions of the alloys are also given.",
+t0010,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.matdes.2015.08.007\tables\Table 2.csv,Table 2,"Microhardness of the Fe40Mn28Ni32-xCrx (x=4, 12, 18, 24) alloys after homogenization annealing.",
+t0015,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.matdes.2015.08.007\tables\Table 3.csv,Table 3,"Tensile properties of the Fe40Mn28Ni32-xCrx (x=4, 12, 18) alloys after cold rolling and annealing at 850degC for 30min.",
+t0020,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.matdes.2015.08.007\tables\Table 4.csv,Table 4,"Calculated lattice, dri
+, and shear modulus, dGi, distortions near an individual constituent element i in the Fe40Mn28Ni32-xCrx (x=4, 12, 18) alloys.",

@@ -1,0 +1,6 @@
+Alloy,"Crystal lattice parameter, nm","Crystal lattice parameter, nm","Crystal lattice parameter, nm","Crystal lattice parameter, nm"
+Alloy,bcc,C15 (fcc) Laves phase (ZrVCr-type),C14 (hcp) Laves phase (ZrCrAl-type),C14 (hcp) Laves phase (ZrAl2-type)
+CrNbTiVZr (Al0),a=0.3294+-0.0007,a=0.7270+-0.0002,-,-
+Al0.25CrNbTiVZr (Al0.25),a=0.3235+-0.0002,-,"a=0.5187+-0.0004, c=0.8465+-0.0004","a=0.5377+-0.0005, c=0.8947+-0.0004"
+Al0.5CrNbTiVZr (Al0.5),a=0.3211+-0.0002,-,"a=0.5190+-0.0003, c=0.8480+-0.0004","a=0.5365+-0.0003, c=0.8926+-0.0003"
+AlCrNbTiVZr (Al1),a=0.3202+-0.0002,-,"a=0.5187+-0.0005, c=0.8518+-0.0003","a=0.5322+-0.0002, c=0.8788+-0.0003"

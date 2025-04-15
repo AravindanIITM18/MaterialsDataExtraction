@@ -1,0 +1,9 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,/home/sai/sai-mani/articles_all/10.1016.j.intermet.2011.10.010/tables/Table 1.csv,Table 1,"Elemental composition of as-cast and as-annealed CoCrFeNiTi alloys. The italic values are much higher than the nominal ones, which stress the elemental segregation in different regions.",
+tbl2,/home/sai/sai-mani/articles_all/10.1016.j.intermet.2011.10.010/tables/Table 2.csv,Table 2,"Elemental composition of as-cast CoCrFeNiTiAl
+x
+ alloys. The italic values are much higher than the nominal ones, which stress the elemental segregation in different regions.",
+tbl3,/home/sai/sai-mani/articles_all/10.1016.j.intermet.2011.10.010/tables/Table 3.csv,Table 3,"Elemental composition of as-annealed CoCrFeNiTiAl
+x
+ alloys. The italic values are much higher than the nominal ones, which stress the elemental segregation in different regions.",
+tbl4,/home/sai/sai-mani/articles_all/10.1016.j.intermet.2011.10.010/tables/Table 4.csv,Table 4,"Smix, Hmix, d values and corresponding phase compositions of some high-entropy alloy systems.",{'NA': 'Ss: solid-solution phase; IC: intermetallic compound.'}

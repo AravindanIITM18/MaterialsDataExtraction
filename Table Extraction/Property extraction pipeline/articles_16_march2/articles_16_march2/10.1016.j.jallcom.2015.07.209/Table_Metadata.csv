@@ -1,0 +1,8 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2015.07.209/tables/Table 1.csv,Table 1,Chemical composition (in atomic %) of HfNbTaTiZr used in this work.,
+tbl2,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2015.07.209/tables/Table 2.csv,Table 2,"Vickers microhardness values (Hv) of cold-rolled sheets of HfNbTaTiZr in the as-cold-rolled condition and following annealing at 800 degC, 1000 degC and 1200 degC for 2 h
+a
+.",{'a': 'The microhardness of the alloy before rolling was 360 +- 10 Hv.'}
+tbl3,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2015.07.209/tables/Table 3.csv,Table 3,"True tensile yield stress (s0.2), peak stress (sp), fracture strain (ef), and elastic modulus (E) of 86% cold-rolled sheet of HfNbTaTiZr in the as-cold-rolled condition and after annealing at 800 degC and 1000 degC for 2 h.",
+tbl4,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2015.07.209/tables/Table 4.csv,Table 4,Chemical composition (in atomic %) of second-phase particles and characteristic regions in a cold-rolled sheet of HfNbTaTiZr after annealing at 800 degC for 2 h.,
+tbl5,/home/sai/sai-mani/articles_all/10.1016.j.jallcom.2015.07.209/tables/Table 5.csv,Table 5,Young's modulus (E) and molar volume (V) of pure elements. The Young's modulus of NbHfTaTiZr estimated using the rule of mixture (Equation (3)) is also shown.,

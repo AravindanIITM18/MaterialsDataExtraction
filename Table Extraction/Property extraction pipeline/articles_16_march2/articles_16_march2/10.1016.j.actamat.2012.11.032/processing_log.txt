@@ -1,0 +1,221 @@
+
+Table Table 1:
+Input Table:
+Alloy,Cr,Nb,Ti,V,Zr,r (gcm-3),r mix (gcm-3),H V (GPa)
+NbTiVZr,-,28.3,24.5,23.0,24.2,6.52,6.5,3.29+-0.03
+NbTiV2Zr,-,22.6,19.4,37.2,20.8,6.34,6.38,2.99+-0.03
+CrNbTiZr,24.6,26.7,23.9,-,24.8,6.67,6.7,4.10+-0.04
+CrNbTiVZr,20.2,20.0,19.9,19.6,20.3,6.57,6.52,4.72+-0.05
+
+Retrieved Properties: Relative Density, Density, Mass Density, Hardness, Indentation Properties
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbTiVZr,-,-,Density,6.52,gcm-3
+NbTiV2Zr,-,-,Density,6.34,gcm-3
+CrNbTiZr,-,-,Density,6.67,gcm-3
+CrNbTiVZr,-,-,Density,6.57,gcm-3
+NbTiVZr,-,-,Hardness,3.29±0.03,GPa
+NbTiV2Zr,-,-,Hardness,2.99±0.03,GPa
+CrNbTiZr,-,-,Hardness,4.10±0.04,GPa
+CrNbTiVZr,-,-,Hardness,4.72±0.05,GPa
+
+Table Table 2:
+Input Table:
+Unnamed: 0,Nb,Ti,V,Zr
+Matrix (grey),27.7,24.4,23.7,24.2
+Black particles,22.1,20.5,38.9,18.5
+White regions near particles,24.4,22.1,21.0,32.5
+
+Retrieved Properties: Fatigue, Hysteresis, Cell Voltage, Contact Resistance, Tafel Slope, Tafel Slopes, Optical Properties, Indentation Properties, Defects and Damage, Entropy
+Final Output:
+-
+
+Table Table 3:
+Input Table:
+Unnamed: 0,Nb,Ti,V,Zr
+White regions,21.4,19.2,10.7,48.6
+Dark regions,23.2,19.7,48.2,8.9
+Grey regions,23.8,19.7,42.5,14.0
+
+Retrieved Properties: Indentation Properties, Optical Properties, Absorption Properties
+Final Output:
+-
+
+Table Table 4:
+Input Table:
+Unnamed: 0,Cr,Nb,Ti,Zr
+Bright regions,7.9,34.6,31.4,26.1
+Dark regions,51.5,15.8,12.1,20.6
+
+Retrieved Properties: Indentation Properties, Optical Properties, Detection Properties
+Final Output:
+-
+
+Table Table 5:
+Input Table:
+Unnamed: 0,Cr,Nb,Ti,V,Zr
+Bright regions,4.1,31.6,33.1,12.8,18.4
+Dark regions,29.4,16.1,9.7,22.2,22.7
+
+Retrieved Properties: Indentation Properties, Dislocation Properties, Lifetime Properties
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CrNbTiVZr,-,Bright regions,Chemical Composition,Cr: 4.1; Nb: 31.6; Ti: 33.1; V: 12.8; Zr: 18.4,at%
+CrNbTiVZr,-,Dark regions,Chemical Composition,Cr: 29.4; Nb: 16.1; Ti: 9.7; V: 22.2; Zr: 22.7,at%
+
+Table Table 6:
+Input Table:
+Alloy,"T   L   NE    , degC","T   S   NE    , degC",Phase fraction,Phase fraction.1,Phase fraction.2
+Alloy,"T   L   NE    , degC","T   S   NE    , degC",A2-1,A2-2,C15
+NbTiVZr,1760,1207,0.999,0.001,0
+NbTiV2Zr,1717,1207,0.995,0.005,0
+CrNbTiZr,1572,1391,0.912,0,0.088
+CrNbTiVZr,1607,1103,0.95,0.005,0.045
+
+Retrieved Properties: Ionic Conductivity, Liquidus Temperature, Solid-Solution Strength, Phase Fractions, HCP Phase Content, Phase Composition, Solidus Temperature
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbTiVZr,non-equilibrium solidification,-,Liquidus Temperature,1760,degC
+NbTiV2Zr,non-equilibrium solidification,-,Liquidus Temperature,1717,degC
+CrNbTiZr,non-equilibrium solidification,-,Liquidus Temperature,1572,degC
+CrNbTiVZr,non-equilibrium solidification,-,Liquidus Temperature,1607,degC
+NbTiVZr,non-equilibrium solidification,-,Solidus Temperature,1207,degC
+NbTiV2Zr,non-equilibrium solidification,-,Solidus Temperature,1207,degC
+CrNbTiZr,non-equilibrium solidification,-,Solidus Temperature,1391,degC
+CrNbTiVZr,non-equilibrium solidification,-,Solidus Temperature,1103,degC
+NbTiVZr,non-equilibrium solidification,-,Phase Fractions,A2-1: 0.999; A2-2: 0.001; C15: 0,-
+NbTiV2Zr,non-equilibrium solidification,-,Phase Fractions,A2-1: 0.995; A2-2: 0.005; C15: 0,-
+CrNbTiZr,non-equilibrium solidification,-,Phase Fractions,A2-1: 0.912; A2-2: 0; C15: 0.088,-
+CrNbTiVZr,non-equilibrium solidification,-,Phase Fractions,A2-1: 0.95; A2-2: 0.005; C15: 0.045,-
+
+Table Table 7:
+Input Table:
+Phase ID,Element,NbTiVZr,NbTiV2Zr,CrNbTiZr,CrNbTiVZr
+bcc A2-1,Cr,nan,nan,21.0,17.9
+nan,Nb,25.0,20.1,27.4,21.0
+nan,Ti,25.0,20.1,27.2,21.0
+nan,V,25.0,39.8,nan,21.0
+nan,Zr,25.0,20.1,24.4,19.1
+nan,nan,nan,nan,nan,nan
+bcc A2-2,Cr,nan,nan,nan,8.0
+nan,Nb,3.0,3.3,nan,3.8
+nan,Ti,3.9,3.9,nan,1.2
+nan,V,85.0,84.5,nan,16.2
+nan,Zr,8.1,8.2,nan,70.8
+nan,nan,nan,nan,nan,nan
+Laves C15,Cr,nan,nan,66.4,65.9
+nan,Nb,nan,nan,0.0,0.0
+nan,Ti,nan,nan,2.8,0.8
+nan,V,nan,nan,nan,0.0
+nan,Zr,nan,nan,30.9,33.3
+
+Retrieved Properties: Elemental Composition, Phase Transition, Elemental Distribution, Composition, Phase Fractions, Phase Composition
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbTiVZr,-,Phase: bcc A2-1,Elemental Composition,Nb: 25.0; Ti: 25.0; V: 25.0; Zr: 25.0,at%
+NbTiV2Zr,-,Phase: bcc A2-1,Elemental Composition,Nb: 20.1; Ti: 20.1; V: 39.8; Zr: 20.1,at%
+CrNbTiZr,-,Phase: bcc A2-1,Elemental Composition,Cr: 21.0; Nb: 27.4; Ti: 27.2; Zr: 24.4,at%
+CrNbTiVZr,-,Phase: bcc A2-1,Elemental Composition,Cr: 17.9; Nb: 21.0; Ti: 21.0; V: 21.0; Zr: 19.1,at%
+NbTiVZr,-,Phase: bcc A2-2,Elemental Composition,Nb: 3.0; Ti: 3.9; V: 85.0; Zr: 8.1,at%
+NbTiV2Zr,-,Phase: bcc A2-2,Elemental Composition,Nb: 3.3; Ti: 3.9; V: 84.5; Zr: 8.2,at%
+CrNbTiVZr,-,Phase: bcc A2-2,Elemental Composition,Cr: 8.0; Nb: 3.8; Ti: 1.2; V: 16.2; Zr: 70.8,at%
+CrNbTiZr,-,Phase: Laves C15,Elemental Composition,Cr: 66.4; Ti: 2.8; Zr: 30.9,at%
+CrNbTiVZr,-,Phase: Laves C15,Elemental Composition,Cr: 65.9; Ti: 0.8; Zr: 33.3,at%
+
+Table Table 8:
+Input Table:
+Reaction equation,NbTiVZr,NbTiV2Zr,CrNbTiZr,CrNbTiVZr
+L-A2-1 (TL ),1760,1717,1572,1607
+L-A2-1 (TS ),1668,1610,1432,1470
+A2-1-C15,-,-,1363,1234
+A2-1-A2-2,726,843,-,671
+A2-1-A3,-,-,535,-
+A2-1-A2-2+A3,471,456,-,-
+A2-1-A2-2+A3,446,426,-,-
+A2-1-A2-2+C15+A3,nan,nan,nan,440
+A2-1-A2-2+C15+A3,-,-,-,433
+
+Retrieved Properties: Ultimate Tensile Strength, Stress, Fatigue, Temperature Metrics, Lifetime Properties
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbTiVZr,-,Reaction equation: L-A2-1 (TL),Temperature Metrics,1760,°C
+NbTiV2Zr,-,Reaction equation: L-A2-1 (TL),Temperature Metrics,1717,°C
+CrNbTiZr,-,Reaction equation: L-A2-1 (TL),Temperature Metrics,1572,°C
+CrNbTiVZr,-,Reaction equation: L-A2-1 (TL),Temperature Metrics,1607,°C
+NbTiVZr,-,Reaction equation: L-A2-1 (TS),Temperature Metrics,1668,°C
+NbTiV2Zr,-,Reaction equation: L-A2-1 (TS),Temperature Metrics,1610,°C
+CrNbTiZr,-,Reaction equation: L-A2-1 (TS),Temperature Metrics,1432,°C
+CrNbTiVZr,-,Reaction equation: L-A2-1 (TS),Temperature Metrics,1470,°C
+CrNbTiZr,-,Reaction equation: A2-1-C15,Temperature Metrics,1363,°C
+CrNbTiVZr,-,Reaction equation: A2-1-C15,Temperature Metrics,1234,°C
+NbTiVZr,-,Reaction equation: A2-1-A2-2,Temperature Metrics,726,°C
+NbTiV2Zr,-,Reaction equation: A2-1-A2-2,Temperature Metrics,843,°C
+CrNbTiVZr,-,Reaction equation: A2-1-A2-2,Temperature Metrics,671,°C
+CrNbTiZr,-,Reaction equation: A2-1-A3,Temperature Metrics,535,°C
+NbTiVZr,-,Reaction equation: A2-1-A2-2+A3,Temperature Metrics,471,°C
+NbTiV2Zr,-,Reaction equation: A2-1-A2-2+A3,Temperature Metrics,456,°C
+NbTiVZr,-,Reaction equation: A2-1-A2-2+A3,Temperature Metrics,446,°C
+NbTiV2Zr,-,Reaction equation: A2-1-A2-2+A3,Temperature Metrics,426,°C
+CrNbTiVZr,-,Reaction equation: A2-1-A2-2+C15+A3,Temperature Metrics,440,°C
+CrNbTiVZr,-,Reaction equation: A2-1-A2-2+C15+A3,Temperature Metrics,433,°C
+
+Table Table 9:
+Input Table:
+Unnamed: 0,Fraction,Cr,Nb,Ti,V,Zr
+NbTiVZr,nan,nan,nan,nan,nan,nan
+A2-1,0.636,nan,13.6,32.4,18.5,35.5
+A2-2,0.364,nan,45.0,12.0,36.3,6.7
+nan,nan,nan,nan,nan,nan,nan
+NbTiV2Zr,nan,nan,nan,nan,nan,nan
+A2-1,0.477,nan,7.6,31.4,23.0,38.0
+A2-2,0.523,nan,31.3,9.6,55.6,3.6
+nan,nan,nan,nan,nan,nan,nan
+CrNbTiZr,nan,nan,nan,nan,nan,nan
+A2-1,0.633,0.9,39.5,39.5,nan,20.2
+C15,0.367,66.6,nan,0.04,nan,33.3
+nan,nan,nan,nan,nan,nan,nan
+CrNbTiVZr,nan,nan,nan,nan,nan,nan
+A2-1,0.338,1.7,16.3,37.4,21.6,23.0
+C15,0.288,66.6,nan,0.03,nan,33.4
+A2-2,0.374,0.7,38.8,19.6,33.9,7.0
+
+Retrieved Properties: Phase Fractions, Volume Fraction, Remanence
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbTiVZr,-,Temperature(in °C): 600,Volume Fraction,0.636,-
+NbTiV2Zr,-,Temperature(in °C): 600,Volume Fraction,0.477,-
+NbTiV2Zr,-,Temperature(in °C): 600,Volume Fraction,0.523,-
+CrNbTiZr,-,Temperature(in °C): 600,Volume Fraction,0.633,-
+CrNbTiZr,-,Temperature(in °C): 600,Volume Fraction,0.367,-
+CrNbTiVZr,-,Temperature(in °C): 600,Volume Fraction,0.338,-
+CrNbTiVZr,-,Temperature(in °C): 600,Volume Fraction,0.288,-
+CrNbTiVZr,-,Temperature(in °C): 600,Volume Fraction,0.374,-
+
+Table Table 10:
+Input Table:
+Unnamed: 0,Fraction,Cr,Nb,Ti,V,Zr
+NbTiVZr,nan,nan,nan,nan,nan,nan
+A2-2,0.535,nan,46.5,6.1,46.3,1.1
+A3,0.465,nan,0.2,46.8,0.5,52.5
+nan,nan,nan,nan,nan,nan,nan
+NbTiV2Zr,nan,nan,nan,nan,nan,nan
+A2-2,0.646,nan,30.9,6.8,61.6,0.7
+A3,0.354,nan,0.1,44.1,0.6,55.1
+nan,nan,nan,nan,nan,nan,nan
+CrNbTiZr,nan,nan,nan,nan,nan,nan
+A2-1,0.264,0.0,93.9,3.8,nan,2.3
+C15,0.375,66.6,nan,0.02,nan,33.3
+A3,0.361,0.0,0.5,66.5,nan,33.0
+nan,nan,nan,nan,nan,nan,nan
+CrNbTiVZr,nan,nan,nan,nan,nan,nan
+C15,0.3,66.6,nan,0.02,nan,33.3
+A2-2,0.439,0.0,45.4,8.4,45.2,1.0
+A3,0.261,0.0,0.3,62.5,0.6,36.6
+
+Retrieved Properties: Phase Fractions, Volume Fraction, Remanence
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbTiVZr,-,Temperature(in °C): 400,Volume Fraction,0.535,-
+NbTiV2Zr,-,Temperature(in °C): 400,Volume Fraction,0.646,-
+CrNbTiZr,-,Temperature(in °C): 400,Volume Fraction,0.264,-
+CrNbTiVZr,-,Temperature(in °C): 400,Volume Fraction,0.3,-

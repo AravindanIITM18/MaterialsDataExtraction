@@ -1,0 +1,113 @@
+
+Table Table 1:
+Input Table:
+"Element (atom size, melting point)",Co,Cr,Fe,Ni,Nb
+"Co (0.1251 nm, 1495 degC)",-,-4,-1,0,-25
+"Cr (0.1249 nm, 1857 degC)",-,-,-1,-7,-7
+"Fe (0.1241 nm, 1535 degC)",-,-,-,-2,-16
+"Ni (0.1246 nm, 1453 degC)",-,-,-,-,-30
+"Nb (0.1429 nm, 1950 degC)",-,-,-,-,-
+
+Retrieved Properties: Melting Point, Mixing Entropy, Particle Size, Mixing Enthalpy, Curie Temperature, Formation Enthalpy, Latent Heat, Atomic Size, Atomic Radius
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Co-Cr,-,-,Mixing Enthalpy,-4,kJ/mol
+Co-Fe,-,-,Mixing Enthalpy,-1,kJ/mol
+Co-Ni,-,-,Mixing Enthalpy,0,kJ/mol
+Co-Nb,-,-,Mixing Enthalpy,-25,kJ/mol
+Cr-Fe,-,-,Mixing Enthalpy,-1,kJ/mol
+Cr-Ni,-,-,Mixing Enthalpy,-7,kJ/mol
+Cr-Nb,-,-,Mixing Enthalpy,-7,kJ/mol
+Fe-Ni,-,-,Mixing Enthalpy,-2,kJ/mol
+Fe-Nb,-,-,Mixing Enthalpy,-16,kJ/mol
+Ni-Nb,-,-,Mixing Enthalpy,-30,kJ/mol
+
+Table Table 2:
+Input Table:
+Alloys,Region,Cr,Fe,Co,Ni,Nb
+Nb0,Nominal,25.0,25.0,25.0,25.0,0.0
+Nb0,A,20.23,30.21,25.23,24.32,0.0
+Nb0,B,20.83,26.12,25.43,27.63,0.0
+Nb0.103,Nominal,24.37,24.37,24.37,24.37,2.52
+Nb0.103,Base,21.3,28.46,24.68,23.84,1.73
+Nb0.103,Precipitate,14.57,18.39,23.14,22.74,21.17
+Nb0.155,Nominal,24.07,24.07,24.07,24.07,3.72
+Nb0.155,Base,21.11,27.49,25.11,24.47,1.82
+Nb0.155,Precipitate,12.51,16.9,23.25,19.43,27.91
+Nb0.206,Nominal,23.78,23.78,23.78,23.78,4.88
+Nb0.206,Base,20.46,26.39,25.1,24.94,3.1
+Nb0.206,Precipitate,16.44,21.42,23.94,22.76,15.43
+Nb0.309,Nominal,23.21,23.21,23.21,23.21,7.16
+Nb0.309,Base,21.68,27.68,23.34,24.15,3.16
+Nb0.309,Precipitate,13.65,17.26,24.19,20.41,24.5
+Nb0.412,Nominal,22.67,22.67,22.67,22.67,9.32
+Nb0.412,Base,22.05,28.43,23.07,22.6,3.85
+Nb0.412,Precipitate,13.92,19.7,22.18,17.45,26.75
+
+Retrieved Properties: Elastic Modulus, Toughness, Stiffness, Tafel Slope, Tafel Slopes, Composition, Hardness, Phase Composition, Atomic Size, Ductility
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNiNb0,-,Nominal,Chemical Composition,Cr: 25.0; Fe: 25.0; Co: 25.0; Ni: 25.0; Nb: 0.0,wt%
+CoCrFeNiNb0,-,Region A,Chemical Composition,Cr: 20.23; Fe: 30.21; Co: 25.23; Ni: 24.32; Nb: 0.0,wt%
+CoCrFeNiNb0,-,Region B,Chemical Composition,Cr: 20.83; Fe: 26.12; Co: 25.43; Ni: 27.63; Nb: 0.0,wt%
+CoCrFeNiNb0.103,-,Nominal,Chemical Composition,Cr: 24.37; Fe: 24.37; Co: 24.37; Ni: 24.37; Nb: 2.52,wt%
+CoCrFeNiNb0.103,-,Base,Chemical Composition,Cr: 21.3; Fe: 28.46; Co: 24.68; Ni: 23.84; Nb: 1.73,wt%
+CoCrFeNiNb0.103,-,Precipitate,Chemical Composition,Cr: 14.57; Fe: 18.39; Co: 23.14; Ni: 22.74; Nb: 21.17,wt%
+CoCrFeNiNb0.155,-,Nominal,Chemical Composition,Cr: 24.07; Fe: 24.07; Co: 24.07; Ni: 24.07; Nb: 3.72,wt%
+CoCrFeNiNb0.155,-,Base,Chemical Composition,Cr: 21.11; Fe: 27.49; Co: 25.11; Ni: 24.47; Nb: 1.82,wt%
+CoCrFeNiNb0.155,-,Precipitate,Chemical Composition,Cr: 12.51; Fe: 16.9; Co: 23.25; Ni: 19.43; Nb: 27.91,wt%
+CoCrFeNiNb0.206,-,Nominal,Chemical Composition,Cr: 23.78; Fe: 23.78; Co: 23.78; Ni: 23.78; Nb: 4.88,wt%
+CoCrFeNiNb0.206,-,Base,Chemical Composition,Cr: 20.46; Fe: 26.39; Co: 25.1; Ni: 24.94; Nb: 3.1,wt%
+CoCrFeNiNb0.206,-,Precipitate,Chemical Composition,Cr: 16.44; Fe: 21.42; Co: 23.94; Ni: 22.76; Nb: 15.43,wt%
+CoCrFeNiNb0.309,-,Nominal,Chemical Composition,Cr: 23.21; Fe: 23.21; Co: 23.21; Ni: 23.21; Nb: 7.16,wt%
+CoCrFeNiNb0.309,-,Base,Chemical Composition,Cr: 21.68; Fe: 27.68; Co: 23.34; Ni: 24.15; Nb: 3.16,wt%
+CoCrFeNiNb0.309,-,Precipitate,Chemical Composition,Cr: 13.65; Fe: 17.26; Co: 24.19; Ni: 20.41; Nb: 24.5,wt%
+CoCrFeNiNb0.412,-,Nominal,Chemical Composition,Cr: 22.67; Fe: 22.67; Co: 22.67; Ni: 22.67; Nb: 9.32,wt%
+CoCrFeNiNb0.412,-,Base,Chemical Composition,Cr: 22.05; Fe: 28.43; Co: 23.07; Ni: 22.6; Nb: 3.85,wt%
+CoCrFeNiNb0.412,-,Precipitate,Chemical Composition,Cr: 13.92; Fe: 19.7; Co: 22.18; Ni: 17.45; Nb: 26.75,wt%
+
+Table Table 3:
+Input Table:
+Alloys,s0.2 (MPa),smax (MPa),e(%)
+Nb0,147,413,48.0
+Nb0.103,317,622,19.2
+Nb0.155,321,744,23.3
+Nb0.206,402,807,8.6
+Nb0.309,478,879,3.5
+Nb0.412,637,1004,1.3
+
+Retrieved Properties: Ultimate Tensile Strength, Mixing Entropy, Elastic Moduli, A2 Phase Size, SRO, Overpotential, Elasticity, EOS
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNiNb0,-,-,Ultimate Tensile Strength,413,MPa
+CoCrFeNiNb0.103,-,-,Ultimate Tensile Strength,622,MPa
+CoCrFeNiNb0.155,-,-,Ultimate Tensile Strength,744,MPa
+CoCrFeNiNb0.206,-,-,Ultimate Tensile Strength,807,MPa
+CoCrFeNiNb0.309,-,-,Ultimate Tensile Strength,879,MPa
+CoCrFeNiNb0.412,-,-,Ultimate Tensile Strength,1004,MPa
+
+Table Table 4:
+Input Table:
+Alloys,DHmix (kJ/mol),d (%),DX,VEC,Phase(s),fL (%)
+Nb0,-3.7,0.3%,0.097,8.25,FCC,0
+Nb0.103,-5.5,2.3%,0.101,8.17,FCC + Laves,3.7%
+Nb0.155,-6.3,2.8%,0.104,8.13,FCC + Laves,9.3%
+Nb0.206,-7.0,3.1%,0.105,8.09,FCC + Laves,15.6%
+Nb0.309,-8.4,3.7%,0.11,8.02,FCC + Laves,24.7%
+Nb0.412,-9.7,4.2%,0.112,7.95,FCC + Laves,31.9%
+
+Retrieved Properties: Mixing Entropy, Pitting Potential, Ductility, Mixing Enthalpy, Elastic Moduli, Voltage, Compression, Valence Electron Concentration, Diffusion, Magnetic Entropy
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Nb0,-,-,Mixing Enthalpy,-3.7,kJ/mol
+Nb0.103,-,-,Mixing Enthalpy,-5.5,kJ/mol
+Nb0.155,-,-,Mixing Enthalpy,-6.3,kJ/mol
+Nb0.206,-,-,Mixing Enthalpy,-7.0,kJ/mol
+Nb0.309,-,-,Mixing Enthalpy,-8.4,kJ/mol
+Nb0.412,-,-,Mixing Enthalpy,-9.7,kJ/mol
+Nb0,-,-,Valence Electron Concentration,8.25,-
+Nb0.103,-,-,Valence Electron Concentration,8.17,-
+Nb0.155,-,-,Valence Electron Concentration,8.13,-
+Nb0.206,-,-,Valence Electron Concentration,8.09,-
+Nb0.309,-,-,Valence Electron Concentration,8.02,-
+Nb0.412,-,-,Valence Electron Concentration,7.95,-

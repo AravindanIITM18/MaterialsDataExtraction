@@ -1,0 +1,135 @@
+
+Table Table 1:
+Input Table:
+HEAs,After MA,After SPS at 900degC
+AlCoCrCuFe,BCC (B) and Cu rich FCC (FCu),"Ordered BCC (B2), Cu rich FCC (FCu), sigma phase (s)"
+NiCoCrCuFe,FCC (F) and BCC (Bminor),"Two FCC (F1 and F2), sigma phase (s)"
+NiCoCrFe,FCC (F) and BCC (Bminor),FCC (F) and sigma phase (s)
+NiCoCuFe,FCC (F),Two FCC (F1 and F2)
+NiCoFe,FCC (F),FCC (F)
+
+Retrieved Properties: Thermal Properties, Optical Properties, Absorption Properties
+Final Output:
+-
+
+Table Table 2:
+Input Table:
+HEAs,Theoretical density (g/cm3),Experimental relative density (%)
+AlCoCrCuFe,6.75,99
+NiCoCrCuFe,8.33,94
+NiCoCrFe,8.17,94
+NiCoCuFe,8.64,86
+NiCoFe,8.53,92
+
+Retrieved Properties: Density, Mass Density, Relative Density
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlCoCrCuFe,-,-,Relative Density,99,%
+NiCoCrCuFe,-,-,Relative Density,94,%
+NiCoCrFe,-,-,Relative Density,94,%
+NiCoCuFe,-,-,Relative Density,86,%
+NiCoFe,-,-,Relative Density,92,%
+
+Table Table 3:
+Input Table:
+HEAs,Mechanically alloyed powder,Mechanically alloyed powder.1,Sintered compact,Sintered compact.1
+nan,Crystallite size (nm),Strain (%),Crystallite size (nm),Strain (%)
+AlCoCrCuFe,10,0.50,74,0.09
+NiCoCrCuFe,7.0,1.00,27,0.14
+NiCoCrFe,6.0,0.83,13,0.00
+NiCoCuFe,9.0,0.73,16,0.05
+NiCoFe,10,0.98,25,0.00
+
+Retrieved Properties: Grain Size, Crystallinity, Engineering Strain, Crystallite Size, Strain
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlCoCrCuFe,Mechanically alloyed powder,-,Crystallite Size,10,nm
+AlCoCrCuFe,Mechanically alloyed powder,-,Strain,0.50,%
+AlCoCrCuFe,Sintered compact,-,Crystallite Size,74,nm
+AlCoCrCuFe,Sintered compact,-,Strain,0.09,%
+NiCoCrCuFe,Mechanically alloyed powder,-,Crystallite Size,7.0,nm
+NiCoCrCuFe,Mechanically alloyed powder,-,Strain,1.00,%
+NiCoCrCuFe,Sintered compact,-,Crystallite Size,27,nm
+NiCoCrCuFe,Sintered compact,-,Strain,0.14,%
+NiCoCrFe,Mechanically alloyed powder,-,Crystallite Size,6.0,nm
+NiCoCrFe,Mechanically alloyed powder,-,Strain,0.83,%
+NiCoCrFe,Sintered compact,-,Crystallite Size,13,nm
+NiCoCrFe,Sintered compact,-,Strain,0.00,%
+NiCoCuFe,Mechanically alloyed powder,-,Crystallite Size,9.0,nm
+NiCoCuFe,Mechanically alloyed powder,-,Strain,0.73,%
+NiCoCuFe,Sintered compact,-,Crystallite Size,16,nm
+NiCoCuFe,Sintered compact,-,Strain,0.05,%
+NiCoFe,Mechanically alloyed powder,-,Crystallite Size,10,nm
+NiCoFe,Mechanically alloyed powder,-,Strain,0.98,%
+NiCoFe,Sintered compact,-,Crystallite Size,25,nm
+NiCoFe,Sintered compact,-,Strain,0.00,%
+
+Table Table 4:
+Input Table:
+HEAs,Hardness (HV1)
+AlCoCrCuFe,770+-10
+NiCoCrCuFe,400+-10
+NiCoCrFe,490+-10
+NiCoCuFe,160+-10
+NiCoFe,230+-5.0
+
+Retrieved Properties: Hardness
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlCoCrCuFe,-,-,Hardness,770+-10,HV
+NiCoCrCuFe,-,-,Hardness,400+-10,HV
+NiCoCrFe,-,-,Hardness,490+-10,HV
+NiCoCuFe,-,-,Hardness,160+-10,HV
+NiCoFe,-,-,Hardness,230+-5.0,HV
+
+Table Table 5:
+Input Table:
+HEAs,Entropy of mixing (DS mix) (R =8.314J/molK),Enthalpy of mixing (kJ/mol) (DH mix),Atomic size difference (%) (d)
+AlCoCrCuFe,1.61R,-2.56,4.99
+NiCoCrCuFe,1.61R,3.2,1.07
+NiCoCrFe,1.34R,-3.75,1.03
+NiCoCuFe,1.34R,5.0,1.03
+NiCoFe,1.10R,-1.33,0.76
+
+Retrieved Properties: Mixing Entropy, Mixing Enthalpy, Formation Enthalpy, Latent Heat, Entropy, Atomic Size, Atomic Radius, Crystallite Size
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlCoCrCuFe,-,-,Mixing Entropy,1.61R,J/mol·K
+AlCoCrCuFe,-,-,Mixing Enthalpy,-2.56,kJ/mol
+NiCoCrCuFe,-,-,Mixing Entropy,1.61R,J/mol·K
+NiCoCrCuFe,-,-,Mixing Enthalpy,3.2,kJ/mol
+NiCoCrFe,-,-,Mixing Entropy,1.34R,J/mol·K
+NiCoCrFe,-,-,Mixing Enthalpy,-3.75,kJ/mol
+NiCoCuFe,-,-,Mixing Entropy,1.34R,J/mol·K
+NiCoCuFe,-,-,Mixing Enthalpy,5.0,kJ/mol
+NiCoFe,-,-,Mixing Entropy,1.10R,J/mol·K
+NiCoFe,-,-,Mixing Enthalpy,-1.33,kJ/mol
+
+Table Table 6:
+Input Table:
+Unnamed: 0,Al,Co,Cr,Cu,Fe,Ni
+Al,-,-19,-10,-1,-11,-22
+Co,-19,-,-4.0,6.0,-1.0,0
+Cr,-10,-4.0,-,12,-1.0,-7.0
+Cu,-1.0,6.0,12,-,13,4.0
+Fe,-11,-1.0,-1.0,13,-,-2.0
+Ni,-22,0.0,-7.0,4.0,-2.0,-
+
+Retrieved Properties: Formation Enthalpy, Mixing Enthalpy, Latent Heat
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al-Co,-,-,Mixing Enthalpy,-19,kJ/mol
+Al-Cr,-,-,Mixing Enthalpy,-10,kJ/mol
+Al-Cu,-,-,Mixing Enthalpy,-1,kJ/mol
+Al-Fe,-,-,Mixing Enthalpy,-11,kJ/mol
+Al-Ni,-,-,Mixing Enthalpy,-22,kJ/mol
+Co-Cr,-,-,Mixing Enthalpy,-4,kJ/mol
+Co-Cu,-,-,Mixing Enthalpy,6,kJ/mol
+Co-Fe,-,-,Mixing Enthalpy,-1,kJ/mol
+Co-Ni,-,-,Mixing Enthalpy,0,kJ/mol
+Cr-Cu,-,-,Mixing Enthalpy,12,kJ/mol
+Cr-Fe,-,-,Mixing Enthalpy,-1,kJ/mol
+Cr-Ni,-,-,Mixing Enthalpy,-7,kJ/mol
+Cu-Fe,-,-,Mixing Enthalpy,13,kJ/mol
+Cu-Ni,-,-,Mixing Enthalpy,4,kJ/mol
+Fe-Ni,-,-,Mixing Enthalpy,-2,kJ/mol

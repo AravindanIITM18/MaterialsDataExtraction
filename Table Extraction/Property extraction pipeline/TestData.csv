@@ -1,0 +1,1166 @@
+"Table 1. Chemical composition of the AlCoCrCuNi and AlCoCrCuFeNi alloys in atomic percentage
+
+Alloy	Al	Co	Cr	Cu	Fe	Ni
+AlCoCrCuNi
+ Nominal	20	20	20	20	–	20
+ Dendrite	21	21	25	11	–	22
+ Interdendrite	13	8	6	58	–	15
+AlCoCrCuFeNi
+ Nominal	17	17	17	17	17	17
+ Dendrite	17	17	21	11	18	16
+ Interdendrite	12	5	3	63	5	12
+",https://doi.org/10.1016/j.msea.2007.01.122
+"Table 2. Hardness of the AlCoCrCuNi, AlCoCrCuFeNi, AgAlCoCrCuNi and AlAuCoCrCuNi alloys
+
+Alloys	Microstructure	Hardness (HV)
+AlCoCrCuNi	Cu-rich FCC + SD BCC	419 ± 6
+AlCoCrCuFeNi	Cu-rich FCC + SD BCC	416 ± 19
+Golden layer of AgAlCoCrCuNi	Ag + Cu-rich FCC	104 ± 3
+Silver layer of AgAlCoCrCuNi	BCC + Ag + Cu-rich FCC	451 ± 9
+AlAuCoCrCuNi	FCC + AuCu	276 ± 8
+",https://doi.org/10.1016/j.msea.2007.01.122
+"Table 1. Chemical compositions of cast AlxCoCrCuFeNi alloys in atomic percentage
+
+x-Value	Al	Co	Cr	Cu	Fe	Ni
+0.5
+ Nominal	9.09	18.18	18.18	18.18	18.18	18.18
+ DR (BCC)	5.5	21.2	23.9	9.4	22.7	17.2
+ ID (Cu-rich)	12.5	5.5	4.0	59.2	5.2	13.6
+1.0
+ Nominal	16.67	16.67	16.67	16.67	16.67	16.67
+ DR (BCC)	25.5	16.1	17.2	7.4	14.6	19.2
+ ID (FCC + BCC)	13.0	17.3	18.3	17.5	20.0	13.9
+ ID (Cu-rich)	13.3	6.2	4.9	56.9	6.4	12.3
+2.0
+ Nominal	28.56	14.28	14.28	14.28	14.28	14.28
+ DR (BCC)	31.5	16.8	10.8	9.1	15.0	16.9
+ ID (Cu-rich)	15.1	3.4	4.2	68.2	4.0	5.1
+DR, dendrite; ID, inter-dendrite.
+",https://www.sciencedirect.com/science/article/pii/S0043164805005144?via%3Dihub
+"Table 2. Chemical compositions of worn surface and wear debris of AlxCoCrCuFeNi alloys in atomic percentage
+
+x-Value	Al	Co	Cr	Cu	Fe	Ni	O
+0.5
+ Nominal	9.09	18.18	18.18	18.18	18.18	18.18	
+ Worn surface	7.2	16.5	17.3	14.7	17.5	16.2	12.4
+ Wear debris	6.1	16.4	16.1	15.5	16.5	15.3	16.2
+
+1.0
+ Nominal	16.67	16.67	16.67	16.67	16.67	16.67	
+ Worn surface	15.6	13.6	15.7	14.6	13.5	14.5	14.8
+ Wear debris	13.2	15.3	16.0	14.6	14.3	13.6	18.4
+
+2.0
+ Nominal	28.56	14.28	14.28	14.28	14.28	14.28	
+ Worn surface-A	25.1	15.9	14.2	9.1	14.9	14.1	5.6
+ Worn surface-B	19.4	7.7	6.7	39.8	7.7	9.6	9.2
+ Wear debris	12.4	6.0	5.5	6.2	6.6	6.0	56.8
+",https://www.sciencedirect.com/science/article/pii/S0043164805005144?via%3Dihub
+"Table 3. Summary of results on friction properties of alloys tested
+
+Alloy	?p	?s	??
+Al0.5CoCrCuFeNi	0.65 ± 0.04	0.50 ± 0.03	0.15 ± 0.07
+Al1.0CoCrCuFeNi	0.65 ± 0.03	0.48 ± 0.03	0.17 ± 0.06
+Al2.0CoCrCuFeNi	0.70 ± 0.02	0.32 ± 0.01	0.30 ± 0.03
+?p, peak coefficient of friction; ?ss, the steady state coefficient of friction; ?? = ?p ? ?ss.
+",https://www.sciencedirect.com/science/article/pii/S0043164805005144?via%3Dihub
+"Table 1. Chemical compositions and O and N contents measured by EDS and carrier hot gas extraction of the investigated alloys in at%.
+
+Alloy	Cr	Mn	Fe	Co	Ni	O	N
+CrMnFeCoNi	20.7 ± 0.3	20.2 ± 0.3	19.8 ± 0.5	19.7 ± 0.1	19.6 ± 0.4	0.138 ± 0.003	0.0020 ± 0.0002
+CrFeCoNi	25.4 ± 0.3	-	16.3 ± 0.3	24.2 ± 0.5	24.1 ± 0.4	0.132 ± 0.002	0.0040 ± 0.0001
+CrFeNi	33.6 ± 0.4	-	34.2 ± 0.2	-	32.1 ± 0.3	0.169 ± 0.008	0.0020 ± 0.0002
+CrCoNi	34.1 ± 0.5	-	-	33.0 ± 0.5	32.7 ± 0.3	0.156 ± 0.005	0.0020 ± 0.0002\n\n",https://www.sciencedirect.com/science/article/pii/S2352492824013229?via%3Dihub
+"Table 2. Lattice parameter a in nm and grain size d in µm.
+
+Alloy	a	d
+CrMnFeCoNi	0.358	44 ± 1
+CrFeCoNi	0.359	49 ± 5
+CrFeNi	0.359	73 ± 7
+CrCoNi	0.358	63 ± 10\n\n",https://www.sciencedirect.com/science/article/pii/S2352492824013229?via%3Dihub
+"Table 3. CTE of the investigated alloys in 10-6/K, with the experimental error being at most ± 1%.
+
+Alloy	373?K	473?K	573?K	673?K	773?K
+CrMnFeCoNi	16.3	18.8	19.4	19.5	19.6
+CrFeCoNi	15.63	18.0	18.7	18.8	18.8
+CrFeNi	17.1	19.7	20.4	20.5	20.6
+CrCoNi	15.2	17.5	18.1	18.2	18.3",https://www.sciencedirect.com/science/article/pii/S2352492824013229?via%3Dihub
+"Table 4. Resonance fields, g-values and amplitudes of the ESR-spectra of the investigated alloys with H in the sample plane (? = 0°).
+
+Alloy	Hres in G	g-value	?H in G	Amplitude in A
+CrMnFeCoNi	HFMR=500
+2900	-
+2.317	1500
+800	120
+110
+CrFeCoNi	HFMR=200
+2500	-
+2.689	1500
+350	2212
+2528
+CrFeNi	3150	2.135	560	89
+CrCoNi	3136
+3267
+3501
+CESR: 3788.6	2.144
+2.058
+1.92
+1.77	157
+835
+130
+522	18
+11
+14
+26",https://www.sciencedirect.com/science/article/pii/S2352492824013229?via%3Dihub
+"Table 5. Resonance fields, g-values and amplitudes of the ESR-spectra of the investigated alloys with H in the sample plane (? = 90°).
+
+Alloy	Hres in G	g-value	?H in G	Amplitude in A
+CrMnFeCoNi	HFMR= -
+2900
+3400	-
+2.3198
+1.98	-
+200
+500	-
+20
+90
+CrFeCoNi	HFMR=750
+3450
+4580	-
+1.92
+1.477	800
+1200
+1200	252
+885
+1264
+CrFeNi	3112
+3220	2.162
+2.0895	1800
+500	6
+55
+CrCoNi	2595.8
+2807
+3187
+3584.5
+CESR: 3964.8	2.5916
+2.3964
+2.1106
+1.88
+1.7	127
+237
+338
+338
+1523	11
+16
+42
+24
+32",https://www.sciencedirect.com/science/article/pii/S2352492824013229?via%3Dihub
+"Table 1. The crystalline size and lattice strain of the BCC and FCC phases with different milling time.
+
+Milling time (h)	Crystalline size (nm)	Empty Cell	Lattice strain (%)	Empty Cell
+BCC	FCC	BCC	FCC
+30	16	18	0.51	0.42
+45	11	16	0.86	0.97
+49	10	9	0.98	1.32",https://www.sciencedirect.com/science/article/pii/S092583881202141X
+"Table 2. Chemical composition (in at.%) analysis results of phases by EDS/TEM.
+
+Regions	Crystal structure	Co	Fe	Ni	Cr	Al	Ti
+A, D, E, G, H, I, J, K, M, N, O, P, T, W, X, Y, Z	FCC1	21 ± 1	25.5 ± 1	18.8 ± 1	29 ± 1	3.5 ± 1	2.2 ± 1
+B,C, F, L,U, Q, R, S	FCC2	21 ± 1	7.1 ± 1	29.1 ± 1	6.8 ± 1	18.5 ± 1	17.4 ± 1
+V	BCC	1.1 ± 1	1.1 ± 1	0.5 ± 1	1.4 ± 1	79.7 ± 1	16.3 ± 1
+Nominal composition	–	20	20	20	20	12	8",https://www.sciencedirect.com/science/article/pii/S092583881202141X
+"Table 3. Mechanical properties of HEAs at ambient temperature.
+
+Alloy	Process	?y (GPa)	?max (GPa)	?p (%)	Hardness (Hv)	Refs.
+CoFeNiCrAl0.6Ti0.4	SPS	2.08	2.52	11.5	573	This work
+CoFeNiCrAlTi	Copper mold casting	1.86	2.58	8.8	–	[16]
+CoFeNiCrAlTi	Arc-melting	–	2.28	6.4	–	[17]
+CoFeNiCrAlTi	SPS	–	–	–	432	[18]",https://www.sciencedirect.com/science/article/pii/S092583881202141X
+"Table 4. The chemical mixing enthalpy (Hmix
+, kJ/mol) of binary equiatomic alloys calculated by Miedema’s approach [21], [22].
+
+Element (atomic sizes, Å)	Co	Fe	Ni	Cr	Al	Ti
+Co (1.24)	–	?1	0	?4	?19	?28
+Fe (1.24)	–	–	?2	?1	?11	?17
+Ni (1.25)	–	–	–	?7	?22	?35
+Cr (1.25)	–	–	–	–	?10	?7
+Al (1.43)	–	–	–	–	–	?30
+Ti (1.44)	–	–	–	–	–	–",https://www.sciencedirect.com/science/article/pii/S092583881202141X
+"Table 1. Chemical composition (wt%) of the AlxCrFe1.5MnNi0.5 alloys
+
+Element	Al(26.96) (%)	Cr(51.99) (%)	Fe(55.84) (%)	Mn(54.94) (%)	Ni(58.69) (%)
+CrFe1.5MnNi0.5	0.00	23.63	38.03	24.99	13.33
+Al0.3CrFe1.5MnNi0.5	3.55	22.79	36.68	24.10	12.86
+Al0.5CrFe1.5MnNi0.5	5.78	22.26	35.83	23.54	12.56",https://www.sciencedirect.com/science/article/pii/S0010938X08001376?via%3Dihub
+"Table 2. Electrochemical parameters of the AlxCrFe1.5MnNi0.5 alloys and the 304 stainless steel in 0.5 M H2SO4 solution
+
+Empty Cell	Ecorr (mVSHE)	icorr (A/cm2)	icrit (A/cm2)	Epp (mVSHE)	ipass (A/cm2)	?E (mVSHE)
+CrFe1.5MnNi0.5	?229	6.86 × 10?4	1.26 × 10?2	?55	3.14 × 10?5	1227
+Al0.3CrFe1.5MnNi0.5	?194	2.39 × 10?3	2.36 × 10?2	?12	7.39 × 10?5	1176
+Al0.5CrFe1.5MnNi0.5	?206	5.08 × 10?3	5.54 × 10?2	47	6.82 × 10?5	1114
+304 stainless steel	?186	7.45 × 10?5	8.19 × 10?4	?22	8.05 × 10?6	1178",https://www.sciencedirect.com/science/article/pii/S0010938X08001376?via%3Dihub
+"Table 3. Electrochemical parameters of the CrFe1.5MnNi0.5 and Al0.3CrFe1.5MnNi0.5 alloys in 0.5 M H2SO4 with different concentrations (0–0.5 M) of NaCl solutions
+
+Empty Cell	CrFe1.5MnNi0.5	Empty Cell	Empty Cell	Empty Cell	Empty Cell	Al0.3CrFe1.5MnNi0.5	Empty Cell	Empty Cell	Empty Cell	Empty Cell
+Ecorr (mVSHE)	icorr (A/cm2)	ipass (A/cm2)	Epit (mVSHE)	?E (mVSHE)	Ecorr (mVSHE)	icorr (A/cm2)	ipass (A/cm2)	Epit (mVSHE)	?E (mVSHE)
+0.5 M H2SO4	?221	6.86 × 10?4	3.14 × 10?5	1172	1218	?194	2.39 × 10?3	7.39 × 10?5	1164	1176
+0.5 M H2SO4 + 0.10 M NaCl	?242	2.06 × 10?3	7.09 × 10?5	1180	1150	?219	2.48 × 10?3	1.21 × 10?4	1156	1127
+0.5 M H2SO4 + 0.25 M NaCl	?238	4.60 × 10?3	4.75 × 10?3	589	495	?231	6.05 × 10?3	1.78 × 10?3	250	–a
+0.5 M H2SO4 + 0.50 M NaCl	?240	9.75 × 10?3	5.78 × 10?3	475	352	?250	1.04 × 10?2	3.95 × 10?2	257	–a",https://www.sciencedirect.com/science/article/pii/S0010938X08001376?via%3Dihub
+"Table 4. Equivalent circuit elements values for EIS data corresponding to Al0CrFe1.5MnNi0.5 (Al0), Al0.3CrFe1.5MnNi0.5 (Al0.3), Al0.5CrFe1.5MnNi0.5 (Al0.5) alloys and 304 stainless steel (304s) in 0.5 M H2SO4 solution
+
+Empty Cell	Rs (?cm2)	Rt (?cm2)	Y0?dl (s?dl??1 cm?2)	?dl	Rad (?cm2)	Y0?ad (s?ad??1 cm?2)	?ad	RL (?cm2)	L (Hcm?2)
+Al0	1.9	24.0	5.9 × 10?5	0.93	–	–	–	8.2	3.4
+Al0.3	1.6	18.7	6.3 × 10?4	0.93	22.5	2.6 × 10?2	0.72	–	–
+Al0.5	1.4	21.0	6.0 × 10?4	0.9	82.0	1.8 × 10?2	0.78	–	–
+304s	2.2	205.0	3.5 × 10?4	0.89	–	–	–	–	–",https://www.sciencedirect.com/science/article/pii/S0010938X08001376?via%3Dihub
+"Table 1. EDX analyses of the compositions of FeCoNiCr, FeCoNiCrCu0.5, and FeCoNiCrCu
+
+Empty Cell	Alloys (wt.%)
+Empty Cell	Fe	Cr	Ni	Co	Cu
+FeCoNiCr	24.58	25.12	25.92	24.90	–
+FeCoNiCrCu0.5	20.47	16.48	25.48	23.99	13.49
+FeCoNiCrCu	18.78	16.25	21.78	21.50	21.69",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 2. EDX analyses of the dendrite and interdendrite structure of as-cast FeCoNiCrCu0.5 and FeCoNiCrCu alloys
+
+Empty Cell	FeCoNiCrCu0.5 (at.%)	FeCoNiCrCu (at.%)
+Empty Cell	Interdendrite	Dendrite	Interdendrite	Dendrite
+Cu	82.18	11.68	86.68	9.56
+Fe	0.90	21.80	3.46	23.58
+Co	1.08	24.45	2.67	24.67
+Ni	11.60	22.73	5.41	21.34
+Cr	4.24	19.34	1.78	21.08",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 3. Chemical mixing enthalpy (?Hchem) of a pair of atoms [5], [11], [12], [13]
+
+Empty Cell	?Hchem (kJ mol?1)
+Cusingle bondFe	13
+Cusingle bondCo	10
+Cusingle bondNi	4
+Cosingle bondNi	0
+Cusingle bondCr	?1
+Fesingle bondCo	?1
+Fesingle bondCr	?1
+Fesingle bondNi	?2
+Cosingle bondCr	?4
+Nisingle bondCr	?7",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 4. Average corrosion rates (mm year?1) of as-cast FeCoNiCrCux alloys in 3.5% NaCl solution at 25 °C
+
+Empty Cell	FeCoNiCr	FeCoNiCrCu0.5	FeCoNiCrCu
+Immersion testa	7.62 × 10?4	8.89 × 10?3	1.14 × 10?2
+Polarization curveb	3.31 × 10?4	7.46 × 10?3	1.37 × 10?2
+a
+Average corrosion rate is converted from weight loss data.
+b
+Average corrosion rate is obtained from Tafel region extrapolation and Faraday's law.",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 5. Electrochemical parameters of as-cast FeCoNiCrCux alloys and 304L stainless steel in 3.5% NaCl solution at 25 °C
+
+Empty Cell	Ecorra (VSCE)	Epitb (VSCE)	icorrc (A cm?2)
+FeCoNiCr	?0.26	0.31	3.15 × 10?8
+FeCoNiCrCu0.5	?0.29	0.09	7.23 × 10?7
+FeCoNiCrCu	?0.33	0.08	1.32 × 10?6
+304L	?0.25	0.23	6.01 × 10?7
+a
+Ecorr: corrosion potential.
+b
+Epit: pitting potential.
+c
+icorr: corrosion current density.",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 1. EDX analysis of chemical composition of Cu0.5CoCrFeNi alloy (at.%) under various heat treatments.
+
+Empty Cell	Cu (%)	Co (%)	Cr (%)	Fe (%)	Ni (%)	Empty Cell	Cu (%)	Co (%)	Cr (%)	Fe (%)	Ni (%)
+as-cast	ID	68	7	8	7	10	650 °C	ID	72	6	6	6	9
+DR	10	22	24	22	22	DR	13	21	24	22	19
+350 °C	ID	71	6	6	6	11	800 °C	ID	72	6	5	6	9
+DR	10	23	23	23	21	DR	15	19	27	20	20
+500 °C	ID	70	7	6	7	11	950 °C	ID	73	6	5	6	9
+DR	9	25	22	23	20	DR	8	23	22	23	22",https://www.sciencedirect.com/science/article/pii/S096697951000172X?via%3Dihub
+"Table 2. EDX analysis of chemical composition of Cu0.5CoCrFeNi alloy (at.%) after various aging temperatures of 1100–1250 °C.
+
+Empty Cell	Cu (%)	Co (%)	Cr (%)	Fe (%)	Ni (%)
+1100 °C	ID	62	9	10	8	8
+DR	28	23	24	20	8
+CP	4	20	35	27	3
+1250 °C	ID	66	9	10	9	6
+DR	23	24	24	21	8
+CP	5	6	82	5	2
+1350 °C	ID	67	9	10	8	5
+DR	22	23	23	22	9
+CP	5	6	80	5	4",https://www.sciencedirect.com/science/article/pii/S096697951000172X?via%3Dihub
+"Table 3. Electrochemical parameters of Cu0.5CoCrFeNi alloy in 3.5% NaCl solution at 25 °C after various aging temperatures.
+
+Empty Cell	Ecorr (VSCE)	icorr (A cm?2)	Epit (VSCE)
+304 L	?0.20	1.29 × 10?9	0.35
+As-cast	?0.28	2.03 × 10?9	0.07
+350 °C	?0.51	3.91 × 10?8	0.06
+500 °C	?0.42	1.17 × 10?7	0.06
+650 °C	?0.49	2.11 × 10?8	0.02
+800 °C	?0.29	1.71 × 10?8	0.01
+950 °C	?0.43	1.10 × 10?7	0.03
+1100 °C	?0.40	1.41 × 10?7	0.05
+1250 °C	?0.27	5.13 × 10?9	0.04
+1350 °C	?0.41	4.58 × 10?8	0.05
+Ecorr: corrosion potential.
+Epit: pitting potential.
+icorr: corrosion current density.",https://www.sciencedirect.com/science/article/pii/S096697951000172X?via%3Dihub
+"Table 1. Room temperature compression test results for the alloy series
+
+Alloy	E (GPa)	?y (MPa)	?max (MPa)	?e (%)	?p (%)
+CoCrCuFeNi	55.6	230	888	0.56	50.2
+CoCrCuFeNiTi0.5	98.6	700	1650	0.8	21.6
+CoCrCuFeNiTi0.8	128.3	1042	1848	0.89	2.11
+CoCrCuFeNiTi	76.5	1272	1272	1.6	0
+Young's modulus, E; yield stress, ?y; compressive strength, ?max; elastic strain limit, ?e; and plastic strain, ?p.",https://www.sciencedirect.com/science/article/pii/S0966979506002457?via%3Dihub
+"Table 1. Chemical composition (wt.%) of the test materials.
+
+Designation	Composition (atomic mole ratio)	Co(58.93) (%)	Cr(52.00) (%)	Fe(55.85) (%)	Ni(58.69) (%)	Ti(47.88) (%)	Mo(95.94) (%)
+Mo0	Co1.5CrFeNi1.5Ti0.5Mo0	28.68	16.87	18.12	28.56	7.77	0
+Mo0.1	Co1.5CrFeNi1.5Ti0.5Mo0.1	27.81	16.36	17.57	27.70	7.53	3.02
+Mo0.5	Co1.5CrFeNi1.5Ti0.5Mo0.5	24.82	14.60	15.68	24.72	6.72	13.47
+Mo0.8	Co1.5CrFeNi1.5Ti0.5Mo0.8	22.96	13.51	14.51	22.87	6.22	19.94",https://www.sciencedirect.com/science/article/pii/S0010938X10001897?via%3Dihub
+"Table 2. EDS analyses of the dendrite and interdendrite structure of the as-cast.
+
+Element	Co1.5CrFeNi1.5Ti0.5Mo0 (atom%)	Co1.5CrFeNi1.5Ti0.5Mo0.1 (atom%)
+Interdendrite	Dendrite	Dendrite	Dendrite
+Co1.5CrFeNi1.5Ti0.5Mox high-entropy alloys
+Co	26.7	27.6	25.8	26.6
+Cr	15.1	21.0	13.3	19.1
+Fe	15.3	19.8	14.1	18.3
+Ni	28.9	25.9	29.5	26.8
+Ti	14.0	5.7	15.5	7.3
+Mo	–	–	1.8	1.9
+
+Co1.5CrFeNi1.5Ti0.5Mo0.5 (atom%)	Co1.5CrFeNi1.5Ti0.5Mo0.8 (atom%)
+Interdendrite	Dendrite	Dendrite	Dendrite
+Co	21.0	24.0	20.6	24.8
+Cr	20.5	18.1	19.6	15.5
+Fe	14.2	16.9	15.2	16.6
+Ni	13.0	26.2	14.0	28.2
+Ti	7.1	7.5	4.3	7.3
+Mo	24.2	7.3	26.3	7.6",https://www.sciencedirect.com/science/article/pii/S0010938X10001897?via%3Dihub
+"Table 3. Chemical mixing enthalpy (?Hchem) of a pair of atoms [53], [54], [55].
+
+System	?Hchem (kJ/mol)
+Mo–Co	?5
+Mo–Cr	0
+Mo–Fe	?2
+Mo–Ni	?7
+Mo–Ti	?4
+Fe–Co	?1
+Fe–Cr	?1
+Fe–Ni	?2
+Fe–Ti	?9
+Co–Ni	0
+Co–Ti	?28
+Ni–Ti	?35",https://www.sciencedirect.com/science/article/pii/S0010938X10001897?via%3Dihub
+"Table 4. Electrochemical parameters of the Co1.5CrFeNi1.5Ti0.5Mox alloys in deaerated 0.5 M H2SO4.
+
+Designation	Ecorra (mVSHE)	icorrb (?A/cm2)	Eppc (mVSHE)	icrid (?A/cm2)	ipasse (?A/cm2)	Espf (mVSHE)	Ebg (mVSHE)	?Eh (mV)
+Mo0	?92	30	?41	46	9	–	1089	1130
+Mo0.1	?71	78	?23	45	9	–	1089	1112
+Mo0.5	?64	72	?20	41	11	–	1089	1109
+Mo0.8	?70	69	?20	44	22	971	1089	1109
+a
+Ecorr: corrosion potential.
+b
+icorr: corrosion current density.
+c
+Epp: primary passivation potential.
+d
+icri: critical current density.
+e
+ipass: passive current density.
+f
+Esp: secondary passivation potential.
+g
+Eb: breakdown potential.
+h
+?E: a potential difference between Eb and Epp.",https://www.sciencedirect.com/science/article/pii/S0010938X10001897?via%3Dihub
+"Table 5. Electrochemical parameters of the Co1.5CrFeNi1.5Ti0.5Mox alloys in deaerated 1 M NaOH.
+
+Designation	Ecorra (mVSHE)	icorrb (?A/cm2)	Eppc (mVSHE)	icrid (?A/cm2)	Espe (mVSHE)	Ebf (mVSHE)
+Mo0	?546	0.09	?485	0.20	335	653
+Mo0.1	?379	0.11	?307	0.23	317	653
+Mo0.5	?657	0.16	?545	0.62	328	653
+Mo0.8	?589	0.25	?509	0.63	317	660
+a
+Ecorr: corrosion potential.
+b
+icorr: corrosion current density.
+c
+Epp: primary passivation potential.
+d
+icri: critical current density.
+e
+Esp: secondary passivation potential.
+f
+Eb: breakdown potential.",https://www.sciencedirect.com/science/article/pii/S0010938X10001897?via%3Dihub
+"Table 6. Electrochemical parameters of the Co1.5CrFeNi1.5Ti0.5Mox alloys in deaerated 1 M NaCl.
+
+Designation	Ecorra (mVSHE)	icorrb (?A/cm2)	Eppc (mVSHE)	ipassd (?A/cm2)	Ebe (mVSHE)	Eprotf (mVSHE)	Erpg (mVSHE)	?Eh (mV)
+Mo0	?443	0.57	?219	1.46	338	85	32.5	557
+Mo0.1	?381	0.13	?215	3.80	1214	–	761	1429
+Mo0.5	?493	0.20	?219	4.10	1164	–	755	1383
+Mo0.8	?551	0.41	?189	5.11	1182	–	476	1371
+a
+Ecorr: corrosion potential.
+b
+icorr: corrosion current density.
+c
+Epp: primary passivation potential.
+d
+ipass: passive current density.
+e
+Eb: breakdown potential.
+f
+?E: a potential difference between Eb and Epp.
+g
+Eprot: protection potential.
+h
+Erp: repassivation potential.",https://www.sciencedirect.com/science/article/pii/S0010938X10001897?via%3Dihub
+"Table 7. EDS results for the Co1.5CrFeNi1.5Ti0.5Mo0.5 alloy with different selected area A and B after the potentiodynamic polarisation in deaerated 0.5 M H2SO4.
+
+Element	Co1.5CrFeNi1.5Ti0.5Mo0.5 (atom%)
+A	B
+Co	21.9	24.4
+Cr	20.7	18.0
+Fe	12.8	17.6
+Ni	13.8	27.1
+Ti	6.9	6.5
+Mo	23.9	6.4",https://www.sciencedirect.com/science/article/pii/S0010938X10001897?via%3Dihub
+"Table 1. EDX analyses of the compositions of FeCoNiCr, FeCoNiCrCu0.5, and FeCoNiCrCu
+
+Empty Cell	Alloys (wt.%)
+Empty Cell	Fe	Cr	Ni	Co	Cu
+FeCoNiCr	24.58	25.12	25.92	24.90	–
+FeCoNiCrCu0.5	20.47	16.48	25.48	23.99	13.49
+FeCoNiCrCu	18.78	16.25	21.78	21.50	21.69",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 2. EDX analyses of the dendrite and interdendrite structure of as-cast FeCoNiCrCu0.5 and FeCoNiCrCu alloys
+
+Empty Cell	FeCoNiCrCu0.5 (at.%)	FeCoNiCrCu (at.%)
+Empty Cell	Interdendrite	Dendrite	Interdendrite	Dendrite
+Cu	82.18	11.68	86.68	9.56
+Fe	0.90	21.80	3.46	23.58
+Co	1.08	24.45	2.67	24.67
+Ni	11.60	22.73	5.41	21.34
+Cr	4.24	19.34	1.78	21.08",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 3. Chemical mixing enthalpy (?Hchem) of a pair of atoms [5], [11], [12], [13]
+
+Empty Cell	?Hchem (kJ mol?1)
+Cusingle bondFe	13
+Cusingle bondCo	10
+Cusingle bondNi	4
+Cosingle bondNi	0
+Cusingle bondCr	?1
+Fesingle bondCo	?1
+Fesingle bondCr	?1
+Fesingle bondNi	?2
+Cosingle bondCr	?4
+Nisingle bondCr	?7",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 4. Average corrosion rates (mm year?1) of as-cast FeCoNiCrCux alloys in 3.5% NaCl solution at 25 °C
+
+Empty Cell	FeCoNiCr	FeCoNiCrCu0.5	FeCoNiCrCu
+Immersion testa	7.62 × 10?4	8.89 × 10?3	1.14 × 10?2
+Polarization curveb	3.31 × 10?4	7.46 × 10?3	1.37 × 10?2
+a
+Average corrosion rate is converted from weight loss data.
+b
+Average corrosion rate is obtained from Tafel region extrapolation and Faraday's law.",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 5. Electrochemical parameters of as-cast FeCoNiCrCux alloys and 304L stainless steel in 3.5% NaCl solution at 25 °C
+
+Empty Cell	Ecorra (VSCE)	Epitb (VSCE)	icorrc (A cm?2)
+FeCoNiCr	?0.26	0.31	3.15 × 10?8
+FeCoNiCrCu0.5	?0.29	0.09	7.23 × 10?7
+FeCoNiCrCu	?0.33	0.08	1.32 × 10?6
+304L	?0.25	0.23	6.01 × 10?7
+a
+Ecorr: corrosion potential.
+b
+Epit: pitting potential.
+c
+icorr: corrosion current density.",https://www.sciencedirect.com/science/article/pii/S0254058405000088?via%3Dihub
+"Table 1. Lattice parameters (a and c, in Å) and volume expansion (?, %) for Tix, Vy, and Zrz before and after PCI tests.
+
+Alloys	Before PCI tests	After PCI tests	? (%)
+a (Å)	c (Å)	a (Å)	c (Å)
+Ti0.5	4.960	8.030	4.992	8.131	2.57
+Ti1.0	4.958	8.046	4.982	8.152	2.30
+Ti1.5	4.983	8.106	5.019	8.229	2.99
+Ti2.0	5.006	8.155	5.086	8.340	5.56
+Ti2.5	5.083	8.220	5.171	8.418	5.99
+
+V0.4	4.958	8.095	5.006	8.137	2.47
+V0.7	4.970	8.113	4.982	8.127	0.66
+V1.0	4.958	8.046	4.982	8.152	2.30
+V1.3	4.958	8.095	4.994	8.169	2.39
+V1.6	4.970	8.135	5.006	8.290	3.40
+V2.0	4.958	8.095	4.982	8.203	2.31
+V2.3	4.958	8.095	5.043	8.163	4.32
+V2.6	4.970	8.135	5.043	8.240	4.29
+V3.0	4.970	8.113	5.043	8.240	4.57
+
+Zr0.4	4.866	7.915	4.866	7.936	0.27
+Zr0.7	4.866	7.936	4.935	7.989	3.51
+Zr1.0	4.958	8.046	4.982	8.152	2.30
+Zr1.3	4.994	8.169	5.273	8.597	17.32
+Zr1.6	5.031	8.222	5.342	9.030	23.83
+Zr2.0	5.056	8.258	5.383	8.753	20.16
+Zr2.3	5.067	8.302	5.411	8.853	21.62
+Zr2.6	5.117	8.319	5.469	8.937	22.70
+Zr3.0	5.117	8.763	5.469	8.906	16.10",https://www.sciencedirect.com/science/article/pii/S0360319910011882?via%3Dihub
+"Table 2. ?Hcal (kJ/mol) and (H/atom)max values for Tix, Vy, and Zrz.
+
+x in Tix	0.5	1	1.5	2	2.5				
+?Hcal	?11.28	?30.59	?38.86	?40.51	?27.88				
+(H/atom)max	0.17	0.65	0.83	0.87	0.75				
+
+y in Vy	0.4	0.7	1	1.3	1.6	2	2.3	2.6	3
+?Hcal	?33.15	?33.31	?30.75	?32.61	?31.87	?31.47	?31.63	?32.44	?31.4
+(H/atom)max	0.9	0.92	0.86	0.92	0.9	0.91	0.92	0.95	0.93
+
+z in Zrz	0.4	0.7	1	1.3	1.6	2	2.3	2.6	3
+?Hcal	?0.48	?9.29	?30.75	?38.07	?44.19	?49.12	?53.96	?54.99	?52.71
+(H/atom)max	0.02	0.29	0.86	0.99	1.06	1.11	1.17	1.15	1.06",https://www.sciencedirect.com/science/article/pii/S0360319910011882?via%3Dihub
+"Table 3. The maximum hydrogen storage capacity per alloy formula weight from experiment (H/M)max, the maximum hydrogen storage per alloy atom from experiment (H/atom)max, the maximum hydrogen storage per alloy atom from calculation (H/atom)cal, and the average formation enthalpy, ?Hcal, for different alloy systems.
+
+Alloy System	Hydride formula	(H/M)max, wt%	(H/M)max, H/atom	(H/M)cal, H/atom	?Hcal, kJ/mol	T, °C	Ref.
+Mg2Ni	Mg2Ni0.75Cu0.25H2.92	2.69	0.97	1.67	?26.74	200	[22]
+Mg2Ni0.6Cu0.4H2.44	2.23	0.81	1.67	?21.87	200	[22]
+Mg2NiH2.25	2.10	0.75	1.67	?21.32	200	[22]
+Mg2Ni0.75V0.25H3.69	2.07	0.73	1.67	?23.09	200	[22]
+Mg2Ni0.75Cu0.25H3.80	3.50	1.27	1.67	?34.79	227	[23]
+Mg2Ni0.75V0.25H3.17	3.00	1.06	1.75	?31.97	250	[23]
+Mg2Ni0.75Cr0.25H3.29	3.11	1.10	1.75	?30.99	248	[23]
+Mg2Ni0.75Co0.25H3.45	3.21	1.15	1.67	?32.69	279	[23]
+Mg2Ni0.75Fe0.25H3.10	2.91	1.03	1.67	?28.94	253	[23]
+Mg2NiH4.00	3.60	1.33	1.67	?37.90	253	[23]
+Mg2CuH3.08	2.70	1.03	1.67	?25.25	239	[23]
+Mg1.9Ti0.1NiH3.62	3.30	1.21	1.67	?35.51	300	[24]
+Mg2Ni0.75V0.25H3.69	3.50	1.23	1.75	?37.21	300	[22]
+Mg2Ni0.75Cu0.25H4.16	3.83	1.39	1.67	?38.09	300	[22]
+Mg2Ni0.6Cu0.4H3.98	3.64	1.33	1.67	?35.68	300	[22]
+Mg2NiH4.00	3.60	1.33	1.67	?37.90	300	[24]
+
+LaNi5	LaNi5H6.00	1.39	1.00	1.17	?23.89	20	[23]
+LaNi5H6.70	1.55	1.12	1.17	?26.67	20	[25]
+MmNi2.5Co2.5H5.20	1.20	0.87	1.17	?17.85	20	[23]
+MmNi4.5Al0.5H4.80	1.15	0.80	1.33	?17.49	20	[23]
+MmNi4.5Cr0.25Mn0.25H6.90	1.60	1.15	1.21	?27.86	20	[23]
+MmNi4.5Cr0.45Mn0.05H6.80	1.58	1.13	1.24	?26.96	20	[23]
+MmNi4.5Cr0.46Mn0.04H6.30	1.47	1.05	1.24	?24.96	20	[23]
+MmNi4.5Cr0.5H6.30	1.47	1.05	1.25	?24.03	20	[23]
+MmNi4.5Mn0.5H6.60	1.53	1.10	1.17	?27.26	20	[23]
+MmNi4.5Si0.5H3.80	0.91	0.63	1.42	?11.48	20	[23]
+MmNi5H6.30	1.45	1.05	1.17	?24.77	20	[23]
+LaNi4.6Al0.4H4.70	1.15	0.78	1.30	?17.58	30	[23]
+LaNi4.6Si0.4H3.50	0.83	0.58	1.37	?11.26	30	[23]
+MmNi4.5Al0.25Co0.25H5.10	1.20	0.85	1.25	?19.03	30	[23]
+MmNi4.5Al0.25Cr0.25H5.08	1.20	0.85	1.29	?19.28	30	[23]
+MmNi4.5Al0.25Cu0.25H5.54	1.30	0.92	1.25	?20.00	30	[23]
+MmNi4.5Al0.25Mn0.25H5.51	1.30	0.92	1.25	?21.33	30	[23]
+MmNi4.5Al0.25Si0.25H4.59	1.10	0.77	1.38	?15.25	30	[23]
+MmNi4.5Al0.45Ti0.05H5.30	1.27	0.88	1.33	?20.06	30	[23]
+MmNi4.5Al0.4Zr0.1H5.00	1.18	0.83	1.32	?20.05	30	[23]
+MmNi4.5Al0.5H5.00	1.17	0.83	1.33	?18.22	30	[23]
+MmNi4.5Fe0.45Zr0.05H6.05	1.40	1.01	1.18	?24.60	30	[23]
+MmNi4.5Fe0.5Zr0.05H6.11	1.40	1.01	1.17	?24.34	30	[23]
+MmNi4.7Al0.3H5.93	1.40	0.99	1.27	?22.24	30	[23]
+MmNi4.7Al0.3Ti0.05H5.60	1.31	0.93	1.27	?21.31	30	[23]
+MmNi4.7Al0.3Zr0.1H5.00	1.16	0.82	1.28	?19.69	30	[25]
+
+FeTi	FeTiH1.90	1.83	0.95	1.50	?34.42	80	[23]
+TiFe0.8Mn0.2H1.90	1.83	0.95	1.50	?35.74	80	[25]
+TiFe0.8Mn0.2H1.95	1.88	0.98	1.50	?36.68	80	[23]
+TiFe0.8Mn0.2Al0.05H1.35	1.29	0.66	1.54	?23.88	80	[23]
+TiFe0.8Mn0.2Zr0.05H2.15	2.04	1.05	1.51	?41.22	80	[23]
+TiFe0.8Mn0.18Al0.02Zr0.05H2.03	1.89	0.99	1.53	?38.45	80	[23]
+TiFe0.8Mn0.18Al0.05Zr0.02H1.99	1.88	0.97	1.55	?35.95	80	[23]
+TiFe0.8Mn0.2V0.05H1.89	1.78	0.92	1.51	?34.68	80	[23]
+
+TiCo	TiCoH1.50	1.40	0.75	1.50	?27.17	120	[23]
+TiCo0.5Mn0.5H1.36	1.30	0.68	1.50	?27.48	120	[23]
+TiCo0.5Mn0.5V0.05H1.40	1.30	0.68	1.51	?27.35	120	[23]
+TiCo0.5Mn0.5Zr0.05H1.53	1.40	0.75	1.46	?32.19	120	[23]
+TiCo0.5Fe0.5H1.26	1.20	0.61	1.46	?22.82	120	[23]
+TiCo0.5Fe0.5V0.05H1.40	1.30	0.68	1.51	?24.58	120	[23]
+TiCo0.5Fe0.5Zr0.05H1.43	1.30	0.70	1.51	?26.28	120	[23]
+
+ZrB2	ZrV2H5.30	2.74	1.77	2.00	?82.46	25	[26]
+Zr(Fe0.1V0.9)2H4.40	2.28	1.47	1.93	?66.95	25	[26]
+Zr(Fe0.25V0.75)2H3.70	2.17	1.23	1.83	?54.36	25	[26]
+Zr(Fe0.5V0.5)2H3.20	1.62	1.07	1.67	?43.69	25	[26]
+Zr(Fe0.75V0.25)2H3.20	1.60	1.07	1.50	?39.62	25	[26]
+Zr(Fe0.8V0.2)2H2.90	1.44	0.97	1.47	?35.07	25	[26]
+Zr(Fe0.9V0.1)2H1.60	0.79	0.53	1.40	?18.36	25	[26]
+ZrFe2H0.12	0.06	0.04	1.33	?1.30	25	[26]
+ZrCr2H3.80	1.95	1.27	2.00	?41.47	25	[26]
+Zr(Fe0.25Cr0.75)2H3.40	1.72	1.13	1.83	?37.04	25	[26]
+ZrB2	Zr(Fe0.5Cr0.5)2H3.40	1.71	1.13	1.67	?36.95	25	[26]
+Zr(Fe0.6Cr0.4)2H2.95	1.48	0.98	1.60	?32.03	25	[26]
+Zr(Fe0.75Cr0.25)2H2.85	1.42	0.95	1.50	?30.89	25	[26]
+Zr(Fe0.8Cr0.2)2H2.60	1.29	0.87	1.47	?28.16	25	[26]
+Zr(Fe0.9Cr0.1)2H0.22	0.11	0.07	1.40	?2.38	25	[26]
+ZrMn2H3.60	1.79	1.20	1.33	?53.91	25	[26]
+Zr(Fe0.2Mn0.8)2H3.30	1.64	1.10	1.33	?46.67	25	[26]
+Zr(Fe0.4Mn0.6)2H3.20	1.59	1.07	1.33	?42.04	25	[26]
+Zr(Fe0.5Mn0.5)2H2.90	1.44	0.97	1.33	?37.38	25	[26]
+Zr(Fe0.6Mn0.4)2H2.00	0.99	0.67	1.33	?24.38	25	[26]
+Zr(Fe0.75Mn0.25)2H0.45	0.22	0.15	1.33	?5.33	25	[26]
+Zr(Fe0.8Mn0.2)2H0.20	0.01	0.07	1.33	?2.33	25	[26]
+Zr(Fe0.9Mn0.1)2H0.20	0.01	0.07	1.33	?2.24	25	[26]
+ZrV2H5.30	2.74	1.77	2.00	?82.46	25	[26]
+Zr(Co0.125V0.875)2H4.40	2.26	1.47	1.92	?66.64	25	[26]
+Zr(Co0.25V0.75)2H4.20	2.13	1.40	1.83	?61.71	25	[26]
+Zr(Co0.5V0.5)2H3.70	1.54	1.23	1.67	?56.71	25	[26]
+Zr(Co0.75V0.25)2H2.80	1.37	0.93	1.50	?34.68	25	[26]
+Zr(Co0.8V0.2)2H2.10	1.02	0.70	1.47	?25.40	25	[26]
+Zr(Co0.9V0.1)2H0.41	0.20	0.14	1.40	?4.71	25	[26]
+ZrCo2H0.30	0.14	0.10	1.33	?3.24	25	[26]
+ZrCr2H3.80	1.95	1.27	2.00	?41.47	25	[26]
+Zr(Co0.25Cr0.75)2H3.25	1.64	1.08	1.83	?35.40	25	[26]
+Zr(Co0.5Cr0.5)2H3.20	1.58	1.07	1.67	?34.79	25	[26]
+Zr(Co0.75Cr0.25)2H1.60	0.79	0.53	1.50	?17.34	25	[26]
+Zr(Co0.8Cr0.2)2H0.30	0.16	0.10	1.47	?3.25	25	[26]
+Zr(Co0.9Cr0.1)2H0.30	0.14	0.10	1.40	?3.24	25	[26]
+ZrCo2H0.30	0.14	0.10	1.33	?3.24	25	[26]
+ZrMn2H3.60	1.79	1.20	1.33	?53.92	25	[26]
+Zr(Co0.25Mn0.75)2H3.40	1.67	1.13	1.33	?47.37	25	[26]
+Zr(Co0.4Mn0.6)2H3.10	1.53	1.03	1.33	?41.25	25	[26]
+Zr(Co0.5Mn0.5)2H3.10	1.51	1.03	1.33	?39.95	25	[26]
+Zr(Co0.55Mn0.45)2H2.20	1.07	0.73	1.33	?27.89	25	[26]
+Zr(Co0.6Mn0.4)2H2.70	1.06	0.90	1.33	?33.67	25	[26]
+Zr(Co0.7Mn0.3)2H0.70	0.34	0.23	1.33	?8.44	25	[26]
+Zr(Co0.8Mn0.2)2H0.85	0.41	0.28	1.33	?9.89	25	[26]
+Zr(Co0.9Mn0.1)2H0.53	0.25	0.18	1.33	?5.94	25	[26]
+
+Zrxa	CoFeMnTiVZr0.4H0.09	0.03	0.02	1.44	?0.48	25	–
+CoFeMnTiVZr0.7H1.63	0.49	0.29	1.47	?9.29	25	–
+CoFeMnTiVZrH5.14	1.43	0.86	1.50	?30.75	25	–
+CoFeMnTiVZr1.3H6.21	1.63	0.99	1.52	?38.07	25	–
+CoFeMnTiVZr1.6H7.09	1.71	1.06	1.52	?44.19	25	–
+CoFeMnTiVZr2H7.80	1.73	1.11	1.57	?49.12	25	–
+CoFeMnTiVZr2.3H8.56	1.79	1.17	1.59	?53.96	25	–
+CoFeMnTiVZ2.6H8.75	1.73	1.15	1.61	?54.99	25	–
+CoFeMnTiVZr3H8.46	1.56	1.06	1.63	?52.71	25	–
+
+Vxa	CoFeMnTiV0.4ZrH4.87	1.48	0.90	1.44	?33.15	25	–
+CoFeMnTiV0.7ZrH5.24	1.52	0.92	1.47	?33.31	25	–
+CoFeMnTiV1ZrH5.14	1.43	0.86	1.50	?30.75	25	–
+CoFeMnTiV1.3ZrH5.81	1.55	0.92	1.52	?32.61	25	–
+CoFeMnTiV1.6ZrH6.01	1.54	0.90	1.52	?31.87	25	–
+CoFeMnTiV2ZrH6.37	1.55	0.91	1.57	?31.47	25	–
+CoFeMnTiV2.3ZrH6.73	1.58	0.92	1.59	?31.63	25	–
+CoFeMnTiV2.6ZrH7.24	1.64	0.95	1.61	?32.44	25	–
+CoFeMnTiV3ZrH7.48	1.62	0.93	1.63	?31.40	25	–
+
+Tixa	CoFeMnTi0.5VZrH2.01	0.60	0.37	1.45	?11.28		–
+CoFeMnTi1VZrH5.14	1.43	0.85	1.50	?30.59		–
+CoFeMnTi1.5VZrH6.83	1.78	1.05	1.54	?38.86		–
+CoFeMnTi2VZrH7.33	1.80	1.05	1.57	?40.51		–
+CoFeMnTi2.5VZrH5.17	1.20	0.68	1.60	?27.88		–
+
+BCC	V0.85Ti0.10Fe0.05H1.60	3.14	1.60	1.95	?50.34	30	[27]
+(Ti0.16Zr0.05Cr0.22V0.57)0.95Fe0.05H1.16	2.20	1.16	1.95	?34.83	25	[28]
+V30Ti35Cr25Fe10H182.27	3.60	1.82	1.90	?61.33	25	[29]
+a
+This study.",https://www.sciencedirect.com/science/article/pii/S0360319910011882?via%3Dihub
+"Table 1. Chemical composition of the NbCrMo0.5Ta0.5TiZr alloy produced by vacuum arc melting.
+
+Composition	Nb	Cr	Mo	Ta	Ti	Zr
+At.%	21.84	18.39	10.04	11.86	19.40	18.48
+Wt.%	23.30	10.98	11.06	24.64	10.67	19.36",https://www.sciencedirect.com/science/article/pii/S0921509311009932?via%3Dihub
+"Table 2. Chemical composition (in at.%) of different microstructure constituents in the HIPd NbCrMo0.5Ta0.5TiZr alloy.
+
+Constituent	Phase	Nb	Cr	Mo	Ta	Ti	Zr
+4 mm2 area	BCC1 + BCC2 + FCC	22.20	18.35	10.15	11.73	19.30	18.27
+Primary bright particles	BCC1	26.80	13.22	14.30	16.80	19.07	9.82
+Matrix between the primary particles	BCC2	18.68	3.09	0.64	3.83	33.16	40.60
+Dark particles inside the matrix	FCC (Laves)	12.07	40.74	6.35	6.99	10.78	23.09
+Transition layer	BCC1	26.96	6.74	9.92	14.14	28.08	14.16",https://www.sciencedirect.com/science/article/pii/S0921509311009932?via%3Dihub
+"Table 3. The lattice parameter, a, of the BCC crystal structure of the pure metals and the BCC1 and BCC2 phases presented in the studied alloy at room temperature. For Zr and Ti, the parameter a was extrapolated from elevated temperatures [8]. The calculated (Calc) values of the lattice parameter of the BCC phases were obtained using Eq. (1).
+
+Empty Cell	Metal
+Empty Cell	Nb	Cr	Mo	Ta	Ti	Zr	BCC1 Calc	BCC2 Calc	BCC1 HIP	BCC2 HIP
+a (pm)	330.1	288.4	315.0	330.3	327.6	358.2	324.7	339.3	324.8	341.0",https://www.sciencedirect.com/science/article/pii/S0921509311009932?via%3Dihub
+"Table 4. Density of pure metals and the studied NbCrMo0.5Ta0.5TiZr alloy. Both calculated (Calc, using Eq. (2)) and experimental (Exp) values are shown for the alloy.
+
+Empty Cell	Metal
+Empty Cell	Nb	Cr	Mo	Ta	Ti	Zr	Alloy (Calc)	Alloy Cast (Exp)	Alloy HIP (Exp)
+? (g/cm3)	8.57	7.14	10.28	16.65	4.51	6.51	8.23	8.02	8.23",https://www.sciencedirect.com/science/article/pii/S0921509311009932?via%3Dihub
+"Table 5. Vickers microhardness, Hv, values of pure metals and the NbCrMo0.5Ta0.5TiZr alloy at room temperature. Both the calculated (Calc) and experimental (Exp) values are shown for the alloy.
+
+Empty Cell	Metal
+Empty Cell	Nb	Cr	Mo	Ta	Ti	Zr	Alloy (Calc)	Alloy (Exp)
+Hv (MPa)	1320	1060	1530	873	970	903	1097	5288",https://www.sciencedirect.com/science/article/pii/S0921509311009932?via%3Dihub
+"Table 6. Compression yield strength, ?0.2, peak stress, ?p, and fracture strain, ?f, of the NbCrMo0.5Ta0.5TiZr alloy at different temperatures. The strain, ?f, rate is 10?3 s?1.
+
+Empty Cell	T (K)
+Empty Cell	296	1073	1273	1473
+?0.2 (MPa)	1595	983	546	170
+?p (MPa)	2046	1100	630	190
+?f (%)	5.0	5.5	No fracture	No fracture",https://www.sciencedirect.com/science/article/pii/S0921509311009932?via%3Dihub
+"Table 7. Chemical composition (in at.%) by EDS/SEM of different constituents in the NbCrMo0.5Ta0.5TiZr alloy sample after 50% compression at 1473 K.
+
+Constituent	Phase	Nb	Cr	Mo	Ta	Ti	Zr
+6.0 mm2 area	BCC1 + BCC2 + FCC	22.20	18.39	10.07	11.78	19.36	18.20
+Primary bright particles	BCC1 + FCC	26.93	13.29	13.76	16.06	19.38	10.57
+Bright region inside primary particles	BCC1	27.62	11.53	13.97	16.29	20.06	10.53
+Dark precipitates inside primary particles	FCC (Laves)	17.91	30.30	11.19	11.19	13.30	16.12
+Dark matrix between primary particles	BCC2	20.35	2.54	1.23	4.57	31.41	39.90
+Dark particles inside the matrix	FCC (Laves)	11.90	41.06	6.74	7.11	10.48	22.71
+Bright particles inside the tails	BCC1	27.59	6.80	8.27	12.90	28.01	16.44",https://www.sciencedirect.com/science/article/pii/S0921509311009932?via%3Dihub
+"Table 1. Chemical compositions (in at.%), density, ?, and Vickers microhardness, Hv, of the alloys studied in this work.
+
+Alloy	Cr	Nb	Ti	V	Zr	? (g cm?3)	?mix (g cm?3)	HV (GPa)
+NbTiVZr	–	28.3	24.5	23.0	24.2	6.52	6.50	3.29 ± 0.03
+NbTiV2Zr	–	22.6	19.4	37.2	20.8	6.34	6.38	2.99 ± 0.03
+CrNbTiZr	24.6	26.7	23.9	–	24.8	6.67	6.70	4.10 ± 0.04
+CrNbTiVZr	20.2	20.0	19.9	19.6	20.3	6.57	6.52	4.72 ± 0.05",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 2. Chemical composition (in at.%) of the NbVTiZr alloy constituents (see Fig. 2).
+
+Empty Cell	Nb	Ti	V	Zr
+Matrix (grey)	27.7	24.4	23.7	24.2
+Black particles	22.1	20.5	38.9	18.5
+White regions near particles	24.4	22.1	21.0	32.5",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 3. Chemical composition (in at.%) of the NbV2TiZr alloy constituents (see Fig. 4).
+
+Empty Cell	Nb	Ti	V	Zr
+White regions	21.4	19.2	10.7	48.6
+Dark regions	23.2	19.7	48.2	8.9
+Grey regions	23.8	19.7	42.5	14.0",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 4. Chemical composition (in at.%) of the CrNbTiZr alloy constituents (see Fig. 6).
+
+Empty Cell	Cr	Nb	Ti	Zr
+Bright regions	7.9	34.6	31.4	26.1
+Dark regions	51.5	15.8	12.1	20.6",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 5. Chemical composition (in at.%) of the CrNbTiVZr alloy constituents (see Fig. 8).
+
+Empty Cell	Cr	Nb	Ti	V	Zr
+Bright regions	4.1	31.6	33.1	12.8	18.4
+Dark regions	29.4	16.1	9.7	22.2	22.7",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 6. Liquidus, 
+, and solidus, 
+, temperatures and fractions of solid phases in the four alloys after non-equilibrium solidification (simulated results).
+
+Alloy	
+, °C	
+, °C	Phase fraction
+A2-1	A2-2	C15
+NbTiVZr	1760	1207	0.999	0.001	0
+NbTiV2Zr	1717	1207	0.995	0.005	0
+CrNbTiZr	1572	1391	0.912	0	0.088
+CrNbTiVZr	1607	1103	0.95	0.005	0.045",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 7. Average compositions (in at.%) of the phases in the studied alloys after non-equilibrium solidification.
+
+Phase ID	Element	NbTiVZr	NbTiV2Zr	CrNbTiZr	CrNbTiVZr
+bcc A2-1	Cr			21.0	17.9
+Nb	25.0	20.1	27.4	21.0
+Ti	25.0	20.1	27.2	21.0
+V	25.0	39.8		21.0
+Zr	25.0	20.1	24.4	19.1
+
+bcc A2-2	Cr				8.0
+Nb	3.0	3.3		3.8
+Ti	3.9	3.9		1.2
+V	85.0	84.5		16.2
+Zr	8.1	8.2		70.8
+
+Laves C15	Cr			66.4	65.9
+Nb			0.0	0.0
+Ti			2.8	0.8
+V				0.0
+Zr			30.9	33.3",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 8. Characteristic equilibrium phase transformation temperatures (in °C) and respective reaction equations in the studied alloys (simulated results).
+
+Reaction equation	NbTiVZr	NbTiV2Zr	CrNbTiZr	CrNbTiVZr
+L ? A2-1 (TL)	1760	1717	1572	1607
+L ? A2-1 (TS)	1668	1610	1432	1470
+A2-1 ? C15	–	–	1363	1234
+A2-1 ? A2-2	726	843	–	671
+A2-1 ? A3	–	–	535	–
+A2-1 ? A2-2 + A3	471	456	–	–
+A2-1 ? A2-2 + A3	446	426	–	–
+A2-1 ? A2-2 + C15 + A3				440
+A2-1 ? A2-2 + C15 + A3	–	–	–	433",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 9. Predicted volume fractions and compositions (in at.%) of equilibrium phases in the studied alloys at T = 600 °C.
+
+Empty Cell	Fraction	Cr	Nb	Ti	V	Zr
+NbTiVZr						
+A2-1	0.636		13.6	32.4	18.5	35.5
+A2-2	0.364		45.0	12.0	36.3	6.7
+
+NbTiV2Zr						
+A2-1	0.477		7.6	31.4	23.0	38.0
+A2-2	0.523		31.3	9.6	55.6	3.6
+
+CrNbTiZr						
+A2-1	0.633	0.9	39.5	39.5		20.2
+C15	0.367	66.6		0.04		33.3
+
+CrNbTiVZr						
+A2-1	0.338	1.7	16.3	37.4	21.6	23.0
+C15	0.288	66.6		0.03		33.4
+A2-2	0.374	0.7	38.8	19.6	33.9	7.0",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 10. Predicted volume fractions and compositions (in at.%) of equilibrium phases in the studied alloys at T = 400 °C.
+
+Empty Cell	Fraction	Cr	Nb	Ti	V	Zr
+NbTiVZr						
+A2-2	0.535		46.5	6.1	46.3	1.1
+A3	0.465		0.2	46.8	0.5	52.5
+
+NbTiV2Zr						
+A2-2	0.646		30.9	6.8	61.6	0.7
+A3	0.354		0.1	44.1	0.6	55.1
+
+CrNbTiZr						
+A2-1	0.264	0.0	93.9	3.8		2.3
+C15	0.375	66.6		0.02		33.3
+A3	0.361	0.0	0.5	66.5		33.0
+
+CrNbTiVZr						
+C15	0.300	66.6		0.02		33.3
+A2-2	0.439	0.0	45.4	8.4	45.2	1.0
+A3	0.261	0.0	0.3	62.5	0.6	36.6",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 1. Bulk chemical composition of AlxCoCrFeNi system by glow discharge optical emission spectroscopy.
+
+Alloy	Atomic % (±0.5)
+Co	Cr	Fe	Ni	Al
+Al0.3	23.4	22.9	23.3	23.1	7.1
+Al0.6	21.4	20.9	22.8	21.6	13.3
+Al0.85	20.2	20.7	21.1	19.8	18.3",https://www.sciencedirect.com/science/article/pii/S0925838817327950
+"Table 2. Nano-hardness values of the constituent phases of AlxCoCrFeNi HEAs.
+
+Alloy	FCC	Disordered BCC phase	B2 phase
+Al0.3	3.4 (±0.2) GPa	–	–
+Al0.6	3.5 (±0.2) GPa	5.4 (±0.3) GPa	9.1 (±0.5) GPa
+Al0.85	–	5.5 (±0.3) GPa	9.1 (±0.5) Gpa",https://www.sciencedirect.com/science/article/pii/S0925838817327950
+"Table 3. Measured and predicted yield strength of FCC-Al0.3 and BCC-Al0.85 HEAs based on nano-hardness values.
+
+Empty Cell	FCC-Al0.3	BCC- Al0.85
+Yield strength	194 MPa	1400 MPa
+Nano-hardness (FCC)	3.4 (±0.2) GPa	–
+Nano-hardness (disordered BCC)	–	5.5 (±0.3) GPa
+Nano-hardness (B2 inter metallic)	–	9.1 (±0.5) GPa
+Predicted yield strength	230 (±45) MPa	1300 (±75) MPa",https://www.sciencedirect.com/science/article/pii/S0925838817327950
+"Table 1. Density of the AlCrxNbTiV (x = 0, 0.5, 1, 1.5) alloys.
+
+Empty Cell	?exp, kg m?3	?mix, kg m?3
+AlNbTiV	5590 ± 70	5500
+AlCr0.5NbTiV	5710 ± 80	5640
+AlCrNbTiV	5820 ± 120	5760
+AlCr1.5NbTiV	5900 ± 80	5860",https://www.sciencedirect.com/science/article/pii/S0925838815309208
+"Table 2. Compression mechanical properties of the AlCrxNbTiV (x = 0, 0.5, 1, 1.5) alloys.
+
+Alloy	AlNbTiV	AlCr0.5NbTiV	AlCrNbTiV	AlCr1.5NbTiV
+Temperature, °?	?YS, MPa	?P, MPa	?, %	?YS, MPa	?P, MPa	?, %	?YS, MPa	?P, MPa	?, %	?YS, MPa	?P, MPa	?, %
+22	1000	1280	5.2	1300	1430	0.8	1550	1570	0.4	1700	1700	0
+600	780	1005	12.5	1005	1045	2.5	1015	1060	1.5	1370	1480	0.8
+800	560	700	>50	640	685	>50	860	895	>50	970	1045	>50
+1000	110	–	>50	40	80	>50	65	95	>50	75	105	>50",https://www.sciencedirect.com/science/article/pii/S0925838815309208
+"Table 3. Chemical composition of AlCrxNbTiV (x = 0, 0.5, 1, 1.5) alloys in the homogenized state. Typical regions used for the analysis are shown in Fig. 3. Actual average chemical compositions of the alloys are also given.
+
+Element, at.%	Al	Cr	Nb	Ti	V
+Constituent	AlNbTiV
+?	Designation
+1	Grains	27.4 ± 0.3	–	24.2 ± 0.3	24.6 ± 0.1	23.8 ± 0.2
+Alloy composition	27.6 ± 0.2	–	24.1 ± 0.1	24.8 ± 0.3	23.5 ± 0.1
+AlCr0.5NbTiV
+1	Grains	25.5 ± 0.1	10.1 ± 0.2	22.4 ± 0.3	21.6 ± 0.3	20.4 ± 0.1
+Alloy composition	25.6 ± 0.2	10.2 ± 0.2	22.2 ± 0.1	21.4 ± 0.2	20.6 ± 0.3
+AlCrNbTiV
+1	Grains	23.2 ± 0.2	17.6 ± 0.3	19.9 ± 0.4	20.1 ± 0.3	19.2 ± 0.2
+2	Light particles	18.0 ± 0.3	34.5 ± 0.4	25.5 ± 0.5	9.4 ± 0.2	12.6 ± 0.1
+Alloy composition	22.9 ± 0.2	18.8 ± 0.3	20.2 ± 0.1	19.3 ± 0.2	18.8 ± 0.4
+AlCr1.5NbTiV
+1	Grains	23.1 ± 0.3	20.4 ± 0.1	16.2 ± 0.4	21.1 ± 0.1	19.2 ± 0.2
+2	Light particles	16.9 ± 0.1	36.8 ± 0.5	24.4 ± 0.2	10.3 ± 0.3	11.6 ± 0.4
+Alloy composition	21.7 ± 0.2	25.0 ± 0.3	18.7 ± 0.2	17.8 ± 0.3	16.8 ± 0.1",https://www.sciencedirect.com/science/article/pii/S0925838815309208
+"Table 4. Chemical composition of AlCrxNbTiV (x = 0, 0.5, 1, 1.5) alloys after compression at 800 °C. Typical regions used for the analysis are shown in Fig. 4. Actual average chemical compositions of the alloys are also given.
+
+Element, at.%	Al	Cr	Nb	Ti	V
+Constituent	AlNbTiV
+?	Designation
+1	Grains	26.4 ± 0.2	–	24.2 ± 0.1	25.3 ± 0.2	24.4 ± 0.3
+2	Precipitation-containing zone	26.5 ± 0.1	–	23.9 ± 0.2	25.3 ± 0.5	24.1 ± 0.4
+Alloy composition	27.6 ± 0.2	–	24.1 ± 0.1	24.8 ± 0.3	23.5 ± 0.1
+AlCr0.5NbTiV
+1	Grains	24.3 ± 0.3	10.1 ± 0.4	22.3 ± 0.2	22.0 ± 0.1	21.3 ± 0.3
+2	Precipitation-containing zone	24.7 ± 0.1	11.1 ± 0.3	22.7 ± 0.3	20.6 ± 0.2	20.9 ± 0.2
+Alloy composition	25.6 ± 0.2	10.2 ± 0.2	22.2 ± 0.1	21.4 ± 0.2	20.6 ± 0.3
+AlCrNbTiV
+1	Grains	22.3 ± 0.2	17.7 ± 0.1	17.4 ± 0.2	21.9 ± 0.3	20.6 ± 0.1
+2	Light particles	17.6 ± 0.1	35.2 ± 0.4	23.0 ± 0.2	10.3 ± 0.1	13.9 ± 0.2
+3	Precipitation-containing zone	22.5 ± 0.3	17.0 ± 0.2	17.7 ± 0.2	22.6 ± 0.1	22.2 ± 0.3
+Alloy composition	22.9 ± 0.2	18.8 ± 0.3	20.2 ± 0.1	19.3 ± 0.2	18.8 ± 0.4
+AlCr1.5NbTiV
+1	Grains	21.8 ± 0.1	20.7 ± 0.2	14.8 ± 0.2	22.3 ± 0.1	20.4 ± 0.1
+2	Light particles	16.6 ± 0.2	38.7 ± 0.1	23.8 ± 0.2	9.5 ± 0.2	11.4 ± 0.1
+3	Precipitation-containing zone	20.6 ± 0.3	22.9 ± 0.1	16.6 ± 0.3	20.9 ± 0.3	19.0 ± 0.3
+Alloy composition	21.7 ± 0.2	25.0 ± 0.3	18.7 ± 0.2	17.8 ± 0.3	16.8 ± 0.1",https://www.sciencedirect.com/science/article/pii/S0925838815309208
+"Table 5. Chemical composition of AlCrxNbTiV (x = 0, 0.5, 1, 1.5) alloys after compression at 1000 °C. Typical regions used for the analysis are shown in Fig. 5. Actual average chemical compositions of the alloys are also given.
+
+Element, at.%	Al	Cr	Nb	Ti	V
+Constituent	AlNbTiV
+?	Designation
+1	Grains	27.4 ± 0.2	–	23.8 ± 0.1	24.8 ± 0.2	24.0 ± 0.1
+2	Grey particles	32.3 ± 0.1	–	32.3 ± 0.3	19.2 ± 0.1	16.2 ± 0.2
+Alloy composition	27.6 ± 0.2	–	24.1 ± 0.1	24.8 ± 0.3	23.5 ± 0.1
+AlCr0.5NbTiV
+1	Grains	24.2 ± 0.1	10.5 ± 0.2	18.5 ± 0.2	23.9 ± 0.1	22.9 ± 0.3
+2	Grey particles	27.2 ± 0.2	4.7 ± 0.1	39.0 ± 0.4	18.5 ± 0.3	10.6 ± 0.2
+3	Light particles	13.5 ± 0.1	30.8 ± 0.4	24.9 ± 0.4	10.7 ± 0.2	20.1 ± 0.2
+Alloy composition	25.6 ± 0.2	10.2 ± 0.2	22.2 ± 0.1	21.4 ± 0.2	20.6 ± 0.3
+AlCrNbTiV
+1	Grains	24.4 ± 0.2	15.1 ± 0.2	17.4 ± 0.3	22.9 ± 0.1	20.2 ± 0.1
+2	Coarse light particles	15.2 ± 0.1	35.8 ± 0.5	25.1 ± 0.3	9.9 ± 0.2	14.0 ± 0.4
+3	Fine light particles	15.6 ± 0.4	29.9 ± 0.3	23.8 ± 0.4	13.2 ± 0.4	17.5 ± 0.2
+Alloy composition	22.9 ± 0.2	18.8 ± 0.3	20.2 ± 0.1	19.3 ± 0.2	18.8 ± 0.4
+AlCr1.5NbTiV
+1	Grains	21.4 ± 0.4	15.1 ± 0.3	12.6 ± 0.2	28.0 ± 0.1	22.9 ± 0.1
+2	Coarse light particles	14.0 ± 0.2	39.1 ± 0.6	23.7 ± 0.4	10.4 ± 0.1	12.8 ± 0.2
+3	Fine light particles	14.2 ± 0.1	35.4 ± 0.1	22.2 ± 0.2	12.5 ± 0.4	15.7 ± 0.1
+Alloy composition	21.7 ± 0.2	25.0 ± 0.3	18.7 ± 0.2	17.8 ± 0.3	16.8 ± 0.1",https://www.sciencedirect.com/science/article/pii/S0925838815309208
+"Table 6. Predicted fractions and compositions of equilibrium phases in the AlCrxNbTiV (x = 0, 0.5, 1, 1.5) alloys at 600 °C, 800°, 1000 °C and 1200 °C.
+
+Temperature	Alloy	Phase	Fraction	Composition, at.%
+Al	Cr	Nb	Ti	V
+600 °C	AlNbTiV	BCC_A2	0.697	23.0	–	31.2	12.2	33.6
+Ti3Al	0.303	29.7	–	10.7	54.4	5.2
+AlCr0.5NbTiV	BCC_A2	0.701	20.6	7.2	27.6	14.5	30.1
+Laves	0.135	21.7	43.4	5.9	27.5	1.5
+Ti3Al	0.164	28.4	0.4	11.3	55.7	4.2
+AlCrNbTiV	BCC_A2	0.636	19.6	7.4	27.7	14.9	30.4
+Laves	0.343	20.4	44.5	6.2	27.1	1.8
+Ti3Al	0.021	27.8	0.4	11.5	56.2	4.1
+AlCr1.5NbTiV	BCC_A2	0.509	18.8	9.0	26.1	12.9	33.2
+FCC_C15	0.381	16.9	46.7	10.9	22.6	2.9
+Laves	0.110	19.6	45.1	6.9	26.5	1.9
+800 °C	AlNbTiV	BCC_A2	1	25.0	–	25.0	25.0	25.0
+AlCr0.5NbTiV	BCC_A2	1	22.2	11.2	22.2	22.2	22.2
+AlCrNbTiV	BCC_A2	0.873	20.7	16.0	20.8	19.2	22.3
+FCC_C15	0.127	15.2	47.3	14.5	19.2	3.8
+AlCr1.5NbTiV	BCC_A2	0.692	19.9	18.1	19.5	18.0	24.5
+FCC_C15	0.308	14.3	47.9	15.3	18.4	4.1
+1000 °C	AlNbTiV	BCC_A2	1	25.0	–	25.0	25.0	25.0
+AlCr0.5NbTiV	BCC_A2	1	22.2	11.2	22.2	22.2	22.2
+AlCrNbTiV	BCC_A2	1	20.0	20.0	20.0	20.0	20.0
+AlCr1.5NbTiV	BCC_A2	0.985	18.3	26.9	18.2	18.2	18.4
+FCC_C15	0.015	10.1	51.1	19.4	14.6	4.8
+1200 °C	AlNbTiV	BCC_A2	1	25.0	–	25.0	25.0	25.0
+AlCr0.5NbTiV	BCC_A2	1	22.2	11.2	22.2	22.2	22.2
+AlCrNbTiV	BCC_A2	1	20.0	20.0	20.0	20.0	20.0
+AlCr1.5NbTiV	BCC_A2	1	18.2	27.3	18.2	18.2	18.2",https://www.sciencedirect.com/science/article/pii/S0925838815309208
+"Table 1. Phase evolution after MA and SPS based on XRD analysis.
+
+HEAs	After MA	After SPS at 900 °C
+AlCoCrCuFe	BCC (B) and Cu rich FCC (FCu)	Ordered BCC (B2), Cu rich FCC (FCu), sigma phase (?)
+NiCoCrCuFe	FCC (F) and BCC (Bminor)	Two FCC (F1 and F2), sigma phase (?)
+NiCoCrFe	FCC (F) and BCC (Bminor)	FCC (F) and sigma phase (?)
+NiCoCuFe	FCC (F)	Two FCC (F1 and F2)
+NiCoFe	FCC (F)	FCC (F)",https://www.sciencedirect.com/science/article/pii/S0921509311012834?via%3Dihub
+"Table 2. Relative density obtained for the SPS samples.
+
+HEAs	Theoretical density (g/cm3)	Experimental relative density (%)
+AlCoCrCuFe	6.75	99
+NiCoCrCuFe	8.33	94
+NiCoCrFe	8.17	94
+NiCoCuFe	8.64	86
+NiCoFe	8.53	92",https://www.sciencedirect.com/science/article/pii/S0921509311012834?via%3Dihub
+"Table 3. Crystallite size and lattice strain of MA and SPS samples.
+
+HEAs	Mechanically alloyed powder	Sintered compact
+Empty Cell	Crystallite size (nm)	Strain (%)	Crystallite size (nm)	Strain (%)
+AlCoCrCuFe	10	0.50	74	0.09
+NiCoCrCuFe	7.0	1.00	27	0.14
+NiCoCrFe	6.0	0.83	13	0.00
+NiCoCuFe	9.0	0.73	16	0.05
+NiCoFe	10	0.98	25	0.00",https://www.sciencedirect.com/science/article/pii/S0921509311012834?via%3Dihub
+"Table 4. Vickers hardness for HEAs.
+
+HEAs	Hardness (HV1)
+AlCoCrCuFe	770 ± 10
+NiCoCrCuFe	400 ± 10
+NiCoCrFe	490 ± 10
+NiCoCuFe	160 ± 10
+NiCoFe	230 ± 5.0",https://www.sciencedirect.com/science/article/pii/S0921509311012834?via%3Dihub
+"Table 5. Solid solution criteria parameter values for HEAs.
+
+HEAs	Entropy of mixing (?Smix) (R = 8.314 J/mol K)	Enthalpy of mixing (kJ/mol) (?Hmix)	Atomic size difference (%) (?)
+AlCoCrCuFe	1.61R	?2.56	4.99
+NiCoCrCuFe	1.61R	3.20	1.07
+NiCoCrFe	1.34R	?3.75	1.03
+NiCoCuFe	1.34R	5.00	1.03
+NiCoFe	1.10R	?1.33	0.76",https://www.sciencedirect.com/science/article/pii/S0921509311012834?via%3Dihub
+"Table 6. Enthalpy of mixing (kJ/mol) between elements.
+
+Empty Cell	Al	Co	Cr	Cu	Fe	Ni
+Al	–	?19	?10	?1	?11	?22
+Co	?19	–	?4.0	6.0	?1.0	0
+Cr	?10	?4.0	–	12	?1.0	?7.0
+Cu	?1.0	6.0	12	–	13	4.0
+Fe	?11	?1.0	?1.0	13	–	?2.0
+Ni	?22	0.0	?7.0	4.0	?2.0	–",https://www.sciencedirect.com/science/article/pii/S0921509311012834?via%3Dihub
+"Table 1. Compositions (at.%) of areas in as-cast AlCoCrFeNiCx (x = 0, 0.1, 0.2, 0.3, 0.4, 0.5, 1.0 and 1.5) alloys and atomic radii of different elements.
+
+x	Areas in Fig 2	Al	Co	Cr	Fe	Ni	C
+Empty Cell	Empty Cell	1.43 Å	1.25 Å	1.21 Å	1.24 Å	1.24 Å	0.91 Å
+0	Nominal	20.0	20.0	20.0	20.0	20.0	–
+EDX	16.7	21.1	21.2	21.9	19.1	–
+
+0.1	Nominal	19.61	19.61	19.61	19.61	19.61	1.96
+Grain	13.08	14.04	12.29	14.73	13.38	32.02
+Boundary	7.50	10.06	28.42	13.19	7.16	33.68
+
+0.2	Nominal	19.23	19.23	19.23	19.23	19.23	3.85
+A	14.36	15.47	8.70	13.35	17.02	31.10
+B	7.18	14.95	23.00	20.47	9.81	24.59
+C	2.43	5.15	38.70	8.07	3.80	41.85
+
+0.3	Nominal	18.87	18.87	18.87	18.87	18.87	5.66
+A	21.68	15.86	5.38	12.11	19.88	25.27
+B	5.20	14.08	23.07	17.82	8.36	31.47
+C	0.03	2.20	47.06	6.67	0.65	43.38
+
+0.4	Nominal	18.52	18.52	18.52	18.52	18.52	7.41
+A	18.20	13.33	3.39	10.98	16.83	37.26
+B	5.75	17.10	17.81	19.71	9.27	30.36
+C	0.08	3.16	47.35	7.31	0.89	41.22
+
+0.5	Nominal	18.18	18.18	18.18	18.18	18.18	9.09
+A	20.52	14.24	2.84	10.73	19.13	32.53
+B	5.95	15.38	16.79	19.96	10.16	31.76
+C	0.09	3.60	42.84	7.07	0.77	45.63
+
+1.0	Nominal	16.67	16.67	16.67	16.67	16.67	16.67
+A	12.24	13.21	24.74	14.32	14.24	21.26
+B	9.05	28.53	8.02	28.65	10.70	15.06
+C	1.10	3.50	41.84	7.17	0.98	45.71
+D	0.16	0.15	0.22	0.20	0.12	99.16
+
+1.5	Nominal	15.38	15.38	15.38	15.38	15.38	23.08
+A	13.23	12.22	26.75	11.31	15.23	19.27
+B	5.85	21.49	16.65	26.91	9.66	19.44
+C	2.09	4.70	40.64	8.77	1.07	42.63
+D	0.09	0.22	0.49	0.36	0.24	98.60",https://www.sciencedirect.com/science/article/pii/S0925838810025569?via%3Dihub
+"Table 2. Mechanical properties of as-cast AlCoCrFeNiCx (x = 0, 0.1, 0.2, 0.3, 0.4, 0.5, 1.0 and 1.5) alloys.
+
+x	Young's modulus E (GPa)	Yield stress ?y (MPa)	Compressive strength ?max (MPa)	Plastic strain ?p (%)
+0	125.1	1138	?	?
+0.1	213.2	957	2550	10.52
+0.2	150.9	906	2386	8.68
+0.3	137.2	867	2178	7.82
+0.4	156.1	1056	2375	6.67
+0.5	180.8	1060	2250	5.60
+1.0	75.1	1251	2166	7.04
+1.5	72.5	1255	2083	5.54",https://www.sciencedirect.com/science/article/pii/S0925838810025569?via%3Dihub
+"Table 1. Chemical compositions (in at.%), density, ?, and Vickers microhardness, Hv, of the alloys studied in this work.
+
+Alloy	Cr	Nb	Ti	V	Zr	? (g cm?3)	?mix (g cm?3)	HV (GPa)
+NbTiVZr	–	28.3	24.5	23.0	24.2	6.52	6.50	3.29 ± 0.03
+NbTiV2Zr	–	22.6	19.4	37.2	20.8	6.34	6.38	2.99 ± 0.03
+CrNbTiZr	24.6	26.7	23.9	–	24.8	6.67	6.70	4.10 ± 0.04
+CrNbTiVZr	20.2	20.0	19.9	19.6	20.3	6.57	6.52	4.72 ± 0.05",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 2. Chemical composition (in at.%) of the NbVTiZr alloy constituents (see Fig. 2).
+
+Empty Cell	Nb	Ti	V	Zr
+Matrix (grey)	27.7	24.4	23.7	24.2
+Black particles	22.1	20.5	38.9	18.5
+White regions near particles	24.4	22.1	21.0	32.5",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 3. Chemical composition (in at.%) of the NbV2TiZr alloy constituents (see Fig. 4).
+
+Empty Cell	Nb	Ti	V	Zr
+White regions	21.4	19.2	10.7	48.6
+Dark regions	23.2	19.7	48.2	8.9
+Grey regions	23.8	19.7	42.5	14.0",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 4. Chemical composition (in at.%) of the CrNbTiZr alloy constituents (see Fig. 6).
+
+Empty Cell	Cr	Nb	Ti	Zr
+Bright regions	7.9	34.6	31.4	26.1
+Dark regions	51.5	15.8	12.1	20.6",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 5. Chemical composition (in at.%) of the CrNbTiVZr alloy constituents (see Fig. 8).
+
+Empty Cell	Cr	Nb	Ti	V	Zr
+Bright regions	4.1	31.6	33.1	12.8	18.4
+Dark regions	29.4	16.1	9.7	22.2	22.7",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 6. Liquidus, 
+, and solidus, 
+, temperatures and fractions of solid phases in the four alloys after non-equilibrium solidification (simulated results).
+
+Alloy	
+, °C	
+, °C	Phase fraction
+A2-1	A2-2	C15
+NbTiVZr	1760	1207	0.999	0.001	0
+NbTiV2Zr	1717	1207	0.995	0.005	0
+CrNbTiZr	1572	1391	0.912	0	0.088
+CrNbTiVZr	1607	1103	0.95	0.005	0.045",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 7. Average compositions (in at.%) of the phases in the studied alloys after non-equilibrium solidification.
+
+Phase ID	Element	NbTiVZr	NbTiV2Zr	CrNbTiZr	CrNbTiVZr
+bcc A2-1	Cr			21.0	17.9
+Nb	25.0	20.1	27.4	21.0
+Ti	25.0	20.1	27.2	21.0
+V	25.0	39.8		21.0
+Zr	25.0	20.1	24.4	19.1
+
+bcc A2-2	Cr				8.0
+Nb	3.0	3.3		3.8
+Ti	3.9	3.9		1.2
+V	85.0	84.5		16.2
+Zr	8.1	8.2		70.8
+
+Laves C15	Cr			66.4	65.9
+Nb			0.0	0.0
+Ti			2.8	0.8
+V				0.0
+Zr			30.9	33.3",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 8. Characteristic equilibrium phase transformation temperatures (in °C) and respective reaction equations in the studied alloys (simulated results).
+
+Reaction equation	NbTiVZr	NbTiV2Zr	CrNbTiZr	CrNbTiVZr
+L ? A2-1 (TL)	1760	1717	1572	1607
+L ? A2-1 (TS)	1668	1610	1432	1470
+A2-1 ? C15	–	–	1363	1234
+A2-1 ? A2-2	726	843	–	671
+A2-1 ? A3	–	–	535	–
+A2-1 ? A2-2 + A3	471	456	–	–
+A2-1 ? A2-2 + A3	446	426	–	–
+A2-1 ? A2-2 + C15 + A3				440
+A2-1 ? A2-2 + C15 + A3	–	–	–	433",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 9. Predicted volume fractions and compositions (in at.%) of equilibrium phases in the studied alloys at T = 600 °C.
+
+Empty Cell	Fraction	Cr	Nb	Ti	V	Zr
+NbTiVZr						
+A2-1	0.636		13.6	32.4	18.5	35.5
+A2-2	0.364		45.0	12.0	36.3	6.7
+
+NbTiV2Zr						
+A2-1	0.477		7.6	31.4	23.0	38.0
+A2-2	0.523		31.3	9.6	55.6	3.6
+
+CrNbTiZr						
+A2-1	0.633	0.9	39.5	39.5		20.2
+C15	0.367	66.6		0.04		33.3
+
+CrNbTiVZr						
+A2-1	0.338	1.7	16.3	37.4	21.6	23.0
+C15	0.288	66.6		0.03		33.4
+A2-2	0.374	0.7	38.8	19.6	33.9	7.0",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub
+"Table 10. Predicted volume fractions and compositions (in at.%) of equilibrium phases in the studied alloys at T = 400 °C.
+
+Empty Cell	Fraction	Cr	Nb	Ti	V	Zr
+NbTiVZr						
+A2-2	0.535		46.5	6.1	46.3	1.1
+A3	0.465		0.2	46.8	0.5	52.5
+
+NbTiV2Zr						
+A2-2	0.646		30.9	6.8	61.6	0.7
+A3	0.354		0.1	44.1	0.6	55.1
+
+CrNbTiZr						
+A2-1	0.264	0.0	93.9	3.8		2.3
+C15	0.375	66.6		0.02		33.3
+A3	0.361	0.0	0.5	66.5		33.0
+
+CrNbTiVZr						
+C15	0.300	66.6		0.02		33.3
+A2-2	0.439	0.0	45.4	8.4	45.2	1.0
+A3	0.261	0.0	0.3	62.5	0.6	36.6",https://www.sciencedirect.com/science/article/pii/S1359645412008361?via%3Dihub

@@ -1,0 +1,8 @@
+Constituent,Phase,Nb,Cr,Mo,Ta,Ti,Zr
+6.0mm2 area,BCC1+BCC2+FCC,22.20,18.39,10.07,11.78,19.36,18.20
+Primary bright particles,BCC1+FCC,26.93,13.29,13.76,16.06,19.38,10.57
+Bright region inside primary particles,BCC1,27.62,11.53,13.97,16.29,20.06,10.53
+Dark precipitates inside primary particles,FCC (Laves),17.91,30.30,11.19,11.19,13.30,16.12
+Dark matrix between primary particles,BCC2,20.35,2.54,1.23,4.57,31.41,39.90
+Dark particles inside the matrix,FCC (Laves),11.90,41.06,6.74,7.11,10.48,22.71
+Bright particles inside the tails,BCC1,27.59,6.80,8.27,12.90,28.01,16.44

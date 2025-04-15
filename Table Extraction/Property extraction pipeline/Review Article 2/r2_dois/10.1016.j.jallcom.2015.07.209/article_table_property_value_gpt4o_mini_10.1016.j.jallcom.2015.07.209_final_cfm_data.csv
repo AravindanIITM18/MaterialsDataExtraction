@@ -1,0 +1,27 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+HfNbTaTiZr,As-cold-rolled,Cold-rolled,Microhardness,367 ± 8,Hv
+HfNbTaTiZr,As-cold-rolled,800 degC,Microhardness,374 ± 8,Hv
+HfNbTaTiZr,As-cold-rolled,1000 degC,Microhardness,347 ± 6,Hv
+HfNbTaTiZr,As-cold-rolled,1200 degC,Microhardness,367 ± 5,Hv
+HfNbTaTiZr,As-cold-rolled,Cold-rolled,Microhardness,366 ± 4,Hv
+HfNbTaTiZr,As-cold-rolled,800 degC,Microhardness,375 ± 5,Hv
+HfNbTaTiZr,As-cold-rolled,1000 degC,Microhardness,351 ± 7,Hv
+HfNbTaTiZr,As-cold-rolled,1200 degC,Microhardness,370 ± 5,Hv
+HfNbTaTiZr,As-cold-rolled,-,Yield Strength(Tension),1202,MPa
+HfNbTaTiZr,As-cold-rolled,-,Ultimate Tensile Strength(Tension),1295,MPa
+HfNbTaTiZr,As-cold-rolled,-,Ductility,4.7,%EL
+HfNbTaTiZr,As-cold-rolled,-,Young's modulus,93.3,GPa
+HfNbTaTiZr,Cold-rolled + annealed at 800 degC/2 h,-,Yield Strength(Tension),1303,MPa
+HfNbTaTiZr,Cold-rolled + annealed at 800 degC/2 h,-,Ultimate Tensile Strength(Tension),1334,MPa
+HfNbTaTiZr,Cold-rolled + annealed at 800 degC/2 h,-,Ductility,1.9,%EL
+HfNbTaTiZr,Cold-rolled + annealed at 800 degC/2 h,-,Young's modulus,100.0,GPa
+HfNbTaTiZr,Cold-rolled + annealed at 1000 degC/2 h,-,Yield Strength(Tension),1145,MPa
+HfNbTaTiZr,Cold-rolled + annealed at 1000 degC/2 h,-,Ultimate Tensile Strength(Tension),1262,MPa
+HfNbTaTiZr,Cold-rolled + annealed at 1000 degC/2 h,-,Ductility,9.7,%EL
+HfNbTaTiZr,Cold-rolled + annealed at 1000 degC/2 h,-,Young's modulus,99.2,GPa
+Hf,-,-,Young's modulus,78.00,GPa
+Nb,-,-,Young's modulus,105.00,GPa
+Ta,-,-,Young's modulus,186.00,GPa
+Ti,-,-,Young's modulus,116.00,GPa
+Zr,-,-,Young's modulus,68.00,GPa
+HfNbTaTiZr,-,-,Young's modulus,107.9,GPa

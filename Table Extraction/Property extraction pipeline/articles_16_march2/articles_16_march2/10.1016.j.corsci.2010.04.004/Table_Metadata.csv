@@ -1,0 +1,15 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2010.04.004/tables/Table 1.csv,Table 1,Chemical composition (wt.%) of the test materials.,
+tbl2,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2010.04.004/tables/Table 2.csv,Table 2,EDS analyses of the dendrite and interdendrite structure of the as-cast.,
+tbl3,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2010.04.004/tables/Table 3.csv,Table 3,"Chemical mixing enthalpy (DH
+chem) of a pair of atoms [53-55].",
+tbl4,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2010.04.004/tables/Table 4.csv,Table 4,"Electrochemical parameters of the Co1.5CrFeNi1.5Ti0.5Mo
+x
+ alloys in deaerated 0.5M H2SO4.","{'a': 'E\ncorr: corrosion potential.', 'b': 'i\ncorr: corrosion current density.', 'c': 'E\npp: primary passivation potential.', 'd': 'i\ncri: critical current density.', 'e': 'i\npass: passive current density.', 'f': 'E\nsp: secondary passivation potential.', 'g': 'E\nb: breakdown potential.', 'h': 'DE: a potential difference between E\nb and E\npp.'}"
+tbl5,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2010.04.004/tables/Table 5.csv,Table 5,"Electrochemical parameters of the Co1.5CrFeNi1.5Ti0.5Mo
+x
+ alloys in deaerated 1M NaOH.","{'a': 'E\ncorr: corrosion potential.', 'b': 'i\ncorr: corrosion current density.', 'c': 'E\npp: primary passivation potential.', 'd': 'i\ncri: critical current density.', 'e': 'E\nsp: secondary passivation potential.', 'f': 'E\nb: breakdown potential.'}"
+tbl6,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2010.04.004/tables/Table 6.csv,Table 6,"Electrochemical parameters of the Co1.5CrFeNi1.5Ti0.5Mo
+x
+ alloys in deaerated 1M NaCl.","{'a': 'E\ncorr: corrosion potential.', 'b': 'i\ncorr: corrosion current density.', 'c': 'E\npp: primary passivation potential.', 'd': 'i\npass: passive current density.', 'e': 'E\nb: breakdown potential.', 'f': 'DE: a potential difference between E\nb and E\npp.', 'g': 'E\nprot: protection potential.', 'h': 'E\nrp: repassivation potential.'}"
+tbl7,/home/sai/sai-mani/articles_all/10.1016.j.corsci.2010.04.004/tables/Table 7.csv,Table 7,EDS results for the Co1.5CrFeNi1.5Ti0.5Mo0.5 alloy with different selected area A and B after the potentiodynamic polarisation in deaerated 0.5M H2SO4.,

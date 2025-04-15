@@ -1,0 +1,3 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,/home/sai/sai-mani/articles_all/10.1016.j.msea.2015.03.109/tables/Table 1.csv,Table 1,"Alloys used in the study, their stacking fault energies [8,17], enthalpy [18] and entropy of mixing, and RMS-deviation from average atomic size (d) [2,20].",
+t0010,/home/sai/sai-mani/articles_all/10.1016.j.msea.2015.03.109/tables/Table 2.csv,Table 2,"Numerical results of tensile tests: yield stress, tensile stress, percent elongation, uniform elongation, and tensile toughness (calculated as the integral of the engineering stress-strain curve). Values for three TWIP steels are included for comparison [25].",

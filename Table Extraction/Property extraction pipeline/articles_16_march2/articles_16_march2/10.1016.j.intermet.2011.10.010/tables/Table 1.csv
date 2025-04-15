@@ -1,0 +1,6 @@
+Alloy,Zone,Co,Cr,Fe,Ni,Ti
+Alloy,Nominal,20,20,20,20,20
+As-cast CoCrFeNiTi,Dendrite,19.40,27.48,23.69,14.44,14.99
+As-cast CoCrFeNiTi,Interdendrite,21.67,12.41,17.76,23.36,24.78
+As-annealed CoCrFeNiTi,Dendrite,22.58,24.56,24.39,20.85,7.62
+As-annealed CoCrFeNiTi,Interdendrite,22.44,20.75,19.41,21.10,16.30

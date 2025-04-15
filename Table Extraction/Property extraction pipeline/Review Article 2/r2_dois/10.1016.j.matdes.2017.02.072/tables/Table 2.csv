@@ -1,0 +1,7 @@
+Sample conditions,YS (MPa),UTS (Mpa),Elongation tofracture (%)
+CRSA (1150degC/60min),159+-22,410+-42,65+-3
+CRSA (1150degC/5min),220+-20,550+-35,60+-4
+CRSA(1150degC/60min)+700degC/50h,215+-16,520+-21,43+-6
+CRSA(1150degC/60min)+550degC/150h,285+-14,540+-43,55+-12
+CRSA (1150degC/2min),263+-32,589+-51,60+-7
+CRSA(1150degC/2min)+620degC/50h,490+-22,840+-24,45+-8

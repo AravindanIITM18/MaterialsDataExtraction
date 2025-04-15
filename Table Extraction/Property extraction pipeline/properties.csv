@@ -1,0 +1,1269 @@
+Property,Category
+Hardness,Mechanical
+Ductility,Mechanical
+Yield Strength,Mechanical
+Wear Resistance,Mechanical
+Microhardness,Mechanical
+Toughness,Mechanical
+Fracture Toughness,Mechanical
+Elongation,Mechanical
+Tensile Strength,Mechanical
+Creep,Mechanical
+Elastic Modulus,Mechanical
+Yield Stress,Mechanical
+Wear resistance,Mechanical
+Ultimate Tensile Strength,Mechanical
+Compressive Strength,Mechanical
+Young's Modulus,Mechanical
+Brittleness,Mechanical
+Fracture Strain,Mechanical
+Fracture Strength,Mechanical
+Vickers microhardness,Mechanical
+Nanohardness,Mechanical
+Plastic Strain,Mechanical
+Creep Resistance,Mechanical
+Wear Rate,Mechanical
+Friction Coefficient,Mechanical
+Shear Modulus,Mechanical
+Micro-hardness,Mechanical
+Compressive Yield Strength,Mechanical
+Dislocation Density,Mechanical
+Fatigue,Mechanical
+Compressive Yield Stress,Mechanical
+Creep Rate,Mechanical
+Elastic Constants,Mechanical
+Strain,Mechanical
+Bulk Modulus,Mechanical
+Fatigue Resistance,Mechanical
+High Temperature Strength,Mechanical
+Poisson's Ratio,Mechanical
+Young's modulus,Mechanical
+Uniform Elongation,Mechanical
+Shear Strength,Mechanical
+Wear,Mechanical
+Ultimate Strength,Mechanical
+Flexural Strength,Mechanical
+Abrasion Resistance,Mechanical
+Stiffness,Mechanical
+Yield stress,Mechanical
+Bulk modulus,Mechanical
+Elastic Moduli,Mechanical
+Coefficient of Friction,Mechanical
+Wear rate,Mechanical
+Mechanical Strength,Mechanical
+Maximum Stress,Mechanical
+Flow Stress,Mechanical
+Fracture toughness,Mechanical
+Elastic modulus,Mechanical
+Nano-hardness,Mechanical
+Room Temperature Strength,Mechanical
+Young s Modulus,Mechanical
+Residual Stress,Mechanical
+Hardening Rate,Mechanical
+Compressive Plasticity,Mechanical
+Specific Strength,Mechanical
+High Strength,Mechanical
+Compressive Strength,Mechanical
+Compressive Strain,Mechanical
+Fracture,Mechanical
+Fracture Elongation,Mechanical
+Tensile Elongation,Mechanical
+Work Hardening Rate,Mechanical
+Total Elongation,Mechanical
+UTS,Mechanical
+Tensile Strength,Mechanical
+Compression Strength,Mechanical
+Fatigue Strength,Mechanical
+Impact Toughness,Mechanical
+Bending Strength,Mechanical
+Elastic Constants,Mechanical
+Fatigue Resistance,Mechanical
+Fracture Strength,Mechanical
+CRSS,Mechanical
+Damping Capacity,Mechanical
+Plastic Strain,Mechanical
+Strain Hardening Rate,Mechanical
+Fracture Strain,Mechanical
+Vickers Micro-Hardness,Mechanical
+Poisson s Ratio,Mechanical
+Friction Coefficient,Mechanical
+Tensile Yield Stress,Mechanical
+Strain to Failure,Mechanical
+Compressive Stress,Mechanical
+Fatigue Life,Mechanical
+Specific Yield Strength,Mechanical
+Total Strain,Mechanical
+Wear Rates,Mechanical
+Tensile Ductility,Mechanical
+Bonding Strength,Mechanical
+Work-Hardening Rate,Mechanical
+Friction Resistance,Mechanical
+Friction Stress,Mechanical
+Bending Ductility,Mechanical
+Nano Hardness,Mechanical
+Indentation Modulus,Mechanical
+Creep Strength,Mechanical
+Critical Resolved Shear Stress,Mechanical
+Shear Strain,Mechanical
+Ultimate Tensile Strength,Mechanical
+Stress,Mechanical
+Compressive Ductility,Mechanical
+Ultimate Compressive Strength,Mechanical
+Wear Rates,Mechanical
+Spall Strength,Mechanical
+Residual Stresses,Mechanical
+Strain Hardening Coefficient,Mechanical
+Fracture Resistance,Mechanical
+Creep Exponent,Mechanical
+Resistance to Irradiation Hardening,Mechanical
+Crack Resistance,Mechanical
+Compressive Yield Strength,Mechanical
+Elastic Elongation,Mechanical
+Nano-Hardness,Mechanical
+Vickers Microhardness,Mechanical
+Nanoindentation Hardness,Mechanical
+Strain Hardening Exponent,Mechanical
+Cyclic Fatigue Resistance,Mechanical
+Cavitation Erosion Resistance,Mechanical
+Strain Rate,Mechanical
+Compressive Fracture Strength,Mechanical
+YS,Mechanical
+Shear Stress,Mechanical
+Yielding Strength,Mechanical
+Specific Compressive Strength,Mechanical
+Ultimate Shear Strength,Mechanical
+Micro Hardness,Mechanical
+Tensile Strain,Mechanical
+High Temperature Strength,Mechanical
+Elongation to Fracture,Mechanical
+Hot Hardness,Mechanical
+Compressive Strain,Mechanical
+Shear Deformation,Mechanical
+Compression Yield Strength,Mechanical
+Fracture Energy,Mechanical
+Compression Strength,Mechanical
+Work-Hardening Rate,Mechanical
+Twinning Stress,Mechanical
+Ultimate Strength,Mechanical
+Modulus of Elasticity,Mechanical
+Strain-Hardening Rate,Mechanical
+Transverse Rupture Strength,Mechanical
+Compression Ratio,Mechanical
+Compressive Plastic Strain,Mechanical
+Wear-Resistance,Mechanical
+Adhesive Strength,Mechanical
+Volume Change,Mechanical
+Wear Volume,Mechanical
+Yield Strengths,Mechanical
+Plastic Deformation Resistance,Mechanical
+Abrasive Wear Resistance,Mechanical
+Cutting Force,Mechanical
+Work-Hardening Capacity,Mechanical
+Strain Rate,Mechanical
+Fracture energy,Mechanical
+Tensile Uniform Elongation,Mechanical
+Intrinsic Hardness,Mechanical
+Macrohardness,Mechanical
+Rupture Strain,Mechanical
+True Stress,Mechanical
+Micro-Hardness,Mechanical
+Rockwell Hardness,Mechanical
+Work Hardening Capacity,Mechanical
+Yield Strain,Mechanical
+Fatigue Limit,Mechanical
+Compressive Fracture Strain,Mechanical
+Flexural Strength,Mechanical
+Brittleness Index,Mechanical
+Recoverable Strain,Mechanical
+Malleability,Mechanical
+Elongation Rate,Mechanical
+Bulk Moduli,Mechanical
+Energy Absorption Capacity,Mechanical
+Cauchy pressure,Mechanical
+Percent elongation,Mechanical
+Internal Friction,Mechanical
+Hall-Petch Coefficient,Mechanical
+Ultimate Tensile Elongation,Mechanical
+Ultimate Strain,Mechanical
+Internal Strain,Mechanical
+Young modulus,Mechanical
+Indentation Moduli,Mechanical
+Failure Strain,Mechanical
+Steady-State Flow,Mechanical
+Coefficient of Plasticity,Mechanical
+Ideal Shear Strength,Mechanical
+Shear stress,Mechanical
+Compression performance,Mechanical
+Impact Resistance,Mechanical
+Elastic Strain Energy,Mechanical
+Deformation Resistance,Mechanical
+True stress,Mechanical
+Elastic Strain Limit,Mechanical
+Cohesive Strength,Mechanical
+Micro Vickers hardness,Mechanical
+Tensile Stress,Mechanical
+Compressive Ultimate Strength,Mechanical
+Plastic Strain to Failure,Mechanical
+Mechanical Hardness,Mechanical
+Threshold Stress Intensity Factor,Mechanical
+Ductile fracture,Mechanical
+Pugh s ratio,Mechanical
+Compression Strain,Mechanical
+Strain-hardening Rate,Mechanical
+Tensile ductility,Mechanical
+Ultimate tensile stress,Mechanical
+Dynamic Compressive Strength,Mechanical
+Spontaneous Strain,Mechanical
+Peak Stress,Mechanical
+Critical Stress,Mechanical
+Dynamic Yield Strength,Mechanical
+Storage Modulus,Mechanical
+Yield Compressive Strength,Mechanical
+Ideal Tensile Strength,Mechanical
+Mechanical strength,Mechanical
+Adhesion strength,Mechanical
+Engineering Stress,Mechanical
+Strain-hardening rate,Mechanical
+Cleavage fracture,Mechanical
+Critical Load,Mechanical
+Strain-hardening Capability,Mechanical
+Dislocation Motion,Mechanical
+Void Growth,Mechanical
+Compression Fracture Strength,Mechanical
+Critical Twinning Stress,Mechanical
+Bending strength,Mechanical
+Compressive Flow Strength,Mechanical
+Interfacial Bonding Strength,Mechanical
+Solid-solution Strength,Mechanical
+Micro-Vickers Hardness,Mechanical
+Shear Resistance,Mechanical
+Strain Hardening Capability,Mechanical
+Softening resistance,Mechanical
+Shear strength,Mechanical
+Shear Elongation,Mechanical
+Residual stress,Mechanical
+Resilience,Mechanical
+Reduced Young's Modulus,Mechanical
+Internal Stress,Mechanical
+Elastic Stiffness,Mechanical
+Fretting Wear Resistance,Mechanical
+Strain Energy Density,Mechanical
+Compression Yield Stress,Mechanical
+Tensile Fracture Strength,Mechanical
+Stress Exponent,Mechanical
+Strain Hardening Rates,Mechanical
+Strain hardening exponent,Mechanical
+Shear Yield Strength,Mechanical
+Nano hardness,Mechanical
+Specific Yield Stress,Mechanical
+Breaking Strength,Mechanical
+Shear Yield Stress,Mechanical
+Impact Strength,Mechanical
+Compression Rate,Mechanical
+Yield Tensile Strength,Mechanical
+Plasticity Index,Mechanical
+Creep Strength,Mechanical
+Hugoniot Elastic Limit,Mechanical
+Plastic Deformation Resistance,Mechanical
+Cryogenic Toughness,Mechanical
+Hot Hardness,Mechanical
+Bulk Hardness,Mechanical
+Work-Hardening Exponent,Mechanical
+Compressive Strain to Failure,Mechanical
+Engineering Strain,Mechanical
+Shock Strength,Mechanical
+Stress Intensity Factor,Mechanical
+Strain Hardening Rate,Mechanical
+von Mises Stress,Mechanical
+Maximum Strength,Mechanical
+Fracture Strains,Mechanical
+Micro-compressive Plasticity,Mechanical
+Hardness (Vickers),Mechanical
+Threshold Stress Intensity Factor Range,Mechanical
+Threshold Stress Range,Mechanical
+Strain-to-failure,Mechanical
+Compression Stress,Mechanical
+Intrinsic Strength,Mechanical
+Plastic Energy,Mechanical
+Bulk Elastic Modulus,Mechanical
+Erosion Resistance,Mechanical
+Damage Resistance,Mechanical
+Charpy Impact Energy,Mechanical
+Transverse Strength,Mechanical
+Ultimate Compressive Strength,Mechanical
+Rockwell Hardness,Mechanical
+Strain-to-Failure,Mechanical
+Fatigue Threshold,Mechanical
+Fracture Stress,Mechanical
+Fatigue Crack Growth,Mechanical
+Plastic-Strain Limit,Mechanical
+Bonding Strength,Mechanical
+Dynamic Shear Strength,Mechanical
+Cracking Resistance,Mechanical
+Ultimate Elongation,Mechanical
+Hardening Capacity,Mechanical
+Impact-Resistance,Mechanical
+Yielding Strengths,Mechanical
+Stress Amplitude,Mechanical
+Work Hardening Rates,Mechanical
+Compressive Yield Strengths,Mechanical
+Compressive Yield Stress,Mechanical
+Friction Strength,Mechanical
+Threshold Stress,Mechanical
+Tensile Strengths,Mechanical
+Strength-to-Weight Ratio,Mechanical
+Macroscopic Hardness,Mechanical
+Microscopic Hardness,Mechanical
+Martens Hardness,Mechanical
+Creep Stress,Mechanical
+Vickers Indentation Fracture Toughness,Mechanical
+Vickers' Micro-Hardness,Mechanical
+Thermal Conductivity,Thermal
+Curie Temperature,Thermal
+Seebeck Coefficient,Thermal
+Heat Capacity,Thermal
+Thermal conductivity,Thermal
+Thermal Diffusivity,Thermal
+Melting Point,Thermal
+Thermal Expansion Coefficient,Thermal
+Characteristic Temperatures,Thermal
+Thermal Expansion,Thermal
+Relative Cooling Power,Thermal
+Ductile Brittle Transition Temperature,Thermal
+Specific Heat,Thermal
+Adiabatic Temperature Change,Thermal
+Specific Heat Capacity,Thermal
+Lattice Thermal Conductivity,Thermal
+Coefficient of Thermal Expansion,Thermal
+Thermal Diffusivity,Thermal
+Melting Temperature,Thermal
+Crystallization Temperature,Thermal
+Heat Capacity,Thermal
+Thermal Hysteresis,Thermal
+Glass Transition Temperature,Thermal
+Debye Temperature,Thermal
+Specific Heat,Thermal
+Specific Heat Capacity,Thermal
+Thermal Resistance,Thermal
+Refrigerant Capacity,Thermal
+Coefficient of Thermal Expansion,Thermal
+Liquidus Temperature,Thermal
+Melting Point,Thermal
+Heat Resistance,Thermal
+Thermal Expansion Coefficients,Thermal
+Transformation Temperatures,Thermal
+Volumetric Thermal Expansion,Thermal
+Cooling Power,Thermal
+Thermal Expansion Coefficient,Thermal
+Grüneisen Coefficient,Thermal
+Working Temperature Range,Thermal
+Isothermal Entropy Change,Thermal
+Phase Transition Temperature,Thermal
+Solidus Temperature,Thermal
+Refrigeration Capacity,Thermal
+Softening Coefficient,Thermal
+Temperature Stability,Thermal
+Service Temperature,Thermal
+CTE,Thermal
+Heat Resistance,Thermal
+TEC,Thermal
+Curie Temperatures,Thermal
+Temperature Resistance,Thermal
+Temperature Range,Thermal
+Working Temperature Window,Thermal
+Cutting Temperature,Thermal
+Pasty Range,Thermal
+Thermal expansion,Thermal
+Gr neisen Coefficient,Thermal
+Thermal Diffusion Coefficient,Thermal
+Debye temperature,Thermal
+Thermal emittance,Thermal
+Thermal Softening Resistance,Thermal
+High Temperature Softening Resistance,Thermal
+Solidus temperature,Thermal
+Cooling Rate,Thermal
+Linear Thermal Expansivity,Thermal
+Phase Transformation Entropy,Thermal
+Thermopower,Thermal
+Onset temperature,Thermal
+Melting temperature,Thermal
+High Thermal Conductivity,Thermal
+Thermal diffusion coefficient,Thermal
+Superconducting Transition Temperature,Thermal
+Refrigeration Performance,Thermal
+Liquidus temperature,Thermal
+Thermal Resistance,Thermal
+Grüneisen Parameter,Thermal
+Latent Heat,Thermal
+Adiabatic Temperature Variation,Thermal
+Thermal Vacancy,Thermal
+Coefficients of Thermal Expansion,Thermal
+Volumetric heat capacity,Thermal
+Barrier Failure Temperature,Thermal
+Elastocaloric Temperature Change,Thermal
+Reversible Isothermal Entropy Change,Thermal
+Adiabatic Temperature Rise,Thermal
+Refrigerating Capacity,Thermal
+Recrystallization Temperature,Thermal
+Working Temperature Interval,Thermal
+Thermal Fatigue Life,Thermal
+Carrier Thermal Conductivity,Thermal
+Low Temperature Specific Heat,Thermal
+Temperature Coefficient of Resistance,Thermal
+Adiabatic Temperature Change,Thermal
+Coefficients of Thermal Expansion,Thermal
+Thermal Emittance,Thermal
+Melting Enthalpy,Thermal
+Temperature Coefficients of Expansion,Thermal
+Thermal Vacancy Concentrations,Thermal
+Decomposition Temperature,Thermal
+Thermal Fatigue,Thermal
+Thermal Hysteresis Loss,Thermal
+Processing Temperature,Thermal
+Thermal Emissivity,Thermal
+Thermal-Oxidative Resistance,Thermal
+Phase Change Temperature,Thermal
+Electrical Conductivity,Electrical
+Resistivity,Electrical
+Conductivity,Electrical
+Electrical Resistivity,Electrical
+Superconductivity,Electrical
+Power Factor,Electrical
+Electrical Resistivity,Electrical
+Electrical Conductivity,Electrical
+Carrier Concentration,Electrical
+Carrier Mobility,Electrical
+Seebeck Coefficient,Electrical
+Current Density,Electrical
+Figure of Merit,Electrical
+zT,Electrical
+Capacitance,Electrical
+Permittivity,Electrical
+Charge Transfer Impedance,Electrical
+Band Gap,Electrical
+Carrier Concentration,Electrical
+Hall Coefficient,Electrical
+DOS Effective Mass,Electrical
+Breakdown Potential,Electrical
+Work Function,Electrical
+Dielectric Constant,Electrical
+Ionic Conductivity,Electrical
+Electrical Resistance,Electrical
+Critical Current Density,Electrical
+Discharge Potential,Electrical
+Thermoelectric Performance,Electrical
+Hall Carrier Concentration,Electrical
+Electronic Conductivity,Electrical
+Electronic Thermal Conductivity,Electrical
+Hall Coefficient,Electrical
+Figure-of-Merit,Electrical
+Charge Transfer,Electrical
+Carrier Mobility,Electrical
+Hall Mobility,Electrical
+Thermoelectric Figure of Merit,Electrical
+Attenuation Constant,Electrical
+Hole Concentration,Electrical
+Hall Carrier Mobility,Electrical
+Band gap,Electrical
+Dielectric Loss,Electrical
+Hall mobility,Electrical
+Electron Mean Free Path,Electrical
+Complex Permittivity,Electrical
+Electronic thermal conductivity,Electrical
+Seebeck Coefficients,Electrical
+Temperature coefficient of resistivity,Electrical
+Critical current density,Electrical
+Electrical resistance,Electrical
+Cell Voltage,Electrical
+ZT Value,Electrical
+Electronic conductivity,Electrical
+Hall Coefficients,Electrical
+Dielectric Constant,Electrical
+Electric Resistivity,Electrical
+Electric resistivity,Electrical
+Cationic Conductivity,Electrical
+Metallic Conductivity,Electrical
+Charge transfer resistance,Electrical
+Electrochemical Impedance,Electrical
+Power Factor,Electrical
+Hall Measurement,Electrical
+Residual Resistivity Ratio,Electrical
+Electronic Specific Heat,Electrical
+Relative Permittivity,Electrical
+Voltage,Electrical
+Charge Transfer Rate,Electrical
+Dielectric Constants,Electrical
+Bandgap,Electrical
+Energy Gap,Electrical
+Electron Conductivity,Electrical
+Electrical Transition Temperature,Electrical
+Metal-Insulator Transition,Electrical
+Dielectric Losses,Electrical
+Work Function,Electrical
+Contact Resistance,Electrical
+Magnetization,Magnetic
+Magnetic Entropy Change,Magnetic
+Coercivity,Magnetic
+Magnetocaloric,Magnetic
+Saturation Magnetization,Magnetic
+Magnetocaloric Effect,Magnetic
+Curie temperature,Magnetic
+Hysteresis,Magnetic
+Magnetic Entropy,Magnetic
+Magnetic Entropy Change,Magnetic
+Saturation Magnetization,Magnetic
+Magnetoresistance,Magnetic
+Magnetic Moment,Magnetic
+Magnetic Susceptibility,Magnetic
+Magnetism,Magnetic
+Coercive Force,Magnetic
+Magnetocaloric Properties,Magnetic
+Magnetocaloric Properties,Magnetic
+Magnetic Hysteresis,Magnetic
+Magnetic Moments,Magnetic
+Saturated Magnetization,Magnetic
+Hc,Magnetic
+Magnetostriction,Magnetic
+Susceptibility,Magnetic
+Remanence,Magnetic
+Static Magnetism,Magnetic
+Magnetic Softness,Magnetic
+Ferromagnetism,Magnetic
+Saturated Magnetization,Magnetic
+Magnetisation,Magnetic
+Magnetic Entropy Changes,Magnetic
+Eddy Current Loss,Magnetic
+Magnetic Transition Temperature,Magnetic
+Isothermal Magnetic Entropy Change,Magnetic
+Coercive Field,Magnetic
+Coercive Force,Magnetic
+Hysteresis Losses,Magnetic
+Magnetocaloric Response,Magnetic
+Magnetic Moment,Magnetic
+Magnetic Transition Temperature,Magnetic
+Upper Critical Fields,Magnetic
+Core Loss,Magnetic
+Hysteresis Loss,Magnetic
+Exchange Bias Field,Magnetic
+Effective Permeability,Magnetic
+EM Absorption Performance,Magnetic
+Curie Point,Magnetic
+Magnetic entropy changes,Magnetic
+Saturation Magnetic Flux Density,Magnetic
+Magnetocrystalline anisotropy,Magnetic
+Magnetic Moments,Magnetic
+Magnetostriction coefficient,Magnetic
+Magnetic-field-induced Strain,Magnetic
+AC coercivity,Magnetic
+Saturation magnetisation,Magnetic
+Magnetostrain,Magnetic
+Magnetic Saturation,Magnetic
+Coercive field,Magnetic
+Hysteresis losses,Magnetic
+Magnetic entropy,Magnetic
+Magnetic Phase Transition Temperatures,Magnetic
+Magnetic Field,Magnetic
+Magnetization Change,Magnetic
+Magnetic Transition Temperatures,Magnetic
+Upper critical field,Magnetic
+Spontaneous Magnetization,Magnetic
+Maximum permeability,Magnetic
+Magnetic Ordering Temperature,Magnetic
+Magnetic susceptibility,Magnetic
+Magnetic-Entropy Change,Magnetic
+GMR Coefficient,Magnetic
+Exchange bias field,Magnetic
+Ferromagnetic to Paramagnetic Transformation Temperature,Magnetic
+Magnetic Remanence,Magnetic
+Magnetic Permeability,Magnetic
+Magnetic Hysteresis,Magnetic
+Magnetic Entropy Variation,Magnetic
+Critical Field,Magnetic
+Magnetic Field Induced Entropy Changes,Magnetic
+Initial Permeability,Magnetic
+Effective Magnetic Moment,Magnetic
+Magnetic Transition Temperature Range,Magnetic
+Maximum Magnetic Entropy Change,Magnetic
+Magnetic-field-induced Entropy Change,Magnetic
+Magnetic Loss,Magnetic
+Saturation Induction,Magnetic
+Maximum Magnetic Flux Density,Magnetic
+Residual Magnetization,Magnetic
+Effective Permeability,Magnetic
+AC Susceptibility,Magnetic
+B_s,Magnetic
+H_c,Magnetic
+Flux Density,Magnetic
+Metamagnetic Transition Temperature,Magnetic
+Magnetocaloric Performance,Magnetic
+Intrinsic Coercivity,Magnetic
+Coercive Fields,Magnetic
+Magnetoresistance Ratio,Magnetic
+Local Magnetic Moments,Magnetic
+Remanence Ratio,Magnetic
+Magnetic Losses,Magnetic
+Magnetic Hysteresis Loss,Magnetic
+Magnetic Phase Transition Temperatures,Magnetic
+Metamagnetic Phase Transition Temperature,Magnetic
+Magnetic Viscosity,Magnetic
+Catalytic Activity,Chemical
+Electronegativity,Chemical
+Overpotential,Chemical
+Mixing Entropy,Chemical
+Pitting Potential,Chemical
+Electrocatalytic Activity,Chemical
+Catalytic Performance,Chemical
+Mixing Enthalpy,Chemical
+Catalytic Activity,Chemical
+Oxidation Behavior,Chemical
+Oxidation Resistance,Chemical
+Passivation,Chemical
+Pitting Corrosion Resistance,Chemical
+Electronegativity Difference,Chemical
+Mixing Entropy,Chemical
+ORR Activity,Chemical
+Mixing Enthalpy,Chemical
+OER Activity,Chemical
+Corrosion Potential,Chemical
+Tafel Slope,Chemical
+HER Activity,Chemical
+Corrosion Current Density,Chemical
+MOR Activity,Chemical
+Exchange Current Density,Chemical
+Oxidation Rate,Chemical
+Corrosion Rate,Chemical
+Dehydrogenation Enthalpy,Chemical
+CO Poisoning Tolerance,Chemical
+Poisoning Resistance,Chemical
+Corrosion Current Density,Chemical
+Hmix,Chemical
+Corrosion Rate,Chemical
+Resistance to CO Poisoning,Chemical
+Pitting Potential,Chemical
+Electrocatalytic Activity,Chemical
+Hydrogen Embrittlement Resistance,Chemical
+Hydrogen Absorption Capacity,Chemical
+Pitting Corrosion,Chemical
+Corrosion Parameters,Chemical
+Oxidation Kinetics,Chemical
+Charge Transfer Resistance,Chemical
+Reaction Kinetics,Chemical
+Overpotentials,Chemical
+CO Stripping Peak,Chemical
+Activation Energy,Chemical
+Passive Current Density,Chemical
+Redox Peak Potentials,Chemical
+Local Corrosion Resistance,Chemical
+Hydrogen Solubility,Chemical
+Methanol Adsorption Energy,Chemical
+Enthalpy of Hydride Formation,Chemical
+Free Energy,Chemical
+Enthalpy of Mixing,Chemical
+Dehydrogenation Entropy,Chemical
+Tribocorrosion Resistance,Chemical
+Electrochemical Durability,Chemical
+Hydrogen absorption capacity,Chemical
+MOR Onset Potential,Chemical
+Oxygen adsorption energy,Chemical
+Smix,Chemical
+Hydrogen evolution kinetics,Chemical
+EOR,Chemical
+Bond Strength,Chemical
+Formation Enthalpy,Chemical
+Hydrogen permeability,Chemical
+Hydrogen Adsorption Impedance,Chemical
+Metal-H Bond Strength,Chemical
+H Pick-up,Chemical
+Formation energy,Chemical
+Dissociation Pressure,Chemical
+Cytotoxicity,Chemical
+Heats of Mixing,Chemical
+Hydrogen Desorption Capacity,Chemical
+Hydride Formation Enthalpy,Chemical
+Hydrogen Resistance,Chemical
+Hydride Equilibrium Pressure,Chemical
+Transition Enthalpy,Chemical
+Passivation current density,Chemical
+Hydrogen Binding Energy,Chemical
+Enthalpy of Mixing,Chemical
+Desorption enthalpy,Chemical
+Hydrogen Absorption Pressure,Chemical
+Dehydriding Pressure,Chemical
+Hydride formation enthalpy,Chemical
+Oxidation States,Chemical
+Hydrogen release-uptake,Chemical
+Electrochemical activity,Chemical
+Binding Energy,Chemical
+Hydrogen Solubility,Chemical
+Hydrogen Concentration,Chemical
+Hydrogenation Kinetics,Chemical
+Oxide Scales,Chemical
+Oxidation Behaviour,Chemical
+Repassivation Potential,Chemical
+Corrosion Current,Chemical
+Corrosion Current Density,Chemical
+Bio-Corrosion Resistance,Chemical
+Vacancy Formation Enthalpy,Chemical
+Standard Enthalpy,Chemical
+Enthalpy Change,Chemical
+Reaction Rate,Chemical
+Vacancy Concentration,Chemical
+Pitting Corrosion Resistance,Chemical
+Oxidation Wear Resistance,Chemical
+Primary Passivation Potential,Chemical
+Secondary Passivation Potential,Chemical
+Hydrogen Embrittlement Susceptibility,Chemical
+Erosion-Corrosion Resistance,Chemical
+Hydrogen Evolution Performance,Chemical
+Hydrogen Desorption Rate,Chemical
+Electrochemical Corrosion Resistance,Chemical
+Salt Corrosion Resistance,Chemical
+Electrochemical Surface Area,Chemical
+Hydrogenation Enthalpy,Chemical
+Hydrogenation Entropy,Chemical
+Electrochemical Impedance,Chemical
+Electrochemical Kinetics,Chemical
+HER Overpotential,Chemical
+Electrochemical Full Capacity,Chemical
+Oxygen Evolution Activity,Chemical
+Electrochemical Kinetics,Chemical
+Reaction Activity,Chemical
+Methanol Tolerance,Chemical
+Anodic Current Density,Chemical
+Passive Region Width,Chemical
+Protection Potential,Chemical
+Hydrogen Content,Chemical
+Electrochemical Impedance,Chemical
+Adsorption Energy,Chemical
+Adsorption Energies,Chemical
+Catalytic Efficiency,Chemical
+Electrochemical Corrosion Resistance,Chemical
+Antioxidant Performance,Chemical
+Phase-Specific Hardness,Chemical
+Solubility Limit,Chemical
+Solubility,Chemical
+GFA,Structural
+Stacking Fault Energy,Structural
+SFE,Structural
+Crystal Structure,Structural
+Lattice Parameter,Structural
+Twinning,Structural
+Phase Composition,Structural
+Crystallinity,Structural
+Crystallite Size,Structural
+Lattice Constant,Structural
+Phases,Structural
+Critical Diameter,Structural
+Lattice Strain,Structural
+Lattice Parameters,Structural
+Crystal Structure,Structural
+Glass Forming Ability,Structural
+Lattice Constant,Structural
+Lattice Parameters,Structural
+Lattice Constants,Structural
+Lattice Friction Stress,Structural
+Glass-Forming Ability,Structural
+Ligament Size,Structural
+Phase Composition,Structural
+Lattice Parameter,Structural
+Phase Structures,Structural
+Martensitic Transformation Temperature,Structural
+Phase Structure,Structural
+Crystal Structures,Structural
+Unit Cell Volume,Structural
+Interstitial Content,Structural
+Phase,Structural
+Lattice Distortion,Structural
+Vacancy Formation Energy,Structural
+Grain Boundary Energy,Structural
+Phase Constituents,Structural
+Structural Transformation,Structural
+Lattice Strain,Structural
+Unit Cell Volume,Structural
+Point Defects,Structural
+Lamellar Widths,Structural
+Atomic Radius,Structural
+Elemental Composition,Structural
+Elastic Constant,Structural
+True Strain,Structural
+Threshold Displacement Energy,Structural
+Formation Energy,Structural
+Vacancy Formation Energy,Structural
+Cohesive Energies,Structural
+Elastic Moduli,Structural
+Sound Velocities,Structural
+Pugh Ratio,Structural
+Interfacial Energy,Structural
+Crack-Growth Rates,Structural
+Crystallization Kinetics,Structural
+Relative density,Structural
+Grain Structure,Structural
+Mass Density,Structural
+Volume fraction,Structural
+Polycrystalline elastic modulus,Structural
+Room temperature crystal structure,Structural
+Wall Thickness,Structural
+Volume Fractions,Structural
+Twin Fault Probability,Structural
+Elemental distribution,Structural
+Phase Compositions,Structural
+Average Grain Size,Structural
+Grain Growth Kinetics,Structural
+Short-range Order,Structural
+Twin Density,Structural
+Theoretical Density,Structural
+Lattice constants,Structural
+Mean grain size,Structural
+Elemental Distributions,Structural
+Element Distribution,Structural
+Phase Transition Temperatures,Structural
+Grain Growth Resistance,Structural
+Transformation Entropy Change,Structural
+Dislocation density,Structural
+Atomic level stresses,Structural
+Phase Structures,Structural
+Stacking fault energy,Structural
+Phase Purity,Structural
+Crystal structures,Structural
+lattice parameters,Structural
+Phase content,Structural
+Martensitic Transformation Temperatures,Structural
+Grain Boundary Diffusivity,Structural
+Grain Sizes,Structural
+Grain Structures,Structural
+Lattice Volume,Structural
+Crystal System,Structural
+Space Groups,Structural
+Stack Fault Energy,Structural
+Phase Fractions,Structural
+Phase Fraction,Structural
+Phase Constituents,Structural
+Twin Boundary Density,Structural
+Intermetallics,Structural
+Intermetallic Phases,Structural
+Superlattice Structures,Structural
+Crystallographic Texture,Structural
+Generalized Stacking-Fault Energy,Structural
+Polycrystalline Elastic Moduli,Structural
+Mean-Square Atomic Displacements,Structural
+Mean Square Atomic Displacement,Structural
+Grain Diameter,Structural
+Grain Growth Rate,Structural
+Lattice Friction,Structural
+Lattice Spacing,Structural
+Lattice Structure,Structural
+Lattice Structures,Structural
+HCP Phase Content,Structural
+HCP Phase Fraction,Structural
+Phase Transformation Temperatures,Structural
+Phase Change Temperature,Structural
+Phase Fractions,Structural
+Phase Compositions,Structural
+Phase Constitution,Structural
+Phase Content,Structural
+Equilibrium Phase Fraction,Structural
+Volume Fraction of Phase,Structural
+Phase Transition Temperature,Structural
+A2 Phase Amount,Structural
+A2 Phase Size,Structural
+Phase Transition Temperatures,Structural
+Core/Shell Structure,Structural
+Crystallographic Orientation,Structural
+Microstructure,Structural
+ECSA,Surface
+Permeability,Surface
+Friction,Surface
+Surface Roughness,Surface
+Surface Area,Surface
+Adhesion Strength,Surface
+Pitting Resistance,Surface
+SA,Surface
+Adhesion,Surface
+Particle Size,Surface
+Roughness,Surface
+Coefficient of Friction,Surface
+Surface Energy,Surface
+Surface Roughness,Surface
+Indentation Hardness,Surface
+Reflection Loss,Surface
+Pore Size,Surface
+Wear Volume,Surface
+Reflectivity,Surface
+Hydrophilicity,Surface
+Specific Surface Area,Surface
+Surface Area,Surface
+Surface Energies,Surface
+Surface Fracture Energy,Surface
+Contact Angle,Surface
+Surface Hardness,Surface
+Pitting corrosion potential,Surface
+Reflectance,Surface
+Effective Surface Area,Surface
+Median Pore Size,Surface
+Indentation Fracture Toughness,Surface
+Apparent Density,Surface
+Size Distribution,Surface
+Average Particle Size,Surface
+Volume Expansion Coefficient,Surface
+Solar Absorptance,Surface
+Solar absorptance,Surface
+Infrared Emissivity,Surface
+Optical Transmittance,Surface
+Infrared Absorbance,Surface
+Surface Smoothness,Surface
+Passive Film Thickness,Surface
+TGO Growth Rate,Surface
+Protective Oxide Layer,Surface
+Passive films,Surface
+Oxygen Content,Surface
+Contact Angle,Surface
+Wetting Angle,Surface
+Surface Composition,Surface
+Surface Activity,Surface
+RMS Roughness,Surface
+Friction Factor,Surface
+Friction Force,Surface
+Specific Wear Rate,Surface
+Frictional Wear Weight Loss,Surface
+Scratch Hardness,Surface
+Frictional Coefficient,Surface
+Nanoscratch Resistance,Surface
+Normal Force,Surface
+Water Contact Angle,Surface
+Contact Angles,Surface
+Surface Reaction Exchange Current,Surface
+Surface Structure,Surface
+Interface Strength,Surface
+Entropy,Other Properties
+Entropy Change,Other Properties
+Refrigerant Capacity,Other Properties
+Refrigeration Capacity,Other Properties
+Elasticity,Other Properties
+Enthalpy,Other Properties
+Activation Energy,Other Properties
+Valence Electron Concentration,Other Properties
+Relative Density,Other Properties
+Sound Velocity,Other Properties
+Capacity,Other Properties
+Mass Activity,Other Properties
+Transition Temperature,Other Properties
+Activation Volume,Other Properties
+High-Temperature Strength,Other Properties
+Coarsening Resistance,Other Properties
+Valence Electron Concentration,Other Properties
+Poisson's Ratio,Other Properties
+Weldability,Other Properties
+Swelling,Other Properties
+Configurational Entropy,Other Properties
+Irradiation Hardness,Other Properties
+Radiation Tolerance,Other Properties
+Cohesive Energy,Other Properties
+Vibrational Entropy,Other Properties
+Energy Density,Other Properties
+TOF,Other Properties
+Tg,Other Properties
+Irradiation Tolerance,Other Properties
+Hydrogen Absorption Kinetics,Other Properties
+Electrocatalytic Activities,Other Properties
+OER,Other Properties
+Turnover Frequency,Other Properties
+Irradiation Hardening Resistance,Other Properties
+Adiabatic Bulk Modulus,Other Properties
+Glass-Forming Ability,Other Properties
+Reversible Capacity,Other Properties
+Specific Capacity,Other Properties
+Electrochemically Active Surface Area,Other Properties
+Glass-Forming Ability,Other Properties
+Capacity Retention Rate,Other Properties
+ECSA Loss,Other Properties
+Compressibility,Other Properties
+Gibbs Free Energy,Other Properties
+Elemental Distribution,Other Properties
+Cell Volume,Other Properties
+Uniformity,Other Properties
+Heterogeneity,Other Properties
+Castability,Other Properties
+Damping,Other Properties
+Aging Resistance,Other Properties
+Weight Loss Rate,Other Properties
+Cost,Other Properties
+Cycling Durability,Other Properties
+Total Loss,Other Properties
+Mass Activity,Other Properties
+Plateau Pressure,Other Properties
+Optical Band Gap,Other Properties
+Absorption Bandwidth,Other Properties
+Wear Mass Loss,Other Properties
+Specific Wear Rate,Other Properties
+Peak Area,Other Properties
+Equilibrium Pressure,Other Properties
+Volumetric Expansion,Other Properties
+Coarsening Rate,Other Properties
+Glass Transition,Other Properties
+Reversible Hydrogen Storage Capacity,Other Properties
+Transition Temperatures,Other Properties
+Specific Peak Current Density,Other Properties
+Energy Release Efficiency,Other Properties
+Entropy Changes,Other Properties
+Diffusion Rate,Other Properties
+Diffusion Resistance,Other Properties
+Stacking-Fault Energy,Other Properties
+Configurational entropy,Other Properties
+Mass Loss,Other Properties
+Output Power Density,Other Properties
+Performance-Cost Ratio,Other Properties
+Rate Capability,Other Properties
+Coulombic Efficiency,Other Properties
+Cycling Longevity,Other Properties
+ORR Catalytic Activity,Other Properties
+Storage Capacity,Other Properties
+Conversion Efficiency,Other Properties
+Specific capacitance,Other Properties
+Faradaic Efficiency,Other Properties
+Irradiation-tolerance,Other Properties
+Damage Accumulation,Other Properties
+CO2 Adsorption,Other Properties
+Fire Resistance,Other Properties
+Corrosion Resistances,Other Properties
+Corrosion potentials,Other Properties
+Corrosion current densities,Other Properties
+Corrosion Resistances,Other Properties
+Efficiency,Other Properties
+Dispersion,Other Properties
+Specific Capacitance,Other Properties
+Cryogenic Fracture Toughness,Other Properties
+Area Specific Resistance,Other Properties
+OER Catalytic Activity,Other Properties
+SRO,Other Properties
+Activation volume,Other Properties
+Aspect ratio,Other Properties
+Joint Strength,Other Properties
+Bending Modulus,Other Properties
+Bending Stiffness,Other Properties
+Specific Energy,Other Properties
+Diffusion Coefficients,Other Properties
+Dissipation Energy,Other Properties
+Stress Concentration,Other Properties
+Allen Electronegativity,Other Properties
+Recovery Strain,Other Properties
+Electrode porosity resistances,Other Properties
+CMAS resistance,Other Properties
+Bubble Density,Other Properties
+Loss Factor,Other Properties
+Weight Loss,Other Properties
+Slope Factor,Other Properties
+Dissolution Rate,Other Properties
+Erosion Rate,Other Properties
+Erosion Wear Resistance,Other Properties
+Refrigerating Capacity,Other Properties
+Spalling Resistance,Other Properties
+DBTT,Other Properties
+Mass Transport,Other Properties
+Swelling Resistance,Other Properties
+Volumetric Swelling,Other Properties
+Swelling Resistance,Other Properties
+Cavity Density,Other Properties
+Cavity Size,Other Properties
+Density of States,Other Properties
+Partial Density of States,Other Properties
+Cluster Size,Other Properties
+Configuration Entropy,Other Properties
+Thermodynamic Parameters,Other Properties
+Atomic Radius,Other Properties
+Atomic Radii,Other Properties
+Atomic Size,Other Properties
+Atomic Size Differences,Other Properties
+Average Atomic Weight,Other Properties
+Allen's Electronegativity,Other Properties
+Pauling's Electronegativity,Other Properties
+Lattice Elastic Strain Energy,Other Properties
+Back Stress,Other Properties
+Anisotropy Ratio,Other Properties
+Anisotropy Index,Other Properties
+Effective Bandwidth,Other Properties
+Effective Absorption Bandwidth,Other Properties
+Electromagnetic Wave Absorption,Other Properties
+HER Performance,Other Properties
+OER Performances,Other Properties
+OER Performance,Other Properties
+Alkaline OER Performance,Other Properties
+Photocatalytic Activity,Other Properties
+Potential Differences,Other Properties
+Peak Potential,Other Properties
+Tafel Anode Slope,Other Properties
+Tafel Cathode Slope,Other Properties
+Polarization Resistance,Other Properties
+Protective Al2O3 Scale,Other Properties
+Protective Capacity,Other Properties
+Removal Torque,Other Properties
+Cycle Life,Other Properties
+Wear Loss,Other Properties
+Impact Energy Absorption Density,Other Properties
+Energy Consumption,Other Properties
+Lifetime,Other Properties
+Effective Elastic Modulus,Other Properties
+Elastic Storage Modulus,Other Properties
+Elastic Recovery Index,Other Properties
+Reversible Storage Capacity,Other Properties
+Effective Permeability,Other Properties
+Effective Absorption Bandwidth,Other Properties
+RC Value,Other Properties
+Density,Other Properties
+Total Density,Other Properties
+Linear Expansion Coefficient,Other Properties
+Hall Measurement,Other Properties
+Allen Electronegativity,Other Properties
+Potential Energy,Other Properties
+Kadowaki-Woods Ratio,Other Properties
+Energy Barrier,Other Properties
+EOS,Other Properties
+Free Volume Content,Other Properties
+Peak Area,Other Properties
+Atomic Displacement Parameter,Other Properties
+Damping Capability,Other Properties
+Nitrogen Content,Other Properties
+Entropy of Mixing,Other Properties
+Mass Gains,Other Properties
+Geometrical Parameter,Other Properties
+Cooling Efficiency,Other Properties
+Dynamic Compression,Other Properties
+Absorption Energy,Other Properties
+Double-Layer Capacitance,Other Properties
+Defect Size,Other Properties
+Decoloration Rate,Other Properties
+Fretting Resistance,Other Properties
+Zener Anisotropy Ratio,Other Properties
+Energy Product,Other Properties
+Coarsening Kinetics,Other Properties
+Bulk Sound Speed,Other Properties
+Dilatational Strain,Other Properties
+Poisson's Ratios,Other Properties
+Poisson's Coefficient,Other Properties
+Poisson's Ratios,Other Properties
+Serrated Plastic Flow,Other Properties
+Wave Speed,Other Properties
+P Content,Other Properties
+Operating Temperature,Other Properties
+Change of Entropy,Other Properties
+Energy Absorption,Other Properties
+Cooling Temperature Difference,Other Properties
+Recrystallization Fraction,Other Properties
+Absorption Bandwidth,Other Properties
+Detection Range,Other Properties
+Detection Limit,Other Properties
+MOR Peak Current Density,Other Properties
+Activation Time,Other Properties
+Energy Density,Other Properties
+Mass Transfer Paths,Other Properties
+Initial Contact Pressure,Other Properties
+Complex Modulus,Other Properties
+Specific Power,Other Properties
+Ionic Diffusion Mobility,Other Properties
+Cycle Lives,Other Properties
+Phase Transition Enthalpy,Other Properties
+Volumetric Energy Storage Capacity,Other Properties
+Solar Absorptivity,Other Properties
+ZT Value,Other Properties
+Defect Concentration,Other Properties
+Burgers Vector,Other Properties
+Percent Loss of Elongation,Other Properties
+Defect Counts,Other Properties
+Mean Atomic Radius,Other Properties
+Wigner Seitz Radius,Other Properties
+Discharge Capacity,Unknown
+Radiation Resistance,Unknown
+Diffusion,Unknown
+Hydrogen Storage Capacity,Unknown
+Hydrogen Capacity,Unknown
+Diffusivity,Unknown
+Composition,Unknown
+Chemical Composition,Unknown
+Erosion Resistance,Unknown
+Radiation Tolerance,Unknown
+Wetting,Unknown
+Adiabatic Bulk Modulus,Unknown
+Tm,Unknown
+Ms,Unknown
+VEC,Unknown
+Tl,Unknown
+Tx,Unknown
+S,Unknown
+Volume Fraction,Unknown
+Atomic Size Difference,Unknown
+UE,Unknown
+MA Loss,Unknown
+Figure-of-Merit,Unknown
+Effective Mass,Unknown
+Zener Ratio,Unknown
+Dislocation-core Diffusion,Unknown
+Indentation-energy factor,Unknown
+Dislocation width,Unknown
+Resistance to Shear Localization,Unknown
+Effective Refrigerant Capacities,Unknown
+Gibbs free energy,Unknown
+TL,Unknown
+Coefficient of Performance,Unknown
+Helmholtz Free Energy,Unknown
+Twin Strength,Unknown
+Spallation Resistance,Unknown
+Volume Wear Rate,Unknown
+CMAS Resistance,Unknown
+Mass transfer rate,Unknown
+Bio-corrosion Resistance,Unknown
+H Species Adsorption,Unknown
+Sommerfeld Coefficient,Unknown
+Volume change,Unknown
+Radiation Damage,Unknown
+Radiation damage,Unknown
+H3/E2 Ratio,Unknown
+E1/2,Unknown
+phase,Unknown
+Half-wave Potential,Unknown
+Figure of merit,Unknown
+(Hmix),Unknown
+Slope Factor,Unknown
+Ordering Transition Temperature,Unknown
+Double-layer capacitances,Unknown
+Unstable Stacking Fault Energy,Unknown
+Electro-negativity Difference,Unknown
+Vibrational Density of States,Unknown
+Valence-Electron Concentration,Unknown
+Fragility Index,Unknown
+Extinction Coefficient,Unknown
+Absorption energy,Unknown
+Anelastic Internal Friction,Unknown
+Void Nucleation Rate,Unknown
+Dilution Rate,Unknown
+Grain Boundary Strength,Unknown
+Dislocation Velocity,Unknown
+Dislocation Activities,Unknown
+Interface Shear Resistance Force,Unknown
+Self-Interstitial Formation Energy,Unknown
+Grain Boundary Migration,Unknown
+Nucleation Rate,Unknown
+Micro Vickers Hardness,Unknown
+N el Temperature,Unknown
+MT Temperature,Unknown
+Plateau Pressure,Unknown
+Self-Corrosion Potential,Unknown
+Lattice Elastic Strain Energy,Unknown
+Shock Strength,Unknown
+D-orbital Energy Level Parameter,Unknown
+Rct,Unknown
+S,Unknown
+Plateau Hysteresis,Unknown
+Saturation Rate,Unknown
+Film Stress,Unknown
+Loss Modulus,Unknown
+Barrier Strength,Unknown
+Strain Amplitude,Unknown
+Molar Volume Change,Unknown
+Light Absorbance,Unknown
+Linear Attenuation Coefficient,Unknown
+PCT Plateau Pressure,Unknown
+Slurry Erosion Rate,Unknown
+Raman Peaks,Unknown
+Nominal Shear Stress,Unknown
+Solid-Solution Strength,Unknown
+Sulfidation Resistance,Unknown
+Anisotropy Parameter,Unknown

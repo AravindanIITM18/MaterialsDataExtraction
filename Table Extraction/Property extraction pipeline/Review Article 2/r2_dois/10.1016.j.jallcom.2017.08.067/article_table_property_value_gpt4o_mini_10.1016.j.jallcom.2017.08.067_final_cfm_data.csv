@@ -1,0 +1,9 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Al0.3,-,-,Nano-hardness,3.4 (+-0.2),GPa
+Al0.6,-,-,Nano-hardness,3.5 (+-0.2),GPa
+Al0.6,-,-,Nano-hardness,5.4 (+-0.3),GPa
+Al0.6,-,-,Nano-hardness,9.1 (+-0.5),GPa
+Al0.85,-,-,Nano-hardness,5.5 (+-0.3),GPa
+Al0.85,-,-,Nano-hardness,9.1 (+-0.5),GPa
+FCC-Al0.3,-,-,Yield Strength(Tension),194,MPa
+BCC- Al0.85,-,-,Yield Strength(Tension),1400,MPa

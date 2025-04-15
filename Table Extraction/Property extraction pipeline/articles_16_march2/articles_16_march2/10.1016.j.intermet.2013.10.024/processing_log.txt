@@ -1,0 +1,76 @@
+
+Table Table 1:
+Input Table:
+Alloy,Phase stability information obtained from phase diagrams,Homogenization temperature used in this study (degC),Phases present after homogenization (experimentally determined)
+FeNiCoCrMn,nan,1200,FCC (single-phase)
+FeNiCoCr,nan,1200,FCC (single-phase)
+FeNiCoMn,nan,1100,FCC (single-phase)
+FeNiCrMn,nan,1100,Multi-phase
+FeCoCrMn,nan,1100,Multi-phase
+NICoCrMn,nan,1100,FCC (single-phase)
+FeNiCo,600-800 degC: FCC;500-600 degC: FCC + BCC,1200,FCC (single-phase)
+FeNiCr,927-1400 degC: FCC;300-927 degC: FCC + BCC,1200,FCC (single-phase)
+FeNiMn,400 degC: MnNi rt;25 degC: (Fe) rt + s phase,1100,FCC (single-phase)
+FeCoCr,1200-1400 degC: FCC + BCC; 1100 degC: FCC/FCC + BCC boundary;700-1000 degC: FCC + s phase,X,X
+FeCoMn,600-1200 degC: FCC;400 degC: FCC + BCC300 degC: BCC + b-Mn;25 degC: FCC1+FCC2,1200,Multi-phase
+FeCrMn,1200 degC: BCC;750-1000 degC: s phase;700 degC: s phase + Cr0.25Mn0.45Fe0.30 25 degC: BCC + s phase,X,X
+NiCoCr,927-1227 degC: FCC,1200,FCC (single-phase)
+NiCoMn,25 degC: FCC,1100,FCC (single-phase)
+NiCrMn,650-952 degC: FCC + BCC;25 degC: FCC + s phase,1050,Multi-phase
+CoCrMn,25 degC: (Co) rt + s phase + CrMn3 rt,1100,Multi-phase
+FeNi,360-1440 degC: FCC;347-360 degC: FCC + FeNi3 rt;200-347 degC: (Fe) rt + FeNi3 rt,1200,FCC (single-phase)
+FeCo,985-1490 degC: FCC;730-985 degC: BCC;below 730 degC: B2,X,X
+FeCr,830-1600 degC: BCC;700-830 degC: s phase + BCC;540-700 degC: s phase;0-540 degC: s phase + BCC,X,X
+FeMn,510-1310 degC: FCC;250-510 degC: FCC + (Mn)rt;0-250 degC: (Fe) rt + (Mn)rt,1200,Multi-phase
+NiCo,0-1480 degC: FCC;,1200,FCC (single-phase)
+NiCr,0-1346 degC: FCC + BCC,X,X
+NiMn,890-1040 degC: FCC;760-890 degC: FCC + B2;720-760 degC: L10 + B2;80-720 degC: L10,980,Multi-phase
+CoCr,1282-1400 degC: FCC + BCC;998-1282 degC: FCC + s phase;600-998 degC: (Co)rt + s phase,X,X
+CoMn,710-1180 degC: FCC;545-710 degC: FCC + (bMn);300-545 degC: MnCo rt,1100,Multi-phase
+CrMn,890-1440 degC: BCC;400-890 degC: BCC + Cr2Mn3 ht,X,X
+
+Retrieved Properties: Decomposition Temperature, Phase Transition, Phase Transition Temperature, Transformation Temperatures, Elastic Moduli, Mixing Enthalpy, A2 Phase Size, Phase Transition Temperatures, Elasticity, Magnetism
+Final Output:
+-
+
+Table Table 2:
+Input Table:
+Alloy,Melting temperature (degC)
+FeNiCoCr,1422
+FeNiCo,1451
+FeNiCr,1391
+NiCoCr,1417
+FeNi,1430
+NiCo,1462
+Ni,1455
+
+Retrieved Properties: Latent Heat, Melting Point, Glass Transition Temperature
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeNiCoCr,-,-,Melting Point,1422,°C
+FeNiCo,-,-,Melting Point,1451,°C
+FeNiCr,-,-,Melting Point,1391,°C
+NiCoCr,-,-,Melting Point,1417,°C
+FeNi,-,-,Melting Point,1430,°C
+NiCo,-,-,Melting Point,1462,°C
+Ni,-,-,Melting Point,1455,°C
+
+Table Table 3:
+Input Table:
+Alloy,"Hall-Petch intercept, H o (HV)",Hall-Petch slope k H (HV mm-2)
+FeNiCoCr,118.0,165.5
+FeNiCo,97.3,131.1
+NiCoCr,146.5,197.3
+FeNi,104.7,113.4
+NiCo,62.2,167.1
+Ni,68.6,34.3
+
+Retrieved Properties: Hall Coefficient, Tafel Slope, Tafel Slopes, Hall Measurement, Hall-Petch Coefficient
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+FeNiCoCr,-,-,Hall-Petch Coefficient,165.5,HV mm-2
+FeNiCo,-,-,Hall-Petch Coefficient,131.1,HV mm-2
+NiCoCr,-,-,Hall-Petch Coefficient,197.3,HV mm-2
+FeNi,-,-,Hall-Petch Coefficient,113.4,HV mm-2
+NiCo,-,-,Hall-Petch Coefficient,167.1,HV mm-2
+Ni,-,-,Hall-Petch Coefficient,34.3,HV mm-2

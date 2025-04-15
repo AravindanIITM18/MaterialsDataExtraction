@@ -1,0 +1,19 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Cr15Fe20Co35Ni20Mo10,800degC/1h/AC,-,Yield Strength(Tension),1311,MPa
+Cr15Fe20Co35Ni20Mo10,800degC/1h/AC,-,Ultimate Tensile Strength(Tension),1410,MPa
+Cr15Fe20Co35Ni20Mo10,850degC/5min/WQ,-,Yield Strength(Tension),1212,MPa
+Cr15Fe20Co35Ni20Mo10,850degC/5min/WQ,-,Ultimate Tensile Strength(Tension),1360,MPa
+Cr15Fe20Co35Ni20Mo10,900degC/5min/WQ,-,Yield Strength(Tension),1028,MPa
+Cr15Fe20Co35Ni20Mo10,900degC/5min/WQ,-,Ultimate Tensile Strength(Tension),1249,MPa
+Cr15Fe20Co35Ni20Mo10,1000degC/5min/WQ,-,Yield Strength(Tension),879,MPa
+Cr15Fe20Co35Ni20Mo10,1000degC/5min/WQ,-,Ultimate Tensile Strength(Tension),1194,MPa
+Cr15Fe20Co35Ni20Mo10,1000degC/1h/AC,-,Yield Strength(Tension),799,MPa
+Cr15Fe20Co35Ni20Mo10,1000degC/1h/AC,-,Ultimate Tensile Strength(Tension),1127,MPa
+Cr15Fe20Co35Ni20Mo10,1150degC/1h/AC,-,Yield Strength(Tension),350,MPa
+Cr15Fe20Co35Ni20Mo10,1150degC/1h/AC,-,Ultimate Tensile Strength(Tension),918,MPa
+Cr15Fe20Co35Ni20Mo10,800degC/1h/AC,-,Ductility,12.1,%EL
+Cr15Fe20Co35Ni20Mo10,850degC/5min/WQ,-,Ductility,14.9,%EL
+Cr15Fe20Co35Ni20Mo10,900degC/5min/WQ,-,Ductility,18.3,%EL
+Cr15Fe20Co35Ni20Mo10,1000degC/5min/WQ,-,Ductility,25.4,%EL
+Cr15Fe20Co35Ni20Mo10,1000degC/1h/AC,-,Ductility,28.2,%EL
+Cr15Fe20Co35Ni20Mo10,1150degC/1h/AC,-,Ductility,62.4,%EL

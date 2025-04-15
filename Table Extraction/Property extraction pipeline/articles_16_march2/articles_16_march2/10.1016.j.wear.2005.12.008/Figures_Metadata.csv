@@ -1,0 +1,9 @@
+Figure ID,Figure Path,Figure Label,Figure Caption
+fig1,articles_all/10.1016.j.wear.2005.12.008/figures/gr1.jpg,Fig. 1,Schematic diagram showing a typical coefficient of friction as a function of sliding distance. The friction curve increases rapidly to a peak value (μp) followed by a gradual decrease to a steady-state value (μss).
+fig2,articles_all/10.1016.j.wear.2005.12.008/figures/gr2.jpg,Fig. 2,Schematic drawing of wear test.
+fig3,articles_all/10.1016.j.wear.2005.12.008/figures/gr3.jpg,Fig. 3,"SEM microstructures of as-cast AlxCoCrCuFeNi alloys with different aluminum contents (x-value): (a) 0.5; (b) 1.0; (c) 1.0; (d) 2.0 (DR: dendrite, ID: inter-dendrite, SD: spinodal decomposition)."
+fig4,articles_all/10.1016.j.wear.2005.12.008/figures/gr4.jpg,Fig. 4,XRD analyses of AlxCoCrCuFeNi alloys with different aluminum contents.
+fig5,articles_all/10.1016.j.wear.2005.12.008/figures/gr5.jpg,Fig. 5,Vickers hardness and wear coefficient of AlxCoCrCuFeNi alloys with different aluminum contents.
+fig6,articles_all/10.1016.j.wear.2005.12.008/figures/gr6.jpg,Fig. 6,Wear coefficient vs. hardness of AlxCoCrCuFeNi alloys.
+fig7,articles_all/10.1016.j.wear.2005.12.008/figures/gr7.jpg,Fig. 7,"SEM microstructures of worn surface and wear debris of AlxCoCrCuFeNi alloys with different aluminum contents (x-value): (a) 0.5, worn surface; (b) 0.5, debris; (c) 1.0, worn surface; (d) 1.0, debris; (e) 2.0, worn surface; (f) 2.0, debris."
+fig8,articles_all/10.1016.j.wear.2005.12.008/figures/gr8.jpg,Fig. 8,"Coefficient of friction vs. sliding distance curves, obtained using a normal load of 29.4N and a sliding speed of 0.5m/s under unlubricated sliding condition, for: (a) Al0.5CoCrCuFeNi; (b) Al1.0CoCrCuFeNi; (c) Al2.0CoCrCuFeNi."

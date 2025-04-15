@@ -1,0 +1,223 @@
+
+Table Table 1:
+Input Table:
+Unnamed: 0,"rexp, kg m-3","rmix, kg m-3"
+AlNbTiV,5590 +- 70,5500
+AlCr0.5NbTiV,5710 +- 80,5640
+AlCrNbTiV,5820 +- 120,5760
+AlCr1.5NbTiV,5900 +- 80,5860
+
+Retrieved Properties: Density, Mass Density, Relative Density
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlNbTiV,-,-,Density,5590 +- 70,kg/m³
+AlCr0.5NbTiV,-,-,Density,5710 +- 80,kg/m³
+AlCrNbTiV,-,-,Density,5820 +- 120,kg/m³
+AlCr1.5NbTiV,-,-,Density,5900 +- 80,kg/m³
+
+Table Table 2:
+Input Table:
+Alloy,AlNbTiV,AlNbTiV.1,AlNbTiV.2,AlCr0.5NbTiV,AlCr0.5NbTiV.1,AlCr0.5NbTiV.2,AlCrNbTiV,AlCrNbTiV.1,AlCrNbTiV.2,AlCr1.5NbTiV,AlCr1.5NbTiV.1,AlCr1.5NbTiV.2
+"Temperature, degS","sYS, MPa","sP, MPa","e, %","sYS, MPa","sP, MPa","e, %","sYS, MPa","sP, MPa","e, %","sYS, MPa","sP, MPa","e, %"
+22,1000,1280,5.2,1300,1430,0.8,1550,1570,0.4,1700,1700,0
+600,780,1005,12.5,1005,1045,2.5,1015,1060,1.5,1370,1480,0.8
+800,560,700,>50,640,685,>50,860,895,>50,970,1045,>50
+1000,110,-,>50,40,80,>50,65,95,>50,75,105,>50
+
+Retrieved Properties: Grüneisen Coefficient, Melting Point, Debye Temperature, Seebeck Coefficient, Transformation Temperatures, Yield Strength, Characteristic Temperatures, Compression, Elasticity, Compressive Strength
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlNbTiV,-,Temperature(in degS): 22,Yield Strength,1000,MPa
+AlNbTiV,-,Temperature(in degS): 600,Yield Strength,780,MPa
+AlNbTiV,-,Temperature(in degS): 800,Yield Strength,560,MPa
+AlNbTiV,-,Temperature(in degS): 1000,Yield Strength,110,MPa
+AlCr0.5NbTiV,-,Temperature(in degS): 22,Yield Strength,1300,MPa
+AlCr0.5NbTiV,-,Temperature(in degS): 600,Yield Strength,1005,MPa
+AlCr0.5NbTiV,-,Temperature(in degS): 800,Yield Strength,640,MPa
+AlCr0.5NbTiV,-,Temperature(in degS): 1000,Yield Strength,40,MPa
+AlCrNbTiV,-,Temperature(in degS): 22,Yield Strength,1550,MPa
+AlCrNbTiV,-,Temperature(in degS): 600,Yield Strength,1015,MPa
+AlCrNbTiV,-,Temperature(in degS): 800,Yield Strength,860,MPa
+AlCrNbTiV,-,Temperature(in degS): 1000,Yield Strength,65,MPa
+AlCr1.5NbTiV,-,Temperature(in degS): 22,Yield Strength,1700,MPa
+AlCr1.5NbTiV,-,Temperature(in degS): 600,Yield Strength,1370,MPa
+AlCr1.5NbTiV,-,Temperature(in degS): 800,Yield Strength,970,MPa
+AlCr1.5NbTiV,-,Temperature(in degS): 1000,Yield Strength,75,MPa
+
+Table Table 3:
+Input Table:
+"Element, at.%","Element, at.%.1",Al,Cr,Nb,Ti,V
+Constituent,Constituent,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV
+No.,Designation,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV
+1,Grains,27.4 +- 0.3,-,24.2 +- 0.3,24.6 +- 0.1,23.8 +- 0.2
+Alloy composition,Alloy composition,27.6 +- 0.2,-,24.1 +- 0.1,24.8 +- 0.3,23.5 +- 0.1
+nan,nan,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV
+1,Grains,25.5 +- 0.1,10.1 +- 0.2,22.4 +- 0.3,21.6 +- 0.3,20.4 +- 0.1
+Alloy composition,Alloy composition,25.6 +- 0.2,10.2 +- 0.2,22.2 +- 0.1,21.4 +- 0.2,20.6 +- 0.3
+nan,nan,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV
+1,Grains,23.2 +- 0.2,17.6 +- 0.3,19.9 +- 0.4,20.1 +- 0.3,19.2 +- 0.2
+2,Light particles,18.0 +- 0.3,34.5 +- 0.4,25.5 +- 0.5,9.4 +- 0.2,12.6 +- 0.1
+Alloy composition,Alloy composition,22.9 +- 0.2,18.8 +- 0.3,20.2 +- 0.1,19.3 +- 0.2,18.8 +- 0.4
+nan,nan,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV
+1,Grains,23.1 +- 0.3,20.4 +- 0.1,16.2 +- 0.4,21.1 +- 0.1,19.2 +- 0.2
+2,Light particles,16.9 +- 0.1,36.8 +- 0.5,24.4 +- 0.2,10.3 +- 0.3,11.6 +- 0.4
+Alloy composition,Alloy composition,21.7 +- 0.2,25.0 +- 0.3,18.7 +- 0.2,17.8 +- 0.3,16.8 +- 0.1
+
+Retrieved Properties: 
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlNbTiV,homogenized,Grains,Chemical Composition,Al: 27.4 ± 0.3; Nb: 24.2 ± 0.3; Ti: 24.6 ± 0.1; V: 23.8 ± 0.2,at%
+AlNbTiV,homogenized,Alloy composition,Chemical Composition,Al: 27.6 ± 0.2; Nb: 24.1 ± 0.1; Ti: 24.8 ± 0.3; V: 23.5 ± 0.1,at%
+AlCr0.5NbTiV,homogenized,Grains,Chemical Composition,Al: 25.5 ± 0.1; Cr: 10.1 ± 0.2; Nb: 22.4 ± 0.3; Ti: 21.6 ± 0.3; V: 20.4 ± 0.1,at%
+AlCr0.5NbTiV,homogenized,Alloy composition,Chemical Composition,Al: 25.6 ± 0.2; Cr: 10.2 ± 0.2; Nb: 22.2 ± 0.1; Ti: 21.4 ± 0.2; V: 20.6 ± 0.3,at%
+AlCrNbTiV,homogenized,Grains,Chemical Composition,Al: 23.2 ± 0.2; Cr: 17.6 ± 0.3; Nb: 19.9 ± 0.4; Ti: 20.1 ± 0.3; V: 19.2 ± 0.2,at%
+AlCrNbTiV,homogenized,Light particles,Chemical Composition,Al: 18.0 ± 0.3; Cr: 34.5 ± 0.4; Nb: 25.5 ± 0.5; Ti: 9.4 ± 0.2; V: 12.6 ± 0.1,at%
+AlCrNbTiV,homogenized,Alloy composition,Chemical Composition,Al: 22.9 ± 0.2; Cr: 18.8 ± 0.3; Nb: 20.2 ± 0.1; Ti: 19.3 ± 0.2; V: 18.8 ± 0.4,at%
+AlCr1.5NbTiV,homogenized,Grains,Chemical Composition,Al: 23.1 ± 0.3; Cr: 20.4 ± 0.1; Nb: 16.2 ± 0.4; Ti: 21.1 ± 0.1; V: 19.2 ± 0.2,at%
+AlCr1.5NbTiV,homogenized,Light particles,Chemical Composition,Al: 16.9 ± 0.1; Cr: 36.8 ± 0.5; Nb: 24.4 ± 0.2; Ti: 10.3 ± 0.3; V: 11.6 ± 0.4,at%
+AlCr1.5NbTiV,homogenized,Alloy composition,Chemical Composition,Al: 21.7 ± 0.2; Cr: 25.0 ± 0.3; Nb: 18.7 ± 0.2; Ti: 17.8 ± 0.3; V: 16.8 ± 0.1,at%
+
+Table Table 4:
+Input Table:
+"Element, at.%","Element, at.%.1",Al,Cr,Nb,Ti,V
+Constituent,Constituent,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV
+No.,Designation,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV
+1,Grains,26.4 +- 0.2,-,24.2 +- 0.1,25.3 +- 0.2,24.4 +- 0.3
+2,Precipitation-containing zone,26.5 +- 0.1,-,23.9 +- 0.2,25.3 +- 0.5,24.1 +- 0.4
+Alloy composition,Alloy composition,27.6 +- 0.2,-,24.1 +- 0.1,24.8 +- 0.3,23.5 +- 0.1
+nan,nan,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV
+1,Grains,24.3 +- 0.3,10.1 +- 0.4,22.3 +- 0.2,22.0 +- 0.1,21.3 +- 0.3
+2,Precipitation-containing zone,24.7 +- 0.1,11.1 +- 0.3,22.7 +- 0.3,20.6 +- 0.2,20.9 +- 0.2
+Alloy composition,Alloy composition,25.6 +- 0.2,10.2 +- 0.2,22.2 +- 0.1,21.4 +- 0.2,20.6 +- 0.3
+nan,nan,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV
+1,Grains,22.3 +- 0.2,17.7 +- 0.1,17.4 +- 0.2,21.9 +- 0.3,20.6 +- 0.1
+2,Light particles,17.6 +- 0.1,35.2 +- 0.4,23.0 +- 0.2,10.3 +- 0.1,13.9 +- 0.2
+3,Precipitation-containing zone,22.5 +- 0.3,17.0 +- 0.2,17.7 +- 0.2,22.6 +- 0.1,22.2 +- 0.3
+Alloy composition,Alloy composition,22.9 +- 0.2,18.8 +- 0.3,20.2 +- 0.1,19.3 +- 0.2,18.8 +- 0.4
+nan,nan,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV
+1,Grains,21.8 +- 0.1,20.7 +- 0.2,14.8 +- 0.2,22.3 +- 0.1,20.4 +- 0.1
+2,Light particles,16.6 +- 0.2,38.7 +- 0.1,23.8 +- 0.2,9.5 +- 0.2,11.4 +- 0.1
+3,Precipitation-containing zone,20.6 +- 0.3,22.9 +- 0.1,16.6 +- 0.3,20.9 +- 0.3,19.0 +- 0.3
+Alloy composition,Alloy composition,21.7 +- 0.2,25.0 +- 0.3,18.7 +- 0.2,17.8 +- 0.3,16.8 +- 0.1
+
+Retrieved Properties: Compressive Strength, Compression Performance, Compression
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlNbTiV,Grains,Compression at 800 degC,Chemical Composition,Al: 26.4 ± 0.2; Nb: 24.2 ± 0.1; Ti: 25.3 ± 0.2; V: 24.4 ± 0.3,at%
+AlNbTiV,Precipitation-containing zone,Compression at 800 degC,Chemical Composition,Al: 26.5 ± 0.1; Nb: 23.9 ± 0.2; Ti: 25.3 ± 0.5; V: 24.1 ± 0.4,at%
+AlNbTiV,Alloy composition,Compression at 800 degC,Chemical Composition,Al: 27.6 ± 0.2; Nb: 24.1 ± 0.1; Ti: 24.8 ± 0.3; V: 23.5 ± 0.1,at%
+AlCr0.5NbTiV,Grains,Compression at 800 degC,Chemical Composition,Al: 24.3 ± 0.3; Cr: 10.1 ± 0.4; Nb: 22.3 ± 0.2; Ti: 22.0 ± 0.1; V: 21.3 ± 0.3,at%
+AlCr0.5NbTiV,Precipitation-containing zone,Compression at 800 degC,Chemical Composition,Al: 24.7 ± 0.1; Cr: 11.1 ± 0.3; Nb: 22.7 ± 0.3; Ti: 20.6 ± 0.2; V: 20.9 ± 0.2,at%
+AlCr0.5NbTiV,Alloy composition,Compression at 800 degC,Chemical Composition,Al: 25.6 ± 0.2; Cr: 10.2 ± 0.2; Nb: 22.2 ± 0.1; Ti: 21.4 ± 0.2; V: 20.6 ± 0.3,at%
+AlCrNbTiV,Grains,Compression at 800 degC,Chemical Composition,Al: 22.3 ± 0.2; Cr: 17.7 ± 0.1; Nb: 17.4 ± 0.2; Ti: 21.9 ± 0.3; V: 20.6 ± 0.1,at%
+AlCrNbTiV,Light particles,Compression at 800 degC,Chemical Composition,Al: 17.6 ± 0.1; Cr: 35.2 ± 0.4; Nb: 23.0 ± 0.2; Ti: 10.3 ± 0.1; V: 13.9 ± 0.2,at%
+AlCrNbTiV,Precipitation-containing zone,Compression at 800 degC,Chemical Composition,Al: 22.5 ± 0.3; Cr: 17.0 ± 0.2; Nb: 17.7 ± 0.2; Ti: 22.6 ± 0.1; V: 22.2 ± 0.3,at%
+AlCrNbTiV,Alloy composition,Compression at 800 degC,Chemical Composition,Al: 22.9 ± 0.2; Cr: 18.8 ± 0.3; Nb: 20.2 ± 0.1; Ti: 19.3 ± 0.2; V: 18.8 ± 0.4,at%
+AlCr1.5NbTiV,Grains,Compression at 800 degC,Chemical Composition,Al: 21.8 ± 0.1; Cr: 20.7 ± 0.2; Nb: 14.8 ± 0.2; Ti: 22.3 ± 0.1; V: 20.4 ± 0.1,at%
+AlCr1.5NbTiV,Light particles,Compression at 800 degC,Chemical Composition,Al: 16.6 ± 0.2; Cr: 38.7 ± 0.1; Nb: 23.8 ± 0.2; Ti: 9.5 ± 0.2; V: 11.4 ± 0.1,at%
+AlCr1.5NbTiV,Precipitation-containing zone,Compression at 800 degC,Chemical Composition,Al: 20.6 ± 0.3; Cr: 22.9 ± 0.1; Nb: 16.6 ± 0.3; Ti: 20.9 ± 0.3; V: 19.0 ± 0.3,at%
+AlCr1.5NbTiV,Alloy composition,Compression at 800 degC,Chemical Composition,Al: 21.7 ± 0.2; Cr: 25.0 ± 0.3; Nb: 18.7 ± 0.2; Ti: 17.8 ± 0.3; V: 16.8 ± 0.1,at%
+
+Table Table 5:
+Input Table:
+"Element, at.%","Element, at.%.1",Al,Cr,Nb,Ti,V
+Constituent,Constituent,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV
+No.,Designation,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV,AlNbTiV
+1,Grains,27.4 +- 0.2,-,23.8 +- 0.1,24.8 +- 0.2,24.0 +- 0.1
+2,Grey particles,32.3 +- 0.1,-,32.3 +- 0.3,19.2 +- 0.1,16.2 +- 0.2
+Alloy composition,Alloy composition,27.6 +- 0.2,-,24.1 +- 0.1,24.8 +- 0.3,23.5 +- 0.1
+nan,nan,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV,AlCr0.5NbTiV
+1,Grains,24.2 +- 0.1,10.5 +- 0.2,18.5 +- 0.2,23.9 +- 0.1,22.9 +- 0.3
+2,Grey particles,27.2 +- 0.2,4.7 +- 0.1,39.0 +- 0.4,18.5 +- 0.3,10.6 +- 0.2
+3,Light particles,13.5 +- 0.1,30.8 +- 0.4,24.9 +- 0.4,10.7 +- 0.2,20.1 +- 0.2
+Alloy composition,Alloy composition,25.6 +- 0.2,10.2 +- 0.2,22.2 +- 0.1,21.4 +- 0.2,20.6 +- 0.3
+nan,nan,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV,AlCrNbTiV
+1,Grains,24.4 +- 0.2,15.1 +- 0.2,17.4 +- 0.3,22.9 +- 0.1,20.2 +- 0.1
+2,Coarse light particles,15.2 +- 0.1,35.8 +- 0.5,25.1 +- 0.3,9.9 +- 0.2,14.0 +- 0.4
+3,Fine light particles,15.6 +- 0.4,29.9 +- 0.3,23.8 +- 0.4,13.2 +- 0.4,17.5 +- 0.2
+Alloy composition,Alloy composition,22.9 +- 0.2,18.8 +- 0.3,20.2 +- 0.1,19.3 +- 0.2,18.8 +- 0.4
+nan,nan,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV,AlCr1.5NbTiV
+1,Grains,21.4 +- 0.4,15.1 +- 0.3,12.6 +- 0.2,28.0 +- 0.1,22.9 +- 0.1
+2,Coarse light particles,14.0 +- 0.2,39.1 +- 0.6,23.7 +- 0.4,10.4 +- 0.1,12.8 +- 0.2
+3,Fine light particles,14.2 +- 0.1,35.4 +- 0.1,22.2 +- 0.2,12.5 +- 0.4,15.7 +- 0.1
+Alloy composition,Alloy composition,21.7 +- 0.2,25.0 +- 0.3,18.7 +- 0.2,17.8 +- 0.3,16.8 +- 0.1
+
+Retrieved Properties: Indentation Properties, Optical Properties, Absorption Properties
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlNbTiV,Grains,-,Chemical Composition,Al: 27.4 ± 0.2; Nb: 23.8 ± 0.1; Ti: 24.8 ± 0.2; V: 24.0 ± 0.1,at%
+AlNbTiV,Grey particles,-,Chemical Composition,Al: 32.3 ± 0.1; Nb: 32.3 ± 0.3; Ti: 19.2 ± 0.1; V: 16.2 ± 0.2,at%
+AlNbTiV,-,-,Chemical Composition,Al: 27.6 ± 0.2; Nb: 24.1 ± 0.1; Ti: 24.8 ± 0.3; V: 23.5 ± 0.1,at%
+AlCr0.5NbTiV,Grains,-,Chemical Composition,Al: 24.2 ± 0.1; Cr: 10.5 ± 0.2; Nb: 18.5 ± 0.2; Ti: 23.9 ± 0.1; V: 22.9 ± 0.3,at%
+AlCr0.5NbTiV,Grey particles,-,Chemical Composition,Al: 27.2 ± 0.2; Cr: 4.7 ± 0.1; Nb: 39.0 ± 0.4; Ti: 18.5 ± 0.3; V: 10.6 ± 0.2,at%
+AlCr0.5NbTiV,Light particles,-,Chemical Composition,Al: 13.5 ± 0.1; Cr: 30.8 ± 0.4; Nb: 24.9 ± 0.4; Ti: 10.7 ± 0.2; V: 20.1 ± 0.2,at%
+AlCr0.5NbTiV,-,-,Chemical Composition,Al: 25.6 ± 0.2; Cr: 10.2 ± 0.2; Nb: 22.2 ± 0.1; Ti: 21.4 ± 0.2; V: 20.6 ± 0.3,at%
+AlCrNbTiV,Grains,-,Chemical Composition,Al: 24.4 ± 0.2; Cr: 15.1 ± 0.2; Nb: 17.4 ± 0.3; Ti: 22.9 ± 0.1; V: 20.2 ± 0.1,at%
+AlCrNbTiV,Coarse light particles,-,Chemical Composition,Al: 15.2 ± 0.1; Cr: 35.8 ± 0.5; Nb: 25.1 ± 0.3; Ti: 9.9 ± 0.2; V: 14.0 ± 0.4,at%
+AlCrNbTiV,Fine light particles,-,Chemical Composition,Al: 15.6 ± 0.4; Cr: 29.9 ± 0.3; Nb: 23.8 ± 0.4; Ti: 13.2 ± 0.4; V: 17.5 ± 0.2,at%
+AlCrNbTiV,-,-,Chemical Composition,Al: 22.9 ± 0.2; Cr: 18.8 ± 0.3; Nb: 20.2 ± 0.1; Ti: 19.3 ± 0.2; V: 18.8 ± 0.4,at%
+AlCr1.5NbTiV,Grains,-,Chemical Composition,Al: 21.4 ± 0.4; Cr: 15.1 ± 0.3; Nb: 12.6 ± 0.2; Ti: 28.0 ± 0.1; V: 22.9 ± 0.1,at%
+AlCr1.5NbTiV,Coarse light particles,-,Chemical Composition,Al: 14.0 ± 0.2; Cr: 39.1 ± 0.6; Nb: 23.7 ± 0.4; Ti: 10.4 ± 0.1; V: 12.8 ± 0.2,at%
+AlCr1.5NbTiV,Fine light particles,-,Chemical Composition,Al: 14.2 ± 0.1; Cr: 35.4 ± 0.1; Nb: 22.2 ± 0.2; Ti: 12.5 ± 0.4; V: 15.7 ± 0.1,at%
+AlCr1.5NbTiV,-,-,Chemical Composition,Al: 21.7 ± 0.2; Cr: 25.0 ± 0.3; Nb: 18.7 ± 0.2; Ti: 17.8 ± 0.3; V: 16.8 ± 0.1,at%
+
+Table Table 6:
+Input Table:
+Temperature,Alloy,Phase,Fraction,"Composition, at.%","Composition, at.%.1","Composition, at.%.2","Composition, at.%.3","Composition, at.%.4"
+Temperature,Alloy,Phase,Fraction,Al,Cr,Nb,Ti,V
+600 degC,AlNbTiV,BCC_A2,0.697,23.0,-,31.2,12.2,33.6
+600 degC,AlNbTiV,Ti3Al,0.303,29.7,-,10.7,54.4,5.2
+AlCr0.5NbTiV,BCC_A2,0.701,20.6,7.2,27.6,14.5,30.1,nan
+AlCr0.5NbTiV,Laves,0.135,21.7,43.4,5.9,27.5,1.5,nan
+AlCr0.5NbTiV,Ti3Al,0.164,28.4,0.4,11.3,55.7,4.2,nan
+AlCrNbTiV,BCC_A2,0.636,19.6,7.4,27.7,14.9,30.4,nan
+AlCrNbTiV,Laves,0.343,20.4,44.5,6.2,27.1,1.8,nan
+AlCrNbTiV,Ti3Al,0.021,27.8,0.4,11.5,56.2,4.1,nan
+AlCr1.5NbTiV,BCC_A2,0.509,18.8,9.0,26.1,12.9,33.2,nan
+AlCr1.5NbTiV,FCC_C15,0.381,16.9,46.7,10.9,22.6,2.9,nan
+AlCr1.5NbTiV,Laves,0.110,19.6,45.1,6.9,26.5,1.9,nan
+800 degC,AlNbTiV,BCC_A2,1,25.0,-,25.0,25.0,25.0
+800 degC,AlCr0.5NbTiV,BCC_A2,1,22.2,11.2,22.2,22.2,22.2
+AlCrNbTiV,BCC_A2,0.873,20.7,16.0,20.8,19.2,22.3,nan
+AlCrNbTiV,FCC_C15,0.127,15.2,47.3,14.5,19.2,3.8,nan
+AlCr1.5NbTiV,BCC_A2,0.692,19.9,18.1,19.5,18.0,24.5,nan
+AlCr1.5NbTiV,FCC_C15,0.308,14.3,47.9,15.3,18.4,4.1,nan
+1000 degC,AlNbTiV,BCC_A2,1,25.0,-,25.0,25.0,25.0
+1000 degC,AlCr0.5NbTiV,BCC_A2,1,22.2,11.2,22.2,22.2,22.2
+1000 degC,AlCrNbTiV,BCC_A2,1,20.0,20.0,20.0,20.0,20.0
+AlCr1.5NbTiV,BCC_A2,0.985,18.3,26.9,18.2,18.2,18.4,nan
+AlCr1.5NbTiV,FCC_C15,0.015,10.1,51.1,19.4,14.6,4.8,nan
+1200 degC,AlNbTiV,BCC_A2,1,25.0,-,25.0,25.0,25.0
+1200 degC,AlCr0.5NbTiV,BCC_A2,1,22.2,11.2,22.2,22.2,22.2
+1200 degC,AlCrNbTiV,BCC_A2,1,20.0,20.0,20.0,20.0,20.0
+1200 degC,AlCr1.5NbTiV,BCC_A2,1,18.2,27.3,18.2,18.2,18.2
+
+Retrieved Properties: Volume Fraction, Remanence, Composition, Phase Fractions, Elemental Composition, Surface Composition
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+AlNbTiV,-,Temperature(in degC): 600;Phase: BCC_A2,Phase Fractions,0.697,-
+AlNbTiV,-,Temperature(in degC): 600;Phase: Ti3Al,Phase Fractions,0.303,-
+AlNbTiV,-,Temperature(in degC): 800;Phase: BCC_A2,Phase Fractions,1,-
+AlNbTiV,-,Temperature(in degC): 1000;Phase: BCC_A2,Phase Fractions,1,-
+AlNbTiV,-,Temperature(in degC): 1200;Phase: BCC_A2,Phase Fractions,1,-
+AlCr0.5NbTiV,-,Temperature(in degC): 600;Phase: BCC_A2,Phase Fractions,0.701,-
+AlCr0.5NbTiV,-,Temperature(in degC): 600;Phase: Laves,Phase Fractions,0.135,-
+AlCr0.5NbTiV,-,Temperature(in degC): 600;Phase: Ti3Al,Phase Fractions,0.164,-
+AlCr0.5NbTiV,-,Temperature(in degC): 800;Phase: BCC_A2,Phase Fractions,1,-
+AlCr0.5NbTiV,-,Temperature(in degC): 1000;Phase: BCC_A2,Phase Fractions,1,-
+AlCr0.5NbTiV,-,Temperature(in degC): 1200;Phase: BCC_A2,Phase Fractions,1,-
+AlCrNbTiV,-,Temperature(in degC): 600;Phase: BCC_A2,Phase Fractions,0.636,-
+AlCrNbTiV,-,Temperature(in degC): 600;Phase: Laves,Phase Fractions,0.343,-
+AlCrNbTiV,-,Temperature(in degC): 600;Phase: Ti3Al,Phase Fractions,0.021,-
+AlCrNbTiV,-,Temperature(in degC): 800;Phase: BCC_A2,Phase Fractions,0.873,-
+AlCrNbTiV,-,Temperature(in degC): 800;Phase: FCC_C15,Phase Fractions,0.127,-
+AlCrNbTiV,-,Temperature(in degC): 1000;Phase: BCC_A2,Phase Fractions,1,-
+AlCrNbTiV,-,Temperature(in degC): 1200;Phase: BCC_A2,Phase Fractions,1,-
+AlCr1.5NbTiV,-,Temperature(in degC): 600;Phase: BCC_A2,Phase Fractions,0.509,-
+AlCr1.5NbTiV,-,Temperature(in degC): 600;Phase: FCC_C15,Phase Fractions,0.381,-
+AlCr1.5NbTiV,-,Temperature(in degC): 600;Phase: Laves,Phase Fractions,0.110,-
+AlCr1.5NbTiV,-,Temperature(in degC): 800;Phase: BCC_A2,Phase Fractions,0.692,-
+AlCr1.5NbTiV,-,Temperature(in degC): 800;Phase: FCC_C15,Phase Fractions,0.308,-
+AlCr1.5NbTiV,-,Temperature(in degC): 1000;Phase: BCC_A2,Phase Fractions,0.985,-
+AlCr1.5NbTiV,-,Temperature(in degC): 1000;Phase: FCC_C15,Phase Fractions,0.015,-
+AlCr1.5NbTiV,-,Temperature(in degC): 1200;Phase: BCC_A2,Phase Fractions,1,-

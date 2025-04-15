@@ -1,0 +1,10 @@
+Alloy,Al,Co,Cr,Cu,Fe,Ni
+AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi,AlCoCrCuNi
+Nominal,20,20,20,20,-,20
+Dendrite,21,21,25,11,-,22
+Interdendrite,13,8,6,58,-,15
+,,,,,,
+AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi,AlCoCrCuFeNi
+Nominal,17,17,17,17,17,17
+Dendrite,17,17,21,11,18,16
+Interdendrite,12,5,3,63,5,12

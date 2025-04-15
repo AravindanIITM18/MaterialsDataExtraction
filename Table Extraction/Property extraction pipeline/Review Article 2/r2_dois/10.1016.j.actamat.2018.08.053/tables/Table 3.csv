@@ -1,0 +1,11 @@
+Parameters,Elements,Elements,Elements,Elements,Elements
+Parameters,Condition,Nb,Ta,Ti,V
+Atomic Volume (A3),-,18.36,18.40,17.23,13.43
+Atomic Fraction (%),Calculation,0.250,0.250,0.250,0.250
+Atomic Fraction (%),Experiment,0.249,0.236,0.251,0.250
+d   i   eff    (A),Calculation,2.8613,2.8597,2.8611,2.6263
+d   i   eff    (A),Experiment,2.8558,2.8578,2.8563,2.6194
+d -    (A),Calculation,2.8021,2.8021,2.8021,2.8021
+d -    (A),Experiment,2.7988,2.7988,2.7988,2.7988
+m -    D    (A),Calculation,0.2344,0.2344,0.2344,0.2344
+m -    D    (A),Experiment,0.2373,0.2373,0.2373,0.2373

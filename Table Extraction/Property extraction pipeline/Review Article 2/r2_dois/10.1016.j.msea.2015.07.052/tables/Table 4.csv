@@ -1,0 +1,9 @@
+Alloys,s  max  (MPa),e  f  (%),Hardness (Hv ),Refs.
+Co20Ni20Fe20Al20Ti20,2988,5.8,704,This work
+Co0.5NiFeCrTi0.5,2690,~2.0 *,846,[7]
+CoNiFeCrAl0.6Ti0.4,2520,~7.0 *,573,[17]
+AlFeNiCoCrMn,2142,~6.0 *,662,[33]
+Co0.3NiFeCrAl0.7,2635,8.1,624,[36]
+Al0.5CrFeNiCo0.3C0.2,2131,3.0,617,[37]
+CoCrFeNiAl,1907,~6.5 *,625,[38]
+FeNiCoCrMn,1987,~8.0 *,646,[39]

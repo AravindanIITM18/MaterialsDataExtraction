@@ -1,0 +1,85 @@
+
+Table Table 1:
+Input Table:
+Composition,Ta,Nb,Hf,Zr,Ti
+at.%,19.68,18.93,20.46,21.23,19.7
+wt.%,30.04,14.84,30.82,16.34,7.96
+
+Retrieved Properties: Composition, Elemental Composition, Surface Composition
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+TaNbHfZrTi,-,-,Elemental Composition,Ta: 19.68; Nb: 18.93; Hf: 20.46; Zr: 21.23; Ti: 19.7,at%
+TaNbHfZrTi,-,-,Elemental Composition,Ta: 30.04; Nb: 14.84; Hf: 30.82; Zr: 16.34; Ti: 7.96,wt%
+
+Table Table 2:
+Input Table:
+Metal,Ta,Nb,Hf,Zr,Ti,Alloy Calc.,Alloy Exp.
+a (pm),330.3,330.1,355.9,358.2,327.6,340.9,340.4
+r (g/cm3),16.65,8.57,13.31,6.51,4.51,9.89,9.94
+H v (MPa),873.0,1320.0,1760.0,903.0,970.0,1165.0,3826.0
+s 0.2 (MPa),170.0,240.0,240.0,280.0,195.0,226.0,929.0
+
+Retrieved Properties: Density, Mass Density, Yield Strength, Lattice Strain, Lattice Parameter, Yield Stress, Specific Strength, Hardness, Indentation Properties, Lattice Constants
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Ta,-,-,Lattice Parameter,330.3,pm
+Nb,-,-,Lattice Parameter,330.1,pm
+Hf,-,-,Lattice Parameter,355.9,pm
+Zr,-,-,Lattice Parameter,358.2,pm
+Ti,-,-,Lattice Parameter,327.6,pm
+Alloy Calc.,-,-,Lattice Parameter,340.9,pm
+Alloy Exp.,-,-,Lattice Parameter,340.4,pm
+Ta,-,-,Density,16.65,g/cm3
+Nb,-,-,Density,8.57,g/cm3
+Hf,-,-,Density,13.31,g/cm3
+Zr,-,-,Density,6.51,g/cm3
+Ti,-,-,Density,4.51,g/cm3
+Alloy Calc.,-,-,Density,9.89,g/cm3
+Alloy Exp.,-,-,Density,9.94,g/cm3
+Ta,-,-,Hardness,873.0,MPa
+Nb,-,-,Hardness,1320.0,MPa
+Hf,-,-,Hardness,1760.0,MPa
+Zr,-,-,Hardness,903.0,MPa
+Ti,-,-,Hardness,970.0,MPa
+Alloy Calc.,-,-,Hardness,1165.0,MPa
+Alloy Exp.,-,-,Hardness,3826.0,MPa
+Ta,-,-,Yield Strength,170.0,MPa
+Nb,-,-,Yield Strength,240.0,MPa
+Hf,-,-,Yield Strength,240.0,MPa
+Zr,-,-,Yield Strength,280.0,MPa
+Ti,-,-,Yield Strength,195.0,MPa
+Alloy Calc.,-,-,Yield Strength,226.0,MPa
+Alloy Exp.,-,-,Yield Strength,929.0,MPa
+
+Table Table 3:
+Input Table:
+Element/Property,Ta,Nb,Hf,Zr,Ti
+r (pm),143.0,142.9,154.1,155.1,141.8
+G (GPa),69.0,38.0,30.0,33.0,44.0
+
+Retrieved Properties: Remanence, Poisson's Ratio, Elastic Moduli, Elasticity, Free Energy
+Final Output:
+-
+
+Table Table 4:
+Input Table:
+Element i/j d    aij  / d    Gij,Ta,Nb,Hf,Zr,Ti
+Ta,0.0,0.58,0.79,0.71,0.44
+Nb,0.0,0.0,0.24,0.14,-0.15
+Hf,0.07,0.08,0.0,-0.1,-0.38
+Zr,0.08,0.08,0.01,0.0,-0.29
+Ti,-0.01,-0.01,-0.08,-0.09,0.0
+
+Retrieved Properties: Elastic Modulus, Bulk Modulus, Elastic Moduli, Electronegativity, Atomic Size, Atomic Radius
+Final Output:
+-
+
+Table Table 5:
+Input Table:
+Element,Ta,Nb,Hf,Zr,Ti
+d  ai,-0.035,-0.035,0.049,0.057,-0.044
+d  Gi,0.571,-0.073,-0.331,-0.228,0.089
+
+Retrieved Properties: Elastic Moduli, Damping, H Pick-up, Band Gap, Elasticity, Ductility
+Final Output:
+-

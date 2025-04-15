@@ -1,0 +1,70 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 1.csv,Table 1,Chemical compositions (in at.%) of the alloys studied in this work.,
+t0010,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 2.csv,Table 2,"The lattice parameter, a (in pm), of the cubic phases identified in the produced cast alloys, as well as in the parent alloys, (*) after annealing and (**) after compression deformation at 1273K.",
+t0015,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 3.csv,Table 3,"Density, r and microhardness, H
+v, of the produced and parent alloys.",
+t0020,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 4.csv,Table 4,"Compression yield strength, s
+0.2, maximum strength, s
+p, elastic modulus, E, and fracture strain, d, of the AlMo0.5NbTa0.5TiZr alloy at different temperatures.",
+t0025,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 5.csv,Table 5,"Compression yield strength, s
+0.2, maximum strength, s
+p, elastic modulus, E, and fracture strain, d, of the Al0.4Hf0.6NbTaTiZr alloy at different temperatures.",
+t0030,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 6.csv,Table 6,Chemical compositions (in at.%) of the AlMo0.5NbTa0.5TiZr alloy constituents (shown in Fig. 4) in the annealed condition.,
+t0035,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 7.csv,Table 7,Chemical compositions (in at.%) of the AlMo0.5NbTa0.5TiZr alloy constituents (shown in Fig. 6) after compression deformation at 1273K.,
+t0040,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 8.csv,Table 8,"The temperatures of the start, 
+
+
+
+T
+
+
+L
+
+
+NE
+
+
+
+, and the end, 
+
+
+
+T
+
+
+S
+
+
+NE
+
+
+
+, of solidification and the start of the formation of the second phase, 
+
+
+
+T
+
+
+2
+
+
+NE
+
+
+
+.",
+t0045,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 9.csv,Table 9,Characteristic equilibrium phase transformation temperatures (in K) and respective reaction equations in the studied alloys. Simulated results.,
+t0050,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 10.csv,Table 10,"Calculated volume fractions and compositions (in at.%) of equilibrium phases in the studied alloys at T
+=1273K.",
+t0055,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 11.csv,Table 11,"Calculated volume fractions and compositions (in at.%) of equilibrium phases in the studied alloys at T
+=973K.",
+t0060,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 12.csv,Table 12,"Metallic atomic radius, r, Pauling electronegativity, kh, valence electron concentration, V, and melting temperature, Tm
+, of the elements in the studied alloys [36].",
+t0065,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 13.csv,Table 13,"Binary intermetallic phases, their enthalpy of mixing and temperature range of stability in given binary systems.",
+t0070,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2014.01.029/tables/Table 14.csv,Table 14,"The enthalpy of mixing, DH
+mix, entropy of mixing, DS
+mix, effective melting temperature, T
+m, and parameter O, as well as atomic size difference, dr
+, electronegativity difference, dkh
+, and valence electron concentration difference between the alloying elements, in four HEAs.",

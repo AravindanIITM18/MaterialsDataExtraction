@@ -1,0 +1,2361 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1044580316300432</prism:url><dc:identifier>doi:10.1016/j.matchar.2016.02.018</dc:identifier><eid>1-s2.0-S1044580316300432</eid><prism:doi>10.1016/j.matchar.2016.02.018</prism:doi><pii>S1044-5803(16)30043-2</pii><dc:title>Effect of Fe content on microstructure and mechanical properties of Al0·5CoCrFexNiTi0.5 high-entropy alloys </dc:title><prism:publicationName>Materials Characterization</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>10445803</prism:issn><prism:volume>114</prism:volume><prism:startingPage>179</prism:startingPage><prism:endingPage>184</prism:endingPage><prism:pageRange>179-184</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-04-30</prism:coverDate><prism:coverDisplayDate>April 2016</prism:coverDisplayDate><prism:copyright>Copyright © 2016 Elsevier Inc. All rights reserved.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Lee, Che-Fu</dc:creator><dc:creator>Shun, Tao-Tsung</dc:creator><dc:description>
+                  In this study, Al0
+                     .5CoCrFexNiTi0.5 alloys (where the molar ratio (x) is 0.5, 1.0, 1.5, and 2.0) were synthesized to elucidate the effect of their Fe content on their microstructure and mechanical properties. The results show that both Al0.5CoCrFe0.5NiTi0.5 and Al0.5CoCrFe1.0NiTi0.5 alloys consist of four phases, BCC, FCC, σ, and ordered BCC phases. The number of phases decreases to three for the Al0.5CoCrFe1.5NiTi0.5 and Al0.5CoCrFe2.0NiTi0.5 alloys, both of which consist of the FCC, BCC, and ordered BCC phases. The hardness of the alloys decreases from HV748 to HV399 with increasing Fe content. This result shows that addition of Fe to the alloy inhibits the formation of the σ phase while promoting the formation of the FCC phase, and thus indicates that Fe stabilizes the FCC phase. Al0.5CoCrFe0.5NiTi0.5, Al0.5CoCrFe1.0NiTi0.5, and Al0.5CoCrFe1.5NiTi0.5 alloys have a dendritic structure. However, the microstructure of the Al0.5CoCrFe2.0NiTi0.5 alloy changes into a three-phase eutectic structure. The compressive strength (σmax) of the alloys decreases with increasing Fe content. Accordingly, σmax decreases from 2240 to 1736MPa, and the fracture strain increases from 0.11 to 0.45 as the Fe content increases from 0.5 to 2.0. Both Al0.5CoCrFe1.5NiTi0.5 and Al0.5CoCrFe2.0NiTi0.5 alloys exhibit high strength and high ductility.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>High-entropy alloy</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><dcterms:subject>Hardness</dcterms:subject><dcterms:subject>Compression test</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1044580316300432" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1044580316300432" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="159" height="164" size="12996">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="107" height="164" size="16013">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="8500">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="10122">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="216" height="164" size="34438">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="401" size="37442">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="555" height="851" size="212965">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="285" size="16393">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="389" height="288" size="22733">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="548" height="416" size="122421">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1776" size="259080">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2457" height="3767" size="4863295">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1262" size="94914">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1723" height="1274" size="137128">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="2428" height="1843" size="1691013">https://api.elsevier.com/content/object/eid/1-s2.0-S1044580316300432-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84959539098</scopus-id><scopus-eid>2-s2.0-84959539098</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84959539098" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271570</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291827</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Characterization</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSCHARACTERIZATION</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160302">2016-03-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160302">2016-03-02</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160324">2016-03-24</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160324">2016-03-24</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2018-07-13T16:51:31</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1044580316300432</xocs:eid>
+      <xocs:pii-formatted>S1044-5803(16)30043-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1044580316300432</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matchar.2016.02.018</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.6</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1044580316X00034</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20180713">2018-07-13T17:44:54.225308Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160401</xocs:date-search-begin>
+      <xocs:date-search-end>20160430</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1456962888">2016-03-02T23:54:48.172923Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1044-5803</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>10445803</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>114</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>114</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 114</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>22</xocs:sort-order>
+      <xocs:first-fp>179</xocs:first-fp>
+      <xocs:last-lp>184</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>179</xocs:first-page>
+         <xocs:last-page>184</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201604</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2016 Elsevier Inc. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTFECONTENTMICROSTRUCTUREMECHANICALPROPERTIESAL05COCRFEXNITI05HIGHENTROPYALLOYS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LEE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Material and methods</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Crystal structure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Microstructure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mechanical properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-last-lp>303</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>TONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>881</xocs:ref-first-fp>
+            <xocs:ref-last-lp>893</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>534</xocs:ref-first-fp>
+            <xocs:ref-last-lp>538</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2533</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2536</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>TONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1263</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1271</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1455</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>KAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-last-lp>64</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>182</xocs:ref-first-fp>
+            <xocs:ref-last-lp>190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1301</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1305</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>S515</xocs:ref-first-fp>
+            <xocs:ref-last-lp>S518</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>143</xocs:ref-first-fp>
+            <xocs:ref-last-lp>152</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>219</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181904</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>ZHOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2673</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2676</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>SHUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>55</xocs:ref-first-fp>
+            <xocs:ref-last-lp>58</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>WEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>266</xocs:ref-first-fp>
+            <xocs:ref-last-lp>269</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>191</xocs:ref-first-fp>
+            <xocs:ref-last-lp>195</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>214</xocs:ref-first-fp>
+            <xocs:ref-last-lp>216</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>204</xocs:ref-first-fp>
+            <xocs:ref-last-lp>211</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>JINHONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>228</xocs:ref-first-fp>
+            <xocs:ref-last-lp>233</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>QIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>216</xocs:ref-first-fp>
+            <xocs:ref-last-lp>220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>TSAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>433</xocs:ref-first-fp>
+            <xocs:ref-last-lp>446</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>PORTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHASETRANSFORMATIONSINMETALSALLOYS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>DEBOER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>COHESIONINMETALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>MURTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HIGHENTROPYALLOYS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>482</xocs:ref-first-fp>
+            <xocs:ref-last-lp>486</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>154</xocs:ref-first-fp>
+            <xocs:ref-last-lp>158</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>TOTTEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>HANDBOOKMECHANICALALLOYDESIGN</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>METALSHANDBOOK</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LEEX2016X179</xocs:refkey3>
+         <xocs:refkey4lp>LEEX2016X179X184</xocs:refkey4lp>
+         <xocs:refkey4ai>LEEX2016X179XC</xocs:refkey4ai>
+         <xocs:refkey5>LEEX2016X179X184XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-03-24T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1044-5803(16)30043-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1044580316300432</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1044580316300432</xocs:eid>
+         <xocs:doi>10.1016/j.matchar.2016.02.018</xocs:doi>
+         <xocs:cid>271570</xocs:cid>
+         <xocs:timestamp>2018-07-13T17:44:54.225308Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/MAIN/application/pdf/eed1fb0111335e3afe08079f0bc8ce9b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/MAIN/application/pdf/eed1fb0111335e3afe08079f0bc8ce9b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>2806702</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1044580316300432-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/PREVIEW/image/png/15db96a5bb846cff731f1dbce3ee59e8/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/PREVIEW/image/png/15db96a5bb846cff731f1dbce3ee59e8/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60155</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr1/THUMBNAIL/image/gif/bf7908365221f8e801a281e563d7fff1/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr1/THUMBNAIL/image/gif/bf7908365221f8e801a281e563d7fff1/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12996</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>159</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr2/THUMBNAIL/image/gif/d9f0bc80541f4f7bd06298c2233faef3/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr2/THUMBNAIL/image/gif/d9f0bc80541f4f7bd06298c2233faef3/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>16013</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>107</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr3/THUMBNAIL/image/gif/8fd8ef1bdbc80cb571a888df78776a95/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr3/THUMBNAIL/image/gif/8fd8ef1bdbc80cb571a888df78776a95/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8500</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr4/THUMBNAIL/image/gif/cfe176f987bb2bb2e2d3b86c768ed088/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr4/THUMBNAIL/image/gif/cfe176f987bb2bb2e2d3b86c768ed088/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10122</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr5/THUMBNAIL/image/gif/4ee09bc3fa8364bcca3e519e0e41dd86/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr5/THUMBNAIL/image/gif/4ee09bc3fa8364bcca3e519e0e41dd86/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>34438</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>216</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr1/DOWNSAMPLED/image/jpeg/724fa8fca2bbaf49515503cd55c3c0b0/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr1/DOWNSAMPLED/image/jpeg/724fa8fca2bbaf49515503cd55c3c0b0/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>37442</xocs:filesize>
+               <xocs:pixel-height>401</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr2/DOWNSAMPLED/image/jpeg/9ec91909eb963a7f148f32f6cb40e4a7/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr2/DOWNSAMPLED/image/jpeg/9ec91909eb963a7f148f32f6cb40e4a7/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>212965</xocs:filesize>
+               <xocs:pixel-height>851</xocs:pixel-height>
+               <xocs:pixel-width>555</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr3/DOWNSAMPLED/image/jpeg/f026b383c58ce66179273b4cbe2fac30/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr3/DOWNSAMPLED/image/jpeg/f026b383c58ce66179273b4cbe2fac30/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16393</xocs:filesize>
+               <xocs:pixel-height>285</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr4/DOWNSAMPLED/image/jpeg/a96a344c4f7c329ea561a576f74abab9/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr4/DOWNSAMPLED/image/jpeg/a96a344c4f7c329ea561a576f74abab9/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22733</xocs:filesize>
+               <xocs:pixel-height>288</xocs:pixel-height>
+               <xocs:pixel-width>389</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr5/DOWNSAMPLED/image/jpeg/6ee520f90f14b26ea06b3bf7aff9bca7/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr5/DOWNSAMPLED/image/jpeg/6ee520f90f14b26ea06b3bf7aff9bca7/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>122421</xocs:filesize>
+               <xocs:pixel-height>416</xocs:pixel-height>
+               <xocs:pixel-width>548</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr1/HIGHRES/image/jpeg/dc0b9d20a6891a2cf684d3454d8c3567/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr1/HIGHRES/image/jpeg/dc0b9d20a6891a2cf684d3454d8c3567/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>259080</xocs:filesize>
+               <xocs:pixel-height>1776</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr2/HIGHRES/image/jpeg/a332dfa94b7255f6506b59774f1ef49c/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr2/HIGHRES/image/jpeg/a332dfa94b7255f6506b59774f1ef49c/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>4863295</xocs:filesize>
+               <xocs:pixel-height>3767</xocs:pixel-height>
+               <xocs:pixel-width>2457</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr3/HIGHRES/image/jpeg/5fe1c432d3e6d84fc2eac179d1ae123a/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr3/HIGHRES/image/jpeg/5fe1c432d3e6d84fc2eac179d1ae123a/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>94914</xocs:filesize>
+               <xocs:pixel-height>1262</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr4/HIGHRES/image/jpeg/8cedbaa05d2dcad1c2e729f792afb88f/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr4/HIGHRES/image/jpeg/8cedbaa05d2dcad1c2e729f792afb88f/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>137128</xocs:filesize>
+               <xocs:pixel-height>1274</xocs:pixel-height>
+               <xocs:pixel-width>1723</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1044580316300432-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1044580316300432/gr5/HIGHRES/image/jpeg/e16b4e44bb9e31739e4480e19e056635/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1044580316300432/gr5/HIGHRES/image/jpeg/e16b4e44bb9e31739e4480e19e056635/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1691013</xocs:filesize>
+               <xocs:pixel-height>1843</xocs:pixel-height>
+               <xocs:pixel-width>2428</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>MTL</jid>
+            <aid>8188</aid>
+            <ce:pii>S1044-5803(16)30043-2</ce:pii>
+            <ce:doi>10.1016/j.matchar.2016.02.018</ce:doi>
+            <ce:copyright type="full-transfer" year="2016">Elsevier Inc.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="ca0005">
+                  <ce:simple-para id="sp0005" view="all">X-ray diffraction patterns of Fe<ce:inf loc="post">0.5</ce:inf>, Fe<ce:inf loc="post">1.0</ce:inf>, Fe<ce:inf loc="post">1.5</ce:inf>, and Fe<ce:inf loc="post">2.0</ce:inf> high-entropy alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0005">Fig. 1</ce:alt-text>
+               <ce:link id="lk0005" locator="gr1" xlink:type="simple" xlink:href="pii:S1044580316300432/gr1" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="ca0010">
+                  <ce:simple-para id="sp0010" view="all">SEM images of (a, b) Fe<ce:inf loc="post">0.5</ce:inf>, (c, d) Fe<ce:inf loc="post">1.0</ce:inf>, (e, f) Fe<ce:inf loc="post">1.5</ce:inf>, and (g, h) Fe<ce:inf loc="post">2.0</ce:inf> alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0010">Fig. 2</ce:alt-text>
+               <ce:link id="lk0010" locator="gr2" xlink:type="simple" xlink:href="pii:S1044580316300432/gr2" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="ca0015">
+                  <ce:simple-para id="sp0015" view="all">Hardness of Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> (x<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.5, 1.0, 1.5, 2.0) high-entropy alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0015">Fig. 3</ce:alt-text>
+               <ce:link id="lk0015" locator="gr3" xlink:type="simple" xlink:href="pii:S1044580316300432/gr3" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="ca0020">
+                  <ce:simple-para id="sp0020" view="all">True stress–strain curves of Fe<ce:inf loc="post">0.5</ce:inf>, Fe<ce:inf loc="post">1.0</ce:inf>, Fe<ce:inf loc="post">1.5</ce:inf>, and Fe<ce:inf loc="post">2.0</ce:inf> high-entropy alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0020">Fig. 4</ce:alt-text>
+               <ce:link id="lk0020" locator="gr4" xlink:type="simple" xlink:href="pii:S1044580316300432/gr4" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="ca0025">
+                  <ce:simple-para id="sp0025" view="all">SEM images of the fracture surfaces after the compressive test on (a) Fe<ce:inf loc="post">0.5</ce:inf>, (b) Fe<ce:inf loc="post">1.0</ce:inf>, (c) Fe<ce:inf loc="post">1.5</ce:inf>, and (d) Fe<ce:inf loc="post">2.0</ce:inf> alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0025">Fig. 5</ce:alt-text>
+               <ce:link id="lk0025" locator="gr5" xlink:type="simple" xlink:href="pii:S1044580316300432/gr5" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0005" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="ca0030">
+                  <ce:simple-para id="sp0030" view="all">EDS analyses (at.%) of the Fe<ce:inf loc="post">0.5</ce:inf>, Fe<ce:inf loc="post">1.0</ce:inf>, Fe<ce:inf loc="post">1.5</ce:inf>, and Fe<ce:inf loc="post">2.0</ce:inf> high-entropy alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0030">Table 1</ce:alt-text>
+               <tgroup cols="8">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <colspec colname="col6"/>
+                  <colspec colname="col7"/>
+                  <colspec colname="col8"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">Al</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">Co</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="left">Cr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="left">Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="left">Ni</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="left">Ti</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="3" colname="col1" align="left" role="rowhead">Fe<inf loc="post">0.5</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">2.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">21.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">44.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">16.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">11.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">4.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">7.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">25.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">10.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">7.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">28.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">20.2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">6.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">22.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">32.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">16.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">16.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">5.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">D</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">19.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">21.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">7.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">4.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">28.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">18.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="3" colname="col1" align="left" role="rowhead">Fe<inf loc="post">1.0</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">17.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">30.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">29.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">18.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">5.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">7.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">21.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">11.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">15.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">25.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">19.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">3.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">20.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">22.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">25.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">19.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">8.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">D</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">16.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">20.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">9.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">12.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">24.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">17.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2" colname="col1" align="left" role="rowhead">Fe<inf loc="post">1.5</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">4.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">17.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">22.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">35.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">16.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">4.2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">6.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">19.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">12.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">21.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">24.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">16.7</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">D</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">15.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">18.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">10.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">18.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">23.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">13.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2" colname="col1" align="left" role="rowhead">Fe<inf loc="post">2.0</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">9.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">17.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">16.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">31.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">16.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">9.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">B</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">4.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">15.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">20.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">39.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">14.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">5.8</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">D</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">13.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">17.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col5" align="char" char=".">11.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col6" align="char" char=".">24.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col7" align="char" char=".">20.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col8" align="char" char=".">12.1</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0035" view="all">A: BCC, B: FCC, C: σ, D: ordered BCC.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0010" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="ca0035">
+                  <ce:simple-para id="sp0040" view="all">Compressive properties of the Fe<ce:inf loc="post">0.5</ce:inf>, Fe<ce:inf loc="post">1.0</ce:inf>, Fe<ce:inf loc="post">1.5</ce:inf>, and Fe<ce:inf loc="post">2.0</ce:inf> high-entropy alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0035">Table 2</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left">Alloy</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">Yield stress σ<inf loc="post">y</inf> (MPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">Compressive strength σ<inf loc="post">max</inf> (MPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">Fracture strain ε<inf loc="post">f</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">Fe<inf loc="post">0.5</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">1659</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">2240</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">0.11</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">Fe<inf loc="post">1.0</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">1178</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">1801</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">0.21</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">Fe<inf loc="post">1.5</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">895</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">1834</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">0.38</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">Fe<inf loc="post">2.0</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">866</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">1736</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">0.45</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="t0015" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="ca0040">
+                  <ce:simple-para id="sp0045" view="all">Compressive properties of other high-entropy alloys, bulk amorphous alloys, and commercial-grade high-strength stainless steels.</ce:simple-para>
+               </ce:caption>
+               <ce:alt-text role="short" id="al0040">Table 3</ce:alt-text>
+               <tgroup cols="4">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <thead>
+                     <row valign="top" rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="left">Yield stress σ<inf loc="post">y</inf> (MPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="left">Compressive strength σ<inf loc="post">max</inf> (MPa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="left">Fracture strain ε<inf loc="post">f</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">High entropy alloys</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">
+                           <hsp sp="1"/>AlCrFeCoNiCuMn <cross-ref id="cf0005" refid="bb0135">[27]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">1005</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1480</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">15</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">
+                           <hsp sp="1"/>AlCrFeCoNiCuTi <cross-ref id="cf0010" refid="bb0135">[27]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">1234</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1356</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">
+                           <hsp sp="1"/>CrFeCoNiCuTi<inf loc="post">0.5</inf>
+                           <cross-ref id="cf0015" refid="bb0140">[28]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">700</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1650</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">21</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">Bulk amorphous alloys</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">
+                           <hsp sp="1"/>Zr<inf loc="post">56·2</inf>Ti<inf loc="post">13.8</inf>Nb<inf loc="post">5</inf>Cu<inf loc="post">6·9</inf>Ni<inf loc="post">5.6</inf>Be<inf loc="post">12.5</inf>
+                           <cross-ref id="cf0020" refid="bb0065">[13]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">1300</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1700</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">6.81</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">
+                           <hsp sp="1"/>Ti<inf loc="post">40</inf>Zr<inf loc="post">25</inf>Ni<inf loc="post">3</inf>Cu<inf loc="post">12</inf>Be<inf loc="post">20</inf>
+                           <cross-ref id="cf0025" refid="bb0065">[13]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">1680</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1780</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">3.2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">
+                           <hsp sp="1"/>Mg<inf loc="post">81</inf>Cu<inf loc="post">9·3</inf>Y<inf loc="post">4.7</inf>Zn<inf loc="post">5</inf>
+                           <cross-ref id="cf0030" refid="bb0065">[13]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">550</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1163</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">18.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">Commercial grade high strength stainless steels</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4"/>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">
+                           <hsp sp="1"/>420 stainless steel <cross-ref id="cf0035" refid="bb0145">[29]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">1345</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1586</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">8</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">
+                           <hsp sp="1"/>416 stainless steel <cross-ref id="cf0040" refid="bb0145">[29]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">1000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1310</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">15</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col1" align="left" role="rowhead">
+                           <hsp sp="1"/>18Ni(200) maraging steel <cross-ref id="cf0045" refid="bb0150">[30]</cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col2" align="char" char=".">1400</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col3" align="char" char=".">1500</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" colname="col4" align="char" char=".">10</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="ti0005">Effect of Fe content on microstructure and mechanical properties of Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> high-entropy alloys</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S1044580316300432-494d18c3cea062e4664d58a0b1d8b895">
+                  <ce:given-name>Che-Fu</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+               </ce:author>
+               <ce:author id="au0010" author-id="S1044580316300432-04fd5a5f58bca236c732a73742109a70">
+                  <ce:given-name>Tao-Tsung</ce:given-name>
+                  <ce:surname>Shun</ce:surname>
+                  <ce:cross-ref refid="cr0005" id="cf0050">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005">
+                  <ce:textfn id="tn0005">Department of Materials Science and Engineering, Feng Chia University, Taichung 407, Taiwan</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Materials Science and Engineering</sa:organization>
+                     <sa:organization>Feng Chia University</sa:organization>
+                     <sa:city>Taichung</sa:city>
+                     <sa:postal-code>407</sa:postal-code>
+                     <sa:country>Taiwan</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="31" month="12" year="2015"/>
+            <ce:date-revised day="25" month="2" year="2016"/>
+            <ce:date-accepted day="26" month="2" year="2016"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="all" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0050" view="all">In this study, Al<ce:inf loc="post">0</ce:inf>
+                     <ce:inf loc="post">.5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys (where the molar ratio (x) is 0.5, 1.0, 1.5, and 2.0) were synthesized to elucidate the effect of their Fe content on their microstructure and mechanical properties. The results show that both Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">0.5</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> and Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">1.0</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys consist of four phases, BCC, FCC, σ, and ordered BCC phases. The number of phases decreases to three for the Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">1.5</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> and Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">2.0</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys, both of which consist of the FCC, BCC, and ordered BCC phases. The hardness of the alloys decreases from HV748 to HV399 with increasing Fe content. This result shows that addition of Fe to the alloy inhibits the formation of the σ phase while promoting the formation of the FCC phase, and thus indicates that Fe stabilizes the FCC phase. Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">0.5</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf>, Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">1.0</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf>, and Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">1.5</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys have a dendritic structure. However, the microstructure of the Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">2.0</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloy changes into a three-phase eutectic structure. The compressive strength (σ<ce:inf loc="post">max</ce:inf>) of the alloys decreases with increasing Fe content. Accordingly, σ<ce:inf loc="post">max</ce:inf> decreases from 2240 to 1736<ce:hsp sp="0.25"/>MPa, and the fracture strain increases from 0.11 to 0.45 as the Fe content increases from 0.5 to 2.0. Both Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">1.5</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> and Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">2.0</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys exhibit high strength and high ductility.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords id="ks0005" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">High-entropy alloy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">Microstructure</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Hardness</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Compression test</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st0020">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">High-entropy alloys, the concept of which was proposed by Yeh et al. <ce:cross-ref id="cf0055" refid="bb0005">[1]</ce:cross-ref>, are a new domain in the development of alloys. These alloys consist of at least five principal metallic elements, with the concentration of each element ranging from 5 to 35<ce:hsp sp="0.25"/>at.%. Because of their high mixing entropy, these alloys tend to form a random solid solution after solidification <ce:cross-refs id="cf0060" refid="bb0010 bb0015">[2,3]</ce:cross-refs>. Previous studies have shown several attractive properties of these alloys, such as easy formation of nanoprecipitates, good thermal stability, high corrosion resistance, and high malleability <ce:cross-refs id="cf0065" refid="bb0005 bb0010 bb0015 bb0020 bb0025 bb0030">[1–6]</ce:cross-refs>.</ce:para>
+                  <ce:para id="p0030" view="all">In Al<ce:inf loc="post">x</ce:inf>CoCrCuFeNi alloys, the crystal structure changes as the Al content increases. These alloys exhibit a single face-centered-cubic (FCC) structure at 0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>x<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>0.375, a FCC/body-centered-cubic (BCC) structure at 0.5<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>x<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>0.75, and a single BCC structure at x<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.875. The hardness of the as-cast alloys increases with increasing Al content, reaching maximum at x<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.875 (HV538) <ce:cross-ref id="cf0070" refid="bb0035">[7]</ce:cross-ref>. In this alloy system, however, Cu precipitates very easily and segregates at interdendrite at a normal cooling rate of about 10–20<ce:hsp sp="0.25"/>K/s <ce:cross-ref id="cf0075" refid="bb0040">[8]</ce:cross-ref>. The resulting Cu-rich phase decreases the pitting resistance by providing local galvanic cells <ce:cross-ref id="cf0080" refid="bb0045">[9]</ce:cross-ref>. For this reason, some researchers have designed Al<ce:inf loc="post">x</ce:inf>CoCrFeNi alloys, in which Cu is absent. As the Al content changes, the microstructure transforms into the following: Al<ce:inf loc="post">0</ce:inf>–Al<ce:inf loc="post">0.3</ce:inf>: FCC structure, Al<ce:inf loc="post">0.5</ce:inf>–Al<ce:inf loc="post">0.7</ce:inf>: mixed structure (FCC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>spinodal (A2<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>B2))<ce:hsp sp="0.25"/>→<ce:hsp sp="0.25"/>FCC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>B2 structure, and Al<ce:inf loc="post">0.9</ce:inf>–Al<ce:inf loc="post">1.2</ce:inf>: spinodal (A2<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>B2) structure. Clearly, Al strongly encourages the formation of the BCC structure in Al<ce:inf loc="post">x</ce:inf>CoCrFeNi alloys, and increasing the Al content increases the alloy hardness <ce:cross-refs id="cf0085" refid="bb0035 bb0050 bb0055">[7,10–11]</ce:cross-refs>. Because of its large atomic size, Al markedly strengthens its solid solutions. Another large atom that can be added to the alloy design is Ti. Al<ce:inf loc="post">x</ce:inf>CoCrFeNiTi and AlCoCrFeNiTi<ce:inf loc="post">x</ce:inf> alloys exhibit a duplex structure consisting of a BCC solid solution and a Ti-rich Laves phase <ce:cross-refs id="cf0090" refid="bb0060 bb0065 bb0070">[12–14]</ce:cross-refs>. Some alloys for high-temperature applications have been selected and tested after aging treatment. Al<ce:inf loc="post">0·3</ce:inf>CoCrFeNi alloy that has been strengthened by addition of minor amounts of Mo and Ti displays strong age hardening at 700<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cf0095" refid="bb0075">[15]</ce:cross-ref>. The structure of AlCoCrCuFeNi alloy consists mainly of a BCC phase with a minor FCC phase after 5<ce:hsp sp="0.25"/>h of aging below 645<ce:hsp sp="0.25"/>°C; the stabilized BCC phase changes to the FCC phase when the temperature exceeds 645<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cf0100" refid="bb0080">[16]</ce:cross-ref>. The high-entropy alloy Al<ce:inf loc="post">0·5</ce:inf>CoCrNiTi<ce:inf loc="post">0.5</ce:inf> exhibits age hardening at 600 to 900<ce:hsp sp="0.25"/>°C and shows no age softening even after aging at 1200<ce:hsp sp="0.25"/>°C <ce:cross-ref id="cf0105" refid="bb0085">[17]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0035" view="all">Studies on AlCoCrCuFeNi, AlCoCrFeNi, and AlCoCrFeNiTi alloy systems have mainly focused on the effect of the Al, Cu, and Ti content, with several of these studies discussing the effect of Co, Cr, and Ni <ce:cross-refs id="cf0110" refid="bb0090 bb0095 bb0100 bb0105">[18–21]</ce:cross-refs>. However, the effect of Fe on the microstructure and properties of high-entropy alloys is not well-researched. For the present study, the Al<ce:inf loc="post">0·5</ce:inf>CoCrNiTi<ce:inf loc="post">0.5</ce:inf> alloy has been chosen to elucidate the effect of Fe addition.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st0025">Material and methods</ce:section-title>
+                  <ce:para id="p0040" view="all">Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> high-entropy alloys (where the molar ratios (x) 0.5, 1.0, 1.5, 2.0, correspond to Fe<ce:inf loc="post">0.5</ce:inf>, Fe<ce:inf loc="post">1.0</ce:inf>, Fe<ce:inf loc="post">1.5</ce:inf>, and Fe<ce:inf loc="post">2.0</ce:inf>, respectively) were synthesized by vacuum arc melting in a copper mold under an argon atmosphere. The alloys were remelted five times to ensure their homogeneity. Commercial-grade elemental Al, Co, Cr, Fe, Ni, and Ti with 99.5% purity were used as the raw materials. The dimensions of each resulting alloy ingot were 62<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>39<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>11<ce:hsp sp="0.25"/>mm. The ingot was then cut to 10<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>2<ce:hsp sp="0.25"/>mm flakes for analysis of the crystal structure and microstructure. The microstructure was investigated by scanning electron microscopy (SEM; Hitachi-S4800), and the composition was obtained by energy-dispersive spectrometry (EDS). The crystal structure was studied by X-ray diffraction (XRD; Bruker D8 SSS) using Cu K<ce:inf loc="post">α</ce:inf> radiation, a scanning rate of 4 degree/min, and a 2θ range of 20–100°. The hardness was measured under a load of 1<ce:hsp sp="0.25"/>kg for duration of 15<ce:hsp sp="0.25"/>s by using a Future-Tech FM-300e Vickers hardness tester. A compression test under a strain rate of 10<ce:sup loc="post">−<ce:hsp sp="0.10"/>3</ce:sup>
+                     <ce:hsp sp="0.25"/>s<ce:sup loc="post">−<ce:hsp sp="0.10"/>1</ce:sup> was carried out on a ϕ5<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:hsp sp="0.25"/>mm specimen by using a Chun-Yen CY-6040A4 universal tester.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st0030">Results and discussion</ce:section-title>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st0035">Crystal structure</ce:section-title>
+                     <ce:para id="p0045" view="all">
+                        <ce:cross-ref id="cf0115" refid="f0005">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/> shows the XRD patterns of the as-cast Al<ce:inf loc="post">0.5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys. The Fe<ce:inf loc="post">0.5</ce:inf> and Fe<ce:inf loc="post">1.0</ce:inf> alloys clearly have four phases (ordered BCC, BCC, FCC, and σ phases), whereas the Fe<ce:inf loc="post">1.5</ce:inf> and Fe<ce:inf loc="post">2.0</ce:inf> alloys have three phases (FCC, BCC, and ordered BCC phases). The ordered BCC phase is of the B2 type, with a lattice parameter (a) of 2.930<ce:hsp sp="0.25"/>Å and a Pearson symbol (P.S.) of cP2. The BCC phase is of the A2 type, with a<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.881<ce:hsp sp="0.25"/>Å and P.S. of cI2. The FCC phase is of the A1 type, with a<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>3.604<ce:hsp sp="0.25"/>Å and P.S. of cF4. The σ phase, a CrFe-like σ phase with PDF-# of 05-0708, is of the D8<ce:inf loc="post">b</ce:inf> type, with a<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>8.844, c<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>4.567, c/a<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.516, and P.S. of tP30. The amount of σ phase decreases with increasing Fe content and is absent in the Fe<ce:inf loc="post">1.5</ce:inf> alloy. In contrast, the amount of the FCC phase increases with increasing Fe content. Therefore, the volume fraction of the σ phase decreases, and that of the FCC phase increases after addition of Fe to the alloys. These results indicate that Fe stabilizes the FCC phase and inhibits the formation of the σ phase in Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys. Tsai et al. proposed that σ-phase formation could be predicted from the valence electron concentration (VEC) <ce:cross-ref id="cf0120" refid="bb0110">[22]</ce:cross-ref>; the σ phase appears in as-cast or aged high-entropy alloys when the VEC is between 6.88 and 7.84. The VECs of Fe<ce:inf loc="post">0.5</ce:inf> to Fe<ce:inf loc="post">2.0</ce:inf> alloys are 7.48, 7.36, 7.35, and 7.33, respectively. The VECs of the Fe<ce:inf loc="post">1.5</ce:inf> and Fe<ce:inf loc="post">2.0</ce:inf> alloys are within this range. However, they do not have an observable σ phase probably because of the supercooled structure of the as-cast alloy and the σ phase may form in the equilibrium state at higher temperature. According to the Gibbs phase rule, F<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>C<ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>P<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>1, the maximum number of phases is 7 for a six-component alloy. However, the XRD results indicate only four phases in the Fe<ce:inf loc="post">0.5</ce:inf> and Fe<ce:inf loc="post">1.0</ce:inf> alloys, and three phases in the Fe<ce:inf loc="post">1.5</ce:inf> and Fe<ce:inf loc="post">2.0</ce:inf> alloys. This observation may be due to the high entropy effect; the mixing entropies of the Fe<ce:inf loc="post">0.5</ce:inf> to Fe<ce:inf loc="post">2.0</ce:inf> alloys are higher than those of conventional alloys. In the present study, the mixing entropies of Fe<ce:inf loc="post">0.5</ce:inf> to Fe<ce:inf loc="post">2.0</ce:inf> alloys are 14.47, 14.55, 14.30, and 13.97<ce:hsp sp="0.25"/>kJ/mol, respectively. Guo and Lui <ce:cross-ref id="cf0125" refid="bb0115">[23]</ce:cross-ref> proposed that phase stabilization in high-entropy alloys may be predicted from the VEC <ce:cross-ref id="cf0130" refid="bb0120">[24]</ce:cross-ref>. At VEC<ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>6.87, the alloy consists solely of the BCC phase; at 6.87<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>VEC<ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>8, a BCC/FCC phase results; and at VEC<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>8, a FCC phase exists. All of the alloys in this work consist of the BCC/FCC phase, which is consistent with the study by Guo and Lui <ce:cross-ref id="cf0135" refid="bb0115">[23]</ce:cross-ref>. Overlapping XRD peaks that represent FCC(111) and ordered BCC(110) appeared in all of the alloys, indicating the existence of the Kurdjumov–Sachs relationship FCC(111)//BCC(110) in the mixed phase <ce:cross-ref id="cf0140" refid="bb0120">[24]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st0040">Microstructure</ce:section-title>
+                     <ce:para id="p0050" view="all">
+                        <ce:cross-ref id="cf0145" refid="f0010">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/> shows the microstructure of the Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys. <ce:cross-ref id="cf0150" refid="t0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/> displays the chemical compositions of the interior structures shown in <ce:cross-ref id="cf0155" refid="f0010">Fig. 2</ce:cross-ref>, which had been determined by EDS. The Fe<ce:inf loc="post">0.5</ce:inf> to Fe<ce:inf loc="post">1.5</ce:inf> alloys exhibit a dendritic structure, while the Fe<ce:inf loc="post">2.0</ce:inf> alloy shows a fine structure. For the Fe<ce:inf loc="post">0.5</ce:inf> to Fe<ce:inf loc="post">1.0</ce:inf> alloys, the dendrites consist of the BCC, FCC, and σ phases, and the interdendrites have a eutectic structure consisting of the BCC and ordered BCC phases. The BCC phase, indicated by “A” in <ce:cross-ref id="cf0160" refid="f0010">Fig. 2</ce:cross-ref>(b) and (d), is a (Cr,Fe)-rich phase; the FCC phase, indicated by “B” in <ce:cross-ref id="cf0165" refid="f0010">Fig. 2</ce:cross-ref>(b) and (d), is a (Ni,Co,Ti)-rich phase; the σ phase, indicated by “C” in <ce:cross-ref id="cf0170" refid="f0010">Fig. 2</ce:cross-ref>(b) and (d), is a (Cr,Fe)-rich phase; the ordered BCC phase, indicated by “D” in <ce:cross-ref id="cf0175" refid="f0010">Fig. 2</ce:cross-ref>(b) and (d), is a (Ni,Co,Al,Ti)-rich phase. Differentiation between the BCC and σ phases is based on the Cr and Fe content. For the BCC phase, the sum of the Cr and Fe content is approximately 60<ce:hsp sp="0.25"/>at.%, because both Cr and Fe are the BCC structure. For the σ phase, the sum of the Cr and Fe content is approximately 50<ce:hsp sp="0.25"/>at.%, which is similar to the CrFe-like σ phase composition. Thus, the σ phase likely corresponds to stoichiometric (Cr,Fe)(Co,Ni,Ti,Al). Similarly, the (Ni,Co,Ti)-rich phase indicates the FCC phase, because both Ni and Co are the FCC structure. Furthermore, the (Ni,Co,Al,Ti)-rich ordered BCC phase is due to the high enthalpy of mixing between (Ni,Co) and (Al,Ti) <ce:cross-ref id="cf0180" refid="bb0125">[25]</ce:cross-ref>. Dendrites of the Fe<ce:inf loc="post">1.5</ce:inf> alloy consist of the BCC and FCC phases, with the FCC phase being a (Ni,Fe,Co,Ti)-rich phase. As in the Fe<ce:inf loc="post">0.5</ce:inf> and Fe<ce:inf loc="post">1.0</ce:inf> alloys, interdendrites in the Fe<ce:inf loc="post">1.5</ce:inf> alloy also have a eutectic structure consisting of the BCC and ordered BCC phases. Apparently, the eutectic structure of the interdendrites becomes finer as the Fe molar ratio in the alloy increases. This trend indicates that the interdendrite composition approaches the eutectic point with increasing Fe content. The fine structure of the Fe<ce:inf loc="post">2.0</ce:inf> alloy in <ce:cross-ref id="cf0185" refid="f0010">Fig. 2</ce:cross-ref>(h) shows a three-phase eutectic structure that consists of a FCC phase, an irregularly shaped BCC phase, and a striplike ordered BCC phase. Both FCC and BCC phases turn into (Fe,Cr,Co,Ni)-rich phases. To distinguish between these two phases, we note that the BCC phase has a higher Al and Ti content. Accordingly, both Al and Ti are strong formers of the BCC phase <ce:cross-ref id="cf0190" refid="bb0130">[26]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st0045">Mechanical properties</ce:section-title>
+                     <ce:para id="p0055" view="all">
+                        <ce:cross-ref id="cf0195" refid="f0015">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/> presents the hardness of the as-cast Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys. The hardness values of the Fe<ce:inf loc="post">0.5</ce:inf> to Fe<ce:inf loc="post">2.0</ce:inf> alloys are HV730, HV526, HV430, and HV399, respectively. The alloy hardness decreases with increasing Fe content, with Fe<ce:inf loc="post">0.5</ce:inf> to Fe<ce:inf loc="post">1.5</ce:inf> alloys showing a large reduction. According to the XRD and SEM analyses, this phenomenon is caused by the decrease in the volume fraction of the σ phase and the increase in the volume fraction of the FCC phase upon addition of Fe. As the σ phase is a hard, topologically close-packed phase, the alloy is significantly stronger when the σ phase is present. On the other hand, the FCC phase is soft because it has 12 octahedral slip systems with low slip resistance. Therefore, an alloy with more of the FCC phase softens. The primary factor for the large decrease in hardness from the Fe<ce:inf loc="post">0.5</ce:inf> to the Fe<ce:inf loc="post">1.5</ce:inf> alloy is the substantial reduction of the volume fraction of the σ phase; a secondary factor is the continuous increase in the volume fraction of the FCC phase. The decrease in hardness from Fe<ce:inf loc="post">1.5</ce:inf> to Fe<ce:inf loc="post">2.0</ce:inf> alloy is also due to the formation of much more FCC phase.</ce:para>
+                     <ce:para id="p0060" view="all">
+                        <ce:cross-ref id="cf0200" refid="f0020">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/> shows true stress–strain curves obtained during compression test on the Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys. The yield strength (σ<ce:inf loc="post">y</ce:inf>), compressive strength (σ<ce:inf loc="post">max</ce:inf>), and fracture strain (ε<ce:inf loc="post">f</ce:inf>) are shown in <ce:cross-ref id="cf0205" refid="t0010">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="t0010"/>. Fracture surfaces observed by SEM are shown in <ce:cross-ref id="cf0210" refid="f0025">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/>. σ<ce:inf loc="post">y</ce:inf> decreases from 1659 to 866<ce:hsp sp="0.25"/>MPa with increasing Fe content. Upon addition of the smaller atoms, Fe (0.126<ce:hsp sp="0.25"/>nm atomic radius), into the alloy, the solid-solution-strengthening effect caused by the larger atoms, Al (0.143<ce:hsp sp="0.25"/>nm atomic radius) and Ti (0.147<ce:hsp sp="0.25"/>nm atomic radius), gradually weakens in both BCC and FCC phases. Similarly, σ<ce:inf loc="post">max</ce:inf> from Fe<ce:inf loc="post">0.5</ce:inf> to Fe<ce:inf loc="post">2.0</ce:inf> alloy decreases from 2240 to 1736<ce:hsp sp="0.25"/>MPa, and ε<ce:inf loc="post">f</ce:inf> increases from 0.11 to 0.45. These results are caused by a decrease in the σ phase and an increase in the FCC phase with increasing Fe content. Of particular note are the Fe<ce:inf loc="post">1.5</ce:inf> and Fe<ce:inf loc="post">2.0</ce:inf> alloys, which both exhibit high σ<ce:inf loc="post">max</ce:inf> and ε<ce:inf loc="post">f</ce:inf>. The good ductility of these two alloys is attributed to their finer microstructure, which effectively prevents crack growth during compression. As listed in <ce:cross-ref id="cf0215" refid="t0015">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="t0015"/>, σ<ce:inf loc="post">max</ce:inf> and ε<ce:inf loc="post">f</ce:inf> of the Fe<ce:inf loc="post">0.5</ce:inf> to Fe<ce:inf loc="post">2.0</ce:inf> alloys, especially those of the Fe<ce:inf loc="post">1.5</ce:inf> and Fe<ce:inf loc="post">2.0</ce:inf> alloys, are superior to those of other high-entropy alloys, bulk amorphous alloys, and commercial-grade high-strength stainless steels <ce:cross-refs id="cf0220" refid="bb0065 bb0135 bb0140 bb0145 bb0150">[13,27–30]</ce:cross-refs>. These two alloys thus exhibit great potential use in the development of a structural material with high strength and high ductility.</ce:para>
+                     <ce:para id="p0065" view="all">The fracture surface of the Fe<ce:inf loc="post">0.5</ce:inf> alloy shows numerous cleavage surfaces, which indicate a brittle alloy. The Fe<ce:inf loc="post">1.0</ce:inf> alloy shows a combination of dimpled structures and cleavage surfaces. The dimpled area in the Fe<ce:inf loc="post">1.5</ce:inf> alloy markedly increases, indicating its higher ductility. The fracture surface of the Fe<ce:inf loc="post">2.0</ce:inf> alloy reveals only dimpled structures, again indicating its high ductility. The characteristics of the fracture surfaces agree with the decrease in the ε<ce:inf loc="post">f</ce:inf> observed in the compression test.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st0050">Conclusions</ce:section-title>
+                  <ce:para id="p0070" view="all">Al<ce:inf loc="post">0·5</ce:inf>CoCrNiFe<ce:inf loc="post">0·5</ce:inf>Ti<ce:inf loc="post">0.5</ce:inf> to Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">1·5</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys have a dendritic structure. The dendrites consist of the BCC, FCC, and σ phases, and their interdendrites have a eutectic structure consisting of the BCC and ordered BCC phases. Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">2·0</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloy exhibits a three-phase eutectic structure consisting of the FCC, BCC, and ordered BCC phases. Fe is a stabilizer of the FCC phase and an inhibitor of σ phase formation in Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">x</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys. An increase in the Fe content decreases the hardness, σ<ce:inf loc="post">y</ce:inf>, and σ<ce:inf loc="post">max</ce:inf> but increases the ductility. As the Fe molar ratio in the alloy increasing, the hardness, σ<ce:inf loc="post">y</ce:inf>, and σ<ce:inf loc="post">max</ce:inf> decrease from HV730 to HV399, 1569 to 866<ce:hsp sp="0.25"/>MPa, and 2240–1736<ce:hsp sp="0.25"/>MPa, respectively, while ε<ce:inf loc="post">f</ce:inf> increases from 0.11 to 0.45. Al<ce:inf loc="post">0·5</ce:inf>CoCrNiFe<ce:inf loc="post">1·5</ce:inf>Ti<ce:inf loc="post">0.5</ce:inf> and Al<ce:inf loc="post">0·5</ce:inf>CoCrFe<ce:inf loc="post">2·0</ce:inf>NiTi<ce:inf loc="post">0.5</ce:inf> alloys exhibit high strength and good ductility and thus have promising use in future structural applications.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ac0005" view="all">
+               <ce:section-title id="st0055">Acknowledgement</ce:section-title>
+               <ce:para id="p0075" view="all">The authors would express gratitude for the financial support by the <ce:grant-sponsor id="gts0005" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Ministry of Science and Technology of Taiwan</ce:grant-sponsor> (R.O.C.), project grant number: MOST <ce:grant-number id="gtn0005" refid="gts0005">104-2221-E-035-013</ce:grant-number>. The authors appreciate the Precision Instrument Support Center of Feng Chia University in providing the fabrication and measurement facilities.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0060">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanostructured high-entropy alloys with multiple principal elements novel alloy design concepts and outcomes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                              <sb:last-page>303</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure characterization of Al<ce:inf loc="post">x</ce:inf>CoCrCuFeNi high-entropy alloy system with multiprincipal elements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>881</sb:first-page>
+                              <sb:last-page>893</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solid-solution phase formation rules for multi-component alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>534</sb:first-page>
+                              <sb:last-page>538</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Formation of simple crystal structures in Cu-Co-Ni-Cr-Al-Fe-Ti-V alloys with multiprincipal metallic elements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2533</sb:first-page>
+                              <sb:last-page>2536</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical performance of the Al<ce:inf loc="post">x</ce:inf>CoCrCuFeNi high-entropy alloy system with multiprincipal elements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1263</sb:first-page>
+                              <sb:last-page>1271</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Zuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-entropy alloys with high saturation magnetization, electrical resistivity, and malleability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sci. Report.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1455</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.F.</ce:given-name>
+                                 <ce:surname>Kao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and mechanical property of as-cast, -homogenized, and-deformed Al<ce:inf loc="post">x</ce:inf>CoCrFeNi (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>x<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>2) high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>488</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                              <sb:last-page>64</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Wanderka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Murty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Glatzel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Banhart</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Decomposition in multi-component AlCoCrCuFeNi high-entropy alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>182</sb:first-page>
+                              <sb:last-page>190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.P.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Shih</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancing pitting corrosion resistance of Al<ce:inf loc="post">x</ce:inf>CrFe<ce:inf loc="post">1.5</ce:inf>MnNi<ce:inf loc="post">0.5</ce:inf> high-entropy alloys by anodic treatment in sulfuric acid</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Thin Solid Films</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>517</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1301</sb:first-page>
+                              <sb:last-page>1305</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of aluminum contents on microstructure and properties of Al<ce:inf loc="post">x</ce:inf>CoCrFeNi alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>504S</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>S515</sb:first-page>
+                              <sb:last-page>S518</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.R.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical alloying synthesis and spark plasma sintering consolidation of CoCrFeNiAl high-entropy alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>589</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>143</sb:first-page>
+                              <sb:last-page>152</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.B.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and mechanical properties of CoCrFeNiTiAl<ce:inf loc="post">x</ce:inf> high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>508</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>214</sb:first-page>
+                              <sb:last-page>219</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solid solution alloys of AlCoCrFeNiTi<ce:inf loc="post">x</ce:inf> with excellent room-temperature mechanical properties</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Phys. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181904</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.N.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure characterizations and strengthening mechanism of multi-principal component AlCoCrFeNiTi<ce:inf loc="post">0.5</ce:inf> solid solution alloy with excellent mechanical properties</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2673</sb:first-page>
+                              <sb:last-page>2676</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Hung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effects of secondary elemental Mo or Ti addition in Al<ce:inf loc="post">0·3</ce:inf>CoCrFeNi high-entropy alloy on age hardening at 700<ce:hsp sp="0.25"/>°C</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>495</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>55</sb:first-page>
+                              <sb:last-page>58</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Kou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Xue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of aging temperature on microstructure and properties of AlCoCrCuFeNi high-entropy alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>266</sb:first-page>
+                              <sb:last-page>269</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Age hardening of the Al<ce:inf loc="post">0·5</ce:inf>CoCrNiTi<ce:inf loc="post">0.5</ce:inf> high-entropy Alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>191</sb:first-page>
+                              <sb:last-page>195</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of Co addition on crystal structure and mechanical properties of Ti<ce:inf loc="post">0·5</ce:inf>CrFeNiAlCo high entropy alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>496</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>214</sb:first-page>
+                              <sb:last-page>216</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of Cr addition on the alloying behavior, microstructure and mechanical properties of twinned CoFeNiAl<ce:inf loc="post">0.5</ce:inf>Ti<ce:inf loc="post">0.5</ce:inf> alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>597</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>204</sb:first-page>
+                              <sb:last-page>211</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Jinhong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ye</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Hui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and properties of AlCrFeCuNi<ce:inf loc="post">x</ce:inf> (0.6<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>x<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>1.4) high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>534</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>228</sb:first-page>
+                              <sb:last-page>233</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.W.</ce:given-name>
+                                 <ce:surname>Qiu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.G.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and properties of Al<ce:inf loc="post">2</ce:inf>CrFeCoCuTiNi<ce:inf loc="post">x</ce:inf> high-entropy alloys prepared by laser cladding</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloys Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>553</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>216</sb:first-page>
+                              <sb:last-page>220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Juan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Criterion for sigma phase formation in Cr and V containing high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Res. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                              <sb:last-page>212</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phase stability in high entropy alloys. Formation of solid-solution phase or amorphous phase</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Nat. Sci. Mater. Int.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>433</sb:first-page>
+                              <sb:last-page>446</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Porter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.E.</ce:given-name>
+                                 <ce:surname>Easterling</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.Y.</ce:given-name>
+                                 <ce:surname>Sherif</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phase Transformations in Metals and Alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>third ed.</sb:edition>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.R.</ce:given-name>
+                                 <ce:surname>de Boer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Boom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.C.M.</ce:given-name>
+                                 <ce:surname>Mattens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Miedema</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Niessen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cohesion in Metals</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>second ed.</sb:edition>
+                              <sb:date>1989</sb:date>
+                              <sb:publisher>
+                                 <sb:name>North-Holland</sb:name>
+                                 <sb:location>Netherlands</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Murty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ranganathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-Entropy Alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>first ed.</sb:edition>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Butterworth-Heinemann</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.X.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Z.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of Mn, Ti and V on the microstructure and properties of AlCrFeCoNiCu high entropy alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>498</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>482</sb:first-page>
+                              <sb:last-page>486</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.X.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Z.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and compressive properties of AlCrFeCoNi high entropy alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>491</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>154</sb:first-page>
+                              <sb:last-page>158</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Totten</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Funatani</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Handbook of Mechanical Alloy Design</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>first ed.</sb:edition>
+                              <sb:date>2004</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Marcel Dekker Inc.</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>10th ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Metals Handbook</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>vol. 1</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1990</sb:date>
+                              <sb:publisher>
+                                 <sb:name>ASM International</sb:name>
+                                 <sb:location>Ohio</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

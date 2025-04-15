@@ -1,0 +1,16 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl0005,/home/sai/sai-mani/articles_all/10.1016.j.msea.2011.09.033/tables/Table 1.csv,Table 1,Chemical composition of the NbCrMo0.5Ta0.5TiZr alloy produced by vacuum arc melting.,
+tbl0010,/home/sai/sai-mani/articles_all/10.1016.j.msea.2011.09.033/tables/Table 2.csv,Table 2,Chemical composition (in at.%) of different microstructure constituents in the HIPd NbCrMo0.5Ta0.5TiZr alloy.,
+tbl0015,/home/sai/sai-mani/articles_all/10.1016.j.msea.2011.09.033/tables/Table 3.csv,Table 3,"The lattice parameter, a, of the BCC crystal structure of the pure metals and the BCC1 and BCC2 phases presented in the studied alloy at room temperature. For Zr and Ti, the parameter a was extrapolated from elevated temperatures [8]. The calculated (Calc) values of the lattice parameter of the BCC phases were obtained using Eq. (1).",
+tbl0020,/home/sai/sai-mani/articles_all/10.1016.j.msea.2011.09.033/tables/Table 4.csv,Table 4,"Density of pure metals and the studied NbCrMo0.5Ta0.5TiZr alloy. Both calculated (Calc, using Eq. (2)) and experimental (Exp) values are shown for the alloy.",
+tbl0025,/home/sai/sai-mani/articles_all/10.1016.j.msea.2011.09.033/tables/Table 5.csv,Table 5,"Vickers microhardness, H
+
+v
+, values of pure metals and the NbCrMo0.5Ta0.5TiZr alloy at room temperature. Both the calculated (Calc) and experimental (Exp) values are shown for the alloy.",
+tbl0030,/home/sai/sai-mani/articles_all/10.1016.j.msea.2011.09.033/tables/Table 6.csv,Table 6,"Compression yield strength, s
+0.2, peak stress, e
+p, and fracture strain, e
+f, of the NbCrMo0.5Ta0.5TiZr alloy at different temperatures. The strain, e
+f, rate is 10-3
+s-1.",
+tbl0035,/home/sai/sai-mani/articles_all/10.1016.j.msea.2011.09.033/tables/Table 7.csv,Table 7,Chemical composition (in at.%) by EDS/SEM of different constituents in the NbCrMo0.5Ta0.5TiZr alloy sample after 50% compression at 1473K.,

@@ -1,0 +1,2423 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0921510709002438</prism:url><dc:identifier>doi:10.1016/j.mseb.2009.05.024</dc:identifier><eid>1-s2.0-S0921510709002438</eid><prism:doi>10.1016/j.mseb.2009.05.024</prism:doi><pii>S0921-5107(09)00243-8</pii><dc:title>Microstructure, thermophysical and electrical properties in Al
+                  x
+               CoCrFeNi (0≤
+               x
+               ≤2) high-entropy alloys </dc:title><prism:publicationName>Materials Science and Engineering: B</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>09215107</prism:issn><prism:volume>163</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>184</prism:startingPage><prism:endingPage>189</prism:endingPage><prism:pageRange>184-189</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2009-07-25</prism:coverDate><prism:coverDisplayDate>25 July 2009</prism:coverDisplayDate><prism:copyright>Copyright © 2009 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Chou, Hsuan-Ping</dc:creator><dc:creator>Chang, Yee-Shyi</dc:creator><dc:creator>Chen, Swe-Kai</dc:creator><dc:creator>Yeh, Jien-Wei</dc:creator><dc:description>
+                  Al
+                        x
+                     CoCrFeNi (0≤
+                     x
+                     ≤2) alloys were prepared by an arc remelter and investigated. With increasing x, the Al
+                        x
+                     CoCrFeNi alloys change from single FCC phase to single BCC phase with a transition duplex FCC/BCC region. The weak X-ray diffraction intensities indicate severe X-ray scattering effect of lattice in these high-entropy alloys. Electrical conductivity and thermal conductivity much smaller than those of pure component metals is ascribed as due to this lattice effect. The behavior of electrical conductivity and thermal conductivity can be divided into three parts according to microstructure. Both values of electrical conductivity and thermal conductivity decrease with increasing x in single-phase regions. Values of electrical conductivity and thermal conductivity are even higher than those in the duplex phase region because of the additional scattering effect of FCC/BCC phase boundaries in the alloys. Relative contribution of electron and phonon to electrical resistivity and thermal conductivity is evaluated in this study. It is shown that both electron and phonon components are comparable in these high-entropy alloys, and their transport properties are similar to that of semi-metal.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Aluminum content</dcterms:subject><dcterms:subject>Electrical measurements</dcterms:subject><dcterms:subject>Thermal properties</dcterms:subject><dcterms:subject>High-entropy alloy</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0921510709002438" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0921510709002438" rel="scidir"/></coredata><objects><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="157" height="16" size="588">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="157" height="16" size="588">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="363" height="582" size="52312">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="102" height="164" size="3720">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="372" height="929" size="68884">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="65" height="162" size="2759">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="371" height="592" size="63885">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="102" height="163" size="4362">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="384" height="307" size="22567">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="164" size="4361">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="374" height="301" size="60708">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="204" height="164" size="8232">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="356" height="563" size="38753">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="103" height="163" size="3182">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="348" height="276" size="13948">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="207" height="164" size="2592">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="370" height="258" size="15265">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="153" size="2999">https://api.elsevier.com/content/object/eid/1-s2.0-S0921510709002438-gr8.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>67650089636</scopus-id><scopus-eid>2-s2.0-67650089636</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/67650089636" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271378</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291719</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291892</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials Science and Engineering: B</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSSCIENCEENGINEERINGB</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20090613">2009-06-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20090613">2009-06-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-04-18T15:14:22</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0921510709002438</xocs:eid>
+      <xocs:pii-formatted>S0921-5107(09)00243-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0921510709002438</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.mseb.2009.05.024</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0921510709X00127</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T02:56:37.776287-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20090725</xocs:date-search-begin>
+      <xocs:year-nav>2009</xocs:year-nav>
+      <xocs:indexeddate epoch="1244851200">2009-06-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst pubtype ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0921-5107</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09215107</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>163</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>163</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 163, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>11</xocs:sort-order>
+      <xocs:first-fp>184</xocs:first-fp>
+      <xocs:last-lp>189</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>184</xocs:first-page>
+         <xocs:last-page>189</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20090725</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>25 July 2009</xocs:cover-date-text>
+      <xocs:cover-date-start>2009-07-25</xocs:cover-date-start>
+      <xocs:cover-date-year>2009</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Short communications</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2009 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>MICROSTRUCTURETHERMOPHYSICALELECTRICALPROPERTIESINALXCOCRFENI0X2HIGHENTROPYALLOYS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CHOU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>XRD</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Electrical resistivity</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Thermal conductivity</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Thermal expansion</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>RANGANATHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1404</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1406</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>299</xocs:ref-first-fp>
+            <xocs:ref-last-lp>303</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>HSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1465</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1469</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>74</xocs:ref-first-fp>
+            <xocs:ref-last-lp>78</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>TONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>881</xocs:ref-first-fp>
+            <xocs:ref-last-lp>893</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1363</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1369</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7"/>
+         <xocs:ref-info refid="bib8"/>
+         <xocs:ref-info refid="bib9"/>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>CULLITY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ELEMENTSXRAYDIFFRACTION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>KE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>669</xocs:ref-first-fp>
+            <xocs:ref-last-lp>683</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>41</xocs:ref-first-fp>
+            <xocs:ref-last-lp>46</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>KITTEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONSOLIDSTATEPHYSICS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>COTE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>102</xocs:ref-first-fp>
+            <xocs:ref-last-lp>105</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>STAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>585</xocs:ref-first-fp>
+            <xocs:ref-last-lp>622</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>CHAKRABORTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>357</xocs:ref-first-fp>
+            <xocs:ref-last-lp>372</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>PARROTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THERMALCONDUCTIVITYSOLIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>VEKILOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>524</xocs:ref-first-fp>
+            <xocs:ref-last-lp>525</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>KITAGAWA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1635</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1639</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>RUDAJEVOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>758</xocs:ref-first-fp>
+            <xocs:ref-last-lp>759</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>TAYLOR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>THERMALEXPANSIONSOLIDS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONELECTRONICIONICMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib24">
+            <xocs:ref-normalized-surname>SHIGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>340</xocs:ref-first-fp>
+            <xocs:ref-last-lp>348</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib25">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1955</xocs:ref-pub-year>
+            <xocs:ref-first-fp>184</xocs:ref-first-fp>
+            <xocs:ref-last-lp>229</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib26">
+            <xocs:ref-normalized-surname>HAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>0761011</xocs:ref-first-fp>
+            <xocs:ref-last-lp>0761013</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib27">
+            <xocs:ref-normalized-surname>CULLITY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>INTRODUCTIONMAGNETICMATERIALS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CHOUX2009X184</xocs:refkey3>
+         <xocs:refkey4lp>CHOUX2009X184X189</xocs:refkey4lp>
+         <xocs:refkey4ai>CHOUX2009X184XH</xocs:refkey4ai>
+         <xocs:refkey5>CHOUX2009X184X189XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0921-5107(09)00243-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0921510709002438</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0921510709002438</xocs:eid>
+         <xocs:doi>10.1016/j.mseb.2009.05.024</xocs:doi>
+         <xocs:cid>271378</xocs:cid>
+         <xocs:timestamp>2010-09-21T20:09:56.542458-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2009-07-25</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/MAIN/application/pdf/7ea65dedd667fb82aa15cc9b95d75da7/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/MAIN/application/pdf/7ea65dedd667fb82aa15cc9b95d75da7/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1132351</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0921510709002438-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/PREVIEW/image/png/44320c3ea4d7fa7343577374a92f743f/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/PREVIEW/image/png/44320c3ea4d7fa7343577374a92f743f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60526</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/STRIPIN/image/gif/eeac704363202319edb4ac4e2cf42f43/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/STRIPIN/image/gif/eeac704363202319edb4ac4e2cf42f43/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>588</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>157</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/STRIPIN/image/gif/eeac704363202319edb4ac4e2cf42f43/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/STRIPIN/image/gif/eeac704363202319edb4ac4e2cf42f43/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>588</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>157</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr1/DOWNSAMPLED/image/jpeg/a7404766a042acadf10398327b02d8cd/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr1/DOWNSAMPLED/image/jpeg/a7404766a042acadf10398327b02d8cd/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>52312</xocs:filesize>
+               <xocs:pixel-height>582</xocs:pixel-height>
+               <xocs:pixel-width>363</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr1/THUMBNAIL/image/gif/ee86989e5c17a4acd2d9adfd5d6401a1/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr1/THUMBNAIL/image/gif/ee86989e5c17a4acd2d9adfd5d6401a1/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3720</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>102</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr2/DOWNSAMPLED/image/jpeg/ebbb76d83a184da23edb57d5619f79dd/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr2/DOWNSAMPLED/image/jpeg/ebbb76d83a184da23edb57d5619f79dd/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68884</xocs:filesize>
+               <xocs:pixel-height>929</xocs:pixel-height>
+               <xocs:pixel-width>372</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr2/THUMBNAIL/image/gif/5ee0cb81a7b54ff5031d141be17d489f/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr2/THUMBNAIL/image/gif/5ee0cb81a7b54ff5031d141be17d489f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2759</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>65</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr3/DOWNSAMPLED/image/jpeg/40af8074e2287ead5eae67226ae8a601/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr3/DOWNSAMPLED/image/jpeg/40af8074e2287ead5eae67226ae8a601/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>63885</xocs:filesize>
+               <xocs:pixel-height>592</xocs:pixel-height>
+               <xocs:pixel-width>371</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr3/THUMBNAIL/image/gif/2db26238426a18e8890af45214cd3eee/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr3/THUMBNAIL/image/gif/2db26238426a18e8890af45214cd3eee/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4362</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>102</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr4/DOWNSAMPLED/image/jpeg/7fcb0b0e805731573dd25ea2e640de0f/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr4/DOWNSAMPLED/image/jpeg/7fcb0b0e805731573dd25ea2e640de0f/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22567</xocs:filesize>
+               <xocs:pixel-height>307</xocs:pixel-height>
+               <xocs:pixel-width>384</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr4/THUMBNAIL/image/gif/3c4c94d28081d03360b1454fb832a4a4/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr4/THUMBNAIL/image/gif/3c4c94d28081d03360b1454fb832a4a4/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4361</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr5/DOWNSAMPLED/image/jpeg/13a83f085b22392a42c210bc7f8f374e/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr5/DOWNSAMPLED/image/jpeg/13a83f085b22392a42c210bc7f8f374e/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>60708</xocs:filesize>
+               <xocs:pixel-height>301</xocs:pixel-height>
+               <xocs:pixel-width>374</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr5/THUMBNAIL/image/gif/64da8a494972a6f9f79c45fb23ee7a80/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr5/THUMBNAIL/image/gif/64da8a494972a6f9f79c45fb23ee7a80/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8232</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>204</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr6/DOWNSAMPLED/image/jpeg/99accf93cb4833a60cedb618cbf37998/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr6/DOWNSAMPLED/image/jpeg/99accf93cb4833a60cedb618cbf37998/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38753</xocs:filesize>
+               <xocs:pixel-height>563</xocs:pixel-height>
+               <xocs:pixel-width>356</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr6/THUMBNAIL/image/gif/7ef358e9f1d8696494d5b4459b0866d1/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr6/THUMBNAIL/image/gif/7ef358e9f1d8696494d5b4459b0866d1/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3182</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>103</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr7/DOWNSAMPLED/image/jpeg/e5affd057a48d6a3a0b9f6ad5c7536d4/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr7/DOWNSAMPLED/image/jpeg/e5affd057a48d6a3a0b9f6ad5c7536d4/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>13948</xocs:filesize>
+               <xocs:pixel-height>276</xocs:pixel-height>
+               <xocs:pixel-width>348</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr7/THUMBNAIL/image/gif/ebe0cacea6d52dde203b09f835f7f983/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr7/THUMBNAIL/image/gif/ebe0cacea6d52dde203b09f835f7f983/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2592</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>207</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr8/DOWNSAMPLED/image/jpeg/5e64b9f3e15af9a3569f146e774195ce/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr8/DOWNSAMPLED/image/jpeg/5e64b9f3e15af9a3569f146e774195ce/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15265</xocs:filesize>
+               <xocs:pixel-height>258</xocs:pixel-height>
+               <xocs:pixel-width>370</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0921510709002438-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0921510709002438/gr8/THUMBNAIL/image/gif/4a5397afc853226a6b0b810f8e9fc59e/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0921510709002438/gr8/THUMBNAIL/image/gif/4a5397afc853226a6b0b810f8e9fc59e/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2999</xocs:filesize>
+               <xocs:pixel-height>153</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" xml:lang="en" docsubtype="sco">
+         <item-info>
+            <jid>MSB</jid>
+            <aid>12091</aid>
+            <ce:pii>S0921-5107(09)00243-8</ce:pii>
+            <ce:doi>10.1016/j.mseb.2009.05.024</ce:doi>
+            <ce:copyright type="full-transfer" year="2009">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">XRD patterns for Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys. (a) All alloys, and (b) main peak in single-phase alloys, i.e. (1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>1) for FCC and (1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>0) for BCC, are shown. The shaded area in H-0 in (b) indicates how the relative intensity in the XRD peaks is calculated.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Diagrams for (a) electrical resistivity at temperatures in 300–400<ce:hsp sp="0.25"/>K, (b) electrical resistivity at temperatures in 4–400<ce:hsp sp="0.25"/>K, and (c) electrical conductivity vs. <ce:italic>x</ce:italic> in Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Diagrams for curves of thermal conductivity as a function of temperature (a), and as a function of <ce:italic>x</ce:italic> in Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys (b), respectively.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Lorenz numbers for Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys vs. temperature.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of thermal expansion coefficient with temperature of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys. The maximum and minimum values are shown at the upper left-hand side of each curve, and the Curie temperature is shown in the gray region. Note that there is another “valley” for H-0.875 and H-1 in the figure. The interval in CTE coordinate is 15<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−6</ce:sup>
+                     <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup>.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="fig6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">(a) DTA curves of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys for <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.75, 0.875, and 1. (b) HTXRD patterns for Al<ce:inf loc="post">0.875</ce:inf>CoCrFeNi alloy at temperatures from 773<ce:hsp sp="0.25"/>K to 973<ce:hsp sp="0.25"/>K, showing the presence of another phase, σ<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>NiCoCr, except α and γ solid solution phases at temperature 923<ce:hsp sp="0.25"/>K and 973<ce:hsp sp="0.25"/>K, and indicating precipitation of σ at temperature equal to or higher than 873<ce:hsp sp="0.25"/>K.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="fig7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Monotonic decrease in coefficient of thermal-expansion (CTE in 10<ce:sup loc="post">−6</ce:sup>
+                     <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup>) vs. <ce:italic>x</ce:italic> in Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys. Note that slope of CTE in FCC structure is higher than that of in BCC structure.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="fig8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Curve for Curie temperature and molecular field vs. <ce:italic>x</ce:italic> in Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys. The results are obtained from analysis of CTE and XRD data.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Crystal structure, lattice constant <ce:italic>a</ce:italic>, weight fraction %, and XRD intensity of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys. Relative XRD intensity is area ratio of (1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>1) peak of FCC phase, to (1<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>0) peak of BCC phase.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">H-<italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Structure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>a</italic> (Å)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Weight fraction (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Intensity ratio</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">FCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.580</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">FCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.592</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.64</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.375</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">FCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.596</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.58</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left">H-0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">FCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.601</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">82.41</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.899</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5" align="left">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left">H-0.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">FCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.605</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">73.68</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.876</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">26.32</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5" align="left">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left">H-0.875</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">FCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.613</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">43.98</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.879</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">56.02</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5" align="left">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1" align="left">H-1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">FCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.611</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.61</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.884</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">84.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5" align="left">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-1.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.873</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-1.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.885</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.70</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">BCC</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.894</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.28</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Electron and phonon contributions to thermal conductivity.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">H-<italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>κ</italic>
+                           <inf loc="post">e</inf> (W/m<hsp sp="0.25"/>K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>κ</italic>
+                           <inf loc="post">ph</inf> (W/m<hsp sp="0.25"/>K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>κ</italic>
+                           <inf loc="post">ph</inf>/<italic>κ</italic>
+                           <inf loc="post">e</inf>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">6.9–8.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">4.7–5.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">0.68–0.64</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">5.5–7.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">5.7–7.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">1.04–0.99</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.375</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">4.9–6.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">5.6–7.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">1.14–1.13</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">4.6–6.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">5.8–7.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">1.26–1.20</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">4.5–5.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">6.0–7.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">1.33–1.19</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.875</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">4.3–5.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">6.4–6.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">1.49–1.18</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">4.5–5.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">6.5–7.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">1.44–1.25</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-1.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">5.6–7.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">14.6–15.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">2.61–2.12</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-1.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">5.0–6.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">14.3–14.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">2.66–2.20</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">4.7–6.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">11.0–12.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="–">2.34–2.00</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Carrier concentration <ce:italic>n</ce:italic>
+                     <ce:inf loc="post">e</ce:inf>, resistivity <ce:italic>ρ</ce:italic>, and contribution for thermal conduction <ce:italic>κ</ce:italic> for different materials.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Material</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>n</italic>
+                           <inf loc="post">e</inf> (cm<sup loc="post">−3</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">
+                           <italic>ρ</italic> (μΩ<hsp sp="0.25"/>cm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Contribution of <italic>κ</italic>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Metal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10<sup loc="post">22</sup>–10<sup loc="post">23</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1–10<sup loc="post">2</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">κ<inf loc="post">e</inf>
+                           <hsp sp="0.25"/>≫<hsp sp="0.25"/>κ<inf loc="post">ph</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Semi-metal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10<sup loc="post">17</sup>–10<sup loc="post">21</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10<sup loc="post">1</sup>–10<sup loc="post">2</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">κ<inf loc="post">e</inf>
+                           <hsp sp="0.25"/>≒<hsp sp="0.25"/>κ<inf loc="post">ph</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Semiconductor</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10<sup loc="post">13</sup>–10<sup loc="post">16</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10<sup loc="post">4</sup>–10<sup loc="post">15</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">κ<inf loc="post">e</inf>
+                           <hsp sp="0.25"/>≪<hsp sp="0.25"/>κ<inf loc="post">ph</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Insulator</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">&lt;10<sup loc="post">13</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">&gt;10<sup loc="post">20</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">κ<inf loc="post">ph</inf>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Al<inf loc="post">
+                              <italic>x</italic>
+                           </inf>CoCrFeNi</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10<sup loc="post">19</sup>–10<sup loc="post">21</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10<sup loc="post">2</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">κ<inf loc="post">e</inf>
+                           <hsp sp="0.25"/>≒<hsp sp="0.25"/>κ<inf loc="post">ph</inf>
+                        </entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl4" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Data collection for coefficient of thermal expansion (10<ce:sup loc="post">−6</ce:sup>
+                     <ce:hsp sp="0.25"/>K<ce:sup loc="post">−1</ce:sup>) and Curie temperature <ce:italic>T</ce:italic>
+                     <ce:inf loc="post">c</ce:inf> (K) for metals Al, Fe and Ni <ce:cross-ref refid="bib21">[21]</ce:cross-ref>, and Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col4" rowsep="1" align="left">CTE (10<sup loc="post">−6</sup>
+                           <hsp sp="0.25"/>K<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <italic>T</italic>
+                           <inf loc="post">c</inf> (K)</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">293–303<hsp sp="0.25"/>K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">368–378<hsp sp="0.25"/>K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">423–773<hsp sp="0.25"/>K</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1"/>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Al</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">23.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">24.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Fe</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1043</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Ni</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">627</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.09</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">844.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.74</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.73</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">864.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.375</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">868.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.99</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">837.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.17</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.41</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">787.8</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-0.875</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.94</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.92</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">781.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.03</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.47</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">844.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-1.25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.97</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.97</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">847.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-1.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.95</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.88</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">856.4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">H-2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8.84</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.71</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12.85</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">869.2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead>
+               <ce:textfn>Short communication</ce:textfn>
+            </ce:dochead>
+            <ce:title>Microstructure, thermophysical and electrical properties in Al<ce:inf loc="post">
+                  <ce:italic>x</ce:italic>
+               </ce:inf>CoCrFeNi (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+               <ce:italic>x</ce:italic>
+               <ce:hsp sp="0.25"/>≤2) high-entropy alloys</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Hsuan-Ping</ce:given-name>
+                  <ce:surname>Chou</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Yee-Shyi</ce:given-name>
+                  <ce:surname>Chang</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Swe-Kai</ce:given-name>
+                  <ce:surname>Chen</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jien-Wei</ce:given-name>
+                  <ce:surname>Yeh</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Materials Science and Engineering, National Tsing Hua University, Hsinchu 30013, Taiwan</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Center for Nanotechnology, Materials Science, and Microsystems, National Tsing Hua University, Hsinchu 30013, Taiwan</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +886 3 574 2569.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="8" month="9" year="2008"/>
+            <ce:date-revised day="25" month="3" year="2009"/>
+            <ce:date-accepted day="24" month="5" year="2009"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                     <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>≤2) alloys were prepared by an arc remelter and investigated. With increasing <ce:italic>x</ce:italic>, the Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys change from single FCC phase to single BCC phase with a transition duplex FCC/BCC region. The weak X-ray diffraction intensities indicate severe X-ray scattering effect of lattice in these high-entropy alloys. Electrical conductivity and thermal conductivity much smaller than those of pure component metals is ascribed as due to this lattice effect. The behavior of electrical conductivity and thermal conductivity can be divided into three parts according to microstructure. Both values of electrical conductivity and thermal conductivity decrease with increasing <ce:italic>x</ce:italic> in single-phase regions. Values of electrical conductivity and thermal conductivity are even higher than those in the duplex phase region because of the additional scattering effect of FCC/BCC phase boundaries in the alloys. Relative contribution of electron and phonon to electrical resistivity and thermal conductivity is evaluated in this study. It is shown that both electron and phonon components are comparable in these high-entropy alloys, and their transport properties are similar to that of semi-metal.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Aluminum content</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Electrical measurements</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Thermal properties</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>High-entropy alloy</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">High-entropy alloy is a new alloy design that was invented by Yeh et al. <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs> in 1995. High-entropy alloy generally contains 5–13 major elements whose concentration is between 5 and 35<ce:hsp sp="0.25"/>at.%. Studies have shown that high-entropy alloy has novel properties compared to conventional alloys <ce:cross-refs refid="bib2 bib3 bib4 bib5 bib6">[2–6]</ce:cross-refs>. These properties include good thermal stability, easier to form nano-scale precipitation, high hardness, and superior resistance to wear, corrosion and oxidation. High-entropy alloy possesses simple crystal structure with solid solution of multiple elements. Previous works show that Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys change from FCC to BCC and the hardness increases from Hv 120 to Hv 520 as <ce:italic>x</ce:italic> increases <ce:cross-ref refid="bib7">[7]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Although a large number of studies have been done on microstructure and mechanical properties, there are few studies regarding the thermal and electrical properties of the high-entropy alloys <ce:cross-refs refid="bib7 bib8 bib9">[7–9]</ce:cross-refs>. Therefore in this study electrical resistivity and thermal conductivity of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys are investigated. Results are discussed in terms of Al content, temperature, and microstructure. It shows that Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys easily form simple phase. The electrical resistivity of Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi alloys is principally controlled by electron–electron interaction, magnetic effect, and phonon at temperatures in 4–300<ce:hsp sp="0.25"/>K, and solely by phonon at temperatures in 300–400<ce:hsp sp="0.25"/>K. The phonon contribution to thermal conductivity actually is comparable with the electronic contribution. The ratio of phonon to electronic contribution ranges from 0.64 to 2.66 as <ce:italic>x</ce:italic> increases. Thermal expansion measurements show invar-type thermal expansion anomaly indicting that the alloys are of ferromagnetic with Curie temperatures ranging from 781.2<ce:hsp sp="0.25"/>K to 869.2<ce:hsp sp="0.25"/>K.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Experimental procedure</ce:section-title>
+                  <ce:para view="all">Al, Co, Cr, Fe, and Ni with purity larger than 99.5% are used. A total of 40–50<ce:hsp sp="0.25"/>g materials were used to prepared Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi (0<ce:hsp sp="0.25"/>
+                     <ce:bold>≤</ce:bold>
+                     <ce:hsp sp="0.25"/>
+                     <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>
+                     <ce:bold>≤</ce:bold>
+                     <ce:hsp sp="0.25"/>2) alloys by vacuum arc-smelter. After the alloys were re-melted, they were turned over to melt at least three times to insure that the alloys were well mixed. As-cast alloys were heated with a rate of 10<ce:hsp sp="0.25"/>°C/min to 1100<ce:hsp sp="0.25"/>°C and stayed for 24<ce:hsp sp="0.25"/>h. Then the samples were water quenched.</ce:para>
+                  <ce:para view="all">The crystal structure was identified by RIGAKU ME510-FM2 X-ray diffractometer. The 1.5405<ce:hsp sp="0.25"/>Å Cu target was used, and the working voltage and current were 30<ce:hsp sp="0.25"/>kV and 20<ce:hsp sp="0.25"/>mA, respectively. The scanning rate was 4°<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>, and the 2<ce:italic>θ</ce:italic> scanning range was 20–100°. Lattice parameter, <ce:italic>a</ce:italic>
+                     <ce:inf loc="post">o</ce:inf>, for each <ce:italic>x</ce:italic>-alloy in Al<ce:inf loc="post">
+                        <ce:italic>x</ce:italic>
+                     </ce:inf>CoCrFeNi (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                     <ce:italic>x</ce:italic>
+                     <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>2) is obtained by using <ce:italic>a</ce:italic>(<ce:italic>θ</ce:italic>)<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                     <ce:italic>a</ce:italic>
+                     <ce:inf loc="post">o</ce:inf> (1<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>
+                     <ce:italic>K<ce:hsp sp="0.25"/>
+                     </ce:italic>cos<ce:sup loc="post">2</ce:sup>
+                     <ce:italic>
+                        <ce:hsp sp="0.25"/>θ</ce:italic>/sin<ce:italic>
+                        <ce:hsp sp="0.25"/>θ</ce:italic>) in the <ce:italic>a</ce:italic>(<ce:italic>θ</ce:italic>) plot <ce:cross-ref refid="bib10">[10]</ce:cross-ref>. High-temperature XRD (HTXRD) at an interval of 50<ce:hsp sp="0.25"/>°C from 500<ce:hsp sp="0.25"/>°C to 700<ce:hsp sp="0.25"/>°C was performed with a heating rate of 20<ce:hsp sp="0.25"/>°C/min and a holding time for 1/2<ce:hsp sp="0.25"/>h at testing temperature before examination. Test pieces were compacted filing powders of 0.4<ce:hsp sp="0.25"/>mm thick, and were vacuum-annealed under 10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>torr at 500<ce:hsp sp="0.25"/>°C for 5<ce:hsp sp="0.25"/>h before HTXRD.</ce:para>
+                  <ce:para view="all">Four-point probe method was used to measure the electrical resistance (<ce:italic>R</ce:italic>). Platinum wires with radius of 0.05<ce:hsp sp="0.25"/>mm were connected to the samples by Indium. The heating rate was 10<ce:hsp sp="0.25"/>K/min, and the electrical resistance was measured from 300<ce:hsp sp="0.25"/>K to 400<ce:hsp sp="0.25"/>K. The error is estimated to ±3%.</ce:para>
+                  <ce:para view="all">The alloy density was determined by the Archimedes method. A differential scanning calorimeter (DSC) was used to measure variation of heat capacity with temperature. Thermal diffusivity was measured by means of the laser flash method from 298<ce:hsp sp="0.25"/>K to 573<ce:hsp sp="0.25"/>K. Accuracy is within ±0.8%. The samples were prepared in disk with diameter of 12.7<ce:hsp sp="0.25"/>mm and thickness of 2<ce:hsp sp="0.25"/>mm.</ce:para>
+                  <ce:para view="all">As-surface polished samples for measurement of thermal expansion coefficient are of 4<ce:hsp sp="0.25"/>mm in diameter, and 4<ce:hsp sp="0.25"/>mm in thickness, and with good surface finish. Measurements were carried out in Du Pont TMA 2940 with 10<ce:hsp sp="0.25"/>°C/min of heating from 25<ce:hsp sp="0.25"/>°C to 800<ce:hsp sp="0.25"/>°C and under 400<ce:hsp sp="0.25"/>sccm of Ar flow. Pyris Diamond TG/DTA of the Perkin-Elmer Instruments was used to examine phase change of samples of 20–50<ce:hsp sp="0.25"/>mg in an Al<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">3</ce:inf> crucible at temperatures from 25<ce:hsp sp="0.25"/>°C to 900<ce:hsp sp="0.25"/>°C at a rate of heating of 10<ce:hsp sp="0.25"/>°C/min and under 400<ce:hsp sp="0.25"/>sccm of Ar flow.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>XRD</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/> shows XRD patterns of Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi alloys. It indicates that alloys are single-FCC, duplex FCC/BCC, and single-BCC for 0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>0.375, 0.5<ce:hsp sp="0.25"/>
+                        <ce:bold>≤</ce:bold>
+                        <ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>
+                        <ce:bold>≤</ce:bold>
+                        <ce:hsp sp="0.25"/>1, and 1.25<ce:hsp sp="0.25"/>
+                        <ce:bold>≤</ce:bold>
+                        <ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>
+                        <ce:bold>≤</ce:bold>
+                        <ce:hsp sp="0.25"/>2, respectively. Al is also a BCC stabilizer in Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi alloys as well as in <mml:math altimg="si1.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mtext>A</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>l</mml:mtext>
+                                 <mml:mi>x</mml:mi>
+                              </mml:msub>
+                              <mml:mtext>C</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>o</mml:mtext>
+                                 <mml:mi>y</mml:mi>
+                              </mml:msub>
+                              <mml:mtext>C</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>r</mml:mtext>
+                                 <mml:mi>z</mml:mi>
+                              </mml:msub>
+                              <mml:mtext>C</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>u</mml:mtext>
+                                 <mml:mrow>
+                                    <mml:mn>0.5</mml:mn>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mtext>F</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>e</mml:mtext>
+                                 <mml:mi>v</mml:mi>
+                              </mml:msub>
+                              <mml:mtext>N</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>i</mml:mtext>
+                                 <mml:mi>w</mml:mi>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> alloys <ce:cross-ref refid="bib11">[11]</ce:cross-ref>. However, in the presence of Cu in <mml:math altimg="si2.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mtext>A</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>l</mml:mtext>
+                                 <mml:mi>x</mml:mi>
+                              </mml:msub>
+                              <mml:mtext>C</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>o</mml:mtext>
+                                 <mml:mi>y</mml:mi>
+                              </mml:msub>
+                              <mml:mtext>C</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>r</mml:mtext>
+                                 <mml:mi>z</mml:mi>
+                              </mml:msub>
+                              <mml:mtext>C</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>u</mml:mtext>
+                                 <mml:mrow>
+                                    <mml:mn>0.5</mml:mn>
+                                 </mml:mrow>
+                              </mml:msub>
+                              <mml:mtext>F</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>e</mml:mtext>
+                                 <mml:mi>v</mml:mi>
+                              </mml:msub>
+                              <mml:mtext>N</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>i</mml:mtext>
+                                 <mml:mi>w</mml:mi>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> alloys segregation of Cu is generally observed. Therefore we omit the Cu addition in this study. <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/> tabulates crystal structures, lattice parameters, weight fractions of FCC and BCC phases in duplex region and relative XRD intensity in both single-FCC and single-BCC regions. It is seen that only FCC and/or BCC are present, whether in single-phase or in duplex-phase form, in Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi alloys. Both lattice parameters in single-phase regions increase with increase in <ce:italic>x</ce:italic>, as well as those in duplex region, which increase roughly with <ce:italic>x</ce:italic>, while the relative XRD intensity in both single-phase regions decreases with <ce:italic>x</ce:italic>. The relative XRD intensity in both single-phase regions decreases with <ce:italic>x</ce:italic> tells one that the X-ray diffusive scattering effect increases with increasing Al addition in both single-phase regions (see <ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>(b)). The diffusive scattering effect is explained due to larger lattice distortion caused by larger amount of larger atomic size (1.43<ce:hsp sp="0.25"/>Å in radius) of Al into the lattice of smaller atoms (about 1.25<ce:hsp sp="0.25"/>Å in radius for other atoms). The phenomenon also presents in Cu–Ni–Al–Co–Cr–Fe–Si alloy system, as alloys in this system increase their component from binary to 7-component due to the difference from addition of different atoms that causes lattice distortion the degree of diffuse of X-ray scattering increases and the intensities decrease significantly <ce:cross-ref refid="bib12">[12]</ce:cross-ref>. This effect is considered important in explaining the behavior of both thermal and electrical conductivity that will discuss below.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Electrical resistivity</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>(a) is a plot of electrical resistivity as a function of temperature. It is seen in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(a), the electrical resistivity is approximately a linear function of temperature with a positive slope in the temperature range of 298–400<ce:hsp sp="0.25"/>K. This indicates that the electrical resistivity of the alloys is principally affected by phonon and the temperature range is above the Debye temperature of the alloys from the conventional theory of electrical resistivity <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(c) shows the electrical conductivity as a function of composition <ce:italic>x</ce:italic> in Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi. The electrical conductivity <ce:italic>σ</ce:italic> for Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi can be divided in three parts according to microstructure of the alloys. As discussed in previous section the microstructure has three regions, single-FCC in 0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>0.375, single-BCC in 1.25<ce:hsp sp="0.25"/>
+                        <ce:bold>≤</ce:bold>
+                        <ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>
+                        <ce:bold>≤</ce:bold>2, and duplex FCC–BCC in 0.5<ce:hsp sp="0.25"/>
+                        <ce:bold>≤</ce:bold>
+                        <ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>
+                        <ce:bold>≤</ce:bold>
+                        <ce:hsp sp="0.25"/>1. The electrical conductivity decreases with increasing <ce:italic>x</ce:italic> in single-phase regions, while it has a minimum at <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.875 in the duplex phase region. The electrical conductivity in the duplex phase region is smaller than that in the single-phase region.</ce:para>
+                     <ce:para view="all">Electrical resistivity of materials is generally controlled by various factors such as temperature and composition <ce:cross-refs refid="bib14 bib15 bib16">[14–16]</ce:cross-refs>. For alloys at temperatures lower than the Debye temperature where thermal effect is low, electrical resistivity is influenced by electron–electron interaction (<ce:italic>T</ce:italic>
+                        <ce:sup loc="post">1/2</ce:sup>), magnetic effect (<ce:italic>T</ce:italic>
+                        <ce:sup loc="post">2</ce:sup>), and phonon (<ce:italic>T</ce:italic>
+                        <ce:sup loc="post">3</ce:sup>). At temperature very near absolute zero temperature a Kondo-type term, ln<ce:hsp sp="0.25"/>
+                        <ce:italic>T</ce:italic>, may appear in the expression of electrical resistivity for dilute magnetic atoms in nonmagnetic alloys <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. At intermediate temperatures, e.g., 100–200<ce:hsp sp="0.25"/>K, <ce:italic>T</ce:italic> and <ce:italic>T</ce:italic>
+                        <ce:sup loc="post">2</ce:sup> may contribute to electrical resistivity. At temperatures higher than the Debye temperature where thermal effect is significant, electrical resistivity is proportional to temperature <ce:italic>T</ce:italic>, and electrical resistivity <ce:italic>ρ</ce:italic> may be written as <ce:italic>ρ</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>ρ</ce:italic>
+                        <ce:inf loc="post">o</ce:inf>
+                        <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>
+                        <ce:italic>cT</ce:italic> 
+                        <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>(b) shows electrical resistivity at temperatures in 4–400<ce:hsp sp="0.25"/>K for Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi (<ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1, 1.5 and 2) alloys. Because of uncontrollable experimental reasons there is deviation for data at 300<ce:hsp sp="0.25"/>K. However, we still can see the effect of temperature on the electrical resistivity. It is concluded that electrical resistivity of Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi (<ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0–2) alloys is principally controlled by electron–electron interaction (<ce:italic>T</ce:italic>
+                        <ce:sup loc="post">1/2</ce:sup>), magnetic effect (<ce:italic>T</ce:italic>
+                        <ce:sup loc="post">2</ce:sup>), and phonon (<ce:italic>T</ce:italic>
+                        <ce:sup loc="post">3</ce:sup>) at temperatures in 4–300<ce:hsp sp="0.25"/>K, and by phonon (<ce:italic>T</ce:italic>) at temperatures in 300–400<ce:hsp sp="0.25"/>K.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Thermal conductivity</ce:section-title>
+                     <ce:para view="all">This part of study aims to understand the thermal conductivity <ce:italic>κ</ce:italic>(<ce:italic>T</ce:italic>) of Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>2) alloys. The relation between <ce:italic>κ</ce:italic>(<ce:italic>T</ce:italic>) and <ce:italic>T</ce:italic> is first discussed. Then the Wiedemann–Franz law is applied to examine the phonon to electronic contribution to thermal conductivity.</ce:para>
+                     <ce:para view="all">Thermal conductivity <ce:italic>κ</ce:italic>(<ce:italic>T</ce:italic>) is generally obtained from measurements of thermal diffusion coefficient <ce:italic>α</ce:italic>(<ce:italic>T</ce:italic>), specific heat <ce:italic>S</ce:italic>(<ce:italic>T</ce:italic>), and density <ce:italic>ρ</ce:italic>(<ce:italic>T</ce:italic>) of a material at a temperature <ce:italic>T</ce:italic>, and then calculated according to equation <ce:italic>κ</ce:italic>(<ce:italic>T</ce:italic>)<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>α</ce:italic>(<ce:italic>T</ce:italic>)<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>
+                        <ce:italic>S</ce:italic>(<ce:italic>T</ce:italic>)<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>
+                        <ce:italic>ρ</ce:italic>(<ce:italic>T</ce:italic>) <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. It is a measure of thermal conducting capability of a material. <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(a)<ce:float-anchor refid="fig3"/> shows thermal conductivity of alloys in this study as a function of temperature. It is seen that <ce:italic>κ</ce:italic>(<ce:italic>T</ce:italic>) for Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>2) alloys increases with temperature, contrary to that of pure metal. For pure metals the collision frequency of electrons with phonons of lattices increases with temperature, enabling a shorter mean free path, and a decrease in thermal conductivity. Due to a smaller carrier concentration (10<ce:sup loc="post">19</ce:sup>–10<ce:sup loc="post">21</ce:sup>
+                        <ce:hsp sp="0.25"/>cm<ce:sup loc="post">−3</ce:sup> in temperature range of 4–300<ce:hsp sp="0.25"/>K), carrier concentration decreasing with temperature <ce:cross-ref refid="bib7">[7]</ce:cross-ref> and lattice distortion effect that making a low sensitivity of phonon concentration with respect to temperature as well as a larger linear thermal expansion in these alloys, the mean free path of electrons increases with temperature. This explains why <ce:italic>κ</ce:italic>(<ce:italic>T</ce:italic>) for Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                        <ce:italic>x</ce:italic>
+                        <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>2) alloys increases with temperature in <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(a). <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>(b) shows thermal conductivity of alloys as a function of <ce:italic>x</ce:italic>. At a specific <ce:italic>T</ce:italic>, <ce:italic>κ</ce:italic>(<ce:italic>x</ce:italic>) decreases with <ce:italic>x</ce:italic> in each single-phase region for both FCC and BCC regions, and <ce:italic>κ</ce:italic>(BCC) is greater than <ce:italic>κ</ce:italic>(FCC). Thermal conductivity in the FCC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>BCC duplex region, <ce:italic>κ</ce:italic>(FCC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>BCC) is the lowest for each specific <ce:italic>T</ce:italic>. This phenomenon is easily understood. Since in each single-phase region, and the larger scattering effect for larger lattice distortion due to Al addition evidenced from the above-mentioned XRD patterns, therefore <ce:italic>κ</ce:italic>(<ce:italic>x</ce:italic>) decreases with <ce:italic>x</ce:italic> in each single-phase region for both FCC and BCC regions at a specific <ce:italic>T</ce:italic>. The BCC structure possesses more open space (32%) than the FCC structure does (26%) as well as a higher Young's modulus <ce:italic>E</ce:italic>, and a higher phonon velocity, <ce:italic>υ</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>(<ce:italic>E</ce:italic>/<ce:italic>ρ</ce:italic>)<ce:sup loc="post">1/2</ce:sup>, <ce:italic>κ</ce:italic>(BCC) is greater than <ce:italic>κ</ce:italic>(FCC) accordingly. Because there exists a more interface boundary in duplex-phase region than in single-phase region, the thermal conductivity in the FCC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>BCC duplex region, <ce:italic>κ</ce:italic>(FCC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>BCC), is the lowest for each specific <ce:italic>T</ce:italic>.</ce:para>
+                     <ce:para view="all">In pure metals thermal conductivity is mainly from electronic contribution at all temperatures. At not too low temperatures according to the Wiedemann–Franz law (WF law), <ce:italic>κ</ce:italic>/<ce:italic>σ</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>LT</ce:italic>, the ratio of thermal conductivity to electrical conductivity is directly proportional to temperature, with the value <ce:italic>L</ce:italic> of the constant of proportionality independent of the particular metal <ce:cross-refs refid="bib13 bib18">[13,18]</ce:cross-refs>. In impure or disordered alloys such as alloys in this study, electron mean free path is reduced by collision with impurities, and the phonon contribution may be comparable with the electronic contribution <ce:cross-ref refid="bib13">[13]</ce:cross-ref>. In this case, the <ce:italic>κ</ce:italic> term is divided in two parts, <ce:italic>κ</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">e</ce:inf>
+                        <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>
+                        <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>, where <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">e</ce:inf> is the electronic part and <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf> is the phonon part <ce:cross-refs refid="bib19 bib20">[19,20]</ce:cross-refs>. Therefore, the value of <ce:italic>L</ce:italic> (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/>) may be written as <ce:italic>L</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">e</ce:inf>
+                        <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>
+                        <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>, where <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">e</ce:inf> is the proportionality contributed by electrons, <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf> that by phonons, and <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">e</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">o</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>2.45<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−8</ce:sup>
+                        <ce:hsp sp="0.25"/>W<ce:hsp sp="0.25"/>Ω/K<ce:sup loc="post">2</ce:sup>, the Lorenz number. If we rewrite WF law as <ce:italic>κ</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">e</ce:inf>
+                        <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>
+                        <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>LσT</ce:italic>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>(<ce:italic>L</ce:italic>
+                        <ce:inf loc="post">o</ce:inf>
+                        <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>
+                        <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>)<ce:italic>σT</ce:italic>, we may use this equation and from related experimental data to calculate <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">e</ce:inf> and <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf> from <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">e</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">o</ce:inf>
+                        <ce:italic>σT</ce:italic> and <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>L</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>
+                        <ce:italic>σT</ce:italic>, respectively. The results of calculation are listed in <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>. <ce:cross-ref refid="tbl2">Table 2</ce:cross-ref> indicates that the phonon contribution to thermal conductivity, <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>, is actually comparable with the electronic contribution, <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">e</ce:inf>. The ratio of <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>/<ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">e</ce:inf> ranges from 0.64 to 2.66 for Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi alloys in this study. <ce:cross-ref refid="tbl3">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="tbl3"/> lists the carrier concentration, resistivity, and comparison of <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">e</ce:inf> with <ce:italic>κ</ce:italic>
+                        <ce:inf loc="post">ph</ce:inf>, for various materials. It shows that Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi alloys are of semi-metals.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title>Thermal expansion</ce:section-title>
+                     <ce:para view="all">The coefficient of thermal expansion (CTE) of as-homogenized Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi alloys decreases with <ce:italic>x</ce:italic> (<ce:cross-ref refid="tbl4">Table 4</ce:cross-ref>
+                        <ce:float-anchor refid="tbl4"/>). According to the theory of thermal expansion, in lowest order the thermal expansion 〈<ce:italic>d</ce:italic>〉 can be written as 〈<ce:italic>d</ce:italic>〉<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>(3<ce:italic>g</ce:italic>/4<ce:italic>c</ce:italic>
+                        <ce:sup loc="post">2</ce:sup>)<ce:italic>k</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>B</ce:italic>
+                        </ce:inf>
+                        <ce:italic>T</ce:italic> under a potential energy of a form <ce:italic>U</ce:italic>(<ce:italic>d</ce:italic>)<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>cd</ce:italic>
+                        <ce:sup loc="post">2</ce:sup>
+                        <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>
+                        <ce:italic>gd</ce:italic>
+                        <ce:sup loc="post">3</ce:sup>, where <ce:italic>d</ce:italic> is a displacement equilibrium separation for atoms at absolute zero, and <ce:italic>c</ce:italic> and <ce:italic>g</ce:italic> are positive <ce:cross-ref refid="bib22">[22]</ce:cross-ref>. Therefore the thermal expansion coefficient of as-homogenized Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi alloys decreases with <ce:italic>x</ce:italic> means that (3<ce:italic>g</ce:italic>/4<ce:italic>c</ce:italic>
+                        <ce:sup loc="post">2</ce:sup>) decreases with <ce:italic>x</ce:italic> in alloys. <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="fig5"/> shows variation of thermal expansion of as-homogenized Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi alloys with temperature in the range of 423–1073<ce:hsp sp="0.25"/>K. In this figure except curves for H-0.875 and H-1 that have two minima, i.e., 781.2<ce:hsp sp="0.25"/>K and 940<ce:hsp sp="0.25"/>K, and 844.1<ce:hsp sp="0.25"/>K and 920<ce:hsp sp="0.25"/>K, respectively, all curves have only single minimum. In order to understand this anomaly in CTE we performed high-temperature XRD (HTXRD) from 773<ce:hsp sp="0.25"/>K to 973<ce:hsp sp="0.25"/>K, and DTA from 300<ce:hsp sp="0.25"/>K to about 1200<ce:hsp sp="0.25"/>K to examine in situ microstructure and to look for existence of phase transformation, respectively. <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="fig6"/> presents results of DTA (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(a)) and HTXRD (<ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(b)). For comparison simplicity in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(a), we show only two DTA tracing curves for H-0.875 and H-1 that have two minima in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>, and one DTA tracing curve for H-0.75 that has typically one minimum in <ce:cross-ref refid="fig5">Fig. 5</ce:cross-ref>. One can easily see one minimum in each DTA tracing curve for H-0.875 (930<ce:hsp sp="0.25"/>K) and H-1 (910<ce:hsp sp="0.25"/>K), while there is no such minimum for H-0.75 in the testing temperature range, indicating that H-0.875 and H-1 have phase transition in the range of testing temperatures, while H-0.75 does not. The phase transition for H-0.875 was checked by in situ XRD from 773<ce:hsp sp="0.25"/>K to 973<ce:hsp sp="0.25"/>K at an interval of 50<ce:hsp sp="0.25"/>K and is shown in <ce:cross-ref refid="fig6">Fig. 6</ce:cross-ref>(b), and is identified as precipitation of σ phase that has a NiCoCr structure and is present at temperatures higher than 873<ce:hsp sp="0.25"/>K. This temperature is lower than the transition temperature (930–940<ce:hsp sp="0.25"/>K) obtained from CTE and DTA, but is higher than the temperature (781.2<ce:hsp sp="0.25"/>K) of the first minimum in CTE curve. Since the precipitation of σ phase is a diffusion process, especially for multicomponent alloys <ce:cross-ref refid="bib23">[23]</ce:cross-ref>, its occurrence will delay during CTE and DTA measurements. It is no wonder that the transition temperature (930–940<ce:hsp sp="0.25"/>K) obtained from CTE and DTA must be higher than 873<ce:hsp sp="0.25"/>K (<ce:cross-ref refid="fig7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="fig7"/>).</ce:para>
+                     <ce:para view="all">The first minimum in CTE curves is attributed as caused by the invar-type thermal expansion anomaly, i.e., as temperature rises in addition to the normal thermal expansion due to anharmonic effects in crystals, there is an additional portion of expansion due to magnetic ordering <ce:cross-refs refid="bib24 bib25 bib26">[24–26]</ce:cross-refs>. This portion of expansion due to magnetic ordering decreases with degree of disordering as temperature increases, and vanishes at Curie or Néel temperature and higher temperatures so that there is a minimum in CTE at Curie or Néel temperature. Al<ce:inf loc="post">
+                           <ce:italic>x</ce:italic>
+                        </ce:inf>CoCrFeNi alloys are ferromagnetic <ce:cross-ref refid="bib7">[7]</ce:cross-ref>, showing the invar-type thermal expansion anomaly. The Curie temperatures obtained from the invar effect in CTE measurements show slightly increase with <ce:italic>x</ce:italic> in the FCC- and BCC-single-phase regions, while there is a minimum for Curie temperature in the duplex FCC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>BCC structure region in this study (<ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="fig8"/>). By use of the invar effect to measure this second order phase transition one can have accurate data for Curie temperature. We also estimate the corresponding molecular field of the order of 10<ce:sup loc="post">7</ce:sup>
+                        <ce:hsp sp="0.25"/>Oe shown in <ce:cross-ref refid="fig8">Fig. 8</ce:cross-ref> by assuming the magnetization of each alloy being with one Bohr magneton <ce:cross-ref refid="bib27">[27]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">
+                     <ce:list>
+                        <ce:list-item>
+                           <ce:label>1.</ce:label>
+                           <ce:para view="all">Weak X-ray diffraction intensities suggest severe X-ray scattering effect in Al<ce:inf loc="post">
+                                 <ce:italic>x</ce:italic>
+                              </ce:inf>CoCrFeNi high-entropy alloys. They also decrease with increasing aluminum content in single-phase regions because of the increasing X-ray scattering effect.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>2.</ce:label>
+                           <ce:para view="all">Electrical resistivity of Al<ce:inf loc="post">
+                                 <ce:italic>x</ce:italic>
+                              </ce:inf>CoCrFeNi alloys increases with increasing temperature, and is linearly proportional to temperature because of increasing phonon–electron effect. The electrical resistivity of temperature dependence in high-entropy alloys is similar to that of conventional alloys.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>3.</ce:label>
+                           <ce:para view="all">Thermal conductivity of Al<ce:inf loc="post">
+                                 <ce:italic>x</ce:italic>
+                              </ce:inf>CoCrFeNi alloys increases with increasing temperature. In duplex phases region, there are more barriers to carriers because of large amount of phase boundaries in the alloys, and thus conductivity is smaller than that in single-phase region. When volume fraction of FCC and BCC is equivalent, the conductivity has the minimum value.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>4.</ce:label>
+                           <ce:para view="all">Because of the severe X-ray scattering effect, electrical conductivity and thermal conductivity for Al<ce:inf loc="post">
+                                 <ce:italic>x</ce:italic>
+                              </ce:inf>CoCrFeNi alloys are much smaller than for pure metals. According to carrier concentration, electrical resistivity, and thermal conductivity, phonon content of the thermal conductivity is equivalent to electron content in high-entropy alloys, and their transport properties are similar to those of semi-metals.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>5.</ce:label>
+                           <ce:para view="all">Coefficients of thermal expansion for Al<ce:inf loc="post">
+                                 <ce:italic>x</ce:italic>
+                              </ce:inf>CoCrFeNi alloys relate closely to atomic bonding. CTEs decrease with <ce:italic>x</ce:italic> in this study.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>6.</ce:label>
+                           <ce:para view="all">Al<ce:inf loc="post">
+                                 <ce:italic>x</ce:italic>
+                              </ce:inf>CoCrFeNi alloys are ferromagnetic, showing the invar-type thermal expansion anomaly, i.e., as temperature rises in addition to the normal thermal expansion due to anharmonic effects in crystals, there is an additional portion of expansion due to magnetic ordering. This portion of expansion due to magnetic ordering decreases with degree of disordering as temperature increases, and vanishes at Curie or Néel temperature and higher temperatures so that there is a minimum in CTE at Curie or Néel temperature. The Curie temperatures obtained from the invar effect in CTE measurements show slightly increase with <ce:italic>x</ce:italic> in the FCC- and BCC-single-phase regions, while there is a minimum for Curie temperature in the duplex FCC<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>BCC structure region in this study.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgments</ce:section-title>
+               <ce:para view="all">The authors gratefully acknowledge financial support from National Science Council of Taiwan (NSC96-2221-E007-066-MY3). We also thank Dr. Yang-Chung Liao, Profs. Mow-Kuen Wu, Cheng-Chung Chi, and Chien-Nen Liao for giving help in this study.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ranganathan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Current Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1404</sb:first-page>
+                              <sb:last-page>1406</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advanced Engineering Materials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>299</sb:first-page>
+                              <sb:last-page>303</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metallurgical and Materials Transactions A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1465</sb:first-page>
+                              <sb:last-page>1469</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Advanced Engineering Materials</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>74</sb:first-page>
+                              <sb:last-page>78</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Tong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Tsau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metallurgical and Materials Transactions A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>881</sb:first-page>
+                              <sb:last-page>893</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Chuang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metallurgical and Materials Transactions A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1363</sb:first-page>
+                              <sb:last-page>1369</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>T.J. Chen, Electrical properties of simple-phase high-entropy Al<ce:inf loc="post">
+                              <ce:italic>x</ce:italic>
+                           </ce:inf>CoCrFeNi (0<ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>
+                           <ce:italic>x</ce:italic>
+                           <ce:hsp sp="0.25"/>≤<ce:hsp sp="0.25"/>2) alloys, Master thesis, Department of Material Science and Engineering, NTHU, Taiwan, 2006.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>C.A. Shieh, Effect of microstructure on electric and magnetic properties of high-entropy alloys, Master thesis, Department of Material Science and Engineering, NTHU, Taiwan, 2005.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Y.J. Chung, On XRD intensity, hardness, thermal expansion and thermal conductivity of Co–Ni–Fe–Cr–Mn (Al) alloy series, Master thesis, Department of Material Science and Engineering, NTHU, Taiwan, 2007.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.D.</ce:given-name>
+                                 <ce:surname>Cullity</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Stock</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Elements of X-ray Diffraction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>third ed.</sb:edition>
+                              <sb:date>2001</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Prentice-Hall</sb:name>
+                                 <sb:location>New Jersey, USA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.Y.</ce:given-name>
+                                 <ce:surname>Ke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Annales de Chimie-Science des Materiaux</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>669</sb:first-page>
+                              <sb:last-page>683</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.D.</ce:given-name>
+                                 <ce:surname>Hong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Materials Chemistry and Physics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>41</sb:first-page>
+                              <sb:last-page>46</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Kittel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Introduction to Solid State Physics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Wiley</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Cote</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.V.</ce:given-name>
+                                 <ce:surname>Meisel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physical Review Letters</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>102</sb:first-page>
+                              <sb:last-page>105</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.M.</ce:given-name>
+                                 <ce:surname>Star</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.B.</ce:given-name>
+                                 <ce:surname>Basters</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Nap</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>de Vroede</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>van Baarle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>585</sb:first-page>
+                              <sb:last-page>622</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chakraborty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Majumdae</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Magnetism and Magnetic Materials Transactions</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>186</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>357</sb:first-page>
+                              <sb:last-page>372</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Parrott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Stuckes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal Conductivity of Solids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1975</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Pion Ltd.</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.K.</ce:given-name>
+                                 <ce:surname>Vekilov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.I.</ce:given-name>
+                                 <ce:surname>Isaev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Johansson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physics Letters A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>352</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>524</sb:first-page>
+                              <sb:last-page>525</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kitagawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Wakatsuki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Nagaoka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Noguchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Isoda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Hasezaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Noda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Physics and Chemistry of Solids</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1635</sb:first-page>
+                              <sb:last-page>1639</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rudajevova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Vasylyev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Musil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Physica B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>378</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>758</sb:first-page>
+                              <sb:last-page>759</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Taylor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal Expansion of Solids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1998</sb:date>
+                              <sb:publisher>
+                                 <sb:name>ASM International</sb:name>
+                                 <sb:location>Metals Park, OH</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An Introduction to Electronic and Ionic Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>NJ World Scientific Publishing</sb:name>
+                                 <sb:location>Singapore</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Materials Science Forum</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>560</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Shiga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Current Opinion in Solid State &amp; Materials Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>340</sb:first-page>
+                              <sb:last-page>348</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.W.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Reports on Progress in Physics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1955</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>184</sb:first-page>
+                              <sb:last-page>229</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Journal of Applied Physics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>0761011</sb:first-page>
+                              <sb:last-page>0761013</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib27">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.D.</ce:given-name>
+                                 <ce:surname>Cullity</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Introduction to Magnetic Materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1972</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Addison-Wesley</sb:name>
+                                 <sb:location>Reading, MA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

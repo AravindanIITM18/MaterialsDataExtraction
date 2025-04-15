@@ -1,0 +1,24 @@
+No.,Constituents,"Element, at.%","Element, at.%","Element, at.%","Element, at.%","Element, at.%","Element, at.%","Volume fraction, %","Volume fraction, %"
+No.,Designation,Al,Cr,Nb,Ti,V,Zr,SEM,EBSD
+CrNbTiVZr (Al0),CrNbTiVZr (Al0),CrNbTiVZr (Al0),CrNbTiVZr (Al0),CrNbTiVZr (Al0),CrNbTiVZr (Al0),CrNbTiVZr (Al0),CrNbTiVZr (Al0),CrNbTiVZr (Al0),CrNbTiVZr (Al0)
+1,Bright phase (bcc),-,5.6,27.6,33.4,13.7,19.7,47+-2,42+-2
+2,Dark-grey phase (C15 Laves phase),-,31.8,14.7,9.5,24.0,20.0,53+-3,58+-2
+,Alloy composition,-,18.7,21.4,21.2,19.0,19.7,-,-
+,,,,,,,,,
+Al0.25CrNbTiVZr (Al0.25),Al0.25CrNbTiVZr (Al0.25),Al0.25CrNbTiVZr (Al0.25),Al0.25CrNbTiVZr (Al0.25),Al0.25CrNbTiVZr (Al0.25),Al0.25CrNbTiVZr (Al0.25),Al0.25CrNbTiVZr (Al0.25),Al0.25CrNbTiVZr (Al0.25),Al0.25CrNbTiVZr (Al0.25),Al0.25CrNbTiVZr (Al0.25)
+1,Bright phase (bcc),4.6,8.5,28.4,31.4,15.7,11.4,36+-2,33+-2
+2,Dark-grey phase (C14 ZrCrAl-type phase),6.0,28.9,14.2,10.0,20.5,20.4,51+-4,67+-2
+3,Light-grey phase (C14 ZrAl2-type phase),8.5,14.7,8.5,15.5,12.1,40.7,13+-1,67+-2
+,Alloy composition,5.7,18.4,20.1,19.8,17.4,18.6,-,-
+,,,,,,,,,
+Al0.5CrNbTiVZr (Al0.5),Al0.5CrNbTiVZr (Al0.5),Al0.5CrNbTiVZr (Al0.5),Al0.5CrNbTiVZr (Al0.5),Al0.5CrNbTiVZr (Al0.5),Al0.5CrNbTiVZr (Al0.5),Al0.5CrNbTiVZr (Al0.5),Al0.5CrNbTiVZr (Al0.5),Al0.5CrNbTiVZr (Al0.5),Al0.5CrNbTiVZr (Al0.5)
+1,Bright phase (bcc),8.2,9.0,28.7,28.8,18.4,6.9,35+-2,33+-2
+2,Dark-grey phase (C14 ZrCrAl-type phase),12.4,24.2,13.5,10.3,19.0,20.6,52+-3,67+-2
+3,Light-grey phase (C14 ZrAl2-type phase),13.9,14.3,10.0,19.7,12.2,29.9,13+-1,67+-2
+,Alloy composition,11.0,17.3,19.0,18.2,17.5,17.0,-,-
+,,,,,,,,,
+AlCrNbTiVZr (Al1),AlCrNbTiVZr (Al1),AlCrNbTiVZr (Al1),AlCrNbTiVZr (Al1),AlCrNbTiVZr (Al1),AlCrNbTiVZr (Al1),AlCrNbTiVZr (Al1),AlCrNbTiVZr (Al1),AlCrNbTiVZr (Al1),AlCrNbTiVZr (Al1)
+1,Bright phase (bcc),13.5,9.8,27.4,26.8,17.5,5.0,33+-2,33+-2
+2,Dark-grey phase (C14 ZrCrAl-type phase),19.9,22.1,12.8,9.8,15.5,19.9,53+-2,67+-2
+3,Light-grey phase (C14 ZrAl2-type phase),20.5,13.1,8.9,19.7,10.4,27.4,13+-1,67+-2
+,Alloy composition,17.6,16.4,17.4,17.0,15.7,15.9,-,-

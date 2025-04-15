@@ -1,0 +1,13 @@
+Twin-Twin,h  i j     (MPa),Experiment
+h  77   s e l f - t w,150,<111>T
+h  77   t w - t w     h  1010   t w - t w,1100,<111>T
+h  710   t w - t w    (  h  107   t w - t w   ),350,<111>T
+h  811   t w - t w    (  h  118   t w - t w   ),750,<001>C
+h  911   t w - t w    (  h  119   t w - t w   ),335,<001>C
+h  89   t w - t w    (  h  98   t w - t w   ),210,<001>C
+Slip-Twin/Twin-Slip,Slip-Twin/Twin-Slip,Slip-Twin/Twin-Slip
+h   7 '   7 '    s e l f - s,19,<122>T
+h   7 '  5   s - t w,55,<122>T
+h  57 '   t w - s,42,<122>T
+h   1 '  7   s - t w,-90,<144>T
+h  71 '   t w - s,-25,<144>T

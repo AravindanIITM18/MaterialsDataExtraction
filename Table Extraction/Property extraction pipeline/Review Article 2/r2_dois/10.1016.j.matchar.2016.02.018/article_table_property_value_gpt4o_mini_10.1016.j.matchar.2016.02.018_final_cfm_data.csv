@@ -1,0 +1,40 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Fe0.5,-,-,Yield Strength(Compression),1659,MPa
+Fe0.5,-,-,Ultimate Tensile Strength(Compression),2240,MPa
+Fe0.5,-,-,Ductility,0.11,-
+Fe1.0,-,-,Yield Strength(Compression),1178,MPa
+Fe1.0,-,-,Ultimate Tensile Strength(Compression),1801,MPa
+Fe1.0,-,-,Ductility,0.21,-
+Fe1.5,-,-,Yield Strength(Compression),895,MPa
+Fe1.5,-,-,Ultimate Tensile Strength(Compression),1834,MPa
+Fe1.5,-,-,Ductility,0.38,-
+Fe2.0,-,-,Yield Strength(Compression),866,MPa
+Fe2.0,-,-,Ultimate Tensile Strength(Compression),1736,MPa
+Fe2.0,-,-,Ductility,0.45,-
+AlCrFeCoNiCuMn,-,-,Yield Strength(Tension),1005.0,MPa
+AlCrFeCoNiCuMn,-,-,Ultimate Tensile Strength(Tension),1480.0,MPa
+AlCrFeCoNiCuMn,-,-,Ductility,15.00,-
+AlCrFeCoNiCuTi,-,-,Yield Strength(Tension),1234.0,MPa
+AlCrFeCoNiCuTi,-,-,Ultimate Tensile Strength(Tension),1356.0,MPa
+AlCrFeCoNiCuTi,-,-,Ductility,9.00,-
+CrFeCoNiCuTi0.5,-,-,Yield Strength(Tension),700.0,MPa
+CrFeCoNiCuTi0.5,-,-,Ultimate Tensile Strength(Tension),1650.0,MPa
+CrFeCoNiCuTi0.5,-,-,Ductility,21.00,-
+Zr56*2Ti13.8Nb5Cu6*9Ni5.6Be12.5,-,-,Yield Strength(Tension),1300.0,MPa
+Zr56*2Ti13.8Nb5Cu6*9Ni5.6Be12.5,-,-,Ultimate Tensile Strength(Tension),1700.0,MPa
+Zr56*2Ti13.8Nb5Cu6*9Ni5.6Be12.5,-,-,Ductility,6.81,-
+Ti40Zr25Ni3Cu12Be20,-,-,Yield Strength(Tension),1680.0,MPa
+Ti40Zr25Ni3Cu12Be20,-,-,Ultimate Tensile Strength(Tension),1780.0,MPa
+Ti40Zr25Ni3Cu12Be20,-,-,Ductility,3.20,-
+Mg81Cu9*3Y4.7Zn5,-,-,Yield Strength(Tension),550.0,MPa
+Mg81Cu9*3Y4.7Zn5,-,-,Ultimate Tensile Strength(Tension),1163.0,MPa
+Mg81Cu9*3Y4.7Zn5,-,-,Ductility,18.50,-
+420 stainless steel,-,-,Yield Strength(Tension),1345.0,MPa
+420 stainless steel,-,-,Ultimate Tensile Strength(Tension),1586.0,MPa
+420 stainless steel,-,-,Ductility,8.00,-
+416 stainless steel,-,-,Yield Strength(Tension),1000.0,MPa
+416 stainless steel,-,-,Ultimate Tensile Strength(Tension),1310.0,MPa
+416 stainless steel,-,-,Ductility,15.00,-
+18Ni(200) maraging steel,-,-,Yield Strength(Tension),1400.0,MPa
+18Ni(200) maraging steel,-,-,Ultimate Tensile Strength(Tension),1500.0,MPa
+18Ni(200) maraging steel,-,-,Ductility,10.00,-

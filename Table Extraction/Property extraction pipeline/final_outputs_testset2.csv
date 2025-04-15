@@ -1,0 +1,1546 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+NbTiVZr,-,-,Density,6.52,gcm-3
+NbTiV2Zr,-,-,Density,6.34,gcm-3
+CrNbTiZr,-,-,Density,6.67,gcm-3
+CrNbTiVZr,-,-,Density,6.57,gcm-3
+NbTiVZr,-,-,Hardness,3.29±0.03,GPa
+NbTiV2Zr,-,-,Hardness,2.99±0.03,GPa
+CrNbTiZr,-,-,Hardness,4.10±0.04,GPa
+CrNbTiVZr,-,-,Hardness,4.72±0.05,GPa
+CrNbTiVZr,-,Bright regions,Chemical Composition,Cr: 4.1; Nb: 31.6; Ti: 33.1; V: 12.8; Zr: 18.4,at%
+CrNbTiVZr,-,Dark regions,Chemical Composition,Cr: 29.4; Nb: 16.1; Ti: 9.7; V: 22.2; Zr: 22.7,at%
+NbTiVZr,non-equilibrium solidification,-,Liquidus Temperature,1760,degC
+NbTiV2Zr,non-equilibrium solidification,-,Liquidus Temperature,1717,degC
+CrNbTiZr,non-equilibrium solidification,-,Liquidus Temperature,1572,degC
+CrNbTiVZr,non-equilibrium solidification,-,Liquidus Temperature,1607,degC
+NbTiVZr,non-equilibrium solidification,-,Solidus Temperature,1207,degC
+NbTiV2Zr,non-equilibrium solidification,-,Solidus Temperature,1207,degC
+CrNbTiZr,non-equilibrium solidification,-,Solidus Temperature,1391,degC
+CrNbTiVZr,non-equilibrium solidification,-,Solidus Temperature,1103,degC
+NbTiVZr,non-equilibrium solidification,-,Phase Fractions,A2-1: 0.999; A2-2: 0.001; C15: 0,-
+NbTiV2Zr,non-equilibrium solidification,-,Phase Fractions,A2-1: 0.995; A2-2: 0.005; C15: 0,-
+CrNbTiZr,non-equilibrium solidification,-,Phase Fractions,A2-1: 0.912; A2-2: 0; C15: 0.088,-
+CrNbTiVZr,non-equilibrium solidification,-,Phase Fractions,A2-1: 0.95; A2-2: 0.005; C15: 0.045,-
+NbTiVZr,-,Phase: bcc A2-1,Elemental Composition,Nb: 25.0; Ti: 25.0; V: 25.0; Zr: 25.0,at%
+NbTiV2Zr,-,Phase: bcc A2-1,Elemental Composition,Nb: 20.1; Ti: 20.1; V: 39.8; Zr: 20.1,at%
+CrNbTiZr,-,Phase: bcc A2-1,Elemental Composition,Cr: 21.0; Nb: 27.4; Ti: 27.2; Zr: 24.4,at%
+CrNbTiVZr,-,Phase: bcc A2-1,Elemental Composition,Cr: 17.9; Nb: 21.0; Ti: 21.0; V: 21.0; Zr: 19.1,at%
+NbTiVZr,-,Phase: bcc A2-2,Elemental Composition,Nb: 3.0; Ti: 3.9; V: 85.0; Zr: 8.1,at%
+NbTiV2Zr,-,Phase: bcc A2-2,Elemental Composition,Nb: 3.3; Ti: 3.9; V: 84.5; Zr: 8.2,at%
+CrNbTiVZr,-,Phase: bcc A2-2,Elemental Composition,Cr: 8.0; Nb: 3.8; Ti: 1.2; V: 16.2; Zr: 70.8,at%
+CrNbTiZr,-,Phase: Laves C15,Elemental Composition,Cr: 66.4; Ti: 2.8; Zr: 30.9,at%
+CrNbTiVZr,-,Phase: Laves C15,Elemental Composition,Cr: 65.9; Ti: 0.8; Zr: 33.3,at%
+NbTiVZr,-,Reaction equation: L-A2-1 (TL),Temperature Metrics,1760,°C
+NbTiV2Zr,-,Reaction equation: L-A2-1 (TL),Temperature Metrics,1717,°C
+CrNbTiZr,-,Reaction equation: L-A2-1 (TL),Temperature Metrics,1572,°C
+CrNbTiVZr,-,Reaction equation: L-A2-1 (TL),Temperature Metrics,1607,°C
+NbTiVZr,-,Reaction equation: L-A2-1 (TS),Temperature Metrics,1668,°C
+NbTiV2Zr,-,Reaction equation: L-A2-1 (TS),Temperature Metrics,1610,°C
+CrNbTiZr,-,Reaction equation: L-A2-1 (TS),Temperature Metrics,1432,°C
+CrNbTiVZr,-,Reaction equation: L-A2-1 (TS),Temperature Metrics,1470,°C
+CrNbTiZr,-,Reaction equation: A2-1-C15,Temperature Metrics,1363,°C
+CrNbTiVZr,-,Reaction equation: A2-1-C15,Temperature Metrics,1234,°C
+NbTiVZr,-,Reaction equation: A2-1-A2-2,Temperature Metrics,726,°C
+NbTiV2Zr,-,Reaction equation: A2-1-A2-2,Temperature Metrics,843,°C
+CrNbTiVZr,-,Reaction equation: A2-1-A2-2,Temperature Metrics,671,°C
+CrNbTiZr,-,Reaction equation: A2-1-A3,Temperature Metrics,535,°C
+NbTiVZr,-,Reaction equation: A2-1-A2-2+A3,Temperature Metrics,471,°C
+NbTiV2Zr,-,Reaction equation: A2-1-A2-2+A3,Temperature Metrics,456,°C
+NbTiVZr,-,Reaction equation: A2-1-A2-2+A3,Temperature Metrics,446,°C
+NbTiV2Zr,-,Reaction equation: A2-1-A2-2+A3,Temperature Metrics,426,°C
+CrNbTiVZr,-,Reaction equation: A2-1-A2-2+C15+A3,Temperature Metrics,440,°C
+CrNbTiVZr,-,Reaction equation: A2-1-A2-2+C15+A3,Temperature Metrics,433,°C
+NbTiVZr,-,Temperature(in °C): 600,Volume Fraction,0.636,-
+NbTiV2Zr,-,Temperature(in °C): 600,Volume Fraction,0.477,-
+NbTiV2Zr,-,Temperature(in °C): 600,Volume Fraction,0.523,-
+CrNbTiZr,-,Temperature(in °C): 600,Volume Fraction,0.633,-
+CrNbTiZr,-,Temperature(in °C): 600,Volume Fraction,0.367,-
+CrNbTiVZr,-,Temperature(in °C): 600,Volume Fraction,0.338,-
+CrNbTiVZr,-,Temperature(in °C): 600,Volume Fraction,0.288,-
+CrNbTiVZr,-,Temperature(in °C): 600,Volume Fraction,0.374,-
+NbTiVZr,-,Temperature(in °C): 400,Volume Fraction,0.535,-
+NbTiV2Zr,-,Temperature(in °C): 400,Volume Fraction,0.646,-
+CrNbTiZr,-,Temperature(in °C): 400,Volume Fraction,0.264,-
+CrNbTiVZr,-,Temperature(in °C): 400,Volume Fraction,0.3,-
+AlMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,326.8,pm
+AlMo0.5NbTa0.5TiZr,cast,compression deformation at 1273K,Lattice Parameter,325.9,pm
+AlMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,332.4,pm
+AlMo0.5NbTa0.5TiZr,cast,compression deformation at 1273K,Lattice Parameter,332.2,pm
+Al0.4Hf0.6NbTaTiZr,cast,annealing,Lattice Parameter,336.7,pm
+Al0.4Hf0.6NbTaTiZr,cast,compression deformation at 1273K,Lattice Parameter,337.2,pm
+CrMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,325.5,pm
+CrMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,338.6,pm
+CrMo0.5NbTa0.5TiZr,cast,annealing,Lattice Parameter,733.4,pm
+HfNbTaTiZr,cast,annealing,Lattice Parameter,340.4,pm
+HfNbTaTiZr,cast,compression deformation at 1273K,Lattice Parameter,340.5,pm
+AlMo0.5NbTa0.5TiZr,-,-,Density,7.40+-0.08,g/cm³
+Al0.4Hf0.6NbTaTiZr,-,-,Density,9.05+-0.05,g/cm³
+CrMo0.5NbTa0.5TiZr,-,-,Density,8.23+-0.05,g/cm³
+HfNbTaTiZr,-,-,Density,9.94+-0.05,g/cm³
+AlMo0.5NbTa0.5TiZr,-,-,Hardness,5.8+-0.1,GPa
+Al0.4Hf0.6NbTaTiZr,-,-,Hardness,4.9+-0.1,GPa
+CrMo0.5NbTa0.5TiZr,-,-,Hardness,5.3+-0.1,GPa
+HfNbTaTiZr,-,-,Hardness,3.8+-0.1,GPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 296,Compression Strength,2000.0,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1073,Compression Strength,1597,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Compression Strength,745,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1473,Compression Strength,250,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 296,Ultimate Tensile Strength,2368.0,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1073,Ultimate Tensile Strength,1810,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Ultimate Tensile Strength,772,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1473,Ultimate Tensile Strength,275,MPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 296,Elastic Modulus,178.6,GPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1073,Elastic Modulus,80,GPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Elastic Modulus,36,GPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1473,Elastic Modulus,27,GPa
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 296,Fracture Strain,10.0,%
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1073,Fracture Strain,11.0,%
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Fracture Strain,>50,%
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1473,Fracture Strain,>50,%
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 296,Compressive Strength,1841.0,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1073,Compressive Strength,796,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Compressive Strength,298,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1473,Compressive Strength,89,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 296,Ultimate Tensile Strength,2269.0,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1073,Ultimate Tensile Strength,834,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Ultimate Tensile Strength,455,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1473,Ultimate Tensile Strength,135,MPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 296,Elastic Modulus,78.1,GPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1073,Elastic Modulus,48.8,GPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Elastic Modulus,23.3,GPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1473,Elastic Modulus,nan,GPa
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 296,Fracture Strain,10.0,% 
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1073,Fracture Strain,>50,% 
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Fracture Strain,>50,% 
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1473,Fracture Strain,>50,%
+AlMo0.5NbTa0.5TiZr,annealed,Matrix grains,Chemical Composition,Al: 19.9; Mo: 11.3; Nb: 22.9; Ta: 10.6; Ti: 18.5; Zr: 16.8,at%
+AlMo0.5NbTa0.5TiZr,annealed,Dark large particles (at grain boundaries),Chemical Composition,Al: 39.5; Mo: 0.0; Nb: 10.9; Ta: 2.3; Ti: 7.2; Zr: 40.1,at%
+AlMo0.5NbTa0.5TiZr,annealed,Bright nano-lamellar phase,Chemical Composition,Al: 15.4; Mo: 14.5; Nb: 25.6; Ta: 12.8; Ti: 19.2; Zr: 12.5,at%
+AlMo0.5NbTa0.5TiZr,annealed,Dark nano-lamellar phase,Chemical Composition,Al: 27.6; Mo: 6.8; Nb: 19.1; Ta: 7.2; Ti: 15.2; Zr: 24.1,at%
+AlMo0.5NbTa0.5TiZr,-,Matrix grains,Chemical Composition,Al: 20.8; Mo: 11.6; Nb: 21.9; Ta: 8.7; Ti: 18.2; Zr: 18.8,at%
+AlMo0.5NbTa0.5TiZr,-,Dark large particles (at grain boundaries),Chemical Composition,Al: 38.9; Mo: 0.5; Nb: 11.6; Ta: 2.5; Ti: 7.5; Zr: 39.0,at%
+AlMo0.5NbTa0.5TiZr,-,Bright nano-lamellar phase,Chemical Composition,Al: 12.1; Mo: 18.1; Nb: 27.1; Ta: 13.2; Ti: 18.8; Zr: 10.6,at%
+AlMo0.5NbTa0.5TiZr,-,Dark nano-lamellar phase,Chemical Composition,Al: 32.6; Mo: 4.5; Nb: 15.3; Ta: 4.9; Ti: 12.7; Zr: 30.0,at%
+AlMo0.5NbTa0.5TiZr,-,"Gray regions (inside grains, Fig. 6d)",Chemical Composition,Al: 21.7; Mo: 7.2; Nb: 23.2; Ta: 7.8; Ti: 21.3; Zr: 18.9,at%
+AlMo0.5NbTa0.5TiZr,-,T_L_NE(in K): 2046 ;T_S_NE(in K): 1314 ;T_2_NE(in K): 1391,Temperature Metrics,2046,°C
+Al0.4Hf0.6NbTaTiZr,-,T_L_NE(in K): 2238 ;T_S_NE(in K): 1595,Temperature Metrics,2238,°C
+CrMo0.5NbTa0.5TiZr,-,T_L_NE(in K): 2877 ;T_S_NE(in K): 1610 ;T_2_NE(in K): 1664,Temperature Metrics,2877,°C
+HfNbTaTiZr,-,T_L_NE(in K): 2290 ;T_S_NE(in K): 1836,Temperature Metrics,2290,°C
+AlMo0.5NbTa0.5TiZr,-,Reaction: L-bcc1 (TL),Temperature Metrics,2046,K
+Al0.4Hf0.6NbTaTiZr,-,Reaction: L-bcc1 (TL),Temperature Metrics,2238,K
+CrMo0.5NbTa0.5TiZr,-,Reaction: L-bcc1 (TL),Temperature Metrics,2877,K
+HfNbTaTiZr,-,Reaction: L-bcc1 (TL),Temperature Metrics,2290,K
+AlMo0.5NbTa0.5TiZr,-,Reaction: L-bcc1 (TS),Temperature Metrics,1791,K
+Al0.4Hf0.6NbTaTiZr,-,Reaction: L-bcc1 (TS),Temperature Metrics,2021,K
+CrMo0.5NbTa0.5TiZr,-,Reaction: L-bcc1 (TS),Temperature Metrics,1913,K
+HfNbTaTiZr,-,Reaction: L-bcc1 (TS),Temperature Metrics,2131,K
+Al0.4Hf0.6NbTaTiZr,-,Reaction: bcc1-bcc2,Temperature Metrics,1318,K
+HfNbTaTiZr,-,Reaction: bcc1-bcc2,Temperature Metrics,1258,K
+Al0.4Hf0.6NbTaTiZr,-,Reaction: bcc1-bcc2+hcp,Temperature Metrics,1290,K
+HfNbTaTiZr,-,Reaction: bcc1-bcc2+hcp,Temperature Metrics,"1092, 992",K
+CrMo0.5NbTa0.5TiZr,-,Reaction: bcc1-Laves,Temperature Metrics,1542,K
+AlMo0.5NbTa0.5TiZr,-,Reaction: bcc1-Ti3Al,Temperature Metrics,1131,K
+AlMo0.5NbTa0.5TiZr,-,Reaction: bcc1-Ti3Al+Al2Zr3,Temperature Metrics,1068,K
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Volume Fraction,1.00,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Volume Fraction,0.63,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Volume Fraction,0.37,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 1273,Volume Fraction,0.01,-
+CrMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Volume Fraction,0.80,-
+CrMo0.5NbTa0.5TiZr,-,Temperature(in K): 1273,Volume Fraction,0.20,-
+HfNbTaTiZr,-,Temperature(in K): 1273,Volume Fraction,1,-
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.64,-
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.24,-
+AlMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.12,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.44,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.42,-
+Al0.4Hf0.6NbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.13,-
+CrMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.71,-
+CrMo0.5NbTa0.5TiZr,-,Temperature(in K): 973,Volume Fraction,0.29,-
+HfNbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.51,-
+HfNbTaTiZr,-,Temperature(in K): 973,Volume Fraction,0.49,-
+Al,-,-,Atomic Radius,143.0,pm
+Cr,-,-,Atomic Radius,128.0,pm
+Hf,-,-,Atomic Radius,159.0,pm
+Mo,-,-,Atomic Radius,139.0,pm
+Nb,-,-,Atomic Radius,146.0,pm
+Ta,-,-,Atomic Radius,146.0,pm
+Ti,-,-,Atomic Radius,147.0,pm
+Zr,-,-,Atomic Radius,160.0,pm
+Al,-,-,Electronegativity,1.61,-
+Cr,-,-,Electronegativity,1.66,-
+Hf,-,-,Electronegativity,1.3,-
+Mo,-,-,Electronegativity,2.16,-
+Nb,-,-,Electronegativity,1.6,-
+Ta,-,-,Electronegativity,1.5,-
+Ti,-,-,Electronegativity,1.54,-
+Zr,-,-,Electronegativity,1.33,-
+Al,-,-,Valence Electron Concentration,3.0,-
+Cr,-,-,Valence Electron Concentration,6.0,-
+Hf,-,-,Valence Electron Concentration,4.0,-
+Mo,-,-,Valence Electron Concentration,6.0,-
+Nb,-,-,Valence Electron Concentration,5.0,-
+Ta,-,-,Valence Electron Concentration,5.0,-
+Ti,-,-,Valence Electron Concentration,4.0,-
+Zr,-,-,Valence Electron Concentration,4.0,-
+Al,-,-,Melting Point,933.5,K
+Cr,-,-,Melting Point,2180.0,K
+Hf,-,-,Melting Point,2506.0,K
+Mo,-,-,Melting Point,2896.0,K
+Nb,-,-,Melting Point,2750.0,K
+Ta,-,-,Melting Point,3290.0,K
+Ti,-,-,Melting Point,1941.0,K
+Zr,-,-,Melting Point,2128.0,K
+Al-Mo(Al12Mo),-,<934, Mixing Enthalpy,-1.45,kJ/mol
+Al-Mo(Al5Mo),-,<1008, Mixing Enthalpy,-2.83,kJ/mol
+Al-Mo(Al4Mo),-,<1403, Mixing Enthalpy,-3.26,kJ/mol
+Al-Mo(Al8Mo3),-,<1818, Mixing Enthalpy,-4.05,kJ/mol
+Al-Mo(AlMo),-,1743-1993, Mixing Enthalpy,-5.1,kJ/mol
+Al-Mo(AlMo3),-,<2423, Mixing Enthalpy,-3.83,kJ/mol
+Al-Nb(Al3Nb),-,<1873, Mixing Enthalpy,-13.76,kJ/mol
+Al-Nb(AlNb2),-,<2213, Mixing Enthalpy,-16.09,kJ/mol
+Al-Nb(AlNb3),-,<2333, Mixing Enthalpy,-13.54,kJ/mol
+Al-Ta(Al3Ta),-,<1824, Mixing Enthalpy,-14.51,kJ/mol
+Al-Ta(Al2Ta3),-,<1867, Mixing Enthalpy,-19.2,kJ/mol
+Al-Ta(AlTa),-,<2043, Mixing Enthalpy,-18.37,kJ/mol
+Al-Ta(AlTa2),-,<2373, Mixing Enthalpy,-17.16,kJ/mol
+Al-Ti(Al3Ti),-,<1623, Mixing Enthalpy,-22.11,kJ/mol
+Al-Ti(Al2Ti),-,<1513, Mixing Enthalpy,-26.2,kJ/mol
+Al-Ti(AlTi),-,<1753, Mixing Enthalpy,-29.5,kJ/mol
+Al-Ti(AlTi3),-,<1453, Mixing Enthalpy,-22.18,kJ/mol
+Al-Zr(Al3Zr),-,<1853, Mixing Enthalpy,-34.04,kJ/mol
+Al-Zr(Al2Zr),-,<1918, Mixing Enthalpy,-39.82,kJ/mol
+Al-Zr(Al3Zr2),-,<1868, Mixing Enthalpy,-42.57,kJ/mol
+Al-Zr(AlZr),-,<1548, Mixing Enthalpy,-43.7,kJ/mol
+Al-Zr(Al2Zr3),-,<1758, Mixing Enthalpy,-41.38,kJ/mol
+Al-Zr(AlZr2),-,<1523, Mixing Enthalpy,-37.97,kJ/mol
+Al-Zr(AlZr3),-,<1261, Mixing Enthalpy,-31.7,kJ/mol
+Al-Hf(Al3Hf),-,<1863, Mixing Enthalpy,-29.89,kJ/mol
+Al-Hf(Al2Hf),-,<1923, Mixing Enthalpy,-35.0,kJ/mol
+Al-Hf(Al3Hf2),-,<1913, Mixing Enthalpy,-37.46,kJ/mol
+Al-Hf(AlHf),-,<2073, Mixing Enthalpy,-38.5,kJ/mol
+Al-Hf(Al2Hf3),-,<1863, Mixing Enthalpy,-36.5,kJ/mol
+Al-Hf(AlHf2),-,<1393, Mixing Enthalpy,-33.52,kJ/mol
+Mo-Zr(Mo2Zr),-,<2153, Mixing Enthalpy,-5.67,kJ/mol
+Cr-Nb(Cr2Nb),-,<2043, Mixing Enthalpy,-6.65,kJ/mol
+Cr-Ta(Cr2Ta),-,<2293, Mixing Enthalpy,-6.17,kJ/mol
+Cr-Ti(Cr2Ti),-,<1643, Mixing Enthalpy,-6.47,kJ/mol
+Cr-Zr(Cr2Zr),-,<1946, Mixing Enthalpy,-11.3,kJ/mol
+AlMo0.5NbTa0.5TiZr,-,-,Mixing Enthalpy,-17.0,kJmol-1
+AlMo0.5NbTa0.5TiZr,-,-,Mixing Entropy,14.5,Jmol-1 K-1
+AlMo0.5NbTa0.5TiZr,-,-,Temperature Metrics,1982,K
+Al0.4Hf0.6NbTaTiZr,-,-,Mixing Enthalpy,-6.5,kJmol-1
+Al0.4Hf0.6NbTaTiZr,-,-,Mixing Entropy,14.5,Jmol-1 K-1
+Al0.4Hf0.6NbTaTiZr,-,-,Temperature Metrics,2397,K
+CrMo0.5NbTa0.5TiZr,-,-,Mixing Enthalpy,-5.2,kJmol-1
+CrMo0.5NbTa0.5TiZr,-,-,Mixing Entropy,14.5,Jmol-1 K-1
+CrMo0.5NbTa0.5TiZr,-,-,Temperature Metrics,2418,K
+HfNbTaTiZr,-,-,Mixing Enthalpy,2.7,kJmol-1
+HfNbTaTiZr,-,-,Mixing Entropy,13.4,Jmol-1 K-1
+HfNbTaTiZr,-,-,Temperature Metrics,2523,K
+CrFe1.5MnNi0.5,-,0.5M H2SO4 solution,Corrosion Potential,-229,mVSHE
+CrFe1.5MnNi0.5,-,0.5M H2SO4 solution,Corrosion Current Density,6.86x10-4,A/cm2
+CrFe1.5MnNi0.5,-,0.5M H2SO4 solution,Critical Current Density for Passivation,1.26x10-2,A/cm2
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 solution,Corrosion Potential,-194,mVSHE
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 solution,Corrosion Current Density,2.39x10-3,A/cm2
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 solution,Critical Current Density for Passivation,2.36x10-2,A/cm2
+Al0.5CrFe1.5MnNi0.5,-,0.5M H2SO4 solution,Corrosion Potential,-206,mVSHE
+Al0.5CrFe1.5MnNi0.5,-,0.5M H2SO4 solution,Corrosion Current Density,5.08x10-3,A/cm2
+Al0.5CrFe1.5MnNi0.5,-,0.5M H2SO4 solution,Critical Current Density for Passivation,5.54x10-2,A/cm2
+304 stainless steel,-,0.5M H2SO4 solution,Corrosion Potential,-186,mVSHE
+304 stainless steel,-,0.5M H2SO4 solution,Corrosion Current Density,7.45x10-5,A/cm2
+304 stainless steel,-,0.5M H2SO4 solution,Critical Current Density for Passivation,8.19x10-4,A/cm2
+CrFe1.5MnNi0.5,-,0.5M H2SO4,Corrosion Potential,-221,mVSHE
+CrFe1.5MnNi0.5,-,0.5M H2SO4,Corrosion Current Density,6.86x10-4,A/cm2
+CrFe1.5MnNi0.5,-,0.5M H2SO4,Pitting Potential,1172,mVSHE
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4,Corrosion Potential,-194,mVSHE
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4,Corrosion Current Density,2.39x10-3,A/cm2
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4,Pitting Potential,1164,mVSHE
+CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.10M NaCl,Corrosion Potential,-242,mVSHE
+CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.10M NaCl,Corrosion Current Density,2.06x10-3,A/cm2
+CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.10M NaCl,Pitting Potential,1180,mVSHE
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.10M NaCl,Corrosion Potential,-219,mVSHE
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.10M NaCl,Corrosion Current Density,2.48x10-3,A/cm2
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.10M NaCl,Pitting Potential,1156,mVSHE
+CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.25M NaCl,Corrosion Potential,-238,mVSHE
+CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.25M NaCl,Corrosion Current Density,4.60x10-3,A/cm2
+CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.25M NaCl,Pitting Potential,589,mVSHE
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.25M NaCl,Corrosion Potential,-231,mVSHE
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.25M NaCl,Corrosion Current Density,6.05x10-3,A/cm2
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.25M NaCl,Pitting Potential,250,mVSHE
+CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.50M NaCl,Corrosion Potential,-240,mVSHE
+CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.50M NaCl,Corrosion Current Density,9.75x10-3,A/cm2
+CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.50M NaCl,Pitting Potential,475,mVSHE
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.50M NaCl,Corrosion Potential,-250,mVSHE
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.50M NaCl,Corrosion Current Density,1.04x10-2,A/cm2
+Al0.3CrFe1.5MnNi0.5,-,0.5M H2SO4 +0.50M NaCl,Pitting Potential,257,mVSHE
+Mo0,-,-,Elemental Composition,Co: 28.68; Cr: 16.87; Fe: 18.12; Ni: 28.56; Ti: 7.77; Mo: 0.0,wt%
+Mo0.1,-,-,Elemental Composition,Co: 27.81; Cr: 16.36; Fe: 17.57; Ni: 27.7; Ti: 7.53; Mo: 3.02,wt%
+Mo0.5,-,-,Elemental Composition,Co: 24.82; Cr: 14.6; Fe: 15.68; Ni: 24.72; Ti: 6.72; Mo: 13.47,wt%
+Mo0.8,-,-,Elemental Composition,Co: 22.96; Cr: 13.51; Fe: 14.51; Ni: 22.87; Ti: 6.22; Mo: 19.94,wt%
+Co1.5CrFeNi1.5Ti0.5Mo0,-,Interdendrite,Chemical Composition,Co: 26.7; Cr: 15.1; Fe: 15.3; Ni: 28.9; Ti: 14.0,at%
+Co1.5CrFeNi1.5Ti0.5Mo0,-,Dendrite,Chemical Composition,Co: 27.6; Cr: 21.0; Fe: 19.8; Ni: 25.9; Ti: 5.7,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,Dendrite,Chemical Composition,Co: 25.8; Cr: 13.3; Fe: 14.1; Ni: 29.5; Ti: 15.5; Mo: 1.8,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,Dendrite,Chemical Composition,Co: 26.6; Cr: 19.1; Fe: 18.3; Ni: 26.8; Ti: 7.3; Mo: 1.9,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,Interdendrite,Chemical Composition,Co: 21.0; Cr: 20.5; Fe: 14.2; Ni: 13.0; Ti: 7.1; Mo: 24.2,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,Dendrite,Chemical Composition,Co: 24.0; Cr: 18.1; Fe: 16.9; Ni: 26.2; Ti: 7.5; Mo: 7.3,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,Dendrite,Chemical Composition,Co: 20.6; Cr: 19.6; Fe: 15.2; Ni: 14.0; Ti: 4.3; Mo: 26.3,at%
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,Dendrite,Chemical Composition,Co: 24.8; Cr: 15.5; Fe: 16.6; Ni: 28.2; Ti: 7.3; Mo: 7.6,at%
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 0.5M H2SO4,Corrosion Potential,-92,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 0.5M H2SO4,Corrosion Current Density,30,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 0.5M H2SO4,Breakdown Potential,1089,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 0.5M H2SO4,Corrosion Potential,-71,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 0.5M H2SO4,Corrosion Current Density,78,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 0.5M H2SO4,Breakdown Potential,1089,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 0.5M H2SO4,Corrosion Potential,-64,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 0.5M H2SO4,Corrosion Current Density,72,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 0.5M H2SO4,Breakdown Potential,1089,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 0.5M H2SO4,Corrosion Potential,-70,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 0.5M H2SO4,Corrosion Current Density,69,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 0.5M H2SO4,Breakdown Potential,1089,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaOH; Reference Electrode: SHE,Corrosion Potential,-546,mV
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaOH,Corrosion Current Density,0.09,mA/cm²
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaOH; Reference Electrode: SHE,Breakdown Potential,653,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaOH; Reference Electrode: SHE,Corrosion Potential,-379,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaOH,Corrosion Current Density,0.11,mA/cm²
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaOH; Reference Electrode: SHE,Breakdown Potential,653,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaOH; Reference Electrode: SHE,Corrosion Potential,-657,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaOH,Corrosion Current Density,0.16,mA/cm²
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaOH; Reference Electrode: SHE,Breakdown Potential,653,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaOH; Reference Electrode: SHE,Corrosion Potential,-589,mV
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaOH,Corrosion Current Density,0.25,mA/cm²
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaOH; Reference Electrode: SHE,Breakdown Potential,660,mV
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Corrosion Potential,-443,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Corrosion Current Density,0.57,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Pitting Potential,-219,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Breakdown Potential,338,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0,-,deaerated 1M NaCl,Repassivation Potential,32.5,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Corrosion Potential,-381,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Corrosion Current Density,0.13,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Pitting Potential,-215,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Breakdown Potential,1214,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.1,-,deaerated 1M NaCl,Repassivation Potential,761.0,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Corrosion Potential,-493,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Corrosion Current Density,0.2,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Pitting Potential,-219,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Breakdown Potential,1164,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.5,-,deaerated 1M NaCl,Repassivation Potential,755.0,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Corrosion Potential,-551,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Corrosion Current Density,0.41,mA/cm2
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Pitting Potential,-189,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Breakdown Potential,1182,mVSHE
+Co1.5CrFeNi1.5Ti0.5Mo0.8,-,deaerated 1M NaCl,Repassivation Potential,476.0,mVSHE
+Ti0.5,-,-,Mixing Enthalpy,-11.28,kJ/mol
+Ti1,-,-,Mixing Enthalpy,-30.59,kJ/mol
+Ti1.5,-,-,Mixing Enthalpy,-38.86,kJ/mol
+Ti2,-,-,Mixing Enthalpy,-40.51,kJ/mol
+Ti2.5,-,-,Mixing Enthalpy,-27.88,kJ/mol
+V0.4,-,-,Mixing Enthalpy,-33.15,kJ/mol
+V0.7,-,-,Mixing Enthalpy,-33.31,kJ/mol
+V1.0,-,-,Mixing Enthalpy,-30.75,kJ/mol
+V1.3,-,-,Mixing Enthalpy,-32.61,kJ/mol
+V1.6,-,-,Mixing Enthalpy,-31.87,kJ/mol
+V2.0,-,-,Mixing Enthalpy,-31.47,kJ/mol
+V2.3,-,-,Mixing Enthalpy,-31.63,kJ/mol
+V2.6,-,-,Mixing Enthalpy,-32.44,kJ/mol
+V3.0,-,-,Mixing Enthalpy,-31.4,kJ/mol
+Zr0.4,-,-,Mixing Enthalpy,-0.48,kJ/mol
+Zr0.7,-,-,Mixing Enthalpy,-9.29,kJ/mol
+Zr1.0,-,-,Mixing Enthalpy,-30.75,kJ/mol
+Zr1.3,-,-,Mixing Enthalpy,-38.07,kJ/mol
+Zr1.6,-,-,Mixing Enthalpy,-44.19,kJ/mol
+Zr2.0,-,-,Mixing Enthalpy,-49.12,kJ/mol
+Zr2.3,-,-,Mixing Enthalpy,-53.96,kJ/mol
+Zr2.6,-,-,Mixing Enthalpy,-54.99,kJ/mol
+Zr3.0,-,-,Mixing Enthalpy,-52.71,kJ/mol
+Ti0.5,-,-,Hydrogen Absorption Capacity,0.17,H/atom
+Ti1,-,-,Hydrogen Absorption Capacity,0.65,H/atom
+Ti1.5,-,-,Hydrogen Absorption Capacity,0.83,H/atom
+Ti2,-,-,Hydrogen Absorption Capacity,0.87,H/atom
+Ti2.5,-,-,Hydrogen Absorption Capacity,0.75,H/atom
+V0.4,-,-,Hydrogen Absorption Capacity,0.9,H/atom
+V0.7,-,-,Hydrogen Absorption Capacity,0.92,H/atom
+V1.0,-,-,Hydrogen Absorption Capacity,0.86,H/atom
+V1.3,-,-,Hydrogen Absorption Capacity,0.92,H/atom
+V1.6,-,-,Hydrogen Absorption Capacity,0.9,H/atom
+V2.0,-,-,Hydrogen Absorption Capacity,0.91,H/atom
+V2.3,-,-,Hydrogen Absorption Capacity,0.92,H/atom
+V2.6,-,-,Hydrogen Absorption Capacity,0.95,H/atom
+V3.0,-,-,Hydrogen Absorption Capacity,0.93,H/atom
+Zr0.4,-,-,Hydrogen Absorption Capacity,0.02,H/atom
+Zr0.7,-,-,Hydrogen Absorption Capacity,0.29,H/atom
+Zr1.0,-,-,Hydrogen Absorption Capacity,0.86,H/atom
+Zr1.3,-,-,Hydrogen Absorption Capacity,0.99,H/atom
+Zr1.6,-,-,Hydrogen Absorption Capacity,1.06,H/atom
+Zr2.0,-,-,Hydrogen Absorption Capacity,1.11,H/atom
+Zr2.3,-,-,Hydrogen Absorption Capacity,1.17,H/atom
+Zr2.6,-,-,Hydrogen Absorption Capacity,1.15,H/atom
+Zr3.0,-,-,Hydrogen Absorption Capacity,1.06,H/atom
+Mg2Ni,-,Temperature(in degC): 200,Hydrogen Absorption Capacity,2.69,wt%
+Mg2Ni,-,Temperature(in degC): 200,Hydrogen Absorption Capacity,2.23,wt%
+Mg2Ni,-,Temperature(in degC): 200,Hydrogen Absorption Capacity,2.1,wt%
+Mg2Ni,-,Temperature(in degC): 200,Hydrogen Absorption Capacity,2.07,wt%
+Mg2Ni,-,Temperature(in degC): 227,Hydrogen Absorption Capacity,3.5,wt%
+Mg2Ni,-,Temperature(in degC): 250,Hydrogen Absorption Capacity,3.0,wt%
+Mg2Ni,-,Temperature(in degC): 248,Hydrogen Absorption Capacity,3.11,wt%
+Mg2Ni,-,Temperature(in degC): 279,Hydrogen Absorption Capacity,3.21,wt%
+Mg2Ni,-,Temperature(in degC): 253,Hydrogen Absorption Capacity,2.91,wt%
+Mg2Ni,-,Temperature(in degC): 253,Hydrogen Absorption Capacity,3.6,wt%
+Mg2Ni,-,Temperature(in degC): 239,Hydrogen Absorption Capacity,2.7,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.3,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.5,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.83,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.64,wt%
+Mg2Ni,-,Temperature(in degC): 300,Hydrogen Absorption Capacity,3.6,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.39,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.55,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.2,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.15,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.6,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.58,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.47,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.47,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.53,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,0.91,wt%
+LaNi5,-,Temperature(in degC): 20,Hydrogen Absorption Capacity,1.45,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.15,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,0.83,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.2,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.2,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.3,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.3,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.1,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.27,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.18,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.17,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.4,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.31,wt%
+LaNi5,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,1.16,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.83,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.83,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.88,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.29,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,2.04,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.89,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.88,wt%
+FeTi,-,Temperature(in degC): 80,Hydrogen Absorption Capacity,1.78,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.4,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.3,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.3,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.4,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.2,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.3,wt%
+TiCo,-,Temperature(in degC): 120,Hydrogen Absorption Capacity,1.3,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.74,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.28,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.17,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.62,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.6,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.44,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.79,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.06,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.95,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.72,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.71,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.48,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.42,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.29,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.11,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.79,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.64,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.59,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.44,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.99,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.22,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.01,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.01,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.74,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.26,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.13,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.54,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.37,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.2,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.14,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.95,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.64,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.58,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.79,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.16,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.14,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.14,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.79,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.67,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.53,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.51,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.07,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.06,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.34,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.41,wt%
+ZrB2,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.25,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.03,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,0.49,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.43,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.63,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.71,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.73,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.79,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.73,wt%
+Zrx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.56,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.48,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.52,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.43,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.55,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.54,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.55,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.58,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.64,wt%
+Vx,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,1.62,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,0.6,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,1.43,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,1.78,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,1.8,wt%
+Tix,-,nan,Hydrogen Absorption Capacity,1.2,wt%
+BCC,-,Temperature(in degC): 30,Hydrogen Absorption Capacity,3.14,wt%
+BCC,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,2.2,wt%
+BCC,-,Temperature(in degC): 25,Hydrogen Absorption Capacity,3.6,wt%
+Mg2Ni,-,Temperature(in degC): 200,Hydride Formation Enthalpy,-26.74,kJ/mol
+Mg2Ni,-,Temperature(in degC): 200,Hydride Formation Enthalpy,-21.87,kJ/mol
+Mg2Ni,-,Temperature(in degC): 200,Hydride Formation Enthalpy,-21.32,kJ/mol
+Mg2Ni,-,Temperature(in degC): 200,Hydride Formation Enthalpy,-23.09,kJ/mol
+Mg2Ni,-,Temperature(in degC): 227,Hydride Formation Enthalpy,-34.79,kJ/mol
+Mg2Ni,-,Temperature(in degC): 250,Hydride Formation Enthalpy,-31.97,kJ/mol
+Mg2Ni,-,Temperature(in degC): 248,Hydride Formation Enthalpy,-30.99,kJ/mol
+Mg2Ni,-,Temperature(in degC): 279,Hydride Formation Enthalpy,-32.69,kJ/mol
+Mg2Ni,-,Temperature(in degC): 253,Hydride Formation Enthalpy,-28.94,kJ/mol
+Mg2Ni,-,Temperature(in degC): 253,Hydride Formation Enthalpy,-37.9,kJ/mol
+Mg2Ni,-,Temperature(in degC): 239,Hydride Formation Enthalpy,-25.25,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-35.51,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-37.21,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-38.09,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-35.68,kJ/mol
+Mg2Ni,-,Temperature(in degC): 300,Hydride Formation Enthalpy,-37.9,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-23.89,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-26.67,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-17.85,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-17.49,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-27.86,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-26.96,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-24.96,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-24.03,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-27.26,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-11.48,kJ/mol
+LaNi5,-,Temperature(in degC): 20,Hydride Formation Enthalpy,-24.77,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-17.58,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-11.26,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-19.03,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-19.28,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-20.0,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-21.33,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-15.25,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-20.06,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-20.05,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-18.22,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-24.6,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-24.34,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-22.24,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-21.31,kJ/mol
+LaNi5,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-19.69,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-34.42,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-35.74,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-36.68,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-23.88,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-41.22,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-38.45,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-35.95,kJ/mol
+FeTi,-,Temperature(in degC): 80,Hydride Formation Enthalpy,-34.68,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-27.17,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-27.48,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-27.35,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-32.19,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-22.82,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-24.58,kJ/mol
+TiCo,-,Temperature(in degC): 120,Hydride Formation Enthalpy,-26.28,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-82.46,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-66.95,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-54.36,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-43.69,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-39.62,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-35.07,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-18.36,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-1.3,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-41.47,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-37.04,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-36.95,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-32.03,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-30.89,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-28.16,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-2.38,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-53.91,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-46.67,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-42.04,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-37.38,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-24.38,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-5.33,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-2.33,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-2.24,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-82.46,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-66.64,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-61.71,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-56.71,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-34.68,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-25.4,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-4.71,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-3.24,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-41.47,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-35.4,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-34.79,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-17.34,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-3.25,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-3.24,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-3.24,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-53.92,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-47.37,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-41.25,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-39.95,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-27.89,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-33.67,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-8.44,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-9.89,kJ/mol
+ZrB2,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-5.94,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-0.48,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-9.29,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-30.75,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-38.07,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-44.19,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-49.12,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-53.96,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-54.99,kJ/mol
+Zrx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-52.71,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-33.15,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-33.31,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-30.75,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-32.61,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-31.87,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-31.47,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-31.63,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-32.44,kJ/mol
+Vx,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-31.4,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-11.28,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-30.59,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-38.86,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-40.51,kJ/mol
+Tix,-,nan,Hydride Formation Enthalpy,-27.88,kJ/mol
+BCC,-,Temperature(in degC): 30,Hydride Formation Enthalpy,-50.34,kJ/mol
+BCC,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-34.83,kJ/mol
+BCC,-,Temperature(in degC): 25,Hydride Formation Enthalpy,-61.33,kJ/mol
+Cu0.5CoCrFeNi,as-cast; ID,-,Chemical Composition,Cu: 68; Co: 7; Cr: 8; Fe: 7; Ni: 10,at%
+Cu0.5CoCrFeNi,as-cast; DR,-,Chemical Composition,Cu: 10; Co: 22; Cr: 24; Fe: 22; Ni: 22,at%
+Cu0.5CoCrFeNi,350 degC; ID,-,Chemical Composition,Cu: 71; Co: 6; Cr: 6; Fe: 6; Ni: 11,at%
+Cu0.5CoCrFeNi,350 degC; DR,-,Chemical Composition,Cu: 10; Co: 23; Cr: 23; Fe: 23; Ni: 21,at%
+Cu0.5CoCrFeNi,500 degC; ID,-,Chemical Composition,Cu: 70; Co: 7; Cr: 6; Fe: 7; Ni: 11,at%
+Cu0.5CoCrFeNi,500 degC; DR,-,Chemical Composition,Cu: 9; Co: 25; Cr: 22; Fe: 23; Ni: 20,at%
+Cu0.5CoCrFeNi,650 degC; ID,-,Chemical Composition,Cu: 72; Co: 6; Cr: 6; Fe: 6; Ni: 9,at%
+Cu0.5CoCrFeNi,650 degC; DR,-,Chemical Composition,Cu: 13; Co: 21; Cr: 24; Fe: 22; Ni: 19,at%
+Cu0.5CoCrFeNi,800 degC; ID,-,Chemical Composition,Cu: 72; Co: 6; Cr: 5; Fe: 6; Ni: 9,at%
+Cu0.5CoCrFeNi,800 degC; DR,-,Chemical Composition,Cu: 15; Co: 19; Cr: 27; Fe: 20; Ni: 20,at%
+Cu0.5CoCrFeNi,950 degC; ID,-,Chemical Composition,Cu: 73; Co: 6; Cr: 5; Fe: 6; Ni: 9,at%
+Cu0.5CoCrFeNi,950 degC; DR,-,Chemical Composition,Cu: 8; Co: 23; Cr: 22; Fe: 23; Ni: 22,at%
+Cu0.5CoCrFeNi,ID,Aging temperature: 1100 degC,Chemical Composition,Cu: 62; Co: 9; Cr: 10; Fe: 8; Ni: 8,at%
+Cu0.5CoCrFeNi,DR,Aging temperature: 1100 degC,Chemical Composition,Cu: 28; Co: 23; Cr: 24; Fe: 20; Ni: 8,at%
+Cu0.5CoCrFeNi,CP,Aging temperature: 1100 degC,Chemical Composition,Cu: 4; Co: 20; Cr: 35; Fe: 27; Ni: 3,at%
+Cu0.5CoCrFeNi,ID,Aging temperature: 1250 degC,Chemical Composition,Cu: 66; Co: 9; Cr: 10; Fe: 9; Ni: 6,at%
+Cu0.5CoCrFeNi,DR,Aging temperature: 1250 degC,Chemical Composition,Cu: 23; Co: 24; Cr: 24; Fe: 21; Ni: 8,at%
+Cu0.5CoCrFeNi,CP,Aging temperature: 1250 degC,Chemical Composition,Cu: 5; Co: 6; Cr: 82; Fe: 5; Ni: 2,at%
+Cu0.5CoCrFeNi,ID,Aging temperature: 1350 degC,Chemical Composition,Cu: 67; Co: 9; Cr: 10; Fe: 8; Ni: 5,at%
+Cu0.5CoCrFeNi,DR,Aging temperature: 1350 degC,Chemical Composition,Cu: 22; Co: 23; Cr: 23; Fe: 22; Ni: 9,at%
+Cu0.5CoCrFeNi,CP,Aging temperature: 1350 degC,Chemical Composition,Cu: 5; Co: 6; Cr: 80; Fe: 5; Ni: 4,at%
+Cu0.5CoCrFeNi,As-cast,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.28,VSCE
+Cu0.5CoCrFeNi,As-cast,3.5% NaCl solution at 25 degC,Corrosion Current Density,2.03 x 10-9,A cm-2
+Cu0.5CoCrFeNi,As-cast,3.5% NaCl solution at 25 degC,Pitting Potential,0.07,VSCE
+Cu0.5CoCrFeNi,350 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.51,VSCE
+Cu0.5CoCrFeNi,350 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,3.91 x 10-8,A cm-2
+Cu0.5CoCrFeNi,350 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.06,VSCE
+Cu0.5CoCrFeNi,500 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.42,VSCE
+Cu0.5CoCrFeNi,500 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,1.17 x 10-7,A cm-2
+Cu0.5CoCrFeNi,500 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.06,VSCE
+Cu0.5CoCrFeNi,650 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.49,VSCE
+Cu0.5CoCrFeNi,650 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,2.11 x 10-8,A cm-2
+Cu0.5CoCrFeNi,650 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.02,VSCE
+Cu0.5CoCrFeNi,800 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.29,VSCE
+Cu0.5CoCrFeNi,800 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,1.71 x 10-8,A cm-2
+Cu0.5CoCrFeNi,800 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.01,VSCE
+Cu0.5CoCrFeNi,950 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.43,VSCE
+Cu0.5CoCrFeNi,950 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,1.10 x 10-7,A cm-2
+Cu0.5CoCrFeNi,950 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.03,VSCE
+Cu0.5CoCrFeNi,1100 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.4,VSCE
+Cu0.5CoCrFeNi,1100 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,1.41 x 10-7,A cm-2
+Cu0.5CoCrFeNi,1100 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.05,VSCE
+Cu0.5CoCrFeNi,1250 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.27,VSCE
+Cu0.5CoCrFeNi,1250 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,5.13 x 10-9,A cm-2
+Cu0.5CoCrFeNi,1250 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.04,VSCE
+Cu0.5CoCrFeNi,1350 degC,3.5% NaCl solution at 25 degC,Corrosion Potential,-0.41,VSCE
+Cu0.5CoCrFeNi,1350 degC,3.5% NaCl solution at 25 degC,Corrosion Current Density,4.58 x 10-8,A cm-2
+Cu0.5CoCrFeNi,1350 degC,3.5% NaCl solution at 25 degC,Pitting Potential,0.05,VSCE
+CoCrFeNiTi,As-cast,Dendrite,Chemical Composition,Co: 19.4; Cr: 27.48; Fe: 23.69; Ni: 14.44; Ti: 14.99,wt%
+CoCrFeNiTi,As-cast,Interdendrite,Chemical Composition,Co: 21.67; Cr: 12.41; Fe: 17.76; Ni: 23.36; Ti: 24.78,wt%
+CoCrFeNiTi,As-annealed,Dendrite,Chemical Composition,Co: 22.58; Cr: 24.56; Fe: 24.39; Ni: 20.85; Ti: 7.62,wt%
+CoCrFeNiTi,As-annealed,Interdendrite,Chemical Composition,Co: 22.44; Cr: 20.75; Fe: 19.41; Ni: 21.1; Ti: 16.3,wt%
+CoCrFeNiTiAl0.5,-,Nominal,Chemical Composition,Co: 18.2; Cr: 18.2; Fe: 18.2; Ni: 18.2; Ti: 18.2; Al: 9.0,at%
+CoCrFeNiTiAl0.5,-,E(A),Chemical Composition,Co: 13.62; Cr: 36.18; Fe: 26.93; Ni: 10.45; Ti: 8.64; Al: 3.04,at%
+CoCrFeNiTiAl0.5,-,Dendrite,Chemical Composition,Co: 24.66; Cr: 5.13; Fe: 9.82; Ni: 26.62; Ti: 20.36; Al: 12.62,at%
+CoCrFeNiTiAl0.5,-,Interdendrite,Chemical Composition,Co: 15.55; Cr: 27.58; Fe: 31.63; Ni: 10.78; Ti: 12.75; Al: 1.97,at%
+CoCrFeNiTiAl1.0,-,Nominal,Chemical Composition,Co: 16.6; Cr: 16.6; Fe: 16.7; Ni: 16.7; Ti: 16.7; Al: 16.7,at%
+CoCrFeNiTiAl1.0,-,E(A),Chemical Composition,Co: 14.71; Cr: 33.52; Fe: 27.39; Ni: 12.53; Ti: 8.54; Al: 6.36,at%
+CoCrFeNiTiAl1.0,-,Dendrite,Chemical Composition,Co: 21.91; Cr: 13.08; Fe: 14.44; Ni: 22.47; Ti: 17.51; Al: 20.31,at%
+CoCrFeNiTiAl1.0,-,Interdendrite,Chemical Composition,Co: 16.41; Cr: 24.92; Fe: 29.33; Ni: 14.11; Ti: 13.25; Al: 5.24,at%
+CoCrFeNiTiAl1.5,-,Nominal,Chemical Composition,Co: 15.4; Cr: 15.4; Fe: 15.4; Ni: 15.4; Ti: 15.4; Al: 23.0,at%
+CoCrFeNiTiAl1.5,-,Dendrite,Chemical Composition,Co: 22.87; Cr: 9.49; Fe: 14.44; Ni: 22.51; Ti: 17.4; Al: 24.55,at%
+CoCrFeNiTiAl1.5,-,Interdendrite,Chemical Composition,Co: 15.9; Cr: 23.27; Fe: 22.18; Ni: 15.12; Ti: 14.2; Al: 13.89,at%
+CoCrFeNiTiAl2.0,-,Nominal,Chemical Composition,Co: 14.3; Cr: 14.3; Fe: 14.3; Ni: 14.3; Ti: 14.3; Al: 28.5,at%
+CoCrFeNiTiAl2.0,-,Dendrite,Chemical Composition,Co: 17.64; Cr: 9.63; Fe: 11.84; Ni: 18.81; Ti: 17.29; Al: 30.63,at%
+CoCrFeNiTiAl2.0,-,Interdendrite,Chemical Composition,Co: 8.75; Cr: 42.89; Fe: 28.87; Ni: 4.79; Ti: 5.13; Al: 11.21,at%
+CoCrFeNiTiAl0.5,-,Nominal,Chemical Composition,Co: 18.2; Cr: 18.2; Fe: 18.2; Ni: 18.2; Ti: 18.2; Al: 9.0,at%
+CoCrFeNiTiAl0.5,-,Dendrite,Chemical Composition,Co: 20.55; Cr: 5.16; Fe: 9.83; Ni: 26.8; Ti: 20.35; Al: 12.77,at%
+CoCrFeNiTiAl0.5,-,Interdendrite,Chemical Composition,Co: 13.28; Cr: 36.3; Fe: 33.86; Ni: 7.1; Ti: 7.99; Al: 0.67,at%
+CoCrFeNiTiAl1.0,-,Nominal,Chemical Composition,Co: 16.6; Cr: 16.6; Fe: 16.7; Ni: 16.7; Ti: 16.7; Al: 16.7,at%
+CoCrFeNiTiAl1.0,-,Dendrite,Chemical Composition,Co: 24.25; Cr: 5.66; Fe: 10.13; Ni: 26.35; Ti: 20.62; Al: 18.46,at%
+CoCrFeNiTiAl1.0,-,Interdendrite,Chemical Composition,Co: 15.55; Cr: 29.74; Fe: 33.05; Ni: 10.02; Ti: 10.27; Al: 6.05,at%
+CoCrFeNiTiAl1.5,-,Nominal,Chemical Composition,Co: 15.4; Cr: 15.4; Fe: 15.4; Ni: 15.4; Ti: 15.4; Al: 23.0,at%
+CoCrFeNiTiAl1.5,-,Dendrite,Chemical Composition,Co: 26.06; Cr: 6.31; Fe: 10.99; Ni: 23.84; Ti: 18.11; Al: 25.36,at%
+CoCrFeNiTiAl1.5,-,Interdendrite,Chemical Composition,Co: 14.98; Cr: 26.31; Fe: 23.14; Ni: 13.97; Ti: 13.01; Al: 9.73,at%
+CoCrFeNiTiAl2.0,-,Nominal,Chemical Composition,Co: 14.3; Cr: 14.3; Fe: 14.3; Ni: 14.3; Ti: 14.3; Al: 28.5,at%
+CoCrFeNiTiAl2.0,-,Dendrite,Chemical Composition,Co: 18.96; Cr: 7.99; Fe: 12.45; Ni: 20.67; Ti: 12.26; Al: 27.67,at%
+CoCrFeNiTiAl2.0,-,Interdendrite,Chemical Composition,Co: 9.35; Cr: 41.31; Fe: 28.15; Ni: 5.57; Ti: 5.28; Al: 10.34,at%
+CoCrFeNiCu,-,-,Mixing Enthalpy,3.2,KJ/mol
+CoCrFeNiCu,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiAl,-,-,Mixing Enthalpy,-12.32,KJ/mol
+CoCrFeNiAl,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiMn,-,-,Mixing Enthalpy,-4.8,KJ/mol
+CoCrFeNiMn,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiTi,-,-,Mixing Enthalpy,-16.16,KJ/mol
+CoCrFeNiTi,-,-,Mixing Entropy,13.38,J/K*mol
+CrFeNiCuAl,-,-,Mixing Enthalpy,-4.64,KJ/mol
+CrFeNiCuAl,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiV,-,-,Mixing Enthalpy,-8.8,KJ/mol
+CoCrFeNiV,-,-,Mixing Entropy,13.38,J/K*mol
+CoCrFeNiCuAl,-,-,Mixing Enthalpy,-4.78,KJ/mol
+CoCrFeNiCuAl,-,-,Mixing Entropy,14.9,J/K*mol
+CoCrFeNiTiAl,-,-,Mixing Enthalpy,-20.44,KJ/mol
+CoCrFeNiTiAl,-,-,Mixing Entropy,14.9,J/K*mol
+CoCrFeNiMnAl,-,-,Mixing Enthalpy,-11.89,KJ/mol
+CoCrFeNiMnAl,-,-,Mixing Entropy,14.9,J/K*mol
+CoCrFeNiCuAlTi,-,-,Mixing Enthalpy,-13.8,KJ/mol
+CoCrFeNiCuAlTi,-,-,Mixing Entropy,16.18,J/K*mol
+CoCrFeNiCuAlMn,-,-,Mixing Enthalpy,-5.5,KJ/mol
+CoCrFeNiCuAlMn,-,-,Mixing Entropy,16.18,J/K*mol
+CoCrFeNiCuAlMnTiV,-,-,Mixing Enthalpy,-12.59,KJ/mol
+CoCrFeNiCuAlMnTiV,-,-,Mixing Entropy,18.27,J/K*mol
+FeNiCoCr,-,-,Melting Point,1422,°C
+FeNiCo,-,-,Melting Point,1451,°C
+FeNiCr,-,-,Melting Point,1391,°C
+NiCoCr,-,-,Melting Point,1417,°C
+FeNi,-,-,Melting Point,1430,°C
+NiCo,-,-,Melting Point,1462,°C
+Ni,-,-,Melting Point,1455,°C
+FeNiCoCr,-,-,Hall-Petch Coefficient,165.5,HV mm-2
+FeNiCo,-,-,Hall-Petch Coefficient,131.1,HV mm-2
+NiCoCr,-,-,Hall-Petch Coefficient,197.3,HV mm-2
+FeNi,-,-,Hall-Petch Coefficient,113.4,HV mm-2
+NiCo,-,-,Hall-Petch Coefficient,167.1,HV mm-2
+Ni,-,-,Hall-Petch Coefficient,34.3,HV mm-2
+Co-Cr,-,-,Mixing Enthalpy,-4,kJ/mol
+Co-Fe,-,-,Mixing Enthalpy,-1,kJ/mol
+Co-Ni,-,-,Mixing Enthalpy,0,kJ/mol
+Co-Nb,-,-,Mixing Enthalpy,-25,kJ/mol
+Cr-Fe,-,-,Mixing Enthalpy,-1,kJ/mol
+Cr-Ni,-,-,Mixing Enthalpy,-7,kJ/mol
+Cr-Nb,-,-,Mixing Enthalpy,-7,kJ/mol
+Fe-Ni,-,-,Mixing Enthalpy,-2,kJ/mol
+Fe-Nb,-,-,Mixing Enthalpy,-16,kJ/mol
+Ni-Nb,-,-,Mixing Enthalpy,-30,kJ/mol
+CoCrFeNiNb0,-,Nominal,Chemical Composition,Cr: 25.0; Fe: 25.0; Co: 25.0; Ni: 25.0; Nb: 0.0,wt%
+CoCrFeNiNb0,-,Region A,Chemical Composition,Cr: 20.23; Fe: 30.21; Co: 25.23; Ni: 24.32; Nb: 0.0,wt%
+CoCrFeNiNb0,-,Region B,Chemical Composition,Cr: 20.83; Fe: 26.12; Co: 25.43; Ni: 27.63; Nb: 0.0,wt%
+CoCrFeNiNb0.103,-,Nominal,Chemical Composition,Cr: 24.37; Fe: 24.37; Co: 24.37; Ni: 24.37; Nb: 2.52,wt%
+CoCrFeNiNb0.103,-,Base,Chemical Composition,Cr: 21.3; Fe: 28.46; Co: 24.68; Ni: 23.84; Nb: 1.73,wt%
+CoCrFeNiNb0.103,-,Precipitate,Chemical Composition,Cr: 14.57; Fe: 18.39; Co: 23.14; Ni: 22.74; Nb: 21.17,wt%
+CoCrFeNiNb0.155,-,Nominal,Chemical Composition,Cr: 24.07; Fe: 24.07; Co: 24.07; Ni: 24.07; Nb: 3.72,wt%
+CoCrFeNiNb0.155,-,Base,Chemical Composition,Cr: 21.11; Fe: 27.49; Co: 25.11; Ni: 24.47; Nb: 1.82,wt%
+CoCrFeNiNb0.155,-,Precipitate,Chemical Composition,Cr: 12.51; Fe: 16.9; Co: 23.25; Ni: 19.43; Nb: 27.91,wt%
+CoCrFeNiNb0.206,-,Nominal,Chemical Composition,Cr: 23.78; Fe: 23.78; Co: 23.78; Ni: 23.78; Nb: 4.88,wt%
+CoCrFeNiNb0.206,-,Base,Chemical Composition,Cr: 20.46; Fe: 26.39; Co: 25.1; Ni: 24.94; Nb: 3.1,wt%
+CoCrFeNiNb0.206,-,Precipitate,Chemical Composition,Cr: 16.44; Fe: 21.42; Co: 23.94; Ni: 22.76; Nb: 15.43,wt%
+CoCrFeNiNb0.309,-,Nominal,Chemical Composition,Cr: 23.21; Fe: 23.21; Co: 23.21; Ni: 23.21; Nb: 7.16,wt%
+CoCrFeNiNb0.309,-,Base,Chemical Composition,Cr: 21.68; Fe: 27.68; Co: 23.34; Ni: 24.15; Nb: 3.16,wt%
+CoCrFeNiNb0.309,-,Precipitate,Chemical Composition,Cr: 13.65; Fe: 17.26; Co: 24.19; Ni: 20.41; Nb: 24.5,wt%
+CoCrFeNiNb0.412,-,Nominal,Chemical Composition,Cr: 22.67; Fe: 22.67; Co: 22.67; Ni: 22.67; Nb: 9.32,wt%
+CoCrFeNiNb0.412,-,Base,Chemical Composition,Cr: 22.05; Fe: 28.43; Co: 23.07; Ni: 22.6; Nb: 3.85,wt%
+CoCrFeNiNb0.412,-,Precipitate,Chemical Composition,Cr: 13.92; Fe: 19.7; Co: 22.18; Ni: 17.45; Nb: 26.75,wt%
+CoCrFeNiNb0,-,-,Ultimate Tensile Strength,413,MPa
+CoCrFeNiNb0.103,-,-,Ultimate Tensile Strength,622,MPa
+CoCrFeNiNb0.155,-,-,Ultimate Tensile Strength,744,MPa
+CoCrFeNiNb0.206,-,-,Ultimate Tensile Strength,807,MPa
+CoCrFeNiNb0.309,-,-,Ultimate Tensile Strength,879,MPa
+CoCrFeNiNb0.412,-,-,Ultimate Tensile Strength,1004,MPa
+Nb0,-,-,Mixing Enthalpy,-3.7,kJ/mol
+Nb0.103,-,-,Mixing Enthalpy,-5.5,kJ/mol
+Nb0.155,-,-,Mixing Enthalpy,-6.3,kJ/mol
+Nb0.206,-,-,Mixing Enthalpy,-7.0,kJ/mol
+Nb0.309,-,-,Mixing Enthalpy,-8.4,kJ/mol
+Nb0.412,-,-,Mixing Enthalpy,-9.7,kJ/mol
+Nb0,-,-,Valence Electron Concentration,8.25,-
+Nb0.103,-,-,Valence Electron Concentration,8.17,-
+Nb0.155,-,-,Valence Electron Concentration,8.13,-
+Nb0.206,-,-,Valence Electron Concentration,8.09,-
+Nb0.309,-,-,Valence Electron Concentration,8.02,-
+Nb0.412,-,-,Valence Electron Concentration,7.95,-
+C-0,-,Designed,Chemical Composition,Al: 0.0; Co: 25.0; Cr: 25.0; Fe: 25.0; Ni: 25.0,at%
+C-0,-,Overall (FCC),Chemical Composition,Al: 0.0; Co: 24.16; Cr: 26.82; Fe: 24.48; Ni: 24.66,at%
+C-0.25,-,Designed,Chemical Composition,Al: 5.88; Co: 23.53; Cr: 23.53; Fe: 23.53; Ni: 23.53,at%
+C-0.25,-,Overall (FCC),Chemical Composition,Al: 5.61; Co: 23.14; Cr: 24.58; Fe: 24.1; Ni: 22.58,at%
+C-0.375,-,Designed,Chemical Composition,Al: 8.57; Co: 22.86; Cr: 22.86; Fe: 22.86; Ni: 22.86,at%
+C-0.375,-,Overall (FCC),Chemical Composition,Al: 7.82; Co: 22.61; Cr: 23.68; Fe: 23.34; Ni: 22.55,at%
+C-0.50,-,Designed,Chemical Composition,Al: 11.11; Co: 22.22; Cr: 22.22; Fe: 22.22; Ni: 22.22,at%
+C-0.50,-,Overall,Chemical Composition,Al: 12.4; Co: 21.02; Cr: 22.8; Fe: 20.91; Ni: 22.87,at%
+C-0.50,-,FCC (87.83%),Chemical Composition,Al: 10.36; Co: 21.8; Cr: 23.5; Fe: 21.83; Ni: 22.52,at%
+C-0.50,-,BCC (12.16%),Chemical Composition,Al: 16.93; Co: 18.65; Cr: 24.07; Fe: 18.5; Ni: 21.86,at%
+C-0.75,-,Designed,Chemical Composition,Al: 15.79; Co: 21.05; Cr: 21.05; Fe: 21.05; Ni: 21.05,at%
+C-0.75,-,Overall,Chemical Composition,Al: 15.0; Co: 21.04; Cr: 22.29; Fe: 21.16; Ni: 20.51,at%
+C-0.75,-,FCC (27.28%),Chemical Composition,Al: 13.19; Co: 21.6; Cr: 23.89; Fe: 22.43; Ni: 18.88,at%
+C-0.75,-,BCC (72.72%),Chemical Composition,Al: 15.86; Co: 20.99; Cr: 22.27; Fe: 20.8; Ni: 22.07,at%
+C-0.875,-,Designed,Chemical Composition,Al: 17.95; Co: 20.51; Cr: 20.51; Fe: 20.51; Ni: 20.51,at%
+C-0.875,-,Overall (BCC),Chemical Composition,Al: 16.18; Co: 20.56; Cr: 21.83; Fe: 21.33; Ni: 20.1,at%
+C-1.00,-,Designed,Chemical Composition,Al: 20.0; Co: 20.0; Cr: 20.0; Fe: 20.0; Ni: 20.0,at%
+C-1.00,-,Overall (BCC),Chemical Composition,Al: 18.26; Co: 19.78; Cr: 21.12; Fe: 20.68; Ni: 20.17,at%
+C-1.25,-,Designed,Chemical Composition,Al: 23.81; Co: 19.05; Cr: 19.05; Fe: 19.05; Ni: 19.05,at%
+C-1.25,-,Overall (BCC),Chemical Composition,Al: 23.03; Co: 19.36; Cr: 19.28; Fe: 18.74; Ni: 19.59,at%
+C-1.50,-,Designed,Chemical Composition,Al: 27.27; Co: 18.18; Cr: 18.18; Fe: 18.18; Ni: 18.18,at%
+C-1.50,-,Overall (BCC),Chemical Composition,Al: 27.79; Co: 18.17; Cr: 18.3; Fe: 18.08; Ni: 17.66,at%
+C-2.00,-,Designed,Chemical Composition,Al: 33.33; Co: 16.67; Cr: 16.67; Fe: 16.67; Ni: 16.67,at%
+C-2.00,-,Overall (BCC),Chemical Composition,Al: 32.01; Co: 16.79; Cr: 17.6; Fe: 16.78; Ni: 16.81,at%
+C-0,-,FCC phase,Lattice Constants,3.559,A
+C-0,-,-,Hardness,116.0±3,Hv
+C-0.25,-,FCC phase,Lattice Constants,3.567,A
+C-0.25,-,-,Hardness,110.0±2,Hv
+C-0.375,-,FCC phase,Lattice Constants,3.560,A
+C-0.375,-,-,Hardness,130.8±0.5,Hv
+C-0.50,-,FCC phase,Lattice Constants,3.574,A
+C-0.50,-,BCC phase,Lattice Constants,2.854,A
+C-0.50,-,-,Hardness,159.0±2,Hv
+C-0.75,-,FCC phase,Lattice Constants,3.569,A
+C-0.75,-,BCC phase,Lattice Constants,2.861,A
+C-0.75,-,-,Hardness,388.0±5,Hv
+C-0.875,-,BCC phase,Lattice Constants,2.860,A
+C-0.875,-,-,Hardness,538.0±12,Hv
+C-1.00,-,BCC phase,Lattice Constants,2.869,A
+C-1.00,-,-,Hardness,484.0±26,Hv
+C-1.25,-,BCC phase,Lattice Constants,2.860,A
+C-1.25,-,-,Hardness,487.0±19,Hv
+C-1.50,-,BCC phase,Lattice Constants,2.866,A
+C-1.50,-,-,Hardness,484.0±5,Hv
+C-2.00,-,BCC phase,Lattice Constants,2.867,A
+C-2.00,-,-,Hardness,509.0±27,Hv
+H-0,Designed,-,Chemical Composition,Al: 0.0; Co: 25.0; Cr: 25.0; Fe: 25.0; Ni: 25.0,at%
+H-0,Overall (FCC),-,Chemical Composition,Al: 0.0; Co: 24.47; Cr: 26.05; Fe: 25.09; Ni: 24.4,at%
+H-0.25,Designed,-,Chemical Composition,Al: 5.88; Co: 23.53; Cr: 23.53; Fe: 23.53; Ni: 23.53,at%
+H-0.25,Overall (FCC),-,Chemical Composition,Al: 5.89; Co: 23.21; Cr: 24.49; Fe: 23.82; Ni: 22.59,at%
+H-0.375,Designed,-,Chemical Composition,Al: 8.57; Co: 22.86; Cr: 22.86; Fe: 22.86; Ni: 22.86,at%
+H-0.375,Overall,-,Chemical Composition,Al: 8.03; Co: 22.63; Cr: 23.44; Fe: 23.22; Ni: 22.69,at%
+H-0.375,FCC (78.85%),-,Chemical Composition,Al: 6.2; Co: 23.34; Cr: 24.75; Fe: 24.19; Ni: 21.52,at%
+H-0.375,N-BCC (21.15%),-,Chemical Composition,Al: 15.78; Co: 19.88; Cr: 18.1; Fe: 19.14; Ni: 27.1,at%
+H-0.50,Designed,-,Chemical Composition,Al: 11.11; Co: 22.22; Cr: 22.22; Fe: 22.22; Ni: 22.22,at%
+H-0.50,Overall,-,Chemical Composition,Al: 12.1; Co: 22.63; Cr: 21.55; Fe: 21.66; Ni: 22.06,at%
+H-0.50,FCC (75.51%),-,Chemical Composition,Al: 7.81; Co: 22.9; Cr: 25.24; Fe: 24.02; Ni: 20.03,at%
+H-0.50,N-BCC (24.49%),-,Chemical Composition,Al: 29.51; Co: 16.42; Cr: 9.44; Fe: 12.04; Ni: 32.6,at%
+H-0.75,Designed,-,Chemical Composition,Al: 15.79; Co: 21.05; Cr: 21.05; Fe: 21.05; Ni: 21.05,at%
+H-0.75,Overall,-,Chemical Composition,Al: 15.66; Co: 21.19; Cr: 21.54; Fe: 20.92; Ni: 20.69,at%
+H-0.75,FCC (57.65%),-,Chemical Composition,Al: 7.84; Co: 22.68; Cr: 27.77; Fe: 25.61; Ni: 16.1,at%
+H-0.75,D-BCC (42.35%),-,Chemical Composition,Al: 30.21; Co: 17.61; Cr: 10.97; Fe: 13.12; Ni: 28.09,at%
+H-0.875,Designed,-,Chemical Composition,Al: 17.95; Co: 20.51; Cr: 20.51; Fe: 20.51; Ni: 20.51,at%
+H-0.875,Overall,-,Chemical Composition,Al: 17.33; Co: 21.15; Cr: 20.93; Fe: 20.18; Ni: 20.43,at%
+H-0.875,W-FCC (37.12%),-,Chemical Composition,Al: 7.99; Co: 22.98; Cr: 27.18; Fe: 26.1; Ni: 15.74,at%
+H-0.875,BCC (62.88%),-,Chemical Composition,Al: 27.25; Co: 18.69; Cr: 13.43; Fe: 14.46; Ni: 26.18,at%
+H-1.00,Designed,-,Chemical Composition,Al: 20.0; Co: 20.0; Cr: 20.0; Fe: 20.0; Ni: 20.0,at%
+H-1.00,Overall,-,Chemical Composition,Al: 20.12; Co: 19.58; Cr: 20.7; Fe: 20.33; Ni: 19.27,at%
+H-1.00,W-FCC (18.87%),-,Chemical Composition,Al: 6.98; Co: 23.12; Cr: 27.78; Fe: 27.7; Ni: 14.42,at%
+H-1.00,BCC (81.13%),-,Chemical Composition,Al: 26.49; Co: 19.56; Cr: 12.76; Fe: 15.52; Ni: 25.67,at%
+H-1.25,Designed,-,Chemical Composition,Al: 23.81; Co: 19.05; Cr: 19.05; Fe: 19.05; Ni: 19.05,at%
+H-1.25,Overall,-,Chemical Composition,Al: 25.53; Co: 19.24; Cr: 19.06; Fe: 19.11; Ni: 19.06,at%
+H-1.25,W-BCC (26.08%),-,Chemical Composition,Al: 11.74; Co: 18.4; Cr: 33.63; Fe: 26.37; Ni: 9.85,at%
+H-1.25,BCC (matrix, 73.92%),-,Chemical Composition,Al: 27.69; Co: 19.27; Cr: 14.32; Fe: 16.45; Ni: 22.27,at%
+H-1.50,Designed,-,Chemical Composition,Al: 27.27; Co: 18.18; Cr: 18.18; Fe: 18.18; Ni: 18.18,at%
+H-1.50,Overall,-,Chemical Composition,Al: 27.44; Co: 18.69; Cr: 18.26; Fe: 17.95; Ni: 17.66,at%
+H-1.50,W-BCC (18.21%),-,Chemical Composition,Al: 11.32; Co: 15.68; Cr: 38.48; Fe: 27.5; Ni: 7.02,at%
+H-1.50,BCC (matrix, 81.79%),-,Chemical Composition,Al: 31.03; Co: 19.07; Cr: 13.34; Fe: 15.07; Ni: 21.49,at%
+H-2.00,Designed,-,Chemical Composition,Al: 33.33; Co: 16.67; Cr: 16.67; Fe: 16.67; Ni: 16.67,at%
+H-2.00,Overall,-,Chemical Composition,Al: 30.13; Co: 17.65; Cr: 17.96; Fe: 17.29; Ni: 16.97,at%
+H-2.00,W-BCC (30.94%),-,Chemical Composition,Al: 18.19; Co: 12.27; Cr: 36.8; Fe: 25.21; Ni: 7.53,at%
+H-2.00,BCC (matrix, 69.06%),-,Chemical Composition,Al: 35.48; Co: 19.29; Cr: 10.63; Fe: 14.21; Ni: 20.4,at%
+H-0,-,FCC phase,Lattice Constants,3.561,A
+H-0,-,-,Hardness,113.0+-0.4,Hv
+H-0.25,-,FCC phase,Lattice Constants,3.573,A
+H-0.25,-,-,Hardness,113.0+-4,Hv
+H-0.375,-,FCC phase,Lattice Constants,3.569,A
+H-0.375,-,-,Hardness,196.0+-2,Hv
+H-0.50,-,FCC phase,Lattice Constants,3.591,A
+H-0.50,-,BCC phase,Lattice Constants,2.873,A
+H-0.50,-,-,Hardness,209.0+-12,Hv
+H-0.75,-,FCC phase,Lattice Constants,3.589,A
+H-0.75,-,BCC phase,Lattice Constants,2.873,A
+H-0.75,-,-,Hardness,280.0+-3,Hv
+H-0.875,-,FCC phase,Lattice Constants,3.577,A
+H-0.875,-,BCC phase,Lattice Constants,2.869,A
+H-0.875,-,-,Hardness,361.0+-7,Hv
+H-1.00,-,FCC phase,Lattice Constants,3.583,A
+H-1.00,-,BCC phase,Lattice Constants,2.862,A
+H-1.00,-,-,Hardness,433.0+-22,Hv
+H-1.25,-,BCC phase,Lattice Constants,2.866,A
+H-1.25,-,-,Hardness,499.0+-23,Hv
+H-1.50,-,BCC phase,Lattice Constants,2.871,A
+H-1.50,-,-,Hardness,517.3+-21,Hv
+H-2.00,-,BCC phase,Lattice Constants,2.866,A
+H-2.00,-,-,Hardness,512.4+-18,Hv
+D-0,-,FCC phase,Lattice Constants,3.554,A
+D-0,-,BCC phase,Lattice Constants,-,-
+D-0,-,-,Hardness,325±9,Hv
+D-0.25,-,FCC phase,Lattice Constants,3.578,A
+D-0.25,-,BCC phase,Lattice Constants,-,-
+D-0.25,-,-,Hardness,346±5,Hv
+D-0.375,-,FCC phase,Lattice Constants,3.579,A
+D-0.375,-,BCC phase,Lattice Constants,nan,-
+D-0.375,-,-,Hardness,360±7,Hv
+D-0.50,-,FCC phase,Lattice Constants,3.561,A
+D-0.50,-,BCC phase,Lattice Constants,2.852,A
+D-0.50,-,-,Hardness,368±4,Hv
+D-0.75,-,FCC phase,Lattice Constants,3.568,A
+D-0.75,-,BCC phase,Lattice Constants,2.857,A
+D-0.75,-,-,Hardness,434±8,Hv
+D-0.875,-,FCC phase,Lattice Constants,3.597,A
+D-0.875,-,BCC phase,Lattice Constants,2.856,A
+D-0.875,-,-,Hardness,497±7,Hv
+D-0,-,Designed,Chemical Composition,Al: 0.0; Co: 25.0; Cr: 25.0; Fe: 25.0; Ni: 25.0,at%
+D-0,-,Overall (FCC),Chemical Composition,Al: 0.0; Co: 25.61; Cr: 25.17; Fe: 24.84; Ni: 24.38,at%
+D-0.25,-,Designed,Chemical Composition,Al: 5.88; Co: 23.53; Cr: 23.53; Fe: 23.53; Ni: 23.53,at%
+D-0.25,-,Overall (FCC),Chemical Composition,Al: 5.41; Co: 23.55; Cr: 24.17; Fe: 23.81; Ni: 23.06,at%
+D-0.375,-,Designed,Chemical Composition,Al: 8.57; Co: 22.86; Cr: 22.86; Fe: 22.86; Ni: 22.86,at%
+D-0.375,-,Overall,Chemical Composition,Al: 7.83; Co: 23.03; Cr: 23.24; Fe: 22.99; Ni: 22.91,at%
+D-0.375,-,FCC (78.85%),Chemical Composition,Al: 7.08; Co: 23.67; Cr: 23.66; Fe: 22.98; Ni: 22.61,at%
+D-0.375,-,N-BCC (21.15%),Chemical Composition,Al: 24.93; Co: 16.52; Cr: 11.42; Fe: 13.52; Ni: 33.62,at%
+D-0.50,-,Designed,Chemical Composition,Al: 11.11; Co: 22.22; Cr: 22.22; Fe: 22.22; Ni: 22.22,at%
+D-0.50,-,Overall,Chemical Composition,Al: 11.05; Co: 21.75; Cr: 22.86; Fe: 22.27; Ni: 22.06,at%
+D-0.50,-,FCC (75.51%),Chemical Composition,Al: 7.66; Co: 23.12; Cr: 24.95; Fe: 23.79; Ni: 20.48,at%
+D-0.50,-,N-BCC (24.49%),Chemical Composition,Al: 29.64; Co: 16.47; Cr: 8.49; Fe: 11.78; Ni: 33.61,at%
+D-0.75,-,Designed,Chemical Composition,Al: 15.79; Co: 21.05; Cr: 21.05; Fe: 21.05; Ni: 21.05,at%
+D-0.75,-,Overall,Chemical Composition,Al: 15.45; Co: 21.06; Cr: 21.5; Fe: 20.99; Ni: 20.99,at%
+D-0.75,-,FCC (57.65%),Chemical Composition,Al: 7.81; Co: 22.88; Cr: 27.8; Fe: 24.52; Ni: 16.99,at%
+D-0.75,-,D-BCC (42.35%),Chemical Composition,Al: 29.05; Co: 17.6; Cr: 11.0; Fe: 12.87; Ni: 29.48,at%
+D-0.875,-,Designed,Chemical Composition,Al: 17.95; Co: 20.51; Cr: 20.51; Fe: 20.51; Ni: 20.51,at%
+D-0.875,-,Overall,Chemical Composition,Al: 16.9; Co: 19.77; Cr: 21.35; Fe: 20.77; Ni: 21.22,at%
+D-0.875,-,W-FCC (37.12%),Chemical Composition,Al: 6.35; Co: 29.37; Cr: 25.93; Fe: 22.33; Ni: 16.02,at%
+D-0.875,-,BCC (62.88%),Chemical Composition,Al: 26.87; Co: 12.97; Cr: 15.01; Fe: 18.3; Ni: 26.85,at%
+AlCoCrFeNiC,Nominal,-,Atomic Radius,Al: 1.43; Co: 1.25; Cr: 1.21; Fe: 1.24; Ni: 1.24; C: 0.91,Å
+AlCoCrFeNiC0.0,as-cast,-,Elastic Modulus,125.1,GPa
+AlCoCrFeNiC0.0,as-cast,-,Yield Stress,1138,MPa
+AlCoCrFeNiC0.1,as-cast,-,Elastic Modulus,213.2,GPa
+AlCoCrFeNiC0.1,as-cast,-,Yield Stress,957,MPa
+AlCoCrFeNiC0.1,as-cast,-,Compressive Strength,2550,MPa
+AlCoCrFeNiC0.1,as-cast,-,Strain,10.52,%
+AlCoCrFeNiC0.2,as-cast,-,Elastic Modulus,150.9,GPa
+AlCoCrFeNiC0.2,as-cast,-,Yield Stress,906,MPa
+AlCoCrFeNiC0.2,as-cast,-,Compressive Strength,2386,MPa
+AlCoCrFeNiC0.2,as-cast,-,Strain,8.68,%
+AlCoCrFeNiC0.3,as-cast,-,Elastic Modulus,137.2,GPa
+AlCoCrFeNiC0.3,as-cast,-,Yield Stress,867,MPa
+AlCoCrFeNiC0.3,as-cast,-,Compressive Strength,2178,MPa
+AlCoCrFeNiC0.3,as-cast,-,Strain,7.82,%
+AlCoCrFeNiC0.4,as-cast,-,Elastic Modulus,156.1,GPa
+AlCoCrFeNiC0.4,as-cast,-,Yield Stress,1056,MPa
+AlCoCrFeNiC0.4,as-cast,-,Compressive Strength,2375,MPa
+AlCoCrFeNiC0.4,as-cast,-,Strain,6.67,%
+AlCoCrFeNiC0.5,as-cast,-,Elastic Modulus,180.8,GPa
+AlCoCrFeNiC0.5,as-cast,-,Yield Stress,1060,MPa
+AlCoCrFeNiC0.5,as-cast,-,Compressive Strength,2250,MPa
+AlCoCrFeNiC0.5,as-cast,-,Strain,5.60,%
+AlCoCrFeNiC1.0,as-cast,-,Elastic Modulus,75.1,GPa
+AlCoCrFeNiC1.0,as-cast,-,Yield Stress,1251,MPa
+AlCoCrFeNiC1.0,as-cast,-,Compressive Strength,2166,MPa
+AlCoCrFeNiC1.0,as-cast,-,Strain,7.04,%
+AlCoCrFeNiC1.5,as-cast,-,Elastic Modulus,72.5,GPa
+AlCoCrFeNiC1.5,as-cast,-,Yield Stress,1255,MPa
+AlCoCrFeNiC1.5,as-cast,-,Compressive Strength,2083,MPa
+AlCoCrFeNiC1.5,as-cast,-,Strain,5.54,%
+TaNbHfZrTi,-,-,Elemental Composition,Ta: 19.68; Nb: 18.93; Hf: 20.46; Zr: 21.23; Ti: 19.7,at%
+TaNbHfZrTi,-,-,Elemental Composition,Ta: 30.04; Nb: 14.84; Hf: 30.82; Zr: 16.34; Ti: 7.96,wt%
+Ta,-,-,Lattice Parameter,330.3,pm
+Nb,-,-,Lattice Parameter,330.1,pm
+Hf,-,-,Lattice Parameter,355.9,pm
+Zr,-,-,Lattice Parameter,358.2,pm
+Ti,-,-,Lattice Parameter,327.6,pm
+Alloy Calc.,-,-,Lattice Parameter,340.9,pm
+Alloy Exp.,-,-,Lattice Parameter,340.4,pm
+Ta,-,-,Density,16.65,g/cm3
+Nb,-,-,Density,8.57,g/cm3
+Hf,-,-,Density,13.31,g/cm3
+Zr,-,-,Density,6.51,g/cm3
+Ti,-,-,Density,4.51,g/cm3
+Alloy Calc.,-,-,Density,9.89,g/cm3
+Alloy Exp.,-,-,Density,9.94,g/cm3
+Ta,-,-,Hardness,873.0,MPa
+Nb,-,-,Hardness,1320.0,MPa
+Hf,-,-,Hardness,1760.0,MPa
+Zr,-,-,Hardness,903.0,MPa
+Ti,-,-,Hardness,970.0,MPa
+Alloy Calc.,-,-,Hardness,1165.0,MPa
+Alloy Exp.,-,-,Hardness,3826.0,MPa
+Ta,-,-,Yield Strength,170.0,MPa
+Nb,-,-,Yield Strength,240.0,MPa
+Hf,-,-,Yield Strength,240.0,MPa
+Zr,-,-,Yield Strength,280.0,MPa
+Ti,-,-,Yield Strength,195.0,MPa
+Alloy Calc.,-,-,Yield Strength,226.0,MPa
+Alloy Exp.,-,-,Yield Strength,929.0,MPa
+BCC,-,Milling time(in h): 30,Lattice Strain,0.51,%
+BCC,-,Milling time(in h): 45,Lattice Strain,0.86,%
+BCC,-,Milling time(in h): 49,Lattice Strain,0.98,%
+FCC,-,Milling time(in h): 30,Lattice Strain,0.42,%
+FCC,-,Milling time(in h): 45,Lattice Strain,0.97,%
+FCC,-,Milling time(in h): 49,Lattice Strain,1.32,%
+A, D, E, G, H, I, J, K, M, N, O, P, T, W, X, Y, Z,-,Crystal Structure,FCC1,-
+B,C, F, L,U, Q, R, S,-,Crystal Structure,FCC2,-
+V,-,Crystal Structure,BCC,-
+Nominal composition,-,-,Chemical Composition,Co: 20; Fe: 20; Ni: 20; Cr: 20; Al: 12; Ti: 8,at%
+CoFeNiCrAl0.6Ti0.4,SPS,-,Yield Strength,2.08,GPa
+CoFeNiCrAl0.6Ti0.4,SPS,-,Ultimate Tensile Strength,2.52,GPa
+CoFeNiCrAl0.6Ti0.4,SPS,-,Hardness,573,Hv
+CoFeNiCrAlTi,Copper mold casting,-,Yield Strength,1.86,GPa
+CoFeNiCrAlTi,Copper mold casting,-,Ultimate Tensile Strength,2.58,GPa
+CoFeNiCrAlTi,Arc-melting,-,Ultimate Tensile Strength,2.28,GPa
+CoFeNiCrAlTi,SPS,-,Hardness,432,Hv
+CoFe,-,-,Mixing Enthalpy,-1,kJ/mol
+CoNi,-,-,Mixing Enthalpy,0,kJ/mol
+CoCr,-,-,Mixing Enthalpy,-4,kJ/mol
+CoAl,-,-,Mixing Enthalpy,-19,kJ/mol
+CoTi,-,-,Mixing Enthalpy,-28,kJ/mol
+FeNi,-,-,Mixing Enthalpy,-2,kJ/mol
+FeCr,-,-,Mixing Enthalpy,-1,kJ/mol
+FeAl,-,-,Mixing Enthalpy,-11,kJ/mol
+FeTi,-,-,Mixing Enthalpy,-17,kJ/mol
+NiCr,-,-,Mixing Enthalpy,-7,kJ/mol
+NiAl,-,-,Mixing Enthalpy,-22,kJ/mol
+NiTi,-,-,Mixing Enthalpy,-35,kJ/mol
+CrAl,-,-,Mixing Enthalpy,-10,kJ/mol
+CrTi,-,-,Mixing Enthalpy,-7,kJ/mol
+AlTi,-,-,Mixing Enthalpy,-30,kJ/mol
+HfNbTaTiZr,as-cold-rolled,Condition: 65% thickness reduction,Hardness,367 ± 8,Hv
+HfNbTaTiZr,annealed at 800 degC,Condition: 65% thickness reduction,Hardness,374 ± 8,Hv
+HfNbTaTiZr,annealed at 1000 degC,Condition: 65% thickness reduction,Hardness,347 ± 6,Hv
+HfNbTaTiZr,annealed at 1200 degC,Condition: 65% thickness reduction,Hardness,367 ± 5,Hv
+HfNbTaTiZr,as-cold-rolled,Condition: 86.4% thickness reduction,Hardness,366 ± 4,Hv
+HfNbTaTiZr,annealed at 800 degC,Condition: 86.4% thickness reduction,Hardness,375 ± 5,Hv
+HfNbTaTiZr,annealed at 1000 degC,Condition: 86.4% thickness reduction,Hardness,351 ± 7,Hv
+HfNbTaTiZr,annealed at 1200 degC,Condition: 86.4% thickness reduction,Hardness,370 ± 5,Hv
+HfNbTaTiZr,As-cold-rolled,-,Stress,1202,MPa
+HfNbTaTiZr,As-cold-rolled,-,Stress,1295,MPa
+HfNbTaTiZr,As-cold-rolled,-,Elastic Moduli,93.3,GPa
+HfNbTaTiZr,Cold-rolled + annealed at 800 degC/2 h,-,Stress,1303,MPa
+HfNbTaTiZr,Cold-rolled + annealed at 800 degC/2 h,-,Elastic Moduli,100.0,GPa
+HfNbTaTiZr,Cold-rolled + annealed at 1000 degC/2 h,-,Stress,1145,MPa
+HfNbTaTiZr,Cold-rolled + annealed at 1000 degC/2 h,-,Elastic Moduli,99.2,GPa
+HfNbTaTiZr,cold-rolled,annealing at 800 degC for 2 h; Particles,Chemical Composition,Hf: 16.5 ± 1.7; Nb: 22.0 ± 0.7; Ta: 30.7 ± 3.1; Ti: 16.8 ± 1.0; Zr: 14.0 ± 1.3,at%
+HfNbTaTiZr,cold-rolled,annealing at 800 degC for 2 h; Recrystallized grains,Chemical Composition,Hf: 23.3 ± 1.2; Nb: 18.1 ± 0.3; Ta: 17.3 ± 0.5; Ti: 19.8 ± 0.3; Zr: 21.5 ± 1.5,at%
+HfNbTaTiZr,cold-rolled,annealing at 800 degC for 2 h; Unrecrystallized grains: regions without particles,Chemical Composition,Hf: 22.3 ± 0.9; Nb: 18.7 ± 0.6; Ta: 20.8 ± 1.3; Ti: 18.8 ± 0.6; Zr: 19.4 ± 1.3,at%
+HfNbTaTiZr,cold-rolled,annealing at 800 degC for 2 h; Unrecrystallized grains: regions with particles,Chemical Composition,Hf: 22.5 ± 0.3; Nb: 19.7 ± 0.3; Ta: 23.7 ± 0.9; Ti: 17.9 ± 0.5; Zr: 16.3 ± 0.4,at%
+HfNbTaTiZr,cold-rolled,annealing at 800 degC for 2 h; Overall alloy composition,Chemical Composition,Hf: 20.8 ± 0.1; Nb: 19.6 ± 0.3; Ta: 21.5 ± 0.3; Ti: 18.8 ± 0.2; Zr: 19.4 ± 0.1,at%
+Hf,-,-,Young's modulus,78.0,GPa
+Nb,-,-,Young's modulus,105.0,GPa
+Ta,-,-,Young's modulus,186.0,GPa
+Ti,-,-,Young's modulus,116.0,GPa
+Zr,-,-,Young's modulus,68.0,GPa
+HfNbTaTiZr,-,-,Young's modulus,107.9,GPa
+AlNbTiV,-,-,Density,5590 +- 70,kg/m³
+AlCr0.5NbTiV,-,-,Density,5710 +- 80,kg/m³
+AlCrNbTiV,-,-,Density,5820 +- 120,kg/m³
+AlCr1.5NbTiV,-,-,Density,5900 +- 80,kg/m³
+AlNbTiV,-,Temperature(in degS): 22,Yield Strength,1000,MPa
+AlNbTiV,-,Temperature(in degS): 600,Yield Strength,780,MPa
+AlNbTiV,-,Temperature(in degS): 800,Yield Strength,560,MPa
+AlNbTiV,-,Temperature(in degS): 1000,Yield Strength,110,MPa
+AlCr0.5NbTiV,-,Temperature(in degS): 22,Yield Strength,1300,MPa
+AlCr0.5NbTiV,-,Temperature(in degS): 600,Yield Strength,1005,MPa
+AlCr0.5NbTiV,-,Temperature(in degS): 800,Yield Strength,640,MPa
+AlCr0.5NbTiV,-,Temperature(in degS): 1000,Yield Strength,40,MPa
+AlCrNbTiV,-,Temperature(in degS): 22,Yield Strength,1550,MPa
+AlCrNbTiV,-,Temperature(in degS): 600,Yield Strength,1015,MPa
+AlCrNbTiV,-,Temperature(in degS): 800,Yield Strength,860,MPa
+AlCrNbTiV,-,Temperature(in degS): 1000,Yield Strength,65,MPa
+AlCr1.5NbTiV,-,Temperature(in degS): 22,Yield Strength,1700,MPa
+AlCr1.5NbTiV,-,Temperature(in degS): 600,Yield Strength,1370,MPa
+AlCr1.5NbTiV,-,Temperature(in degS): 800,Yield Strength,970,MPa
+AlCr1.5NbTiV,-,Temperature(in degS): 1000,Yield Strength,75,MPa
+AlNbTiV,homogenized,Grains,Chemical Composition,Al: 27.4 ± 0.3; Nb: 24.2 ± 0.3; Ti: 24.6 ± 0.1; V: 23.8 ± 0.2,at%
+AlNbTiV,homogenized,Alloy composition,Chemical Composition,Al: 27.6 ± 0.2; Nb: 24.1 ± 0.1; Ti: 24.8 ± 0.3; V: 23.5 ± 0.1,at%
+AlCr0.5NbTiV,homogenized,Grains,Chemical Composition,Al: 25.5 ± 0.1; Cr: 10.1 ± 0.2; Nb: 22.4 ± 0.3; Ti: 21.6 ± 0.3; V: 20.4 ± 0.1,at%
+AlCr0.5NbTiV,homogenized,Alloy composition,Chemical Composition,Al: 25.6 ± 0.2; Cr: 10.2 ± 0.2; Nb: 22.2 ± 0.1; Ti: 21.4 ± 0.2; V: 20.6 ± 0.3,at%
+AlCrNbTiV,homogenized,Grains,Chemical Composition,Al: 23.2 ± 0.2; Cr: 17.6 ± 0.3; Nb: 19.9 ± 0.4; Ti: 20.1 ± 0.3; V: 19.2 ± 0.2,at%
+AlCrNbTiV,homogenized,Light particles,Chemical Composition,Al: 18.0 ± 0.3; Cr: 34.5 ± 0.4; Nb: 25.5 ± 0.5; Ti: 9.4 ± 0.2; V: 12.6 ± 0.1,at%
+AlCrNbTiV,homogenized,Alloy composition,Chemical Composition,Al: 22.9 ± 0.2; Cr: 18.8 ± 0.3; Nb: 20.2 ± 0.1; Ti: 19.3 ± 0.2; V: 18.8 ± 0.4,at%
+AlCr1.5NbTiV,homogenized,Grains,Chemical Composition,Al: 23.1 ± 0.3; Cr: 20.4 ± 0.1; Nb: 16.2 ± 0.4; Ti: 21.1 ± 0.1; V: 19.2 ± 0.2,at%
+AlCr1.5NbTiV,homogenized,Light particles,Chemical Composition,Al: 16.9 ± 0.1; Cr: 36.8 ± 0.5; Nb: 24.4 ± 0.2; Ti: 10.3 ± 0.3; V: 11.6 ± 0.4,at%
+AlCr1.5NbTiV,homogenized,Alloy composition,Chemical Composition,Al: 21.7 ± 0.2; Cr: 25.0 ± 0.3; Nb: 18.7 ± 0.2; Ti: 17.8 ± 0.3; V: 16.8 ± 0.1,at%
+AlNbTiV,Grains,Compression at 800 degC,Chemical Composition,Al: 26.4 ± 0.2; Nb: 24.2 ± 0.1; Ti: 25.3 ± 0.2; V: 24.4 ± 0.3,at%
+AlNbTiV,Precipitation-containing zone,Compression at 800 degC,Chemical Composition,Al: 26.5 ± 0.1; Nb: 23.9 ± 0.2; Ti: 25.3 ± 0.5; V: 24.1 ± 0.4,at%
+AlNbTiV,Alloy composition,Compression at 800 degC,Chemical Composition,Al: 27.6 ± 0.2; Nb: 24.1 ± 0.1; Ti: 24.8 ± 0.3; V: 23.5 ± 0.1,at%
+AlCr0.5NbTiV,Grains,Compression at 800 degC,Chemical Composition,Al: 24.3 ± 0.3; Cr: 10.1 ± 0.4; Nb: 22.3 ± 0.2; Ti: 22.0 ± 0.1; V: 21.3 ± 0.3,at%
+AlCr0.5NbTiV,Precipitation-containing zone,Compression at 800 degC,Chemical Composition,Al: 24.7 ± 0.1; Cr: 11.1 ± 0.3; Nb: 22.7 ± 0.3; Ti: 20.6 ± 0.2; V: 20.9 ± 0.2,at%
+AlCr0.5NbTiV,Alloy composition,Compression at 800 degC,Chemical Composition,Al: 25.6 ± 0.2; Cr: 10.2 ± 0.2; Nb: 22.2 ± 0.1; Ti: 21.4 ± 0.2; V: 20.6 ± 0.3,at%
+AlCrNbTiV,Grains,Compression at 800 degC,Chemical Composition,Al: 22.3 ± 0.2; Cr: 17.7 ± 0.1; Nb: 17.4 ± 0.2; Ti: 21.9 ± 0.3; V: 20.6 ± 0.1,at%
+AlCrNbTiV,Light particles,Compression at 800 degC,Chemical Composition,Al: 17.6 ± 0.1; Cr: 35.2 ± 0.4; Nb: 23.0 ± 0.2; Ti: 10.3 ± 0.1; V: 13.9 ± 0.2,at%
+AlCrNbTiV,Precipitation-containing zone,Compression at 800 degC,Chemical Composition,Al: 22.5 ± 0.3; Cr: 17.0 ± 0.2; Nb: 17.7 ± 0.2; Ti: 22.6 ± 0.1; V: 22.2 ± 0.3,at%
+AlCrNbTiV,Alloy composition,Compression at 800 degC,Chemical Composition,Al: 22.9 ± 0.2; Cr: 18.8 ± 0.3; Nb: 20.2 ± 0.1; Ti: 19.3 ± 0.2; V: 18.8 ± 0.4,at%
+AlCr1.5NbTiV,Grains,Compression at 800 degC,Chemical Composition,Al: 21.8 ± 0.1; Cr: 20.7 ± 0.2; Nb: 14.8 ± 0.2; Ti: 22.3 ± 0.1; V: 20.4 ± 0.1,at%
+AlCr1.5NbTiV,Light particles,Compression at 800 degC,Chemical Composition,Al: 16.6 ± 0.2; Cr: 38.7 ± 0.1; Nb: 23.8 ± 0.2; Ti: 9.5 ± 0.2; V: 11.4 ± 0.1,at%
+AlCr1.5NbTiV,Precipitation-containing zone,Compression at 800 degC,Chemical Composition,Al: 20.6 ± 0.3; Cr: 22.9 ± 0.1; Nb: 16.6 ± 0.3; Ti: 20.9 ± 0.3; V: 19.0 ± 0.3,at%
+AlCr1.5NbTiV,Alloy composition,Compression at 800 degC,Chemical Composition,Al: 21.7 ± 0.2; Cr: 25.0 ± 0.3; Nb: 18.7 ± 0.2; Ti: 17.8 ± 0.3; V: 16.8 ± 0.1,at%
+AlNbTiV,Grains,-,Chemical Composition,Al: 27.4 ± 0.2; Nb: 23.8 ± 0.1; Ti: 24.8 ± 0.2; V: 24.0 ± 0.1,at%
+AlNbTiV,Grey particles,-,Chemical Composition,Al: 32.3 ± 0.1; Nb: 32.3 ± 0.3; Ti: 19.2 ± 0.1; V: 16.2 ± 0.2,at%
+AlNbTiV,-,-,Chemical Composition,Al: 27.6 ± 0.2; Nb: 24.1 ± 0.1; Ti: 24.8 ± 0.3; V: 23.5 ± 0.1,at%
+AlCr0.5NbTiV,Grains,-,Chemical Composition,Al: 24.2 ± 0.1; Cr: 10.5 ± 0.2; Nb: 18.5 ± 0.2; Ti: 23.9 ± 0.1; V: 22.9 ± 0.3,at%
+AlCr0.5NbTiV,Grey particles,-,Chemical Composition,Al: 27.2 ± 0.2; Cr: 4.7 ± 0.1; Nb: 39.0 ± 0.4; Ti: 18.5 ± 0.3; V: 10.6 ± 0.2,at%
+AlCr0.5NbTiV,Light particles,-,Chemical Composition,Al: 13.5 ± 0.1; Cr: 30.8 ± 0.4; Nb: 24.9 ± 0.4; Ti: 10.7 ± 0.2; V: 20.1 ± 0.2,at%
+AlCr0.5NbTiV,-,-,Chemical Composition,Al: 25.6 ± 0.2; Cr: 10.2 ± 0.2; Nb: 22.2 ± 0.1; Ti: 21.4 ± 0.2; V: 20.6 ± 0.3,at%
+AlCrNbTiV,Grains,-,Chemical Composition,Al: 24.4 ± 0.2; Cr: 15.1 ± 0.2; Nb: 17.4 ± 0.3; Ti: 22.9 ± 0.1; V: 20.2 ± 0.1,at%
+AlCrNbTiV,Coarse light particles,-,Chemical Composition,Al: 15.2 ± 0.1; Cr: 35.8 ± 0.5; Nb: 25.1 ± 0.3; Ti: 9.9 ± 0.2; V: 14.0 ± 0.4,at%
+AlCrNbTiV,Fine light particles,-,Chemical Composition,Al: 15.6 ± 0.4; Cr: 29.9 ± 0.3; Nb: 23.8 ± 0.4; Ti: 13.2 ± 0.4; V: 17.5 ± 0.2,at%
+AlCrNbTiV,-,-,Chemical Composition,Al: 22.9 ± 0.2; Cr: 18.8 ± 0.3; Nb: 20.2 ± 0.1; Ti: 19.3 ± 0.2; V: 18.8 ± 0.4,at%
+AlCr1.5NbTiV,Grains,-,Chemical Composition,Al: 21.4 ± 0.4; Cr: 15.1 ± 0.3; Nb: 12.6 ± 0.2; Ti: 28.0 ± 0.1; V: 22.9 ± 0.1,at%
+AlCr1.5NbTiV,Coarse light particles,-,Chemical Composition,Al: 14.0 ± 0.2; Cr: 39.1 ± 0.6; Nb: 23.7 ± 0.4; Ti: 10.4 ± 0.1; V: 12.8 ± 0.2,at%
+AlCr1.5NbTiV,Fine light particles,-,Chemical Composition,Al: 14.2 ± 0.1; Cr: 35.4 ± 0.1; Nb: 22.2 ± 0.2; Ti: 12.5 ± 0.4; V: 15.7 ± 0.1,at%
+AlCr1.5NbTiV,-,-,Chemical Composition,Al: 21.7 ± 0.2; Cr: 25.0 ± 0.3; Nb: 18.7 ± 0.2; Ti: 17.8 ± 0.3; V: 16.8 ± 0.1,at%
+AlNbTiV,-,Temperature(in degC): 600;Phase: BCC_A2,Phase Fractions,0.697,-
+AlNbTiV,-,Temperature(in degC): 600;Phase: Ti3Al,Phase Fractions,0.303,-
+AlNbTiV,-,Temperature(in degC): 800;Phase: BCC_A2,Phase Fractions,1,-
+AlNbTiV,-,Temperature(in degC): 1000;Phase: BCC_A2,Phase Fractions,1,-
+AlNbTiV,-,Temperature(in degC): 1200;Phase: BCC_A2,Phase Fractions,1,-
+AlCr0.5NbTiV,-,Temperature(in degC): 600;Phase: BCC_A2,Phase Fractions,0.701,-
+AlCr0.5NbTiV,-,Temperature(in degC): 600;Phase: Laves,Phase Fractions,0.135,-
+AlCr0.5NbTiV,-,Temperature(in degC): 600;Phase: Ti3Al,Phase Fractions,0.164,-
+AlCr0.5NbTiV,-,Temperature(in degC): 800;Phase: BCC_A2,Phase Fractions,1,-
+AlCr0.5NbTiV,-,Temperature(in degC): 1000;Phase: BCC_A2,Phase Fractions,1,-
+AlCr0.5NbTiV,-,Temperature(in degC): 1200;Phase: BCC_A2,Phase Fractions,1,-
+AlCrNbTiV,-,Temperature(in degC): 600;Phase: BCC_A2,Phase Fractions,0.636,-
+AlCrNbTiV,-,Temperature(in degC): 600;Phase: Laves,Phase Fractions,0.343,-
+AlCrNbTiV,-,Temperature(in degC): 600;Phase: Ti3Al,Phase Fractions,0.021,-
+AlCrNbTiV,-,Temperature(in degC): 800;Phase: BCC_A2,Phase Fractions,0.873,-
+AlCrNbTiV,-,Temperature(in degC): 800;Phase: FCC_C15,Phase Fractions,0.127,-
+AlCrNbTiV,-,Temperature(in degC): 1000;Phase: BCC_A2,Phase Fractions,1,-
+AlCrNbTiV,-,Temperature(in degC): 1200;Phase: BCC_A2,Phase Fractions,1,-
+AlCr1.5NbTiV,-,Temperature(in degC): 600;Phase: BCC_A2,Phase Fractions,0.509,-
+AlCr1.5NbTiV,-,Temperature(in degC): 600;Phase: FCC_C15,Phase Fractions,0.381,-
+AlCr1.5NbTiV,-,Temperature(in degC): 600;Phase: Laves,Phase Fractions,0.110,-
+AlCr1.5NbTiV,-,Temperature(in degC): 800;Phase: BCC_A2,Phase Fractions,0.692,-
+AlCr1.5NbTiV,-,Temperature(in degC): 800;Phase: FCC_C15,Phase Fractions,0.308,-
+AlCr1.5NbTiV,-,Temperature(in degC): 1000;Phase: BCC_A2,Phase Fractions,0.985,-
+AlCr1.5NbTiV,-,Temperature(in degC): 1000;Phase: FCC_C15,Phase Fractions,0.015,-
+AlCr1.5NbTiV,-,Temperature(in degC): 1200;Phase: BCC_A2,Phase Fractions,1,-
+CoCrFeNiMo0,-,as-cast,Chemical Composition,Co: 25.7; Cr: 24.8; Fe: 25.2; Ni: 24.3; Mo: 0.0,at%
+CoCrFeNiMo0.3,-,as-cast,Chemical Composition,Co: 23.9; Cr: 22.5; Fe: 22.2; Ni: 23.9; Mo: 7.5,at%
+CoCrFeNiMo0.5,-,as-cast,Chemical Composition,Co: 22.6; Cr: 22.3; Fe: 20.4; Ni: 22.5; Mo: 12.2,at%
+CoCrFeNiMo0.85,-,as-cast,Chemical Composition,Co: 21.5; Cr: 20.7; Fe: 20.1; Ni: 20.2; Mo: 17.5,at%
+Mo0.3,-,Structure and phase: DR, A (FCC),Chemical Composition,Co: 23.8; Cr: 22.8; Fe: 23.1; Ni: 23.8; Mo: 6.5,at%
+nan,-,Structure and phase: ID, B (FCC),Chemical Composition,Co: 21.7; Cr: 24.3; Fe: 21.0; Ni: 22.9; Mo: 10.1,at%
+nan,-,Structure and phase: ID, C (s),Chemical Composition,Co: 18.4; Cr: 27.6; Fe: 17.1; Ni: 14.6; Mo: 22.3,at%
+Mo0.5,-,Structure and phase: DR, A (FCC),Chemical Composition,Co: 23.5; Cr: 21.3; Fe: 22.8; Ni: 23.9; Mo: 8.5,at%
+nan,-,Structure and phase: ID, B (FCC),Chemical Composition,Co: 22.7; Cr: 22.1; Fe: 21.6; Ni: 22.5; Mo: 11.1,at%
+nan,-,Structure and phase: ID, C (s),Chemical Composition,Co: 19.1; Cr: 25.4; Fe: 17.0; Ni: 14.7; Mo: 23.8,at%
+Mo0.85,-,Structure and phase: DR, A (FCC),Chemical Composition,Co: 22.6; Cr: 20.8; Fe: 22.1; Ni: 22.6; Mo: 11.9,at%
+nan,-,Structure and phase: ID, B (s),Chemical Composition,Co: 18.1; Cr: 25.5; Fe: 17.2; Ni: 13.8; Mo: 25.4,at%
+nan,-,Structure and phase: ID, C (m),Chemical Composition,Co: 17.6; Cr: 22.7; Fe: 15.7; Ni: 12.7; Mo: 31.3,at%
+Mo0,-,-,Yield Stress,136,MPa
+Mo0,-,-,Compressive Strength,871,MPa
+Mo0.3,-,-,Yield Stress,305,MPa
+Mo0.3,-,-,Compressive Strength,1269,MPa
+Mo0.5,-,-,Yield Stress,510,MPa
+Mo0.5,-,-,Compressive Strength,1371,MPa
+Mo0.85,-,-,Yield Stress,929,MPa
+Mo0.85,-,-,Compressive Strength,1441,MPa
+FeCoNiCr,-,-,Composition,Fe: 24.58; Cr: 25.12; Ni: 25.92; Co: 24.90; Cu: 0,- 
+FeCoNiCrCu0.5,-,-,Composition,Fe: 20.47; Cr: 16.48; Ni: 25.48; Co: 23.99; Cu: 13.49,- 
+FeCoNiCrCu,-,-,Composition,Fe: 18.78; Cr: 16.25; Ni: 21.78; Co: 21.50; Cu: 21.69,-
+FeCoNiCrCu0.5,as-cast,Interdendrite,Chemical Composition,Cu: 82.18; Fe: 0.90; Co: 1.08; Ni: 11.60; Cr: 4.24,at%
+FeCoNiCrCu0.5,as-cast,Dendrite,Chemical Composition,Cu: 11.68; Fe: 21.80; Co: 24.45; Ni: 22.73; Cr: 19.34,at%
+FeCoNiCrCu,as-cast,Interdendrite,Chemical Composition,Cu: 86.68; Fe: 3.46; Co: 2.67; Ni: 5.41; Cr: 1.78,at%
+FeCoNiCrCu,as-cast,Dendrite,Chemical Composition,Cu: 9.56; Fe: 23.58; Co: 24.67; Ni: 21.34; Cr: 21.08,at%
+FeCoNiCr,-,Immersion test,Corrosion Rate,7.62x10-4,mm/year
+FeCoNiCrCu0.5,-,Immersion test,Corrosion Rate,8.89x10-3,mm/year
+FeCoNiCrCu,-,Immersion test,Corrosion Rate,1.14x10-2,mm/year
+FeCoNiCr,-,Polarization curve,Corrosion Rate,3.31x10-4,mm/year
+FeCoNiCrCu0.5,-,Polarization curve,Corrosion Rate,7.46x10-3,mm/year
+FeCoNiCrCu,-,Polarization curve,Corrosion Rate,1.37x10-2,mm/year
+FeCoNiCr,-,-,Corrosion Potential,-0.26,V
+FeCoNiCr,-,-,Pitting Potential,0.31,V
+FeCoNiCr,-,-,Corrosion Current Density,3.15x10-8,Acm-2
+FeCoNiCrCu0.5,-,-,Corrosion Potential,-0.29,V
+FeCoNiCrCu0.5,-,-,Pitting Potential,0.09,V
+FeCoNiCrCu0.5,-,-,Corrosion Current Density,7.23x10-7,Acm-2
+FeCoNiCrCu,-,-,Corrosion Potential,-0.33,V
+FeCoNiCrCu,-,-,Pitting Potential,0.08,V
+FeCoNiCrCu,-,-,Corrosion Current Density,1.32x10-6,Acm-2
+304L,-,-,Corrosion Potential,-0.25,V
+304L,-,-,Pitting Potential,0.23,V
+304L,-,-,Corrosion Current Density,6.01x10-7,Acm-2
+AlCoCrCuNi,-,Nominal,Chemical Composition,Al: 20; Co: 20; Cr: 20; Cu: 20; Ni: 20,at%
+AlCoCrCuNi,-,Dendrite,Chemical Composition,Al: 21; Co: 21; Cr: 25; Cu: 11; Ni: 22,at%
+AlCoCrCuNi,-,Interdendrite,Chemical Composition,Al: 13; Co: 8; Cr: 6; Cu: 58; Ni: 15,at%
+AlCoCrCuFeNi,-,Nominal,Chemical Composition,Al: 17; Co: 17; Cr: 17; Cu: 17; Fe: 17; Ni: 17,at%
+AlCoCrCuFeNi,-,Dendrite,Chemical Composition,Al: 17; Co: 17; Cr: 21; Cu: 11; Fe: 18; Ni: 16,at%
+AlCoCrCuFeNi,-,Interdendrite,Chemical Composition,Al: 12; Co: 5; Cr: 3; Cu: 63; Fe: 5; Ni: 12,at%
+AlCoCrCuNi,-,-,Hardness,419+-6,HV
+AlCoCrCuFeNi,-,-,Hardness,416+-19,HV
+AgAlCoCrCuNi,-,-,Hardness,104+-3,HV
+AgAlCoCrCuNi,-,-,Hardness,451+-9,HV
+AlAuCoCrCuNi,-,-,Hardness,276+-8,HV
+CoCrFeNiTiAl0,-,Nominal,Chemical Composition,Co: 20.0; Cr: 20.0; Fe: 20.0; Ni: 20.0; Ti: 20.0; Al: 0.0,at%
+CoCrFeNiTiAl0.5,-,Nominal,Chemical Composition,Co: 18.2; Cr: 18.2; Fe: 18.2; Ni: 18.2; Ti: 18.2; Al: 9.0,at%
+CoCrFeNiTiAl0.5,-,E(A),Chemical Composition,Co: 13.62; Cr: 36.18; Fe: 26.93; Ni: 10.45; Ti: 8.64; Al: 3.04,at%
+CoCrFeNiTiAl0.5,-,Dendrite,Chemical Composition,Co: 24.66; Cr: 5.13; Fe: 9.82; Ni: 26.62; Ti: 20.36; Al: 12.62,at%
+CoCrFeNiTiAl0.5,-,Interdendrite,Chemical Composition,Co: 15.55; Cr: 27.58; Fe: 31.63; Ni: 10.78; Ti: 12.75; Al: 1.97,at%
+CoCrFeNiTiAl1.0,-,Nominal,Chemical Composition,Co: 16.6; Cr: 16.6; Fe: 16.7; Ni: 16.7; Ti: 16.7; Al: 16.7,at%
+CoCrFeNiTiAl1.0,-,E(A),Chemical Composition,Co: 14.71; Cr: 33.52; Fe: 27.39; Ni: 12.53; Ti: 8.54; Al: 6.36,at%
+CoCrFeNiTiAl1.0,-,Dendrite,Chemical Composition,Co: 21.91; Cr: 13.08; Fe: 14.44; Ni: 22.47; Ti: 17.51; Al: 20.31,at%
+CoCrFeNiTiAl1.0,-,Interdendrite,Chemical Composition,Co: 16.41; Cr: 24.92; Fe: 29.33; Ni: 14.11; Ti: 13.25; Al: 5.24,at%
+CoCrFeNiTiAl1.5,-,Nominal,Chemical Composition,Co: 15.4; Cr: 15.4; Fe: 15.4; Ni: 15.4; Ti: 15.4; Al: 23.0,at%
+CoCrFeNiTiAl1.5,-,Dendrite,Chemical Composition,Co: 22.87; Cr: 9.49; Fe: 14.44; Ni: 22.51; Ti: 17.4; Al: 24.55,at%
+CoCrFeNiTiAl1.5,-,Interdendrite,Chemical Composition,Co: 15.9; Cr: 23.27; Fe: 22.18; Ni: 15.12; Ti: 14.2; Al: 13.89,at%
+CoCrFeNiTiAl2.0,-,Nominal,Chemical Composition,Co: 14.3; Cr: 14.3; Fe: 14.3; Ni: 14.3; Ti: 14.3; Al: 28.5,at%
+CoCrFeNiTiAl2.0,-,Dendrite,Chemical Composition,Co: 17.64; Cr: 9.63; Fe: 11.84; Ni: 18.81; Ti: 17.29; Al: 30.63,at%
+CoCrFeNiTiAl2.0,-,Interdendrite,Chemical Composition,Co: 8.75; Cr: 42.89; Fe: 28.87; Ni: 4.79; Ti: 5.13; Al: 11.21,at%
+CoCr,-,-,Mixing Enthalpy,-7.0,J/mol
+CoFe,-,-,Mixing Enthalpy,-1.0,J/mol
+CoNi,-,-,Mixing Enthalpy,0.0,J/mol
+CoTi,-,-,Mixing Enthalpy,-42.0,J/mol
+CoAl,-,-,Mixing Enthalpy,-19,J/mol
+CrFe,-,-,Mixing Enthalpy,-1.0,J/mol
+CrNi,-,-,Mixing Enthalpy,-7.0,J/mol
+CrTi,-,-,Mixing Enthalpy,-11.0,J/mol
+CrAl,-,-,Mixing Enthalpy,-10,J/mol
+FeNi,-,-,Mixing Enthalpy,-2.0,J/mol
+FeTi,-,-,Mixing Enthalpy,-25.0,J/mol
+FeAl,-,-,Mixing Enthalpy,-11,J/mol
+NiTi,-,-,Mixing Enthalpy,-52.0,J/mol
+NiAl,-,-,Mixing Enthalpy,-22,J/mol
+TiAl,-,-,Mixing Enthalpy,-30,J/mol
+CoCrFeNiTiAl0,-,-,Elastic Moduli,134.6,GPa
+CoCrFeNiTiAl0.5,-,-,Elastic Moduli,106.8,GPa
+CoCrFeNiTiAl1.0,-,-,Elastic Moduli,147.6,GPa
+CoCrFeNiTiAl1.5,-,-,Elastic Moduli,133.4,GPa
+CoCrFeNiTiAl2.0,-,-,Elastic Moduli,93.5,GPa
+NbCrMo0.5Ta0.5TiZr,-,4mm2 area,Chemical Composition,Nb: 22.2; Cr: 18.35; Mo: 10.15; Ta: 11.73; Ti: 19.3; Zr: 18.27,at%
+NbCrMo0.5Ta0.5TiZr,-,Primary bright particles,Chemical Composition,Nb: 26.8; Cr: 13.22; Mo: 14.3; Ta: 16.8; Ti: 19.07; Zr: 9.82,at%
+NbCrMo0.5Ta0.5TiZr,-,Matrix between the primary particles,Chemical Composition,Nb: 18.68; Cr: 3.09; Mo: 0.64; Ta: 3.83; Ti: 33.16; Zr: 40.6,at%
+NbCrMo0.5Ta0.5TiZr,-,Dark particles inside the matrix,Chemical Composition,Nb: 12.07; Cr: 40.74; Mo: 6.35; Ta: 6.99; Ti: 10.78; Zr: 23.09,at%
+NbCrMo0.5Ta0.5TiZr,-,Transition layer,Chemical Composition,Nb: 26.96; Cr: 6.74; Mo: 9.92; Ta: 14.14; Ti: 28.08; Zr: 14.16,at%
+Nb,-,-,Lattice Parameter,330.1,pm
+Cr,-,-,Lattice Parameter,288.4,pm
+Mo,-,-,Lattice Parameter,315.0,pm
+Ta,-,-,Lattice Parameter,330.3,pm
+Ti,-,-,Lattice Parameter,327.6,pm
+Zr,-,-,Lattice Parameter,358.2,pm
+BCC1 Calc,-,-,Lattice Parameter,324.7,pm
+BCC2 Calc,-,-,Lattice Parameter,339.3,pm
+BCC1 HIP,-,-,Lattice Parameter,324.8,pm
+BCC2 HIP,-,-,Lattice Parameter,341.0,pm
+NbCrMo0.5Ta0.5TiZr,-,-,Density,8.23,g/cm³
+NbCrMo0.5Ta0.5TiZr,-,-,Density,8.02,g/cm³
+NbCrMo0.5Ta0.5TiZr,-,-,Density,8.23,g/cm³
+NbCrMo0.5Ta0.5TiZr,-,Room Temperature,Hardness,1097,MPa
+NbCrMo0.5Ta0.5TiZr,-,Room Temperature,Hardness,5288,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 296 ;Strain rate(in s-1): 10-3,Compressive Strength,1595.0,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1073 ;Strain rate(in s-1): 10-3,Compressive Strength,983.0,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1273 ;Strain rate(in s-1): 10-3,Compressive Strength,546,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1473 ;Strain rate(in s-1): 10-3,Compressive Strength,170,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 296 ;Strain rate(in s-1): 10-3,Yield Strength,2046.0,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1073 ;Strain rate(in s-1): 10-3,Yield Strength,1100.0,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1273 ;Strain rate(in s-1): 10-3,Yield Strength,630,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1473 ;Strain rate(in s-1): 10-3,Yield Strength,190,MPa
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 296 ;Strain rate(in s-1): 10-3,Fracture Strain,5.0,% 
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1073 ;Strain rate(in s-1): 10-3,Fracture Strain,5.5,% 
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1273 ;Strain rate(in s-1): 10-3,Fracture Strain,No fracture,- 
+NbCrMo0.5Ta0.5TiZr,-,Temperature(in K): 1473 ;Strain rate(in s-1): 10-3,Fracture Strain,No fracture,-
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: 6.0mm2 area; Phase: BCC1+BCC2+FCC,Chemical Composition,Nb: 22.2; Cr: 18.39; Mo: 10.07; Ta: 11.78; Ti: 19.36; Zr: 18.2,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Primary bright particles; Phase: BCC1+FCC,Chemical Composition,Nb: 26.93; Cr: 13.29; Mo: 13.76; Ta: 16.06; Ti: 19.38; Zr: 10.57,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Bright region inside primary particles; Phase: BCC1,Chemical Composition,Nb: 27.62; Cr: 11.53; Mo: 13.97; Ta: 16.29; Ti: 20.06; Zr: 10.53,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Dark precipitates inside primary particles; Phase: FCC (Laves),Chemical Composition,Nb: 17.91; Cr: 30.3; Mo: 11.19; Ta: 11.19; Ti: 13.3; Zr: 16.12,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Dark matrix between primary particles; Phase: BCC2,Chemical Composition,Nb: 20.35; Cr: 2.54; Mo: 1.23; Ta: 4.57; Ti: 31.41; Zr: 39.9,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Dark particles inside the matrix; Phase: FCC (Laves),Chemical Composition,Nb: 11.9; Cr: 41.06; Mo: 6.74; Ta: 7.11; Ti: 10.48; Zr: 22.71,at%
+NbCrMo0.5Ta0.5TiZr,50% compression,Constituent: Bright particles inside the tails; Phase: BCC1,Chemical Composition,Nb: 27.59; Cr: 6.8; Mo: 8.27; Ta: 12.9; Ti: 28.01; Zr: 16.44,at%
+AlCoCrCuFe,-,-,Relative Density,99,%
+NiCoCrCuFe,-,-,Relative Density,94,%
+NiCoCrFe,-,-,Relative Density,94,%
+NiCoCuFe,-,-,Relative Density,86,%
+NiCoFe,-,-,Relative Density,92,%
+AlCoCrCuFe,Mechanically alloyed powder,-,Crystallite Size,10,nm
+AlCoCrCuFe,Mechanically alloyed powder,-,Strain,0.50,%
+AlCoCrCuFe,Sintered compact,-,Crystallite Size,74,nm
+AlCoCrCuFe,Sintered compact,-,Strain,0.09,%
+NiCoCrCuFe,Mechanically alloyed powder,-,Crystallite Size,7.0,nm
+NiCoCrCuFe,Mechanically alloyed powder,-,Strain,1.00,%
+NiCoCrCuFe,Sintered compact,-,Crystallite Size,27,nm
+NiCoCrCuFe,Sintered compact,-,Strain,0.14,%
+NiCoCrFe,Mechanically alloyed powder,-,Crystallite Size,6.0,nm
+NiCoCrFe,Mechanically alloyed powder,-,Strain,0.83,%
+NiCoCrFe,Sintered compact,-,Crystallite Size,13,nm
+NiCoCrFe,Sintered compact,-,Strain,0.00,%
+NiCoCuFe,Mechanically alloyed powder,-,Crystallite Size,9.0,nm
+NiCoCuFe,Mechanically alloyed powder,-,Strain,0.73,%
+NiCoCuFe,Sintered compact,-,Crystallite Size,16,nm
+NiCoCuFe,Sintered compact,-,Strain,0.05,%
+NiCoFe,Mechanically alloyed powder,-,Crystallite Size,10,nm
+NiCoFe,Mechanically alloyed powder,-,Strain,0.98,%
+NiCoFe,Sintered compact,-,Crystallite Size,25,nm
+NiCoFe,Sintered compact,-,Strain,0.00,%
+AlCoCrCuFe,-,-,Hardness,770+-10,HV
+NiCoCrCuFe,-,-,Hardness,400+-10,HV
+NiCoCrFe,-,-,Hardness,490+-10,HV
+NiCoCuFe,-,-,Hardness,160+-10,HV
+NiCoFe,-,-,Hardness,230+-5.0,HV
+AlCoCrCuFe,-,-,Mixing Entropy,1.61R,J/mol·K
+AlCoCrCuFe,-,-,Mixing Enthalpy,-2.56,kJ/mol
+NiCoCrCuFe,-,-,Mixing Entropy,1.61R,J/mol·K
+NiCoCrCuFe,-,-,Mixing Enthalpy,3.2,kJ/mol
+NiCoCrFe,-,-,Mixing Entropy,1.34R,J/mol·K
+NiCoCrFe,-,-,Mixing Enthalpy,-3.75,kJ/mol
+NiCoCuFe,-,-,Mixing Entropy,1.34R,J/mol·K
+NiCoCuFe,-,-,Mixing Enthalpy,5.0,kJ/mol
+NiCoFe,-,-,Mixing Entropy,1.10R,J/mol·K
+NiCoFe,-,-,Mixing Enthalpy,-1.33,kJ/mol
+Al-Co,-,-,Mixing Enthalpy,-19,kJ/mol
+Al-Cr,-,-,Mixing Enthalpy,-10,kJ/mol
+Al-Cu,-,-,Mixing Enthalpy,-1,kJ/mol
+Al-Fe,-,-,Mixing Enthalpy,-11,kJ/mol
+Al-Ni,-,-,Mixing Enthalpy,-22,kJ/mol
+Co-Cr,-,-,Mixing Enthalpy,-4,kJ/mol
+Co-Cu,-,-,Mixing Enthalpy,6,kJ/mol
+Co-Fe,-,-,Mixing Enthalpy,-1,kJ/mol
+Co-Ni,-,-,Mixing Enthalpy,0,kJ/mol
+Cr-Cu,-,-,Mixing Enthalpy,12,kJ/mol
+Cr-Fe,-,-,Mixing Enthalpy,-1,kJ/mol
+Cr-Ni,-,-,Mixing Enthalpy,-7,kJ/mol
+Cu-Fe,-,-,Mixing Enthalpy,13,kJ/mol
+Cu-Ni,-,-,Mixing Enthalpy,4,kJ/mol
+Fe-Ni,-,-,Mixing Enthalpy,-2,kJ/mol
+NiFeCrCo,-,-,Dehydrogenation Enthalpy,-2.45,kJ/mol
+NiFeCrCo,-,-,Dehydrogenation Enthalpy,-3.04,kJ/mol
+Ni14Fe20Cr26Co20Mn20,-,-,Dehydrogenation Enthalpy,-2.6,kJ/mol
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,-,Dehydrogenation Enthalpy,-2.77,kJ/mol
+NiFeCrCo,-,-,Mixing Entropy,11.52,J/mol·K
+NiFeCrCoMn,-,-,Mixing Entropy,13.37,J/mol·K
+Ni14Fe20Cr26Co20Mn20,-,-,Mixing Entropy,13.22,J/mol·K
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,-,Mixing Entropy,13.29,J/mol·K
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 1100.0,Yield Stress,134.0,MPa
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 1100.0,Ultimate Tensile Strength,414,MPa
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 1100.0,Ductility,73.5,%
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 1100.0,Yield Stress,162.0,MPa
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 1100.0,Ultimate Tensile Strength,462,MPa
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 1100.0,Ductility,51.6,%
+NiFeCrCoMn,-,Annealing temperature(in degC): 1100.0,Yield Stress,135.0,MPa
+NiFeCrCoMn,-,Annealing temperature(in degC): 1100.0,Ultimate Tensile Strength,497,MPa
+NiFeCrCoMn,-,Annealing temperature(in degC): 1100.0,Ductility,55.4,%
+NiFeCrCo,-,Annealing temperature(in degC): 1100.0,Yield Stress,197.0,MPa
+NiFeCrCo,-,Annealing temperature(in degC): 1100.0,Ultimate Tensile Strength,582,MPa
+NiFeCrCo,-,Annealing temperature(in degC): 1100.0,Ductility,82.4,%
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 625.0,Yield Stress,586.0,MPa
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 625.0,Ultimate Tensile Strength,715,MPa
+Ni18.5Fe18.5Cr18.5Co26Mn18.5,-,Annealing temperature(in degC): 625.0,Ductility,32.8,%
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 675.0,Yield Stress,1153.0,MPa
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 675.0,Ultimate Tensile Strength,1187,MPa
+Ni14Fe20Cr26Co20Mn20,-,Annealing temperature(in degC): 675.0,Ductility,1.8,%
+NiFeCrCoMn,-,Annealing temperature(in degC): 650.0,Yield Stress,660.0,MPa
+NiFeCrCoMn,-,Annealing temperature(in degC): 650.0,Ultimate Tensile Strength,851,MPa
+NiFeCrCoMn,-,Annealing temperature(in degC): 650.0,Ductility,24.9,%
+NiFeCrCo,-,Annealing temperature(in degC): 625.0,Yield Stress,540.0,MPa
+NiFeCrCo,-,Annealing temperature(in degC): 625.0,Ultimate Tensile Strength,786,MPa
+NiFeCrCo,-,Annealing temperature(in degC): 625.0,Ductility,49.3,%
+Fe70.04Mn28Al1.6Si0.28C0.08,-,-,Yield Stress,325.0,MPa
+Fe70.04Mn28Al1.6Si0.28C0.08,-,-,Ultimate Tensile Strength,495,MPa
+Fe70.04Mn28Al1.6Si0.28C0.08,-,-,Ductility,64.0,%
+Fe73.03Mn25Al1.6Si0.24Nb0.05C0.08,-,-,Yield Stress,375.5,MPa
+Fe73.03Mn25Al1.6Si0.24Nb0.05C0.08,-,-,Ultimate Tensile Strength,538,MPa
+Fe73.03Mn25Al1.6Si0.24Nb0.05C0.08,-,-,Ductility,61.0,%
+Fe68.25Mn27Al4.1Si0.52Nb0.05C0.08,-,-,Yield Stress,383.0,MPa
+Fe68.25Mn27Al4.1Si0.52Nb0.05C0.08,-,-,Ultimate Tensile Strength,548,MPa
+Fe68.25Mn27Al4.1Si0.52Nb0.05C0.08,-,-,Ductility,61.0,%
+AlH-0CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0CoCrFeNi,-,-,Lattice Parameter,3.58,Å
+AlH-0.25CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.25CoCrFeNi,-,-,Lattice Parameter,3.592,Å
+AlH-0.375CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.375CoCrFeNi,-,-,Lattice Parameter,3.596,Å
+AlH-0.5CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.5CoCrFeNi,-,-,Lattice Parameter,3.601,Å
+AlH-0.5CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-0.5CoCrFeNi,-,-,Lattice Parameter,2.899,Å
+AlH-0.75CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.75CoCrFeNi,-,-,Lattice Parameter,3.605,Å
+AlH-0.75CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-0.75CoCrFeNi,-,-,Lattice Parameter,2.876,Å
+AlH-0.875CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-0.875CoCrFeNi,-,-,Lattice Parameter,3.613,Å
+AlH-0.875CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-0.875CoCrFeNi,-,-,Lattice Parameter,2.879,Å
+AlH-1CoCrFeNi,-,-,Crystal Structure,FCC,-
+AlH-1CoCrFeNi,-,-,Lattice Parameter,3.611,Å
+AlH-1CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-1CoCrFeNi,-,-,Lattice Parameter,2.884,Å
+AlH-1.25CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-1.25CoCrFeNi,-,-,Lattice Parameter,2.873,Å
+AlH-1.5CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-1.5CoCrFeNi,-,-,Lattice Parameter,2.885,Å
+AlH-2CoCrFeNi,-,-,Crystal Structure,BCC,-
+AlH-2CoCrFeNi,-,-,Lattice Parameter,2.894,Å
+H-0,-,-,Electronic Thermal Conductivity,6.9-8.8,W/mK
+H-0,-,-,Thermal Conductivity,4.7-5.7,W/mK
+H-0.25,-,-,Electronic Thermal Conductivity,5.5-7.1,W/mK
+H-0.25,-,-,Thermal Conductivity,5.7-7.0,W/mK
+H-0.375,-,-,Electronic Thermal Conductivity,4.9-6.3,W/mK
+H-0.375,-,-,Thermal Conductivity,5.6-7.1,W/mK
+H-0.5,-,-,Electronic Thermal Conductivity,4.6-6.0,W/mK
+H-0.5,-,-,Thermal Conductivity,5.8-7.2,W/mK
+H-0.75,-,-,Electronic Thermal Conductivity,4.5-5.9,W/mK
+H-0.75,-,-,Thermal Conductivity,6.0-7.0,W/mK
+H-0.875,-,-,Electronic Thermal Conductivity,4.3-5.6,W/mK
+H-0.875,-,-,Thermal Conductivity,6.4-6.6,W/mK
+H-1,-,-,Electronic Thermal Conductivity,4.5-5.7,W/mK
+H-1,-,-,Thermal Conductivity,6.5-7.1,W/mK
+H-1.25,-,-,Electronic Thermal Conductivity,5.6-7.2,W/mK
+H-1.25,-,-,Thermal Conductivity,14.6-15.3,W/mK
+H-1.5,-,-,Electronic Thermal Conductivity,5.0-6.6,W/mK
+H-1.5,-,-,Thermal Conductivity,14.3-14.5,W/mK
+H-2,-,-,Electronic Thermal Conductivity,4.7-6.1,W/mK
+H-2,-,-,Thermal Conductivity,11.0-12.2,W/mK
+Al x CoCrFeNi,-,-,Carrier Concentration,1019-1021,cm⁻³
+Al x CoCrFeNi,-,-,Resistivity,102,Ohm-meter
+Al x CoCrFeNi,-,-,Others(Contribution of k),ke kph,-
+Al,-,Temperature range: 293-303K,Thermal Expansion Coefficient,23.4,10^-6 K^-1
+Al,-,Temperature range: 368-378K,Thermal Expansion Coefficient,24.8,10^-6 K^-1
+Fe,-,Temperature range: 293-303K,Thermal Expansion Coefficient,11.8,10^-6 K^-1
+Fe,-,Temperature range: 368-378K,Thermal Expansion Coefficient,12.0,10^-6 K^-1
+Fe,-,-,Curie Temperature,1043,K
+Ni,-,Temperature range: 293-303K,Thermal Expansion Coefficient,12.5,10^-6 K^-1
+Ni,-,Temperature range: 368-378K,Thermal Expansion Coefficient,13.5,10^-6 K^-1
+Ni,-,-,Curie Temperature,627,K
+H-0,-,Temperature range: 293-303K,Thermal Expansion Coefficient,11.25,10^-6 K^-1
+H-0,-,Temperature range: 368-378K,Thermal Expansion Coefficient,15.09,10^-6 K^-1
+H-0,-,Temperature range: 423-773K,Thermal Expansion Coefficient,16.40,10^-6 K^-1
+H-0,-,-,Curie Temperature,844.5,K
+H-0.25,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.74,10^-6 K^-1
+H-0.25,-,Temperature range: 368-378K,Thermal Expansion Coefficient,14.73,10^-6 K^-1
+H-0.25,-,Temperature range: 423-773K,Thermal Expansion Coefficient,16.01,10^-6 K^-1
+H-0.25,-,-,Curie Temperature,864.2,K
+H-0.375,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.01,10^-6 K^-1
+H-0.375,-,Temperature range: 368-378K,Thermal Expansion Coefficient,14.39,10^-6 K^-1
+H-0.375,-,Temperature range: 423-773K,Thermal Expansion Coefficient,15.75,10^-6 K^-1
+H-0.375,-,-,Curie Temperature,868.1,K
+H-0.5,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.23,10^-6 K^-1
+H-0.5,-,Temperature range: 368-378K,Thermal Expansion Coefficient,13.99,10^-6 K^-1
+H-0.5,-,Temperature range: 423-773K,Thermal Expansion Coefficient,14.87,10^-6 K^-1
+H-0.5,-,-,Curie Temperature,837.0,K
+H-0.75,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.17,10^-6 K^-1
+H-0.75,-,Temperature range: 368-378K,Thermal Expansion Coefficient,13.41,10^-6 K^-1
+H-0.75,-,Temperature range: 423-773K,Thermal Expansion Coefficient,14.14,10^-6 K^-1
+H-0.75,-,-,Curie Temperature,787.8,K
+H-0.875,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.08,10^-6 K^-1
+H-0.875,-,Temperature range: 368-378K,Thermal Expansion Coefficient,12.94,10^-6 K^-1
+H-0.875,-,Temperature range: 423-773K,Thermal Expansion Coefficient,13.92,10^-6 K^-1
+H-0.875,-,-,Curie Temperature,781.2,K
+H-1,-,Temperature range: 293-303K,Thermal Expansion Coefficient,9.03,10^-6 K^-1
+H-1,-,Temperature range: 368-378K,Thermal Expansion Coefficient,12.47,10^-6 K^-1
+H-1,-,Temperature range: 423-773K,Thermal Expansion Coefficient,13.54,10^-6 K^-1
+H-1,-,-,Curie Temperature,844.1,K
+H-1.25,-,Temperature range: 293-303K,Thermal Expansion Coefficient,8.97,10^-6 K^-1
+H-1.25,-,Temperature range: 368-378K,Thermal Expansion Coefficient,11.97,10^-6 K^-1
+H-1.25,-,Temperature range: 423-773K,Thermal Expansion Coefficient,13.35,10^-6 K^-1
+H-1.25,-,-,Curie Temperature,847.5,K
+H-1.5,-,Temperature range: 293-303K,Thermal Expansion Coefficient,8.95,10^-6 K^-1
+H-1.5,-,Temperature range: 368-378K,Thermal Expansion Coefficient,11.88,10^-6 K^-1
+H-1.5,-,Temperature range: 423-773K,Thermal Expansion Coefficient,13.01,10^-6 K^-1
+H-1.5,-,-,Curie Temperature,856.4,K
+H-2,-,Temperature range: 293-303K,Thermal Expansion Coefficient,8.84,10^-6 K^-1
+H-2,-,Temperature range: 368-378K,Thermal Expansion Coefficient,11.71,10^-6 K^-1
+H-2,-,Temperature range: 423-773K,Thermal Expansion Coefficient,12.85,10^-6 K^-1
+H-2,-,-,Curie Temperature,869.2,K
+Pure Al,-,-,Relative Density,98.52,% 
+Al10,-,-,Relative Density,98.46,% 
+Al20,-,-,Relative Density,98.15,% 
+Al30,-,-,Relative Density,98.16,%
+Al10,-,Region I,Elemental Composition,Al: 19.46; Ti: 17.36; Ni: 11.10; Cu: 15.06; Zr: 19.34; W: 17.68,at%
+Al10,-,Region II,Elemental Composition,Al: 72.12; Ti: 8.00; Ni: 1.11; Cu: 2.04; Zr: 8.19; W: 8.53,at%
+Al10,-,Region III,Elemental Composition,Al: 90.40; Ti: 0.59; Ni: 0.39; Cu: 0.99; Zr: 0.56; W: 7.07,at%
+Al10,-,Region IV,Elemental Composition,Al: 85.15; Ti: 1.94; Ni: 9.78; Cu: 0.98; Zr: 1.60; W: 0.55,at%
+Al20,-,Region I*,Elemental Composition,Al: 15.64; Ti: 17.33; Ni: 11.75; Cu: 17.79; Zr: 19.34; W: 18.16,at%
+Al20,-,Region II*,Elemental Composition,Al: 93.93; Ti: 1.24; Ni: 0.69; Cu: 1.59; Zr: 0.92; W: 1.62,at%
+Al20,-,Region III*,Elemental Composition,Al: 87.65; Ti: 0.29; Ni: 10.09; Cu: 1.54; Zr: -N/A; W: 0.44,at%
+Pure Al,-,-,Corrosion Potential,-0.98 ± 0.02,V
+Pure Al,-,-,Corrosion Current Density,1.28,A/mm²
+Pure Al,-,-,Corrosion Rate,1.394,mm/yr
+Al10,-,-,Corrosion Potential,-1.04 ± 0.03,V
+Al10,-,-,Pitting Potential,-0.54 ± 0.03,V
+Al10,-,-,Corrosion Current Density,0.86,A/mm²
+Al10,-,-,Corrosion Rate,0.827,mm/yr
+Al20,-,-,Corrosion Potential,-1.09 ± 0.04,V
+Al20,-,-,Pitting Potential,-0.40 ± 0.06,V
+Al20,-,-,Corrosion Current Density,1.63,A/mm²
+Al20,-,-,Corrosion Rate,1.288,mm/yr
+Al30,-,-,Corrosion Potential,-1.07 ± 0.03,V
+Al30,-,-,Pitting Potential,-0.18 ± 0.05,V
+Al30,-,-,Corrosion Current Density,2.44,A/mm²
+Al30,-,-,Corrosion Rate,1.616,mm/yr
+CrMnFeCoNi,-,Measured by EDS and carrier hot gas extraction,Chemical Composition,Cr: 20.7 ± 0.3; Mn: 20.2 ± 0.3; Fe: 19.8 ± 0.5; Co: 19.7 ± 0.1; Ni: 19.6 ± 0.4,at%
+CrMnFeCoNi,-,Measured by EDS and carrier hot gas extraction,Oxygen Content,0.138 ± 0.003,at%
+CrFeCoNi,-,Measured by EDS and carrier hot gas extraction,Chemical Composition,Cr: 25.4 ± 0.3; Fe: 16.3 ± 0.3; Co: 24.2 ± 0.5; Ni: 24.1 ± 0.4,at%
+CrFeCoNi,-,Measured by EDS and carrier hot gas extraction,Oxygen Content,0.132 ± 0.002,at%
+CrFeNi,-,Measured by EDS and carrier hot gas extraction,Chemical Composition,Cr: 33.6 ± 0.4; Fe: 34.2 ± 0.2; Ni: 32.1 ± 0.3,at%
+CrFeNi,-,Measured by EDS and carrier hot gas extraction,Oxygen Content,0.169 ± 0.008,at%
+CrCoNi,-,Measured by EDS and carrier hot gas extraction,Chemical Composition,Cr: 34.1 ± 0.5; Co: 33.0 ± 0.5; Ni: 32.7 ± 0.3,at%
+CrCoNi,-,Measured by EDS and carrier hot gas extraction,Oxygen Content,0.156 ± 0.005,at%
+CrMnFeCoNi,-,Temperature(in K): 373, Thermal Expansion Coefficient,16.3,10^-6/K
+CrMnFeCoNi,-,Temperature(in K): 473, Thermal Expansion Coefficient,18.8,10^-6/K
+CrMnFeCoNi,-,Temperature(in K): 573, Thermal Expansion Coefficient,19.4,10^-6/K
+CrMnFeCoNi,-,Temperature(in K): 673, Thermal Expansion Coefficient,19.5,10^-6/K
+CrMnFeCoNi,-,Temperature(in K): 773, Thermal Expansion Coefficient,19.6,10^-6/K
+CrFeCoNi,-,Temperature(in K): 373, Thermal Expansion Coefficient,15.63,10^-6/K
+CrFeCoNi,-,Temperature(in K): 473, Thermal Expansion Coefficient,18.0,10^-6/K
+CrFeCoNi,-,Temperature(in K): 573, Thermal Expansion Coefficient,18.7,10^-6/K
+CrFeCoNi,-,Temperature(in K): 673, Thermal Expansion Coefficient,18.8,10^-6/K
+CrFeCoNi,-,Temperature(in K): 773, Thermal Expansion Coefficient,18.8,10^-6/K
+CrFeNi,-,Temperature(in K): 373, Thermal Expansion Coefficient,17.1,10^-6/K
+CrFeNi,-,Temperature(in K): 473, Thermal Expansion Coefficient,19.7,10^-6/K
+CrFeNi,-,Temperature(in K): 573, Thermal Expansion Coefficient,20.4,10^-6/K
+CrFeNi,-,Temperature(in K): 673, Thermal Expansion Coefficient,20.5,10^-6/K
+CrFeNi,-,Temperature(in K): 773, Thermal Expansion Coefficient,20.6,10^-6/K
+CrCoNi,-,Temperature(in K): 373, Thermal Expansion Coefficient,15.2,10^-6/K
+CrCoNi,-,Temperature(in K): 473, Thermal Expansion Coefficient,17.5,10^-6/K
+CrCoNi,-,Temperature(in K): 573, Thermal Expansion Coefficient,18.1,10^-6/K
+CrCoNi,-,Temperature(in K): 673, Thermal Expansion Coefficient,18.2,10^-6/K
+CrCoNi,-,Temperature(in K): 773, Thermal Expansion Coefficient,18.3,10^-6/K
+Al0.5CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 9.09; Co: 18.18; Cr: 18.18; Cu: 18.18; Fe: 18.18; Ni: 18.18,at%
+Al0.5CoCrCuFeNi,-,DR (BCC),Chemical Composition,Al: 5.5; Co: 21.2; Cr: 23.9; Cu: 9.4; Fe: 22.7; Ni: 17.2,at%
+Al0.5CoCrCuFeNi,-,ID (Cu-rich),Chemical Composition,Al: 12.5; Co: 5.5; Cr: 4.0; Cu: 59.2; Fe: 5.2; Ni: 13.6,at%
+Al1.0CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 16.67; Co: 16.67; Cr: 16.67; Cu: 16.67; Fe: 16.67; Ni: 16.67,at%
+Al1.0CoCrCuFeNi,-,DR (BCC),Chemical Composition,Al: 25.5; Co: 16.1; Cr: 17.2; Cu: 7.4; Fe: 14.6; Ni: 19.2,at%
+Al1.0CoCrCuFeNi,-,ID (FCC+BCC),Chemical Composition,Al: 13.0; Co: 17.3; Cr: 18.3; Cu: 17.5; Fe: 20.0; Ni: 13.9,at%
+Al1.0CoCrCuFeNi,-,ID (Cu-rich),Chemical Composition,Al: 13.3; Co: 6.2; Cr: 4.9; Cu: 56.9; Fe: 6.4; Ni: 12.3,at%
+Al2.0CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 28.56; Co: 14.28; Cr: 14.28; Cu: 14.28; Fe: 14.28; Ni: 14.28,at%
+Al2.0CoCrCuFeNi,-,DR (BCC),Chemical Composition,Al: 31.5; Co: 16.8; Cr: 10.8; Cu: 9.1; Fe: 15.0; Ni: 16.9,at%
+Al2.0CoCrCuFeNi,-,ID (Cu-rich),Chemical Composition,Al: 15.1; Co: 3.4; Cr: 4.2; Cu: 68.2; Fe: 4.0; Ni: 5.1,at%
+Al0.5CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 9.09; Co: 18.18; Cr: 18.18; Cu: 18.18; Fe: 18.18; Ni: 18.18,at%
+Al0.5CoCrCuFeNi,-,Worn surface,Chemical Composition,Al: 7.2; Co: 16.5; Cr: 17.3; Cu: 14.7; Fe: 17.5; Ni: 16.2; O: 12.4,at%
+Al0.5CoCrCuFeNi,-,Wear debris,Chemical Composition,Al: 6.1; Co: 16.4; Cr: 16.1; Cu: 15.5; Fe: 16.5; Ni: 15.3; O: 16.2,at%
+Al1.0CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 16.67; Co: 16.67; Cr: 16.67; Cu: 16.67; Fe: 16.67; Ni: 16.67,at%
+Al1.0CoCrCuFeNi,-,Worn surface,Chemical Composition,Al: 15.6; Co: 13.6; Cr: 15.7; Cu: 14.6; Fe: 13.5; Ni: 14.5; O: 14.8,at%
+Al1.0CoCrCuFeNi,-,Wear debris,Chemical Composition,Al: 13.2; Co: 15.3; Cr: 16.0; Cu: 14.6; Fe: 14.3; Ni: 13.6; O: 18.4,at%
+Al2.0CoCrCuFeNi,-,Nominal,Chemical Composition,Al: 28.56; Co: 14.28; Cr: 14.28; Cu: 14.28; Fe: 14.28; Ni: 14.28,at%
+Al2.0CoCrCuFeNi,-,Worn surface-A,Chemical Composition,Al: 25.1; Co: 15.9; Cr: 14.2; Cu: 9.1; Fe: 14.9; Ni: 14.1; O: 5.6,at%
+Al2.0CoCrCuFeNi,-,Worn surface-B,Chemical Composition,Al: 19.4; Co: 7.7; Cr: 6.7; Cu: 39.8; Fe: 7.7; Ni: 9.6; O: 9.2,at%
+Al2.0CoCrCuFeNi,-,Wear debris,Chemical Composition,Al: 12.4; Co: 6.0; Cr: 5.5; Cu: 6.2; Fe: 6.6; Ni: 6.0; O: 56.8,at%
+Al0.5CoCrCuFeNi,-,-,Others(peak coefficient of friction),0.65+-0.04,-
+Al1.0CoCrCuFeNi,-,-,Others(peak coefficient of friction),0.65+-0.03,-
+Al2.0CoCrCuFeNi,-,-,Others(peak coefficient of friction),0.70+-0.02,-

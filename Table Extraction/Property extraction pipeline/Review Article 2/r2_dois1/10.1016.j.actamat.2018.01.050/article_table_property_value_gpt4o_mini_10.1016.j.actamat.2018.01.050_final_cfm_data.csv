@@ -1,0 +1,9 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit, Testing condition, Property
+Al2(NiCoFeCr)14 (M1111),-,,,614,MPa, -, Yield Strength(Tension)
+Al2(NiCoFeCr)14 (M1111),-,,,930,MPa, -, Ultimate Tensile Strength(Tension)
+Al2(Ni4Co4Fe3Cr3)14 (M4433),-,,,387,MPa, -, Yield Strength(Tension)
+Al2(Ni4Co4Fe3Cr3)14 (M4433),-,,,>728,MPa, -, Ultimate Tensile Strength(Tension)
+Al2(NiCoFe2Cr)14 (M1121),-,,,1085,MPa, -, Yield Strength(Tension)
+Al2(NiCoFe2Cr)14 (M1121),-,,,1245,MPa, -, Ultimate Tensile Strength(Tension)
+Al2(NiCoFeCr2)14 (M1112),-,,,1718,MPa, -, Yield Strength(Tension)
+Al3(NiCoFeCr)14 (Al3M14),-,,,1399,MPa, -, Yield Strength(Tension)

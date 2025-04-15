@@ -1,0 +1,42 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+t0005,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 1.csv,Table 1,"Chemical compositions (in at.%), density, r, and Vickers microhardness, H
+v, of the alloys studied in this work.",
+t0010,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 2.csv,Table 2,Chemical composition (in at.%) of the NbVTiZr alloy constituents (see Fig. 2).,
+t0015,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 3.csv,Table 3,Chemical composition (in at.%) of the NbV2TiZr alloy constituents (see Fig. 4).,
+t0020,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 4.csv,Table 4,Chemical composition (in at.%) of the CrNbTiZr alloy constituents (see Fig. 6).,
+t0025,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 5.csv,Table 5,Chemical composition (in at.%) of the CrNbTiVZr alloy constituents (see Fig. 8).,
+t0030,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 6.csv,Table 6,"Liquidus, 
+
+
+
+T
+
+
+L
+
+
+NE
+
+
+
+, and solidus, 
+
+
+
+T
+
+
+S
+
+
+NE
+
+
+
+, temperatures and fractions of solid phases in the four alloys after non-equilibrium solidification (simulated results).",
+t0035,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 7.csv,Table 7,Average compositions (in at.%) of the phases in the studied alloys after non-equilibrium solidification.,
+t0040,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 8.csv,Table 8,Characteristic equilibrium phase transformation temperatures (in degC) and respective reaction equations in the studied alloys (simulated results).,
+t0045,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 9.csv,Table 9,"Predicted volume fractions and compositions (in at.%) of equilibrium phases in the studied alloys at T
+=600degC.",
+t0050,/home/sai/sai-mani/articles_all/10.1016.j.actamat.2012.11.032/tables/Table 10.csv,Table 10,"Predicted volume fractions and compositions (in at.%) of equilibrium phases in the studied alloys at T
+=400degC.",

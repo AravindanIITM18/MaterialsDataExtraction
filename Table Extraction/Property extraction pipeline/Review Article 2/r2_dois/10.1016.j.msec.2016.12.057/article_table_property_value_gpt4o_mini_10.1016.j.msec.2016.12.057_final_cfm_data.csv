@@ -1,0 +1,36 @@
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Ti,-,-,Yield Strength(Tension),195,MPa
+Zr,-,-,Yield Strength(Tension),280,MPa
+Nb,-,-,Yield Strength(Tension),240,MPa
+Ta,-,-,Yield Strength(Tension),170,MPa
+Mo,-,-,Yield Strength(Tension),420,MPa
+HEA,-,-,Yield Strength(Tension),261,MPa
+HEA,-,-,Ultimate Tensile Strength(Tension),1390,MPa
+Ti,-,-,Young's modulus,116,GPa
+Zr,-,-,Young's modulus,88,GPa
+Nb,-,-,Young's modulus,105,GPa
+Ta,-,-,Young's modulus,186,GPa
+Mo,-,-,Young's modulus,329,GPa
+Ti,-,-,Shear modulus,44,GPa
+Zr,-,-,Shear modulus,33,GPa
+Nb,-,-,Shear modulus,38,GPa
+Ta,-,-,Shear modulus,69,GPa
+Mo,-,-,Shear modulus,126,GPa
+Ti,-,-,Melting temperature,1941,K
+Zr,-,-,Melting temperature,2128,K
+Nb,-,-,Melting temperature,2750,K
+Ta,-,-,Melting temperature,3290,K
+Mo,-,-,Melting temperature,2893,K
+HEA,-,-,Melting temperature,2600,K
+Ti,-,-,Vickers microhardness,0.97,GPa
+Zr,-,-,Vickers microhardness,0.903,GPa
+Nb,-,-,Vickers microhardness,1.32,GPa
+Ta,-,-,Vickers microhardness,0.873,GPa
+Mo,-,-,Vickers microhardness,1.53,GPa
+HEA,-,-,Vickers microhardness,1.12,GPa
+HEA,-,-,Others(melting temperature),2600,K
+TiZrNbTaMo HEA,-,-,Young's modulus,184,GPa
+TiZrNbTaMo HEA,-,-,Young's modulus,136,GPa
+TiZrNbTaMo HEA,-,-,Microhardness,1.14,GPa
+TiZrNbTaMo HEA,-,-,Microhardness,1.05,GPa
+TiZrNbTaMo HEA,-,-,Poisson's ratio,0.33,-

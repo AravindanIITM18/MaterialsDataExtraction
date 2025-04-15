@@ -1,0 +1,63 @@
+
+Table Table 1:
+Input Table:
+Alloy,Co,Cr,Fe,Ni,Mo
+Mo0,25.7,24.8,25.2,24.3,0.0
+Mo0.3,23.9,22.5,22.2,23.9,7.5
+Mo0.5,22.6,22.3,20.4,22.5,12.2
+Mo0.85,21.5,20.7,20.1,20.2,17.5
+
+Retrieved Properties: MOR Activity, Fatigue, Crystal Structure, Elastic Moduli, Crystallinity, Friction, Composition, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoCrFeNiMo0,-,as-cast,Chemical Composition,Co: 25.7; Cr: 24.8; Fe: 25.2; Ni: 24.3; Mo: 0.0,at%
+CoCrFeNiMo0.3,-,as-cast,Chemical Composition,Co: 23.9; Cr: 22.5; Fe: 22.2; Ni: 23.9; Mo: 7.5,at%
+CoCrFeNiMo0.5,-,as-cast,Chemical Composition,Co: 22.6; Cr: 22.3; Fe: 20.4; Ni: 22.5; Mo: 12.2,at%
+CoCrFeNiMo0.85,-,as-cast,Chemical Composition,Co: 21.5; Cr: 20.7; Fe: 20.1; Ni: 20.2; Mo: 17.5,at%
+
+Table Table 2:
+Input Table:
+Alloy,Structure and phase,Co,Cr,Fe,Ni,Mo
+Mo0.3,"DR, A (FCC)",23.8,22.8,23.1,23.8,6.5
+nan,"ID, B (FCC)",21.7,24.3,21.0,22.9,10.1
+nan,"ID, C (s)",18.4,27.6,17.1,14.6,22.3
+Mo0.5,"DR, A (FCC)",23.5,21.3,22.8,23.9,8.5
+nan,"ID, B (FCC)",22.7,22.1,21.6,22.5,11.1
+nan,"ID, C (s)",19.1,25.4,17.0,14.7,23.8
+Mo0.85,"DR, A (FCC)",22.6,20.8,22.1,22.6,11.9
+nan,"ID, B (s)",18.1,25.5,17.2,13.8,25.4
+nan,"ID, C (m)",17.6,22.7,15.7,12.7,31.3
+
+Retrieved Properties: MOR Activity, Fatigue, Crystal Structure, Elastic Moduli, Crystallinity, Friction, Composition, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Mo0.3,-,Structure and phase: DR, A (FCC),Chemical Composition,Co: 23.8; Cr: 22.8; Fe: 23.1; Ni: 23.8; Mo: 6.5,at%
+nan,-,Structure and phase: ID, B (FCC),Chemical Composition,Co: 21.7; Cr: 24.3; Fe: 21.0; Ni: 22.9; Mo: 10.1,at%
+nan,-,Structure and phase: ID, C (s),Chemical Composition,Co: 18.4; Cr: 27.6; Fe: 17.1; Ni: 14.6; Mo: 22.3,at%
+Mo0.5,-,Structure and phase: DR, A (FCC),Chemical Composition,Co: 23.5; Cr: 21.3; Fe: 22.8; Ni: 23.9; Mo: 8.5,at%
+nan,-,Structure and phase: ID, B (FCC),Chemical Composition,Co: 22.7; Cr: 22.1; Fe: 21.6; Ni: 22.5; Mo: 11.1,at%
+nan,-,Structure and phase: ID, C (s),Chemical Composition,Co: 19.1; Cr: 25.4; Fe: 17.0; Ni: 14.7; Mo: 23.8,at%
+Mo0.85,-,Structure and phase: DR, A (FCC),Chemical Composition,Co: 22.6; Cr: 20.8; Fe: 22.1; Ni: 22.6; Mo: 11.9,at%
+nan,-,Structure and phase: ID, B (s),Chemical Composition,Co: 18.1; Cr: 25.5; Fe: 17.2; Ni: 13.8; Mo: 25.4,at%
+nan,-,Structure and phase: ID, C (m),Chemical Composition,Co: 17.6; Cr: 22.7; Fe: 15.7; Ni: 12.7; Mo: 31.3,at%
+
+Table Table 3:
+Input Table:
+Alloy,Yield stress,Compressive strength,Fracture strain
+nan,s  y  (MPa),s max (MPa),e p (%)
+Mo0,136,871,75
+Mo0.3,305,1269,58
+Mo0.5,510,1371,33
+Mo0.85,929,1441,21
+
+Retrieved Properties: Stress, Yield Strength, Compression, Fracture, Yield Stress, Specific Strength, Compressive Strength, Strain
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+Mo0,-,-,Yield Stress,136,MPa
+Mo0,-,-,Compressive Strength,871,MPa
+Mo0.3,-,-,Yield Stress,305,MPa
+Mo0.3,-,-,Compressive Strength,1269,MPa
+Mo0.5,-,-,Yield Stress,510,MPa
+Mo0.5,-,-,Compressive Strength,1371,MPa
+Mo0.85,-,-,Yield Stress,929,MPa
+Mo0.85,-,-,Compressive Strength,1441,MPa

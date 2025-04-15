@@ -1,0 +1,8 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,/home/sai/sai-mani/articles_all/10.1016.j.wear.2005.12.008/tables/Table 1.csv,Table 1,"Chemical compositions of cast Al
+x
+CoCrCuFeNi alloys in atomic percentage","{'NA': 'DR, dendrite; ID, inter-dendrite.'}"
+tbl2,/home/sai/sai-mani/articles_all/10.1016.j.wear.2005.12.008/tables/Table 2.csv,Table 2,"Chemical compositions of worn surface and wear debris of Al
+x
+CoCrCuFeNi alloys in atomic percentage",
+tbl3,/home/sai/sai-mani/articles_all/10.1016.j.wear.2005.12.008/tables/Table 3.csv,Table 3,Summary of results on friction properties of alloys tested,"{'NA': 'm\np, peak coefficient of friction; m\nss, the steady state coefficient of friction; Dm\n=\nm\np\n-\nm\nss.'}"

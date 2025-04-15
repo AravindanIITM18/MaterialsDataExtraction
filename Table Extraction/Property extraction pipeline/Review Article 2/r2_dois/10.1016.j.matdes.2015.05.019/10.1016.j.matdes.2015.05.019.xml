@@ -1,0 +1,2679 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0261306915002575</prism:url><dc:identifier>doi:10.1016/j.matdes.2015.05.019</dc:identifier><eid>1-s2.0-S0261306915002575</eid><prism:doi>10.1016/j.matdes.2015.05.019</prism:doi><pii>S0261-3069(15)00257-5</pii><dc:title>Microstructure and mechanical properties of refractory MoNbHfZrTi high-entropy alloy </dc:title><prism:publicationName>Materials &amp; Design</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>02613069</prism:issn><prism:volume>81</prism:volume><prism:startingPage>87</prism:startingPage><prism:endingPage>94</prism:endingPage><prism:pageRange>87-94</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2015-09-15</prism:coverDate><prism:coverDisplayDate>15 September 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Guo, N.N.</dc:creator><dc:creator>Wang, L.</dc:creator><dc:creator>Luo, L.S.</dc:creator><dc:creator>Li, X.Z.</dc:creator><dc:creator>Su, Y.Q.</dc:creator><dc:creator>Guo, J.J.</dc:creator><dc:creator>Fu, H.Z.</dc:creator><dc:description>
+                  The present paper reports the microstructure, phase stability and mechanical properties of a new refractory MoNbHfZrTi high-entropy alloy. MoNbHfZrTi alloy consists of a disordered body-centered cubic (BCC) solid solution phase in as-cast and homogenized states. Homogenization treatment and DSC analysis indicate that there is no any phase transition below 1743K. At room temperature, the compressive yield strength for the alloy in as-cast and as-homogenized states reaches about 1719MPa and 1575MPa, respectively and the fracture mechanism is brittle quasi-cleavage fracture. At elevated temperatures, this alloy has compression yield strength of 825MPa at 1073K, 728MPa at 1173K, 635MPa at 1273K, 397MPa at 1373K and 187MPa at 1473K and some fine grains form at grain boundaries due to partial dynamic recrystallization.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Refractory high-entropy alloy</dcterms:subject><dcterms:subject>Crystal structure</dcterms:subject><dcterms:subject>Microstructure</dcterms:subject><dcterms:subject>Mechanical properties</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0261306915002575" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0261306915002575" rel="scidir"/></coredata><objects><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="100" height="45" size="691">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="359" height="259" size="23894">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="500" height="195" size="34775">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="779" height="266" size="29474">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="274" size="80521">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="332" height="265" size="17388">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="534" height="989" size="219384">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="715" height="265" size="42135">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="671" height="350" size="82687">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="492" size="112150">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="279" size="25385">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="158" size="3869">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="85" size="4801">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="75" size="2429">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="113" size="15969">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="163" size="2858">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="88" height="163" size="4442">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="81" size="3470">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="114" size="8491">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="177" height="164" size="8970">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="3846">https://api.elsevier.com/content/object/eid/1-s2.0-S0261306915002575-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84935908842</scopus-id><scopus-eid>2-s2.0-84935908842</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84935908842" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271569</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291777</xocs:ssid>
+         <xocs:ssid type="subj">291884</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Materials &amp; Design</xocs:srctitle>
+      <xocs:normalized-srctitle>MATERIALSDESIGN</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150507">2015-05-07</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150507">2015-05-07</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20150521">2015-05-21</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20150521">2015-05-21</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2015-05-29T08:00:36</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0261306915002575</xocs:eid>
+      <xocs:pii-formatted>S0261-3069(15)00257-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0261306915002575</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.matdes.2015.05.019</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0261306915X00136</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160902">2016-09-02T13:55:06.901138-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150915</xocs:date-search-begin>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1430980564">2015-05-07T06:36:04.664397Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt vor datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0261-3069</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>02613069</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>81</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>81</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 81</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>87</xocs:first-fp>
+      <xocs:last-lp>94</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>87</xocs:first-page>
+         <xocs:last-page>94</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20150915</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 September 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-09-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>MICROSTRUCTUREMECHANICALPROPERTIESREFRACTORYMONBHFZRTIHIGHENTROPYALLOY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GUO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental procedures</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Crystal structure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Microstructure and chemical compositions</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Compressive properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Phase formation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Phase stability</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Compressive properties</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>392</xocs:ref-first-fp>
+            <xocs:ref-last-lp>395</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010"/>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>CANTOR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>213</xocs:ref-first-fp>
+            <xocs:ref-last-lp>218</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>193</xocs:ref-first-fp>
+            <xocs:ref-last-lp>200</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2533</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2536</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>93</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>GAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1749</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1750</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>YEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1759</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1771</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>DONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>67</xocs:ref-first-fp>
+            <xocs:ref-last-lp>72</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>223</xocs:ref-first-fp>
+            <xocs:ref-last-lp>227</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>105</xocs:ref-first-fp>
+            <xocs:ref-last-lp>113</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>TUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1758</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1765</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>698</xocs:ref-first-fp>
+            <xocs:ref-last-lp>706</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6043</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6048</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>ZOU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-last-lp>97</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>311</xocs:ref-first-fp>
+            <xocs:ref-last-lp>320</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>TIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19</xocs:ref-first-fp>
+            <xocs:ref-last-lp>25</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>POLETTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>283</xocs:ref-first-fp>
+            <xocs:ref-last-lp>288</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>292</xocs:ref-first-fp>
+            <xocs:ref-last-lp>298</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEDIAENGINEER</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>MICROSTRUCTURECOMPRESSIVEPROPERTIESNBTIVTAALXHIGHENTROPYALLOYS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1545</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1557</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3796</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3809</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6522</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6534</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>100</xocs:ref-first-fp>
+            <xocs:ref-last-lp>107</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>GORR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>270</xocs:ref-first-fp>
+            <xocs:ref-last-lp>278</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>534</xocs:ref-first-fp>
+            <xocs:ref-last-lp>538</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>641</xocs:ref-first-fp>
+            <xocs:ref-last-lp>644</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>830</xocs:ref-first-fp>
+            <xocs:ref-last-lp>838</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>57</xocs:ref-first-fp>
+            <xocs:ref-last-lp>62</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0150">
+            <xocs:ref-normalized-surname>SINGH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>113</xocs:ref-first-fp>
+            <xocs:ref-last-lp>119</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0155">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>SENKOV</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4062</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4074</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GUOX2015X87</xocs:refkey3>
+         <xocs:refkey4lp>GUOX2015X87X94</xocs:refkey4lp>
+         <xocs:refkey4ai>GUOX2015X87XN</xocs:refkey4ai>
+         <xocs:refkey5>GUOX2015X87X94XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-start-date>2017-05-21T00:00:00Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0261-3069(15)00257-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0261306915002575</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0261306915002575</xocs:eid>
+         <xocs:doi>10.1016/j.matdes.2015.05.019</xocs:doi>
+         <xocs:cid>271569</xocs:cid>
+         <xocs:timestamp>2015-05-29T04:08:45.222685-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-09-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/MAIN/application/pdf/384932e0d603597e809c7569493f3089/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/MAIN/application/pdf/384932e0d603597e809c7569493f3089/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>4018886</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0261306915002575-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/PREVIEW/image/png/40ce54f4d28a8fefa3b1e4a0260ea15c/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/PREVIEW/image/png/40ce54f4d28a8fefa3b1e4a0260ea15c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59376</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/STRIPIN/image/gif/1c39d4e27e58c35aefffb71f77ae0f27/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/STRIPIN/image/gif/1c39d4e27e58c35aefffb71f77ae0f27/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>691</xocs:filesize>
+               <xocs:pixel-height>45</xocs:pixel-height>
+               <xocs:pixel-width>100</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr1/DOWNSAMPLED/image/jpeg/8e7d880a10ed10306504a29554ad2519/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr1/DOWNSAMPLED/image/jpeg/8e7d880a10ed10306504a29554ad2519/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>23894</xocs:filesize>
+               <xocs:pixel-height>259</xocs:pixel-height>
+               <xocs:pixel-width>359</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/fx1/DOWNSAMPLED/image/jpeg/aec5e3ccb31cdb7ba610f9be5f081711/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/fx1/DOWNSAMPLED/image/jpeg/aec5e3ccb31cdb7ba610f9be5f081711/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34775</xocs:filesize>
+               <xocs:pixel-height>195</xocs:pixel-height>
+               <xocs:pixel-width>500</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr9/DOWNSAMPLED/image/jpeg/bfdcd8c93f4c57b78e6cd472c0251abd/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr9/DOWNSAMPLED/image/jpeg/bfdcd8c93f4c57b78e6cd472c0251abd/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>29474</xocs:filesize>
+               <xocs:pixel-height>266</xocs:pixel-height>
+               <xocs:pixel-width>779</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr8/DOWNSAMPLED/image/jpeg/4192b88f428db3e2b5a9c44891f3ecba/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr8/DOWNSAMPLED/image/jpeg/4192b88f428db3e2b5a9c44891f3ecba/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>80521</xocs:filesize>
+               <xocs:pixel-height>274</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr7/DOWNSAMPLED/image/jpeg/544e681c7cca43d52afbafe9252e6efd/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr7/DOWNSAMPLED/image/jpeg/544e681c7cca43d52afbafe9252e6efd/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17388</xocs:filesize>
+               <xocs:pixel-height>265</xocs:pixel-height>
+               <xocs:pixel-width>332</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr6/DOWNSAMPLED/image/jpeg/e40210a6e2fad822aaf49ea974622d71/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr6/DOWNSAMPLED/image/jpeg/e40210a6e2fad822aaf49ea974622d71/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>219384</xocs:filesize>
+               <xocs:pixel-height>989</xocs:pixel-height>
+               <xocs:pixel-width>534</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr5/DOWNSAMPLED/image/jpeg/f64eadcf212de6054127a18c15b01373/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr5/DOWNSAMPLED/image/jpeg/f64eadcf212de6054127a18c15b01373/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>42135</xocs:filesize>
+               <xocs:pixel-height>265</xocs:pixel-height>
+               <xocs:pixel-width>715</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr4/DOWNSAMPLED/image/jpeg/cdcfb10a96f27d9069c207a7ba5f3273/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr4/DOWNSAMPLED/image/jpeg/cdcfb10a96f27d9069c207a7ba5f3273/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>82687</xocs:filesize>
+               <xocs:pixel-height>350</xocs:pixel-height>
+               <xocs:pixel-width>671</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr3/DOWNSAMPLED/image/jpeg/60855cb5b1c6d180ac1e5158dc0719bf/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr3/DOWNSAMPLED/image/jpeg/60855cb5b1c6d180ac1e5158dc0719bf/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>112150</xocs:filesize>
+               <xocs:pixel-height>492</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr2/DOWNSAMPLED/image/jpeg/77e5ff81484aace09533bcdb659f84b5/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr2/DOWNSAMPLED/image/jpeg/77e5ff81484aace09533bcdb659f84b5/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25385</xocs:filesize>
+               <xocs:pixel-height>279</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr1/THUMBNAIL/image/gif/b07999456904442eedcd5db8d71a183a/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr1/THUMBNAIL/image/gif/b07999456904442eedcd5db8d71a183a/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3869</xocs:filesize>
+               <xocs:pixel-height>158</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/fx1/THUMBNAIL/image/gif/18f28ad8439371bfbabcd8861b3ac95b/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/fx1/THUMBNAIL/image/gif/18f28ad8439371bfbabcd8861b3ac95b/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4801</xocs:filesize>
+               <xocs:pixel-height>85</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr9/THUMBNAIL/image/gif/fa56a9a7262b549a70dc4b98273598ae/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr9/THUMBNAIL/image/gif/fa56a9a7262b549a70dc4b98273598ae/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2429</xocs:filesize>
+               <xocs:pixel-height>75</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr8/THUMBNAIL/image/gif/df917046df7e0516170b3dc19f2fd394/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr8/THUMBNAIL/image/gif/df917046df7e0516170b3dc19f2fd394/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>15969</xocs:filesize>
+               <xocs:pixel-height>113</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr7/THUMBNAIL/image/gif/d7217da04fb8b8c579be1e018acc940b/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr7/THUMBNAIL/image/gif/d7217da04fb8b8c579be1e018acc940b/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2858</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr6/THUMBNAIL/image/gif/ca3e9af5f02ec2b72dc1fb00ab55e7da/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr6/THUMBNAIL/image/gif/ca3e9af5f02ec2b72dc1fb00ab55e7da/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4442</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>88</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr5/THUMBNAIL/image/gif/38e5e8bd7220165d40706594afaf8f7a/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr5/THUMBNAIL/image/gif/38e5e8bd7220165d40706594afaf8f7a/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3470</xocs:filesize>
+               <xocs:pixel-height>81</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr4/THUMBNAIL/image/gif/ae9ad7fd4299867eb705562e8abb0e0d/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr4/THUMBNAIL/image/gif/ae9ad7fd4299867eb705562e8abb0e0d/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8491</xocs:filesize>
+               <xocs:pixel-height>114</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr3/THUMBNAIL/image/gif/a9fe864e7fa7fe97586e4dde49133d3e/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr3/THUMBNAIL/image/gif/a9fe864e7fa7fe97586e4dde49133d3e/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8970</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>177</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0261306915002575-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0261306915002575/gr2/THUMBNAIL/image/gif/c2a69861046bdb4be06d2b5fd394cfbe/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0261306915002575/gr2/THUMBNAIL/image/gif/c2a69861046bdb4be06d2b5fd394cfbe/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3846</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.2">
+         <item-info>
+            <jid>JMAD</jid>
+            <aid>7250</aid>
+            <ce:pii>S0261-3069(15)00257-5</ce:pii>
+            <ce:doi>10.1016/j.matdes.2015.05.019</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0085">
+                  <ce:simple-para id="sp0020" view="all">X-ray diffraction patterns of the MoNbHfZrTi alloy.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0090">
+                  <ce:simple-para id="sp0025" view="all">DSC curves of the MoNbHfZrTi alloy.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0095">
+                  <ce:simple-para id="sp0030" view="all">(a) SEM back-scattered image of MoNbHfZrTi alloy in as-cast state before etching, (b) SEM secondary electron image of the alloy in as-cast state after etching, (c) SEM back-scattered image of the alloying as-homogenized state before etching, and (d) SEM secondary electron image of the alloy in as-homogenized state after etching.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0100">
+                  <ce:simple-para id="sp0035" view="all">EDS maps of components for MoNbHfZrTi alloy in the as-cast state.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0105">
+                  <ce:simple-para id="sp0040" view="all">Compressive curves of MoNbHfZrTi alloy: (a) at room temperature, and (b) at different elevated temperatures.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0030">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption id="cn0110">
+                  <ce:simple-para id="sp0045" view="all">Images of the microstructure of MoNbHfZrTi alloy after compressive deformation: (a) in as-cast state at room temperature, (b) in as-homogenized state at room temperature, (c) at 1073<ce:hsp sp="0.25"/>K, (d) at 1173<ce:hsp sp="0.25"/>K, (e) at 1273<ce:hsp sp="0.25"/>K, (f) at 1373<ce:hsp sp="0.25"/>K, and (g) at 1473<ce:hsp sp="0.25"/>K.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="f0035">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption id="cn0115">
+                  <ce:simple-para id="sp0050" view="all">X-ray diffraction pattern of MoNbHfZrTi alloy after deformation at 1273<ce:hsp sp="0.25"/>K.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption id="cn0120">
+                  <ce:simple-para id="sp0055" view="all">EBSD maps of MoNbHfZrTi alloy after deformation: (a) at 1073<ce:hsp sp="0.25"/>K, and (b) 1473<ce:hsp sp="0.25"/>K, the red arrow shows the compressive direction. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption id="cn0125">
+                  <ce:simple-para id="sp0060" view="all">Misorientation angle distributions of as-cast alloys after deformation: (a) at 1073<ce:hsp sp="0.25"/>K, and (b) at 1473<ce:hsp sp="0.25"/>K.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0130">
+                  <ce:simple-para id="sp0065" view="all">Chemical compositions (at.%) of MoNbHfZrTi alloy in as-cast state.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Hf</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Zr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nominal</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Experimental</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.58</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.51</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.39</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Dendrites</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">18.39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26.01</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.86</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15.58</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">White particles</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.23</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">19.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26.24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.82</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15.50</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0010" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cn0135">
+                  <ce:simple-para id="sp0070" view="all">Compressive properties of maximum strength, <ce:italic>σ<ce:inf loc="post">p</ce:inf>
+                     </ce:italic>, yield strength, <ce:italic>σ</ce:italic>
+                     <ce:inf loc="post">0.2</ce:inf>, and fracture strain, <ce:italic>δ</ce:italic> at different temperatures.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="char" char="."/>
+                  <colspec colname="col5" align="char" char="."/>
+                  <colspec colname="col6" align="char" char="."/>
+                  <colspec colname="col7" align="char" char="."/>
+                  <colspec colname="col8" align="char" char="."/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>T</italic> (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">296-C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">296-H</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1073</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1173</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1273</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1373</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1473</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>σ<inf loc="post">p</inf>
+                           </italic> (Mpa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1803</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1640</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1095</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">938</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">654</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">399</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">194</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>σ</italic>
+                           <inf loc="post">0.2</inf> (Mpa)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1719</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1575</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">825</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">728</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">635</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">397</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">187</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>δ</italic> (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">&gt;60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">&gt;60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">&gt;60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">&gt;60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">&gt;60</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0015" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cn0140">
+                  <ce:simple-para id="sp0075" view="all">Characteristics of Nb, Mo, Ti, Zr, Hf (A2: BCC, A3: HCP, the lattice parameter of BCC crystal structure at room temperature <ce:cross-ref refid="b0075" id="c0005">[15]</ce:cross-ref>).</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <colspec colname="col7" align="left"/>
+                  <colspec colname="col8" align="left"/>
+                  <thead>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2" rowsep="1">Element</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Hf</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Zr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ta</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" morerows="1">Crystal structure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">High temperature</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" morerows="1">A2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" morerows="1">A2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">A2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">A2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">A2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" morerows="1">A2</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Low temperature</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">A3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">A3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">A3</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">Atomic radius, <italic>r</italic>, (pm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">136.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">142.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">157.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">160.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">146.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.430</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">Lattice parameter, <italic>a</italic>, (pm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">314.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">330.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">355.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">358.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">327.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">330.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">Pauling electronegativity, <italic>χ</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.54</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.50</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">Valence electron concentration, <italic>V</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">Melting temperature, <italic>T<inf loc="post">m</inf>
+                           </italic>, (K)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2896</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2750</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2506</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2128</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1941</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3268</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0020" rowsep="0" colsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="cn0145">
+                  <ce:simple-para id="sp0080" view="all">The values of mixing enthalpy (Δ<ce:italic>H</ce:italic>
+                     <ce:inf loc="post">mix</ce:inf>, KJ/mol) calculated by Miedema’s model for binary atomic pairs.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="char" char="."/>
+                  <colspec colname="col3" align="char" char="."/>
+                  <colspec colname="col4" align="char" char="."/>
+                  <colspec colname="col5" align="char" char="."/>
+                  <colspec colname="col6" align="char" char="."/>
+                  <colspec colname="col7" align="char" char="."/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Element</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Hf</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Zr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ta</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mo</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">−5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nb</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Hf</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Zr</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ti</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Ta</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Microstructure and mechanical properties of refractory MoNbHfZrTi high-entropy alloy</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005">
+                  <ce:given-name>N.N.</ce:given-name>
+                  <ce:surname>Guo</ce:surname>
+               </ce:author>
+               <ce:author id="au010">
+                  <ce:given-name>L.</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref refid="cor1" id="c0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au015">
+                  <ce:given-name>L.S.</ce:given-name>
+                  <ce:surname>Luo</ce:surname>
+               </ce:author>
+               <ce:author id="au020">
+                  <ce:given-name>X.Z.</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+               </ce:author>
+               <ce:author id="au025">
+                  <ce:given-name>Y.Q.</ce:given-name>
+                  <ce:surname>Su</ce:surname>
+                  <ce:cross-ref refid="cor1" id="c0015">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au030">
+                  <ce:given-name>J.J.</ce:given-name>
+                  <ce:surname>Guo</ce:surname>
+               </ce:author>
+               <ce:author id="au035">
+                  <ce:given-name>H.Z.</ce:given-name>
+                  <ce:surname>Fu</ce:surname>
+               </ce:author>
+               <ce:affiliation id="af005">
+                  <ce:textfn>National Key Laboratory for Precision Hot Processing of Metals, School of Materials Science and Engineering, Harbin Institute of Technology, Harbin 150001, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>National Key Laboratory for Precision Hot Processing of Metals</sa:organization>
+                     <sa:organization>School of Materials Science and Engineering</sa:organization>
+                     <sa:organization>Harbin Institute of Technology</sa:organization>
+                     <sa:city>Harbin</sa:city>
+                     <sa:postal-code>150001</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="18" month="1" year="2015"/>
+            <ce:date-revised day="7" month="4" year="2015"/>
+            <ce:date-accepted day="6" month="5" year="2015"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">
+                     <ce:display>
+                        <ce:figure id="f0050">
+                           <ce:link locator="fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract class="author" xml:lang="en" id="ab015" view="all"><ce:abstract-sec id="as015" view="all">
+                  <ce:simple-para id="sp0015" view="all">The present paper reports the microstructure, phase stability and mechanical properties of a new refractory MoNbHfZrTi high-entropy alloy. MoNbHfZrTi alloy consists of a disordered body-centered cubic (BCC) solid solution phase in as-cast and homogenized states. Homogenization treatment and DSC analysis indicate that there is no any phase transition below 1743<ce:hsp sp="0.25"/>K. At room temperature, the compressive yield strength for the alloy in as-cast and as-homogenized states reaches about 1719<ce:hsp sp="0.25"/>MPa and 1575<ce:hsp sp="0.25"/>MPa, respectively and the fracture mechanism is brittle quasi-cleavage fracture. At elevated temperatures, this alloy has compression yield strength of 825<ce:hsp sp="0.25"/>MPa at 1073<ce:hsp sp="0.25"/>K, 728<ce:hsp sp="0.25"/>MPa at 1173<ce:hsp sp="0.25"/>K, 635<ce:hsp sp="0.25"/>MPa at 1273<ce:hsp sp="0.25"/>K, 397<ce:hsp sp="0.25"/>MPa at 1373<ce:hsp sp="0.25"/>K and 187<ce:hsp sp="0.25"/>MPa at 1473<ce:hsp sp="0.25"/>K and some fine grains form at grain boundaries due to partial dynamic recrystallization.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st020">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Refractory high-entropy alloy</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Crystal structure</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Microstructure</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Mechanical properties</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st025">Introduction</ce:section-title>
+                  <ce:para id="p0030" view="all">The demand for materials suitable for elevated temperature applications in the aircraft and aerospace industry beyond the realm of Ni-based superalloys has generated significant research interest in refractory metals and alloys <ce:cross-ref refid="b0005" id="c0020">[1]</ce:cross-ref>. Refractory metals and alloys have the characteristics of high melting point, high elevated-temperature strength, high creep resistance, good corrosion resistance, the plastic processing property and high application temperature up to 1373–3593<ce:hsp sp="0.25"/>K, that is much higher than that of most superalloys <ce:cross-ref refid="b0010" id="c0025">[2]</ce:cross-ref>. Most of the conventional refractory metals or alloys are based on one principal element and a small amount of other elements are added to improve the properties. In the past several years, new alloy systems named high-entropy alloys have been proposed and attracted much attention <ce:cross-refs refid="b0015 b0020 b0025" id="r0005">[3–5]</ce:cross-refs>. High-entropy alloys can possess simple phases and excellent properties such as high hardness, superior resistance to temper softening, good wear resistance, resistance to oxidation and corrosion due to the four characteristics of high mixing entropy, severe lattice distortion, sluggish diffusion and cocktail effects <ce:cross-refs refid="b0030 b0035 b0040" id="r0010">[6–8]</ce:cross-refs>. Since the introduction of the high-entropy alloys, the most commonly used elements are Al, Fe, Cu, Co, Ni, Cr, Ti, V and Mn <ce:cross-refs refid="b0045 b0050 b0055 b0060" id="r0015">[9–12]</ce:cross-refs>. Since 2010, refractory high-entropy alloys on refractory elements have been proposed to explore new alloys for elevated-temperature applications <ce:cross-ref refid="b0065" id="c0030">[13]</ce:cross-ref>. For example, Senkov et al. prepared near equiatomic-concentration WTaNbMo and WTaNbMoV alloys with single disordered BCC solid solution phase exhibited clearly superior mechanical properties such as high yield strength of 405<ce:hsp sp="0.25"/>MPa and 477<ce:hsp sp="0.25"/>MPa at 1600<ce:hsp sp="0.25"/>°C, compared with conventional superalloys <ce:cross-refs refid="b0065 b0070" id="r0020">[13,14]</ce:cross-refs>. Furthermore, TaNbHfZrTi alloy was prepared by substituting W and Mo for Ti and Zr for reducing the density. TaNbHfZrTi alloy exhibited significant increase of the compression strain (up to 40% compression strain at room temperature) <ce:cross-ref refid="b0075" id="c0035">[15]</ce:cross-ref>. Since then, more researchers began to explore and investigate other refractory high-entropy alloys <ce:cross-refs refid="b0080 b0085 b0090 b0095" id="r0025">[16–19]</ce:cross-refs>. A series of refractory high-entropy alloys were reported such as NbTiVTaAl<ce:inf loc="post">x</ce:inf>, Cr–Nb–Ti–V–Zr, NbCrMoTiAl<ce:inf loc="post">0.5</ce:inf>, NbCrMoVAl<ce:inf loc="post">0.5</ce:inf>, NbCrMoTiVAl<ce:inf loc="post">0.5</ce:inf> and NbCrMoTiVAl<ce:inf loc="post">0.5</ce:inf>Si<ce:inf loc="post">0.3</ce:inf> 
+                     <ce:cross-refs refid="b0085 b0090 b0095 b0100 b0105 b0110 b0115 b0120 b0125" id="r0030">[17–25]</ce:cross-refs>. Most reported refractory high-entropy alloys are mainly composed of simple BCC solid solution phase. Much research indicates the design concept of refractory high-entropy alloys provides an effective method for developing the new elevated temperature alloys.</ce:para>
+                  <ce:para id="p0035" view="all">Among the reported refractory high-entropy alloy, TaNbHfZrTi alloy has a single BCC phase. The density of Ta element is 16.65<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup> and the density of Mo element is 10.28<ce:hsp sp="0.25"/>g/cm<ce:sup loc="post">3</ce:sup>. By replacing Ta in TaNbHfZrTi alloy with Mo, the density and cost of the new alloy MoNbHfZrTi are reduced. The phase, microstructure and mechanical properties at room temperature and elevated temperatures of MoNbHfZrTi alloy are investigated and discussed. This new alloy also forms a single BCC phase and shows improved compressive strength relative to TaNbHfZrTi alloy.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st030">Experimental procedures</ce:section-title>
+                  <ce:para id="p0040" view="all">Alloy ingots of MoNbHfZrTi with equiatomic concentration were prepared by arc melting in a water-cooled copper crucible in high-purity argon atmosphere. All elements have the purity higher than 99.6% weight percent. All ingots were melted for five times to improve homogeneity. The ingots are about 35<ce:hsp sp="0.25"/>mm of diameter and 15<ce:hsp sp="0.25"/>mm of height. All samples tested and analyzed are cut from the middle part of the ingots. The as-cast samples were sealed in a vacuum quartz tube and were homogenized at 1373<ce:hsp sp="0.25"/>K for 10<ce:hsp sp="0.25"/>h, subsequently furnace-cooled to room temperature. The crystal structure was investigated using a D/max-rB X-ray diffractometer with Cu Kα diffraction generated at 45<ce:hsp sp="0.25"/>kV and 40<ce:hsp sp="0.25"/>mA with the scanning angles ranging from 20° to 100° at a scanning rate of 5°/min. The experimental compositions were analyzed on the non-etched surface by the scanning electron microscope (SEM) energy dispersive spectroscopy (EDS). To observe the microstructure, the sample was etched using the hydrofluoric acid, nitric acid and distilled water (HF:HNO<ce:inf loc="post">3</ce:inf>:H<ce:inf loc="post">2</ce:inf>O<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>1:1:8). After etching, the microstructure and chemical compositions were analyzed by SEM and EDS. The room temperature compressive properties were evaluated using an Instron 5569 testing machine in air. The elevated temperature compressive properties were evaluated using the dynamic thermal simulation testing machine (Gleeble-1500D) and the furnace chamber was evacuated to 10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>torr before each test. The strain rate is 1<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−3</ce:sup>
+                     <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>. The test specimens are in the shape of a cylinder (<ce:italic>φ</ce:italic>4<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>6<ce:hsp sp="0.25"/>mm). The microstructure and fracture surface were investigated by the scanning electron micrograph (SEM) and the electron back-scatter diffraction (EBSD). The thermal analysis was carried out to verify the stability of the phase. The thermal analysis was carried out in SETSYS EVOLUTION 16/18 differential scanning calorimeter (DSC) at a heating rate of 10<ce:hsp sp="0.25"/>K/min under flowing high purity argon atmosphere.</ce:para>
+               </ce:section>
+               <ce:section id="s0015" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st035">Results</ce:section-title>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st040">Crystal structure</ce:section-title>
+                     <ce:para id="p0045" view="all">X-ray diffraction patterns of as-cast and as-homogenized states for MoNbHfZrTi alloy are shown in <ce:cross-ref refid="f0005" id="c0040">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>. Only one BCC phase with the lattice parameter of 338.1<ce:hsp sp="0.25"/>pm is identified for MoNbHfZrTi alloy in the as-cast state. After homogenization at 1373<ce:hsp sp="0.25"/>K for 10<ce:hsp sp="0.25"/>h, MoNbHfZrTi alloy is still composed of the single BCC phase with the lattice parameter of 337.1<ce:hsp sp="0.25"/>pm. In both as-cast and as-homogenized states, no superlattice diffraction peaks as an evidence of crystal ordering or other peaks are observed. According to the JCPDS cards (65-7192), the multiple peaks match well with the BCC ZrTiNb with the lattice parameter of 336.0<ce:hsp sp="0.25"/>pm. So the crystal structure of as-cast MoNbHfZrTi alloy is the same as that of the BCC ZrTiNb phase.</ce:para>
+                     <ce:para id="p0050" view="all">To further confirm the phase structural stability of the disordered BCC phase in the MoNbHfZrTi alloy, DSC analysis is carried out as shown in <ce:cross-ref refid="f0010" id="c0045">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>. There are no any endothermic peaks or exothermic peaks on the heating curve or the cooling curve, which indicates that there is no any phase transition from 296<ce:hsp sp="0.25"/>K to 1743<ce:hsp sp="0.25"/>K.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st045">Microstructure and chemical compositions</ce:section-title>
+                     <ce:para id="p0055" view="all">The microstructure of MoNbHfZrTi alloy in the as-cast and as-homogenized states is shown in <ce:cross-ref refid="f0015" id="c0050">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>. Before etching, MoNbHfZrTi alloy in the as-cast state presents no obvious feature from the SEM back-scattered images as shown in <ce:cross-ref refid="f0015" id="c0055">Fig. 3</ce:cross-ref>(a). The EDS analysis shows that the overall experimental compositions are very similar to the nominal compositions as shown in <ce:cross-ref refid="t0005" id="c0060">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>. And the chemical distribution is very homogeneous which can be verified from the EDS maps as shown in <ce:cross-ref refid="f0020" id="c0065">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>. After etching, the typical dendrite and interdendrite structure is observed. The interdendrites are corroded and some fine white particles are observed in the interdendrites. The white particles have the average size of 0.5–1<ce:hsp sp="0.25"/>μm. After etching, the dendrites are enriched with Hf and the compositions of the white particles in the interdendrites are very close to that of the dendrites. The compositions of the interdendrites can be deduced from the overall composition and compositions of the dendrites and white particles. The interdendrites are enriched with Ti. After homogenization at 1373<ce:hsp sp="0.25"/>K for 10<ce:hsp sp="0.25"/>h, the MoNbHfZrTi alloy also presents no any obvious feature before etching as shown in <ce:cross-ref refid="f0015" id="c0070">Fig. 3</ce:cross-ref>(c). After etching, the MoNbHfZrTi alloy shows the polycrystalline structure.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st050">Compressive properties</ce:section-title>
+                     <ce:para id="p0060" view="all">The compressive curves of the MoNbHfZrTi alloy at different temperatures are shown in <ce:cross-ref refid="f0025" id="c0075">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/>. The compressive properties such as maximum strength, <ce:italic>σ<ce:inf loc="post">p</ce:inf>
+                        </ce:italic>, yield strength, <ce:italic>σ</ce:italic>
+                        <ce:inf loc="post">0.2</ce:inf>, and fracture strain, <ce:italic>δ</ce:italic>, are given in <ce:cross-ref refid="t0010" id="c0080">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="t0010"/>. The yield strength of MoNbHfZrTi alloy in as-cast state is 1719<ce:hsp sp="0.25"/>MPa at room temperature while homogenization treatment leads to the decrease of the strength to 1575<ce:hsp sp="0.25"/>MPa. At elevated temperatures, the alloy reaches the maximum strength at the initial stage of deformation, and strain softening occurs in the next deformation.</ce:para>
+                     <ce:para id="p0065" view="all">
+                        <ce:cross-ref refid="f0030" id="c0085">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="f0030"/> shows the microstructure of the MoNbHfZrTi alloy after compressive deformation at different temperatures. At room temperature, the fracture surface exhibits apparently cleavage steps, river patterns and tongue patterns. After compression at 1073<ce:hsp sp="0.25"/>K, MoNbHfZrTi alloy exhibits the polycrystalline structure. And the grains are elongated in the directions of plastic flow, which are inclined by 90° to the compression direction as shown in <ce:cross-ref refid="f0030" id="c0090">Fig. 6</ce:cross-ref>(c). After compression at 1173<ce:hsp sp="0.25"/>K, the alloy also exhibits the polycrystalline structure and some dark fine particles or grains form at grain boundaries as shown in <ce:cross-ref refid="f0030" id="c0095">Fig. 6</ce:cross-ref>(d). With the increase of the compressive temperature, the polycrystalline grains become more elongated and grow larger. <ce:cross-ref refid="f0035" id="c0100">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="f0035"/> shows the XRD pattern of this alloy after deformation at 1273<ce:hsp sp="0.25"/>K. MoNbHfZrTi alloy still remains the single BCC phase with the lattice parameter of 337.5<ce:hsp sp="0.25"/>pm. It can be deduced that the dark fine particles or grains at grain boundaries are not new phase and they may be fine dynamic recrystallized grains.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st055">Discussion</ce:section-title>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title id="st060">Phase formation</ce:section-title>
+                     <ce:para id="p0070" view="all">The strictly definition of high-entropy alloys is those alloys with a disordered solid solution phase containing multiprincipal elements in an equiatomic or a near-equiatomic concentration, whose configurational entropy is tremendously high <ce:cross-ref refid="b0030" id="c0105">[6]</ce:cross-ref>. MoNbHfZrTi alloy with the single BCC disordered solid solution phase meets well with the definition of the high-entropy alloy. Thus this alloy is one of high-entropy alloys deserved to study. While according to the much research on the high-entropy alloys, the high configurational entropy is not the only factor for the formation of the solid solution phases <ce:cross-refs refid="b0130 b0135" id="r0035">[26,27]</ce:cross-refs>. Both the physical and chemical characteristics of the components and their interactions such as the mixing enthalpy are also the dominant factors for the formation phases. For MoNbHfZrTi alloy, all five elements in this alloy have a BCC crystal structure and mutual solubility except Mo–Hf and Mo–Zr binary systems at elevated temperatures. The binary atomic radius difference of these 5 elements is less than 15% and they have similar valence and electronegativity except for Mo. (The characteristics of five components are listed in <ce:cross-ref refid="t0015" id="c0110">Tables 3</ce:cross-ref>
+                        <ce:float-anchor refid="t0015"/>
+                        <ce:hsp sp="0.25"/>and <ce:cross-ref refid="t0020" id="c0115">4</ce:cross-ref>
+                        <ce:float-anchor refid="t0020"/>.) According to the Hume-Rothery rules, the MoNbHfZrTi alloy does not completely meet the constraints of forming a disordered solid solution phase. And it has also been found that the constraints set by Hume-Rothery rules seem to be probably relaxed for some high-entropy alloys. Therefore, researchers have proposed some other parameters to predict the phase formation.</ce:para>
+                     <ce:para id="p0075" view="all">Zhang et al. have defined two parameters, <ce:italic>δ<ce:inf loc="post">r</ce:inf>
+                        </ce:italic> and <ce:italic>Ω</ce:italic>, which are the atomic size difference and the combined effects of the mixing entropy (Δ<ce:italic>S</ce:italic>
+                        <ce:inf loc="post">mix</ce:inf>), mixing enthalpy (Δ<ce:italic>H</ce:italic>
+                        <ce:inf loc="post">mix</ce:inf>) and melting temperature (<ce:italic>T<ce:inf loc="post">m</ce:inf>
+                        </ce:italic>), to predict the phase formation for multiprincipal-component alloys <ce:cross-refs refid="b0130 b0140 b0145" id="r0040">[26,28,29]</ce:cross-refs>. <ce:italic>Ω</ce:italic>
+                        <ce:hsp sp="0.25"/>⩾<ce:hsp sp="0.25"/>1.1 and <ce:italic>δ<ce:inf loc="post">r</ce:inf>
+                        </ce:italic>
+                        <ce:hsp sp="0.25"/>⩽<ce:hsp sp="0.25"/>6.6% are required to form solid-solution phases. For MoNbHfZrTi alloy, the values of <ce:italic>δ<ce:inf loc="post">r</ce:inf>
+                        </ce:italic> and <ce:italic>Ω</ce:italic> are 5.95% and 20.27%, respectively, which meets the criterion of the formation of the solid solution phase. The electronegativity difference, <ce:italic>δ<ce:inf loc="post">χ</ce:inf>
+                        </ce:italic>, has also been proposed to predict the formation of the phase for multi-principle component alloys. Although there is no specific range for the formation of the solid solution phase, a lower value of <ce:italic>δ<ce:inf loc="post">χ</ce:inf>
+                        </ce:italic> is favorable for the formation of the solid solution phase <ce:cross-ref refid="b0150" id="c0120">[30]</ce:cross-ref>. The <ce:italic>δ<ce:inf loc="post">χ</ce:inf>
+                        </ce:italic> for MoNbHfZrTi alloy is 19.96%. Compared with the values of the <ce:italic>δ<ce:inf loc="post">χ</ce:inf>
+                        </ce:italic> for other high-entropy alloys, the value of <ce:italic>δ<ce:inf loc="post">χ</ce:inf>
+                        </ce:italic> for MoNbHfZrTi alloy is not very low. The <ce:italic>δ<ce:inf loc="post">χ</ce:inf>
+                        </ce:italic> is not an effective parameter for predicting the formation of the solid solution phase. Guo et al. have proposed valence electron concentration (<ce:italic>VEC</ce:italic>) to determine the phase stability for FCC or BCC solid solutions. FCC solid solution phases will be more stable at higher <ce:italic>VEC</ce:italic> (⩾8), a low <ce:italic>VEC</ce:italic> (&lt;6.87) will stabilize the BCC solid solution phases <ce:cross-ref refid="b0155" id="c0125">[31]</ce:cross-ref>. The value of <ce:italic>VEC</ce:italic> for MoNbHfZrTi alloy is 4.6, which is lower than the boundary value. The parameters of MoNbHfZrTi alloy basically meet the existing criteria. In the next study, these existing can be used for optimizing MoNbHfZrTi alloy.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title id="st065">Phase stability</ce:section-title>
+                     <ce:para id="p0080" view="all">MoNbHfZrTi alloy is composed of a single BCC phase in as-cast and as-homogenized states and the DSC result also verifies that there is mo any phase transition below 1743<ce:hsp sp="0.25"/>K. It can be concluded that the single BCC phase has high structural stability. The decrease of the lattice parameter may be attributed to the following reason: As-cast alloy solidified in the water-cooled copper crucible in which the cooling rate is high. After solidification, the internal stresses generate in as-cast alloy, leading to the increase of the lattice distortion. Homogenization treatment may release the internal stress partly and decreases the lattice distortion.</ce:para>
+                     <ce:para id="p0085" view="all">Using the rule of mixtures, a theoretical lattice parameter (<ce:italic>a<ce:inf loc="post">mix</ce:inf>
+                        </ce:italic>), of an alloy with the disordered BCC phase can be estimated:<ce:display>
+                           <ce:formula id="e0005">
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>a</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi mathvariant="italic">mix</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mstyle displaystyle="true">
+                                    <mml:munderover>
+                                       <mml:mrow>
+                                          <mml:mo>∑</mml:mo>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>i</mml:mi>
+                                          <mml:mo>=</mml:mo>
+                                          <mml:mn>1</mml:mn>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mi>n</mml:mi>
+                                       </mml:mrow>
+                                    </mml:munderover>
+                                 </mml:mstyle>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>c</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>i</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>a</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>i</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>a<ce:inf loc="post">i</ce:inf>
+                        </ce:italic> is the lattice constant of element <ce:italic>i</ce:italic>. Three elements, Ti, Zr, and Hf have a hexagonal close packed (HCP) at room temperature. Their BCC lattice parameters listed in <ce:cross-ref refid="t0015" id="c0130">Table 3</ce:cross-ref> at room temperature can be calculated according to their BCC lattice parameters at elevated temperature and their thermal expansion coefficients <ce:cross-ref refid="b0075" id="c0135">[15]</ce:cross-ref>. The value of the theoretical lattice parameter for this alloy is 337.3<ce:hsp sp="0.25"/>pm. The experimental lattice parameters, especially for the alloy in as-homogenized state, are closed to the theoretical lattice, which indicates this alloy follows the rule of mixtures. This analysis may indicate that the BCC phase is a fully disordered solid solution phase.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>4.3</ce:label>
+                     <ce:section-title id="st070">Compressive properties</ce:section-title>
+                     <ce:para id="p0090" view="all">The compressive yield strength is high for MoNbHfZrTi alloy in as-cast state at room temperature and elevated temperatures. For the high entropy alloy with single solid solution phase, the high strength is mainly owing to the solution strengthening. Five elements have equiatomic concentration and each atom can be viewed as the solute atoms or solvent atoms. All atoms with different sizes and properties will interact with each other and elastically distort the crystal lattice, which induces the formation of a local elastic stress field, to hinder dislocation movements and cause the increase of strength. After homogenization, this alloy still remains the same BCC phase while the compressive yield strength decreases slightly. Homogenization treatment releases the internal stress generated from the high cooling rate and decreases the lattice distortion, that leading to the decrease of strength. And the solution strengthening is not the only strengthening mechanism. After homogenization treatment, the microstructure of MoNbHfZrTi alloy becomes coarse as shown in <ce:cross-ref refid="f0015" id="c0140">Fig. 3</ce:cross-ref>(b) and (d). The fine–grain strengthening is also one contributor of the higher strength. From the fracture morphology as shown in <ce:cross-ref refid="f0030" id="c0145">Fig. 6</ce:cross-ref>(a) and (b), brittle quasi-cleavage fracture is evident.</ce:para>
+                     <ce:para id="p0095" view="all">
+                        <ce:cross-ref refid="f0040" id="c0150">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="f0040"/> shows the EBSD map of MoNbHfZrTi alloy after deformation at 1073<ce:hsp sp="0.25"/>K and 1473<ce:hsp sp="0.25"/>K. After deformation at 1073<ce:hsp sp="0.25"/>K, some fine dynamic recrystallized grains are observed. The result confirms the previous conclusion that the dark particles or grains are dynamic recrystallized grains. After deformation at 1473<ce:hsp sp="0.25"/>K, polycrystalline structure become coarser and more dynamic recrystallized grains form. These dynamic recrystallized grains are mainly responsible for the decrease of strength. The volume fraction of the dynamic recrystallized grains increases from 10.2% at 1073<ce:hsp sp="0.25"/>K to 27.5% at 1473<ce:hsp sp="0.25"/>K. And the EBSD data is used to determine the average misorientation distribution as shown in <ce:cross-ref refid="f0045" id="c0155">Fig. 9</ce:cross-ref>
+                        <ce:float-anchor refid="f0045"/>. There are a high fraction in the low-angle boundary regime (&lt;5°).</ce:para>
+                     <ce:para id="p0100" view="all">Compared with the reported TaNbHfZrTi alloy <ce:cross-ref refid="b0160" id="c0160">[32]</ce:cross-ref>, the alloy remains a single BCC phase after replacement Ta with Mo while the strength increases whether at room temperature or at elevated temperatures though the plasticity decreases at room temperature. It may be attributed to the following reasons: (1) the binary atomic radius difference of Mo with Nb, Ti, Zr, Hf elements is larger than that Ta with these four elements. Mo element will cause more serious lattice distortion and presents more prominent solution strengthening effect. (2) The mixing enthalpy of Mo with Nb, Ti, Zr, Hf elements is more negative than that of Ta with other four elements. That means the binding energy of Mo with Nb, Ti, Zr, Hf elements is higher.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0055" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="st075">Conclusions</ce:section-title>
+                  <ce:para id="p0105" view="all">In this paper, a new refractory high-entropy alloy, MoNbHfZrTi, was explored and prepared. The microstructure, phase stability and mechanical properties were studied. Based on the obtained results and analysis, four conclusions can be drawn as follows.<ce:list id="l0010">
+                        <ce:list-item id="o0030">
+                           <ce:label>(1)</ce:label>
+                           <ce:para id="p0110" view="all">MoNbHfZrTi alloy is composed of a single disordered BCC phase in as-cast and as-homogenized states. The observed phase in this alloy can be predicted using the existing criteria.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0035">
+                           <ce:label>(2)</ce:label>
+                           <ce:para id="p0115" view="all">The homogenization and DSC analysis confirm that there is no any phase transition below 1743<ce:hsp sp="0.25"/>K for MoNbHfZrTi alloy with the single BCC phase. The structural stability makes this alloy be a promising candidate for elevated-temperature applications.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0040">
+                           <ce:label>(3)</ce:label>
+                           <ce:para id="p0120" view="all">At room temperature, the alloy has high compressive yield strength of 1719<ce:hsp sp="0.25"/>Mpa and 1575<ce:hsp sp="0.25"/>Mpa in as-cast and as-homogenized states. The fracture mechanism is quasi-cleavage fracture from the features of cleavage steps, river patterns and tongue patterns.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item id="o0045">
+                           <ce:label>(4)</ce:label>
+                           <ce:para id="p0125" view="all">At elevated temperatures, this alloy still has high compressive yield strength (825<ce:hsp sp="0.25"/>MPa at 1073<ce:hsp sp="0.25"/>K, 728<ce:hsp sp="0.25"/>MPa at 1173<ce:hsp sp="0.25"/>K, 635<ce:hsp sp="0.25"/>MPa at 1273<ce:hsp sp="0.25"/>K, 397<ce:hsp sp="0.25"/>MPa at 1373<ce:hsp sp="0.25"/>K and 187<ce:hsp sp="0.25"/>MPa at 1473<ce:hsp sp="0.25"/>K) and shows a drop of flow stress after yielding. Some fine dynamic recrystallized grains form at the grain boundaries which is responsible for the strain softening.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st080">Acknowledgements</ce:section-title>
+               <ce:para id="p0130" view="all">We acknowledge financial support of 973 project (2011CB610406) and <ce:grant-sponsor xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Natural Science Foundation of China</ce:grant-sponsor> (51425402).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st085">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.K.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Bai</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Tensile properties of multiphase Mo–Si–B refractory alloys at elevated temperatures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng., A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>532</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>392</sb:first-page>
+                              <sb:last-page>395</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="h0010">
+                        <ce:textref>M. Peters, C. Leyens, Materials Science and Engineering – vol. III, Aerospace and Space, Materials.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Cantor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.T.H.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Knight</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.B.</ce:given-name>
+                                 <ce:surname>Vincent</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructural development in equiatomic multicomponent alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A – Struct. Mater. Prop. Microstruct. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>375</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>213</sb:first-page>
+                              <sb:last-page>218</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Wong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nanostructured nitride films of multi-element high-entropy alloys by reactive DC sputtering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Surf. Coat Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>188</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>193</sb:first-page>
+                              <sb:last-page>200</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Gan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.S.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Formation of simple crystal structures in Cu–Co–Ni–Cr–Al–Fe–Ti–V alloys with multiprincipal metallic elements</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Metall. Mater. Trans. A – Phys. Metall. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35A</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2533</sb:first-page>
+                              <sb:last-page>2536</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Zuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.A.</ce:given-name>
+                                 <ce:surname>Dahmen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructures and properties of high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>93</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Progress in high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JOM</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1749</sb:first-page>
+                              <sb:last-page>1750</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alloy design strategies and future trends in high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JOM</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1759</sb:first-page>
+                              <sb:last-page>1771</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Dong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.X.</ce:given-name>
+                                 <ce:surname>Gao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of vanadium addition on the microstructure and properties of AlCoCrFeNi high entropy alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Des.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>67</sb:first-page>
+                              <sb:last-page>72</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and tensile properties of FeMnNiCuCoSnx high entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Des.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>223</sb:first-page>
+                              <sb:last-page>227</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.G.</ce:given-name>
+                                 <ce:surname>Nieh</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of Al addition on structural evolution and tensile properties of the FeCoNiCrMn high-entropy alloy system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>105</sb:first-page>
+                              <sb:last-page>113</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Tung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.T.</ce:given-name>
+                                 <ce:surname>Shun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.S.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the elemental effect of AlCoCrCuFeNi high-entropy alloy system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>5</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Wilks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Miracle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.P.</ce:given-name>
+                                 <ce:surname>Chuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Refractory high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1758</sb:first-page>
+                              <sb:last-page>1765</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.B.</ce:given-name>
+                                 <ce:surname>Wilks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Miracle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical properties of Nb<ce:inf loc="post">25</ce:inf>Mo<ce:inf loc="post">25</ce:inf>Ta<ce:inf loc="post">25</ce:inf>W<ce:inf loc="post">25</ce:inf> and V<ce:inf loc="post">20</ce:inf>Nb<ce:inf loc="post">20</ce:inf>Mo<ce:inf loc="post">20</ce:inf>Ta<ce:inf loc="post">20</ce:inf>W<ce:inf loc="post">20</ce:inf> refractory high entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Intermetallics</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>698</sb:first-page>
+                              <sb:last-page>706</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Senkova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Miracle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Woodward</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and room temperature properties of a high-entropy TaNbHfZrTi alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Alloy Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>509</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6043</sb:first-page>
+                              <sb:last-page>6048</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Maiti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Steurer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Spolenak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Size-dependent plasticity in an Nb<ce:inf loc="post">25</ce:inf>Mo<ce:inf loc="post">25</ce:inf>Ta<ce:inf loc="post">25</ce:inf>W<ce:inf loc="post">25</ce:inf> refractory high-entropy alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                              <sb:last-page>97</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Woodward</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and properties of a refractory NbCrMo<ce:inf loc="post">0.5</ce:inf>Ta<ce:inf loc="post">0.5</ce:inf>TiZr alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mater. Sci. Eng. A – Struct. Mater. Prop. Microstruct. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>529</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>311</sb:first-page>
+                              <sb:last-page>320</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.Y.</ce:given-name>
+                                 <ce:surname>Tian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Varga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Vitos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ab initio design of elastically isotropic TiZrNbMoVx high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>599</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19</sb:first-page>
+                              <sb:last-page>25</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Poletti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Fiore</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Szost</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Battezzati</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Search for high entropy alloys in the X-NbTaTiZr systems (X<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Al, Cr, V, Sn)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>620</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>283</sb:first-page>
+                              <sb:last-page>288</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and compressive properties of NbTiVTaAlx high entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>C.M.</ce:given-name>
+                                    <ce:surname>Wang</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>C.J.</ce:given-name>
+                                    <ce:surname>Peng</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Procedia Engineer</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Elsevier Science Bv</sb:name>
+                                 <sb:location>Amsterdam</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>292</sb:first-page>
+                              <sb:last-page>298</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Senkova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Woodward</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Miracle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low-density, refractory multi-principal element alloys of the Cr–Nb–Ti–V–Zr system: microstructure and phase analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Acta Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1545</sb:first-page>
+                              <sb:last-page>1557</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Miller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phase composition of a CrMo<ce:inf loc="post">0.5</ce:inf>NbTa<ce:inf loc="post">0.5</ce:inf>TiZr high entropy alloy: comparison of experimental and simulated data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Entropy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3796</sb:first-page>
+                              <sb:last-page>3809</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Senkova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Dimiduk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Woodward</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Miracle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oxidation behavior of a refractory NbCrMo<ce:inf loc="post">0.5</ce:inf>Ta<ce:inf loc="post">0.5</ce:inf>TiZr alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6522</sb:first-page>
+                              <sb:last-page>6534</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.-M.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-C.</ce:given-name>
+                                 <ce:surname>Juan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-H.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-W.</ce:given-name>
+                                 <ce:surname>Tsai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Yeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of Al addition on mechanical properties and microstructure of refractory AlxHfNbTaTiZr alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>624</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>100</sb:first-page>
+                              <sb:last-page>107</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Gorr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Azim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Christ</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Mueller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Schliephake</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Heilmaier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phase equilibria, microstructure, and high temperature oxidation resistance of novel refractory high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>624</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>270</sb:first-page>
+                              <sb:last-page>278</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.L.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solid-solution phase formation rules for multi-component alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>534</sb:first-page>
+                              <sb:last-page>538</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.P.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Z.</ce:given-name>
+                                 <ce:surname>Fu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solid solution or intermetallics in a high-entropy alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Eng. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>641</sb:first-page>
+                              <sb:last-page>644</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alloy design and properties optimization of high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>JOM</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>830</sb:first-page>
+                              <sb:last-page>838</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.P.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Liaw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Q.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Guidelines in predicting phase formation of high-entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>MRS Commun.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>57</sb:first-page>
+                              <sb:last-page>62</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="h0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Subramaniam</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On the formation of disordered solid solutions in multi-component alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Alloy Compd.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>587</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>113</sb:first-page>
+                              <sb:last-page>119</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="h0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Ng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of valence electron concentration on stability of fcc or bcc phase in high entropy alloys</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Phys.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Senkov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Scott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Senkova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Meisenkothen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Miracle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Woodward</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microstructure and elevated temperature properties of a refractory TaNbHfZrTi alloy</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Mater. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4062</sb:first-page>
+                              <sb:last-page>4074</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

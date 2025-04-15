@@ -1,0 +1,82 @@
+
+Table Table 1:
+Input Table:
+Milling time (h),Crystalline size (nm),Unnamed: 2,Lattice strain (%),Unnamed: 4
+Milling time (h),BCC,FCC,BCC,FCC
+30,16,18,0.51,0.42
+45,11,16,0.86,0.97
+49,10,9,0.98,1.32
+
+Retrieved Properties: Lattice Friction, Grain Size, Crystallinity, Lattice Strain, Cohesive Energy, Crystallite Size
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+BCC,-,Milling time(in h): 30,Lattice Strain,0.51,%
+BCC,-,Milling time(in h): 45,Lattice Strain,0.86,%
+BCC,-,Milling time(in h): 49,Lattice Strain,0.98,%
+FCC,-,Milling time(in h): 30,Lattice Strain,0.42,%
+FCC,-,Milling time(in h): 45,Lattice Strain,0.97,%
+FCC,-,Milling time(in h): 49,Lattice Strain,1.32,%
+
+Table Table 2:
+Input Table:
+Regions,Crystal structure,Co,Fe,Ni,Cr,Al,Ti
+"A, D, E, G, H, I, J, K, M, N, O, P, T, W, X, Y, Z",FCC1,21+-1,25.5+-1,18.8+-1,29+-1,3.5+-1,2.2+-1
+"B,C, F, L,U, Q, R, S",FCC2,21+-1,7.1+-1,29.1+-1,6.8+-1,18.5+-1,17.4+-1
+V,BCC,1.1+-1,1.1+-1,0.5+-1,1.4+-1,79.7+-1,16.3+-1
+Nominal composition,-,20,20,20,20,12,8
+
+Retrieved Properties: Fatigue, Crystal Structure, Crystallinity, Compression, Composition, Friction, Hardness, Magnetism, Entropy, Creep
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+A, D, E, G, H, I, J, K, M, N, O, P, T, W, X, Y, Z,-,Crystal Structure,FCC1,-
+B,C, F, L,U, Q, R, S,-,Crystal Structure,FCC2,-
+V,-,Crystal Structure,BCC,-
+Nominal composition,-,-,Chemical Composition,Co: 20; Fe: 20; Ni: 20; Cr: 20; Al: 12; Ti: 8,at%
+
+Table Table 3:
+Input Table:
+Alloy,Process,s y (GPa),s max (GPa),e p (%),Hardness (Hv),Refs.
+CoFeNiCrAl0.6Ti0.4,SPS,2.08,2.52,11.5,573,This work
+CoFeNiCrAlTi,Copper mold casting,1.86,2.58,8.8,-,[16]
+CoFeNiCrAlTi,Arc-melting,-,2.28,6.4,-,[17]
+CoFeNiCrAlTi,SPS,-,-,-,432,[18]
+
+Retrieved Properties: Ultimate Tensile Strength, Pitting Potential, Elastic Moduli, Yield Strength, SRO, Elasticity, Saturation Magnetization, Yield Stress, Hardness
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoFeNiCrAl0.6Ti0.4,SPS,-,Yield Strength,2.08,GPa
+CoFeNiCrAl0.6Ti0.4,SPS,-,Ultimate Tensile Strength,2.52,GPa
+CoFeNiCrAl0.6Ti0.4,SPS,-,Hardness,573,Hv
+CoFeNiCrAlTi,Copper mold casting,-,Yield Strength,1.86,GPa
+CoFeNiCrAlTi,Copper mold casting,-,Ultimate Tensile Strength,2.58,GPa
+CoFeNiCrAlTi,Arc-melting,-,Ultimate Tensile Strength,2.28,GPa
+CoFeNiCrAlTi,SPS,-,Hardness,432,Hv
+
+Table Table 4:
+Input Table:
+"Element (atomic sizes, A)",Co,Fe,Ni,Cr,Al,Ti
+Co (1.24),-,-1,0,-4,-19,-28
+Fe (1.24),-,-,-2,-1,-11,-17
+Ni (1.25),-,-,-,-7,-22,-35
+Cr (1.25),-,-,-,-,-10,-7
+Al (1.43),-,-,-,-,-,-30
+Ti (1.44),-,-,-,-,-,-
+
+Retrieved Properties: Mixing Enthalpy, Mixing Entropy, H Pick-up
+Final Output:
+Alloy,Processing condition,Testing condition,Property,Value,Unit
+CoFe,-,-,Mixing Enthalpy,-1,kJ/mol
+CoNi,-,-,Mixing Enthalpy,0,kJ/mol
+CoCr,-,-,Mixing Enthalpy,-4,kJ/mol
+CoAl,-,-,Mixing Enthalpy,-19,kJ/mol
+CoTi,-,-,Mixing Enthalpy,-28,kJ/mol
+FeNi,-,-,Mixing Enthalpy,-2,kJ/mol
+FeCr,-,-,Mixing Enthalpy,-1,kJ/mol
+FeAl,-,-,Mixing Enthalpy,-11,kJ/mol
+FeTi,-,-,Mixing Enthalpy,-17,kJ/mol
+NiCr,-,-,Mixing Enthalpy,-7,kJ/mol
+NiAl,-,-,Mixing Enthalpy,-22,kJ/mol
+NiTi,-,-,Mixing Enthalpy,-35,kJ/mol
+CrAl,-,-,Mixing Enthalpy,-10,kJ/mol
+CrTi,-,-,Mixing Enthalpy,-7,kJ/mol
+AlTi,-,-,Mixing Enthalpy,-30,kJ/mol

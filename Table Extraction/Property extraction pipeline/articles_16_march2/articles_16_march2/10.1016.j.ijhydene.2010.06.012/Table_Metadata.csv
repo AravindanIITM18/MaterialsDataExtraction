@@ -1,0 +1,18 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,/home/sai/sai-mani/articles_all/10.1016.j.ijhydene.2010.06.012/tables/Table 1.csv,Table 1,"Lattice parameters (a and c, in A) and volume expansion (e, %) for Ti
+x
+, V
+y
+, and Zr
+z
+ before and after PCI tests.",
+tbl2,/home/sai/sai-mani/articles_all/10.1016.j.ijhydene.2010.06.012/tables/Table 2.csv,Table 2,"DH
+cal (kJ/mol) and (H/atom)max values for Ti
+x
+, V
+y
+, and Zr
+z
+.",
+tbl3,/home/sai/sai-mani/articles_all/10.1016.j.ijhydene.2010.06.012/tables/Table 3.csv,Table 3,"The maximum hydrogen storage capacity per alloy formula weight from experiment (H/M)max, the maximum hydrogen storage per alloy atom from experiment (H/atom)max, the maximum hydrogen storage per alloy atom from calculation (H/atom)cal, and the average formation enthalpy, DH
+cal, for different alloy systems.",{'a': 'This study.'}

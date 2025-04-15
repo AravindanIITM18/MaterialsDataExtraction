@@ -1,0 +1,9 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,/home/sai/sai-mani/articles_all/10.1016.j.msea.2008.12.053/tables/Table 1.csv,Table 1,"Chemical compositions of as-cast CoCrFeNiTiAl
+x
+ high-entropy alloys.",
+tbl2,/home/sai/sai-mani/articles_all/10.1016.j.msea.2008.12.053/tables/Table 2.csv,Table 2,"The chemical mixing enthalpy (DH
+chem) of binary equiatomic alloys calculated by Miedema's approach [16].",
+tbl3,/home/sai/sai-mani/articles_all/10.1016.j.msea.2008.12.053/tables/Table 3.csv,Table 3,"Room-temperature compressive properties of as-cast CoCrFeNiTiAl
+x
+ high-entropy alloys.",

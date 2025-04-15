@@ -1,0 +1,5 @@
+Table ID,Table Path,Table Label,Table Caption,Table Footer
+tbl1,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.05.013\tables\Table 1.csv,Table 1,"Comparison of true yield strength (YS), ultimate tensile strength (UTS), and total elongation obtained at 77 K and 293 K from the present study to selected prior studies.",
+tbl2,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.05.013\tables\Table 2.csv,Table 2,Uniaxial materials properties of FeCoCrNi HEA at 77 and 293 K.,
+tbl3,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.05.013\tables\Table 3.csv,Table 3,Stacking fault energy of FeCoCrNi tHEA at 77 and 293 K.,
+tbl4,C:\Users\D. Sai Mani Kumar\Downloads\XML_Extractor\articles_test\10.1016.j.actamat.2018.05.013\tables\Table 4.csv,Table 4,Critical stress for twinning of FeCoCrNi tHEA at 77 and 293 K.,"{'∗': 's\n\nt\nw\n\n\n=\nM\n\nt\n\nt\nw\n\n\n\n, where M is the Taylor factor (M = 3.06).'}"

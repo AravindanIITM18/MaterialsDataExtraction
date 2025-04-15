@@ -1,0 +1,16 @@
+"Element, at.%","Element, at.%",Co,Cr,Fe,Ni,Mn,V
+CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi,CoCrFeNi
+1,Grains,25.1,24.5,25.4,25.0,-,-
+,,,,,,,
+CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn,CoCrFeNiMn
+1,Grains,19.6,20.5,19.9,20.9,19.1,-
+,,,,,,,
+CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV,CoCrFeNiV
+1,Matrix,19.3,24.1,19.4,15.3,-,21.9
+2,Coarse particles,20.6,14.3,20.8,26.4,-,17.4
+3,Fine particles,21.1,14.7,20.5,26.8,-,17.3
+,,,,,,,
+CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV,CoCrFeNiMnV
+1,Matrix,16.7,20.0,16.6,13.5,14.6,18.6
+2,Coarse particles,16.9,11.4,17.0,24.6,17.8,12.3
+3,Fine particles,17.0,11.7,16.7,24.4,17.8,12.4
